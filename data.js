@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-15 21:31",
+  "update_time": "2025-12-15 21:34",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,34 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "十年再出发,戏曲新蕊向未来——2025年中国小剧场戏曲展演盛大启幕!",
+      "url": "https://baijiahao.baidu.com/s?id=1850019584749369252&wfr=spider&for=pc",
+      "source": "乐游上海",
+      "time": "11月28日",
+      "category": "other"
+    },
+    {
+      "title": "兰大学子在2025“理解当代中国”外语能力大赛甘肃赛区决赛中获...",
+      "url": "https://baijiahao.baidu.com/s?id=1847847974150846675&wfr=spider&for=pc",
+      "source": "兰州大学",
+      "time": "11月5日",
+      "category": "other"
+    },
+    {
+      "title": "中国当代文学研究会公布“2024中国文学年度档案”",
+      "url": "https://baijiahao.baidu.com/s?id=1821748323942392845&wfr=spider&for=pc",
+      "source": "澎湃新闻",
+      "time": "1月20日",
+      "category": "other"
+    },
+    {
+      "title": "程光炜:大时代会诞生最杰出的作家",
+      "url": "https://baijiahao.baidu.com/s?id=1850621273775619119&wfr=spider&for=pc",
+      "source": "金羊网",
+      "time": "12月2日",
+      "category": "other"
     },
     {
       "title": "2025-3《收获》目录及简介 | 5月14日出版",
@@ -83,6 +111,20 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1845943816360001304&wfr=spider&for=pc",
       "source": "中工网",
       "time": "10月14日",
+      "category": "activity"
+    },
+    {
+      "title": "中国作协新时代文学研究中心(浙江大学)揭牌并举行系列研讨会",
+      "url": "https://baijiahao.baidu.com/s?id=1851542053618217548&wfr=spider&for=pc",
+      "source": "钱江晚报",
+      "time": "10小时前",
+      "category": "meeting"
+    },
+    {
+      "title": "程晖长篇小说《进贤仓》研讨会在京召开",
+      "url": "http://qx.tynews.com.cn/system/2025/12/15/030963119.shtml",
+      "source": "太原日报报业集团",
+      "time": "11小时前",
       "category": "activity"
     }
   ]
