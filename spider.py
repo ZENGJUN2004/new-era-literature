@@ -5,105 +5,166 @@ import time
 import random
 import sys
 import io
+import datetime
 
-# 1. 强制设置输出编码，防止云端打印中文/Emoji时崩溃
+# 1. 基础设置
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
-# 2. 搜索关键词池 (可随时添加)
-KEYWORDS = [
-    "中国作协", "鲁迅文学奖", "茅盾文学奖", "新书发布会", 
-    "文学研讨会", "作家专访", "文学评论", "网络文学", 
-    "莫言", "余华", "王安忆", "贾平凹"
-]
-
 def get_header():
-    # 模拟真实浏览器
     return {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-        'Referer': 'https://www.baidu.com/'
+        'Referer': 'https://www.baidu.com/',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
     }
 
+# 2. 智能分类器 (保持不变)
 def auto_classify(title):
-    """智能分类算法"""
     t = title.lower()
-    # 优先级 1: 会议
-    if any(k in t for k in ['研讨', '座谈', '论坛', '峰会', '年会', '会议', '致辞', '开幕']):
+    if any(k in t for k in ['研讨', '座谈', '论坛', '峰会', '年会', '会议', '致辞', '开幕', '讲座']):
         return 'meeting'
-    # 优先级 2: 声音 (观点/访谈)
-    if any(k in t for k in ['专访', '对话', '谈', '说', '论', '序言', '读后感', '批评', '观点']):
+    if any(k in t for k in ['专访', '对话', '谈', '说', '论', '序言', '读后感', '批评', '观点', '综述', '笔谈']):
         return 'voice'
-    # 优先级 3: 活动 (发布/奖项)
-    if any(k in t for k in ['发布', '揭晓', '颁奖', '启动', '征文', '大赛', '讲座', '活动']):
+    if any(k in t for k in ['发布', '揭晓', '颁奖', '启动', '征文', '大赛', '活动', '目录', '征稿']):
         return 'activity'
     return 'other'
 
-def fetch_literary_news():
-    news_pool = []
-    print(">>> 开始抓取文学资讯...")
+# ==========================================
+# 3. 核心升级：四大搜索战区
+# ==========================================
+SEARCH_ZONES = [
+    # 战区A：作协与官方 (盯着中国作家网、各省作协)
+    {
+        "name": "作协动态",
+        "keywords": ["中国作协", "鲁迅文学奖", "茅盾文学奖", "作协 研讨会", "作家协会 公示"],
+        "extra_query": " site:chinawriter.com.cn" # 专门搜中国作家网
+    },
+    # 战区B：期刊与出版 (盯着各大文学期刊、新书)
+    {
+        "name": "期刊出版",
+        "keywords": ["文学期刊 目录", "长篇小说选刊", "收获杂志", "人民文学", "当代作家评论", "新书发布会", "文学征文"],
+        "extra_query": "" 
+    },
+    # 战区C：高校与学术 (盯着 edu.cn 后缀的大学网站)
+    {
+        "name": "高校学术",
+        "keywords": ["中文系 讲座", "文学院 会议", "比较文学 论坛", "数字人文 研讨", "创意写作"],
+        "extra_query": " site:edu.cn" # 必杀技：只搜大学网站
+    },
+    # 战区D：微信与网络 (搜狗微信很难爬，我们用百度搜聚合内容)
+    {
+        "name": "网络热点",
+        "keywords": ["文学评论 微信公众号", "作家专访 深度", "豆瓣读书 高分", "网络文学 排行榜"],
+        "extra_query": ""
+    }
+]
+
+def fetch_zone_news(zone):
+    print(f"\n>>> 正在扫描战区：[{zone['name']}] ...")
+    zone_pool = []
     
-    for kw in KEYWORDS:
-        print(f"Searching: {kw}") 
-        url = f"https://www.baidu.com/s?tn=news&rtt=1&bsst=1&cl=2&wd={kw}"
+    for kw in zone['keywords']:
+        # 组合搜索词：关键词 + 限定网站
+        # 例如："中文系 讲座 site:edu.cn"
+        query = kw + zone['extra_query']
+        print(f"  - 搜索指令: {query}")
+        
+        url = f"https://www.baidu.com/s?tn=news&rtt=1&bsst=1&cl=2&wd={query}"
         
         try:
-            res = requests.get(url, headers=get_header(), timeout=10)
+            res = requests.get(url, headers=get_header(), timeout=12)
             soup = BeautifulSoup(res.text, 'html.parser')
             
-            # 兼容百度不同的结构
             items = soup.find_all('div', class_='result-op')
             if not items: items = soup.find_all('div', class_='result')
             
+            count = 0
             for item in items:
                 try:
                     title_tag = item.find('h3').find('a')
                     title = title_tag.get_text(strip=True)
                     link = title_tag['href']
-                    source = item.find('span', class_='c-color-gray').get_text(strip=True)
-                    pub_time = item.find('span', class_='c-color-gray2').get_text(strip=True)
+                    
+                    # 获取来源
+                    source_node = item.find('span', class_='c-color-gray')
+                    source = source_node.get_text(strip=True) if source_node else zone['name']
+                    
+                    # 获取时间
+                    time_node = item.find('span', class_='c-color-gray2')
+                    pub_time = time_node.get_text(strip=True) if time_node else "近期"
                     
                     category = auto_classify(title)
                     
-                    # 去重
-                    if not any(n['title'] == title for n in news_pool):
-                        news_pool.append({
+                    # 去重逻辑
+                    if not any(n['title'] == title for n in zone_pool):
+                        zone_pool.append({
                             "title": title, "url": link, "source": source, 
                             "time": pub_time, "category": category
                         })
+                        count += 1
                 except:
                     continue
+            # print(f"    找到 {count} 条")
+            time.sleep(1.5) # 稍微慢点，防止百度封锁
+            
         except Exception as e:
-            print(f"Error on {kw}: {e}")
-        
-        time.sleep(1) # 礼貌延时
+            print(f"    搜索报错: {e}")
 
-    # 3. 插入社交媒体置顶入口
-    social_links = [
-        {"title": "👉【微博】中国作家协会 - 官方实时动态", "url": "https://s.weibo.com/weibo?q=中国作协", "source": "微博", "time": "实时", "category": "meeting"},
-        {"title": "👉【抖音】搜索“新书发布会”现场视频", "url": "https://www.douyin.com/search/新书发布会", "source": "抖音", "time": "实时", "category": "activity"},
-        {"title": "👉【小红书】搜索“文学批评”最新笔记", "url": "https://www.xiaohongshu.com/search_result?keyword=文学批评", "source": "小红书", "time": "实时", "category": "voice"},
+    return zone_pool[:15] # 每个战区取前15条
+
+def fetch_all():
+    all_news = []
+    
+    # 1. 循环扫描所有战区
+    for zone in SEARCH_ZONES:
+        news = fetch_zone_news(zone)
+        all_news.extend(news)
+    
+    # 2. 插入“硬链接”：针对很难爬取的平台（知网、微信、社科网）
+    # 直接提供跳转链接，让用户点过去看，这是最稳定的
+    print("\n>>> 生成静态直达入口...")
+    static_links = [
+        {"title": "👉【微信搜狗】点击查看“文学评论”公众号最新文章", "url": "https://weixin.sogou.com/weixin?type=2&query=文学评论", "source": "微信矩阵", "time": "实时", "category": "voice"},
+        {"title": "👉【中国社科网】文学理论前沿资讯", "url": "http://lit.cssn.cn/wx/", "source": "CSSN", "time": "实时", "category": "meeting"},
+        {"title": "👉【知网】“数字人文”最新学术论文(点击按时间排序)", "url": "https://scholar.baidu.com/scholar?q=数字人文&sc_ylo=2024&as_ylo=2025", "source": "百度学术", "time": "实时", "category": "activity"},
     ]
     
-    # 社交在前，新闻在后
-    return social_links + news_pool[:60]
+    # 3. 混合并去重
+    final_list = static_links + all_news
+    
+    # 简单的按标题去重（防止不同关键词搜到同一篇）
+    seen = set()
+    unique_list = []
+    for item in final_list:
+        if item['title'] not in seen:
+            unique_list.append(item)
+            seen.add(item['title'])
+            
+    return unique_list
 
 def save(data):
     try:
-        # 注意：这里生成的变量名是 LIT_DATA
+        # 调整为北京时间
+        utc_now = datetime.datetime.utcnow()
+        cst_now = utc_now + datetime.timedelta(hours=8)
+        time_str = cst_now.strftime('%Y-%m-%d %H:%M')
+        
         final_json = {
-            "update_time": time.strftime("%Y-%m-%d %H:%M", time.localtime()),
+            "update_time": time_str,
             "news": data
         }
+        
+        # 写入文件
         with open("data.js", "w", encoding="utf-8") as f:
             f.write(f"window.LIT_DATA = {json.dumps(final_json, ensure_ascii=False, indent=2)};")
-        print(f"Success! Saved {len(data)} items.")
+            
+        print("-" * 30)
+        print(f"✅ 抓取完成！共收集 {len(data)} 条数据")
+        print(f"时间已校准为: {time_str}")
+        
     except Exception as e:
         print(f"Save Error: {e}")
         sys.exit(1)
 
 if __name__ == "__main__":
-    try:
-        data = fetch_literary_news()
-        save(data)
-    except Exception as e:
-        print(f"Critical Script Error: {e}")
-        # 这里不退出，防止GitHub报红，至少保证流程跑通
+    data = fetch_all()
+    save(data)
