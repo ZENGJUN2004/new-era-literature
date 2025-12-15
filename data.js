@@ -1,25 +1,88 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-15 21:24",
+  "update_time": "2025-12-15 21:31",
   "news": [
     {
-      "title": "👉【微信搜狗】“文学评论”公众号最新文章 (点击直达)",
-      "url": "https://weixin.sogou.com/weixin?type=2&query=文学评论",
-      "source": "微信矩阵",
+      "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
+      "url": "https://weixin.sogou.com/weixin?type=2&query=文学批评",
+      "source": "微信",
       "time": "实时",
       "category": "voice"
     },
     {
-      "title": "👉【知网】“数字人文”最新学术论文 (按时间排序)",
-      "url": "https://scholar.baidu.com/scholar?q=数字人文&sc_ylo=2024&as_ylo=2025&sort=sc_time",
-      "source": "CNKI/学术",
+      "title": "👉【豆瓣读书】本周虚构类热门图书榜",
+      "url": "https://book.douban.com/chart?subcat=F",
+      "source": "豆瓣",
+      "time": "本周",
+      "category": "activity"
+    },
+    {
+      "title": "👉【知网学术】“当代文学”最新核心期刊论文",
+      "url": "https://scholar.baidu.com/scholar?q=当代文学&sc_ylo=2024&sort=sc_time",
+      "source": "CNKI",
       "time": "实时",
       "category": "meeting"
     },
     {
-      "title": "👉【B站】文学讲座最新视频实录",
-      "url": "https://search.bilibili.com/all?keyword=文学讲座&order=pubdate",
-      "source": "Bilibili",
-      "time": "实时",
+      "title": "2025-3《收获》目录及简介 | 5月14日出版",
+      "url": "https://cul.sohu.com/a/894856558_638785",
+      "source": "搜狐网",
+      "time": "5月13日",
+      "category": "activity"
+    },
+    {
+      "title": "2025-4《收获》|目录与简介",
+      "url": "https://cul.sohu.com/a/913273206_638785",
+      "source": "搜狐网",
+      "time": "7月12日",
+      "category": "activity"
+    },
+    {
+      "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
+      "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
+      "source": "澎湃新闻客户端",
+      "time": "",
+      "category": "activity"
+    },
+    {
+      "title": "《河南文学》杂志2025年第三期目录",
+      "url": "https://cul.sohu.com/a/922955150_120753574",
+      "source": "搜狐网",
+      "time": "8月15日",
+      "category": "activity"
+    },
+    {
+      "title": "《河南文学》杂志2025年第四期目录",
+      "url": "https://cul.sohu.com/a/942674515_120753574",
+      "source": "搜狐网",
+      "time": "10月12日",
+      "category": "activity"
+    },
+    {
+      "title": "期刊目录| 《文学评论》2025年第5期目录、摘要及编后记",
+      "url": "http://baijiahao.baidu.com/s?id=1844013382652568959&wfr=spider&for=pc",
+      "source": "澎湃新闻客户端",
+      "time": "9月22日",
+      "category": "activity"
+    },
+    {
+      "title": "获奖感言感动网友,青年作家刘楚昕新书《泥潭》发布",
+      "url": "https://baijiahao.baidu.com/s?id=1836714185649934540&wfr=spider&for=pc",
+      "source": "北京日报客户端",
+      "time": "7月4日",
+      "category": "activity"
+    },
+    {
+      "title": "青州出现海市蜃楼?美!",
+      "url": "https://baijiahao.baidu.com/s?id=1851456796101440637&wfr=spider&for=pc",
+      "source": "潍坊融媒",
+      "time": "前天22:30",
+      "category": "other"
+    },
+    {
+      "title": "长篇历史小说《红珊瑚》首发",
+      "url": "https://baijiahao.baidu.com/s?id=1845943816360001304&wfr=spider&for=pc",
+      "source": "中工网",
+      "time": "10月14日",
       "category": "activity"
     }
   ]
