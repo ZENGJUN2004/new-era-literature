@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-16 03:13",
+  "update_time": "2025-12-16 04:12",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -20,27 +20,6 @@ window.LIT_DATA = {
       "url": "https://scholar.baidu.com/scholar?q=当代文学&sc_ylo=2024&sort=sc_time",
       "source": "CNKI",
       "time": "实时",
-      "category": "meeting"
-    },
-    {
-      "title": "段崇轩:文学研讨会的“变奏曲”|中原作家",
-      "url": "https://cul.sohu.com/a/915929244_475768",
-      "source": "搜狐网",
-      "time": "7月21日",
-      "category": "meeting"
-    },
-    {
-      "title": "新岁丰歌 笔抒乡情——罗倩纪实文学《归禾》作品研讨会综述",
-      "url": "https://cul.sohu.com/a/950583399_121124759",
-      "source": "搜狐网",
-      "time": "11月3日",
-      "category": "meeting"
-    },
-    {
-      "title": "“2025钟子逸论坛暨文学与科学交叉研究”国际研讨会综述",
-      "url": "https://www.thepaper.cn/newsDetail_forward_31984571",
-      "source": "澎湃新闻",
-      "time": "11月18日",
       "category": "meeting"
     },
     {
@@ -69,6 +48,13 @@ window.LIT_DATA = {
       "url": "https://cul.sohu.com/a/922955150_120753574",
       "source": "搜狐网",
       "time": "8月15日",
+      "category": "activity"
+    },
+    {
+      "title": "《河南文学》杂志2025年第四期目录",
+      "url": "https://cul.sohu.com/a/942674515_120753574",
+      "source": "搜狐网",
+      "time": "10月12日",
       "category": "activity"
     },
     {
