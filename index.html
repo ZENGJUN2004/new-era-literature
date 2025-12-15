@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>新时代文学动态</title>
+    <style>
+        :root { --primary: #795548; --bg: #fdfbf7; --text: #3e2723; --active: #5d4037; }
+        body { margin: 0; padding: 0; font-family: "PingFang SC", "Songti SC", serif; background-color: var(--bg); color: var(--text); }
+        .container { max-width: 600px; margin: 0 auto; min-height: 100vh; background: #fff; box-shadow: 0 0 15px rgba(0,0,0,0.05); }
+        
+        /* 顶部 */
+        .header { background: #fff; padding: 20px 15px 10px; position: sticky; top: 0; z-index: 100; border-bottom: 1px solid #efebe9; }
+        .header h1 { margin: 0; font-size: 1.4rem; letter-spacing: 2px; text-align: center; color: #4e342e; }
+        .subtitle { text-align: center; font-size: 0.75rem; color: #a1887f; margin: 8px 0 15px; }
+
+        /* 筛选按钮 */
+        .tabs { display: flex; justify-content: center; gap: 8px; padding-bottom: 5px; }
+        .tab-btn { padding: 6px 15px; border-radius: 20px; font-size: 0.85rem; color: #8d6e63; background: #f5f5f5; cursor: pointer; transition: 0.2s; }
+        .tab-btn.active { background: var(--primary); color: #fff; font-weight: bold; box-shadow: 0 2px 5px rgba(121, 85, 72, 0.3); }
+
+        /* 列表 */
+        .feed { padding: 15px; min-height: 60vh; }
+        
+        /* 卡片 */
+        .card { display: block; text-decoration: none; color: inherit; margin-bottom: 12px; padding: 14px; background: #fff; border-radius: 8px; border: 1px solid #f0f0f0; transition: transform 0.1s; }
+        .card:active { background: #fafafa; transform: scale(0.98); }
+        
+        .card-title { font-size: 1.05rem; line-height: 1.5; font-weight: bold; margin-bottom: 8px; color: #2c2c2c; }
+        .card-info { display: flex; align-items: center; justify-content: space-between; font-size: 0.75rem; color: #999; }
+        
+        /* 标签颜色 */
+        .tag { padding: 2px 6px; border-radius: 4px; font-size: 0.7rem; margin-right: 6px; color: #fff; font-weight: normal; }
+        .tag-meeting { background: #1976d2; } 
+        .tag-voice { background: #d32f2f; }   
+        .tag-activity { background: #388e3c; }
+        .tag-other { background: #fbc02d; color: #333; }    
+
+        .loading { text-align: center; padding: 40px; color: #bcaaa4; }
+        .footer { text-align: center; padding: 30px; font-size: 0.7rem; color: #d7ccc8; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="header">
+        <h1>新时代文学动态</h1>
+        <div class="subtitle" id="update-info">连接作协、作家与评论现场</div>
+        <div class="tabs">
+            <div class="tab-btn active" onclick="filterNews('all', this)">全部</div>
+            <div class="tab-btn" onclick="filterNews('meeting', this)">会议</div>
+            <div class="tab-btn" onclick="filterNews('voice', this)">声音</div>
+            <div class="tab-btn" onclick="filterNews('activity', this)">活动</div>
+        </div>
+    </div>
+
+    <div class="feed" id="news-feed">
+        <div class="loading">正在连接云端文学库...</div>
+    </div>
+    
+    <div class="footer">Digital Humanities Lab</div>
+</div>
+
+<script>
+    // 强制加载最新的 data.js，彻底解决缓存问题
+    var script = document.createElement('script');
+    script.src = 'data.js?v=' + new Date().getTime();
+    document.body.appendChild(script);
+
+    let allData = [];
+
+    // 等数据加载完再执行
+    script.onload = function() {
+        if (typeof window.LIT_DATA !== 'undefined' && window.LIT_DATA.news) {
+            allData = window.LIT_DATA.news;
+            
+            // 显示时间
+            const timeStr = window.LIT_DATA.update_time || "";
+            document.getElementById('update-info').textContent = "更新时间: " + timeStr.split(" ")[0]; 
+            
+            render(allData);
+        } else {
+            document.getElementById('news-feed').innerHTML = '<div class="loading">暂无数据，请等待爬虫首次运行</div>';
+        }
+    };
+
+    function filterNews(cat, btn) {
+        document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        
+        if (cat === 'all') render(allData);
+        else render(allData.filter(i => i.category === cat));
+    }
+
+    function render(data) {
+        const feed = document.getElementById('news-feed');
+        feed.innerHTML = '';
+        
+        if (data.length === 0) {
+            feed.innerHTML = '<div class="loading">该分类下暂无内容</div>';
+            return;
+        }
+
+        data.forEach(item => {
+            const el = document.createElement('a');
+            el.className = 'card';
+            el.href = item.url;
+            el.target = "_blank";
+            
+            const map = {'meeting':'会议', 'voice':'声音', 'activity':'活动', 'other':'综合'};
+            const catName = map[item.category] || '动态';
+            const catClass = 'tag-' + (item.category || 'other');
+            
+            el.innerHTML = `
+                <div class="card-title">${item.title}</div>
+                <div class="card-info">
+                    <span><span class="tag ${catClass}">${catName}</span>${item.source}</span>
+                    <span>${item.time}</span>
+                </div>
+            `;
+            feed.appendChild(el);
+        });
+    }
+</script>
+</body>
+</html>
