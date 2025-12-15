@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-15 23:16",
+  "update_time": "2025-12-16 00:17",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -58,18 +58,11 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "获奖感言感动网友,青年作家刘楚昕新书《泥潭》发布",
-      "url": "https://baijiahao.baidu.com/s?id=1836714185649934540&wfr=spider&for=pc",
-      "source": "北京日报客户端",
-      "time": "7月4日",
-      "category": "activity"
-    },
-    {
-      "title": "青州出现海市蜃楼?美!",
-      "url": "https://baijiahao.baidu.com/s?id=1851456796101440637&wfr=spider&for=pc",
-      "source": "潍坊融媒",
-      "time": "前天22:30",
-      "category": "other"
+      "title": "一周文化讲座|我们为什么需要文学批评",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32105254",
+      "source": "澎湃新闻",
+      "time": "12月5日",
+      "category": "meeting"
     },
     {
       "title": "长篇历史小说《红珊瑚》首发",
