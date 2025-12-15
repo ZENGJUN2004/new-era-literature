@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-16 00:17",
+  "update_time": "2025-12-16 01:17",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,41 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "再创新高!“全球前2%顶尖科学家”榜单公布,郑州大学入选人数持续...",
+      "url": "https://baijiahao.baidu.com/s?id=1844843216727653689&wfr=spider&for=pc",
+      "source": "郑州大学招生办公室",
+      "time": "10月6日",
+      "category": "other"
+    },
+    {
+      "title": "《花灯调》上榜!文学好书榜2024年度榜单发布",
+      "url": "https://baijiahao.baidu.com/s?id=1844206934829758511&wfr=spider&for=pc",
+      "source": "天眼新闻",
+      "time": "9月25日",
+      "category": "other"
+    },
+    {
+      "title": "中国作协发布2024年度“中国网络文学影响力榜”",
+      "url": "https://baijiahao.baidu.com/s?id=1835233784965011802&wfr=spider&for=pc",
+      "source": "中国青年报",
+      "time": "6月18日",
+      "category": "other"
+    },
+    {
+      "title": "2024年度中国网络文学影响力榜发布《庆余年》《河清海晏》等网文...",
+      "url": "https://baijiahao.baidu.com/s?id=1835326837803046430&wfr=spider&for=pc",
+      "source": "封面新闻",
+      "time": "6月19日",
+      "category": "other"
+    },
+    {
+      "title": "文学好书榜2024年度榜单发布",
+      "url": "https://baijiahao.baidu.com/s?id=1846627357603941492&wfr=spider&for=pc",
+      "source": "新浪财经",
+      "time": "10月22日",
+      "category": "other"
     },
     {
       "title": "2025-3《收获》目录及简介 | 5月14日出版",
@@ -48,6 +83,13 @@ window.LIT_DATA = {
       "url": "https://cul.sohu.com/a/922955150_120753574",
       "source": "搜狐网",
       "time": "8月15日",
+      "category": "activity"
+    },
+    {
+      "title": "《河南文学》杂志2025年第四期目录",
+      "url": "https://cul.sohu.com/a/942674515_120753574",
+      "source": "搜狐网",
+      "time": "10月12日",
       "category": "activity"
     },
     {
