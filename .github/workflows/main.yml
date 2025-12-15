@@ -1,0 +1,38 @@
+name: Update Literature
+
+on:
+  schedule:
+    - cron: '0 * * * *' # 每小时运行
+  workflow_dispatch:      # 允许手动点
+
+permissions:
+  contents: write         # 再次确认写权限
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    # 强制安装依赖，不管requirements.txt有没有问题，都强制装上
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests beautifulsoup4
+
+    - name: Run spider
+      run: python spider.py
+
+    - name: Commit and push
+      run: |
+        git config --global user.name 'GitHub Action'
+        git config --global user.email 'action@github.com'
+        git add data.js
+        git commit -m "Auto update" || exit 0
+        git push
