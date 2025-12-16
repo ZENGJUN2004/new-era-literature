@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-16 14:18",
+  "update_time": "2025-12-16 15:16",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,34 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "2024年度湖南文学排行榜公布,总有你熟悉的",
-      "url": "https://baijiahao.baidu.com/s?id=1829924823507607605&wfr=spider&for=pc",
-      "source": "长沙晚报掌上长沙",
-      "time": "4月20日",
-      "category": "voice"
-    },
-    {
-      "title": "中国作协发布2024年度“中国网络文学影响力榜”",
-      "url": "https://baijiahao.baidu.com/s?id=1835189171202289667&wfr=spider&for=pc",
-      "source": "潇湘晨报",
-      "time": "6月17日",
-      "category": "other"
-    },
-    {
-      "title": "《草木志》入选文学好书榜年度好书",
-      "url": "https://baijiahao.baidu.com/s?id=1844483038480146502&wfr=spider&for=pc",
-      "source": "中工网",
-      "time": "9月28日",
-      "category": "other"
-    },
-    {
-      "title": "文学好书榜2024年度榜单发布",
-      "url": "https://baijiahao.baidu.com/s?id=1846627357603941492&wfr=spider&for=pc",
-      "source": "新浪财经",
-      "time": "10月22日",
-      "category": "other"
     },
     {
       "title": "2025-3《收获》目录及简介 | 5月14日出版",
@@ -83,13 +55,6 @@ window.LIT_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1844013382652568959&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "9月22日",
-      "category": "activity"
-    },
-    {
-      "title": "获奖感言感动网友,青年作家刘楚昕新书《泥潭》发布",
-      "url": "https://baijiahao.baidu.com/s?id=1836714185649934540&wfr=spider&for=pc",
-      "source": "北京日报客户端",
-      "time": "7月4日",
       "category": "activity"
     },
     {
