@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-16 07:11",
+  "update_time": "2025-12-16 08:52",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,20 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "...期刊与中国非虚构写作生态——以《钟山》《人民文学》《十月...",
+      "url": "https://cul.sohu.com/a/929655837_121124729",
+      "source": "搜狐网",
+      "time": "8月28日",
+      "category": "voice"
+    },
+    {
+      "title": "【贾平凹新作】《消息》首发《十月》杂志,限量版限时抢购!",
+      "url": "https://cul.sohu.com/a/877611717_122354591",
+      "source": "搜狐网",
+      "time": "3月31日",
+      "category": "activity"
     },
     {
       "title": "2025-3《收获》目录及简介 | 5月14日出版",
