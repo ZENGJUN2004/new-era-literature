@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-17 14:17",
+  "update_time": "2025-12-17 15:15",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -20,6 +20,27 @@ window.LIT_DATA = {
       "url": "https://scholar.baidu.com/scholar?q=当代文学&sc_ylo=2024&sort=sc_time",
       "source": "CNKI",
       "time": "实时",
+      "category": "meeting"
+    },
+    {
+      "title": "有名或无名",
+      "url": "https://www.huxiu.com/article/4817646.html",
+      "source": "虎嗅APP",
+      "time": "前天23:00",
+      "category": "other"
+    },
+    {
+      "title": "湃书单|澎湃新闻编辑们在读的13本书:我们给自己讲故事",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32176013",
+      "source": "澎湃新闻",
+      "time": "前天17:02",
+      "category": "other"
+    },
+    {
+      "title": "傅菲散文集《人间珍贵》研讨会举行",
+      "url": "https://baijiahao.baidu.com/s?id=1851566553005974189&wfr=spider&for=pc",
+      "source": "中工网",
+      "time": "前天16:00",
       "category": "meeting"
     },
     {
@@ -65,18 +86,25 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "一周文化讲座|我们为什么需要文学批评",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32105254",
-      "source": "澎湃新闻",
-      "time": "12月5日",
-      "category": "meeting"
-    },
-    {
       "title": "长篇历史小说《红珊瑚》首发",
       "url": "https://baijiahao.baidu.com/s?id=1845943816360001304&wfr=spider&for=pc",
       "source": "中工网",
       "time": "10月14日",
       "category": "activity"
+    },
+    {
+      "title": "项飙: 何不直接一点,直接回应大家关心的现实话题?",
+      "url": "http://www.thepaper.cn/newsDetail_forward_32164664",
+      "source": "澎湃新闻",
+      "time": "昨天12:50",
+      "category": "other"
+    },
+    {
+      "title": "《为了活下去,我们给自己讲故事》:我们是否有拆解叙事的勇气",
+      "url": "https://baijiahao.baidu.com/s?id=1851620918976850973&wfr=spider&for=pc",
+      "source": "北京日报客户端",
+      "time": "昨天08:00",
+      "category": "other"
     }
   ]
 };
