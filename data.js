@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-19 01:15",
+  "update_time": "2025-12-19 02:17",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -34,34 +34,6 @@ window.LIT_DATA = {
       "url": "http://app.myzaker.com/news/article.php?pk=69353a568e9f09243a603bdb",
       "source": "ZAKER",
       "time": "12月7日",
-      "category": "other"
-    },
-    {
-      "title": "十年再出发,戏曲新蕊向未来——2025年中国小剧场戏曲展演盛大启幕!",
-      "url": "https://baijiahao.baidu.com/s?id=1850019584749369252&wfr=spider&for=pc",
-      "source": "乐游上海",
-      "time": "11月28日",
-      "category": "other"
-    },
-    {
-      "title": "兰大学子在2025“理解当代中国”外语能力大赛甘肃赛区决赛中获...",
-      "url": "https://baijiahao.baidu.com/s?id=1847847974150846675&wfr=spider&for=pc",
-      "source": "兰州大学",
-      "time": "11月5日",
-      "category": "other"
-    },
-    {
-      "title": "中国当代文学研究会公布“2024中国文学年度档案”",
-      "url": "https://baijiahao.baidu.com/s?id=1821748323942392845&wfr=spider&for=pc",
-      "source": "澎湃新闻",
-      "time": "1月20日",
-      "category": "other"
-    },
-    {
-      "title": "文学会客厅丨中国当代文学研究会会长张清华:青年作家要大胆创新创作",
-      "url": "https://baijiahao.baidu.com/s?id=1834441478641970872&wfr=spider&for=pc",
-      "source": "齐鲁壹点",
-      "time": "6月9日",
       "category": "other"
     },
     {
@@ -107,52 +79,10 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "作家钟宇新书发布:带领读者潜入悬疑阅读之海|书香精品",
-      "url": "https://cul.sohu.com/a/924579552_120046696",
-      "source": "搜狐网",
-      "time": "8月16日",
-      "category": "activity"
-    },
-    {
-      "title": "《心向光明:邹韬奋传》新书发布会暨研讨会在京举行",
-      "url": "https://jxcbw.cn/newsContent?newsid=1962788204784398338",
-      "source": "江西晨报网",
-      "time": "9月2日",
-      "category": "activity"
-    },
-    {
-      "title": "首次明确高中严控考试次数,中小学日常考试管理如何助力减负?",
-      "url": "https://baijiahao.baidu.com/s?id=1851762039443250750&wfr=spider&for=pc",
-      "source": "新京报",
-      "time": "前天21:24",
-      "category": "other"
-    },
-    {
-      "title": "文学盛会只是阅读起点",
-      "url": "https://baijiahao.baidu.com/s?id=1851703414371544268&wfr=spider&for=pc",
-      "source": "新浪财经",
-      "time": "前天05:53",
-      "category": "other"
-    },
-    {
-      "title": "文脉润苗乡 十年著华章",
-      "url": "https://baijiahao.baidu.com/s?id=1851742032999340804&wfr=spider&for=pc",
-      "source": "人民资讯",
-      "time": "前天16:03",
-      "category": "other"
-    },
-    {
-      "title": "“巴金小说系列·文库本”发布",
-      "url": "https://baijiahao.baidu.com/s?id=1851741782821799550&wfr=spider&for=pc",
-      "source": "中国新闻网",
-      "time": "前天16:01",
-      "category": "activity"
-    },
-    {
-      "title": "仁义铸文脉 古堡传新声——刘耀光长篇小说《仁义堡》新书发布暨...",
-      "url": "https://baijiahao.baidu.com/s?id=1851719503235666600&wfr=spider&for=pc",
-      "source": "三秦都市报",
-      "time": "前天09:52",
+      "title": "获奖感言感动网友,青年作家刘楚昕新书《泥潭》发布",
+      "url": "https://baijiahao.baidu.com/s?id=1836714185649934540&wfr=spider&for=pc",
+      "source": "北京日报客户端",
+      "time": "7月4日",
       "category": "activity"
     },
     {
@@ -175,20 +105,6 @@ window.LIT_DATA = {
       "source": "澎湃新闻客户端",
       "time": "昨天12:12",
       "category": "other"
-    },
-    {
-      "title": "当不爱演的作家遇到追求真实的纪录片",
-      "url": "https://baijiahao.baidu.com/s?id=1851811795062091597&wfr=spider&for=pc",
-      "source": "光明网",
-      "time": "昨天10:30",
-      "category": "other"
-    },
-    {
-      "title": "以“小叙事”反映“大时代”《地球友好,你在奔跑》新书发布",
-      "url": "https://baijiahao.baidu.com/s?id=1851843913083051256&wfr=spider&for=pc",
-      "source": "中国新闻网",
-      "time": "昨天19:04",
-      "category": "activity"
     }
   ]
 };
