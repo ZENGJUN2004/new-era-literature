@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-19 02:17",
+  "update_time": "2025-12-19 03:12",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,20 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "资讯 |《学术月刊》2025年第9期目录及摘要",
-      "url": "http://baijiahao.baidu.com/s?id=1843961684968116029&wfr=spider&for=pc",
-      "source": "上观新闻",
-      "time": "9月22日",
-      "category": "activity"
-    },
-    {
-      "title": "上海首位!陈思和获颁中国现代文学学术贡献荣誉奖",
-      "url": "http://app.myzaker.com/news/article.php?pk=69353a568e9f09243a603bdb",
-      "source": "ZAKER",
-      "time": "12月7日",
-      "category": "other"
     },
     {
       "title": "2025-3《收获》目录及简介 | 5月14日出版",
@@ -79,6 +65,13 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
+      "title": "刘楚昕新书《泥潭》发布会热潮涌动,坦言名气与实力的落差",
+      "url": "https://cul.sohu.com/a/910795611_121956422",
+      "source": "搜狐网",
+      "time": "7月4日",
+      "category": "activity"
+    },
+    {
       "title": "获奖感言感动网友,青年作家刘楚昕新书《泥潭》发布",
       "url": "https://baijiahao.baidu.com/s?id=1836714185649934540&wfr=spider&for=pc",
       "source": "北京日报客户端",
@@ -98,13 +91,6 @@ window.LIT_DATA = {
       "source": "钱江晚报",
       "time": "11月4日",
       "category": "activity"
-    },
-    {
-      "title": "不唯书,不唯上,他是复旦哲学奠基人",
-      "url": "http://baijiahao.baidu.com/s?id=1851820383961719883&wfr=spider&for=pc",
-      "source": "澎湃新闻客户端",
-      "time": "昨天12:12",
-      "category": "other"
     }
   ]
 };
