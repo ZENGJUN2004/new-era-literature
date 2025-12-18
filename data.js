@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-18 18:12",
+  "update_time": "2025-12-18 19:11",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,17 +23,10 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "豆瓣高分、评论高赞,不出门的日子里,这6部纪录片治愈了我",
-      "url": "http://baijiahao.baidu.com/s?id=1730506789958714144&wfr=spider&for=pc",
-      "source": "澎湃新闻客户端",
-      "time": "",
-      "category": "meeting"
-    },
-    {
-      "title": "...一定要大量读书,读书是为了遇见更好的自己!(附50本豆瓣高分...",
-      "url": "https://cul.sohu.com/a/886722137_352757",
-      "source": "搜狐网",
-      "time": "4月20日",
+      "title": "《为了活下去,我们给自己讲故事》:我们是否有拆解叙事的勇气",
+      "url": "https://baijiahao.baidu.com/s?id=1851620918976850973&wfr=spider&for=pc",
+      "source": "北京日报客户端",
+      "time": "前天08:00",
       "category": "other"
     },
     {
@@ -93,10 +86,45 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "文学爱好者请进,今年最好读的口袋书都在这",
-      "url": "http://www.thepaper.cn/newsDetail_forward_32182914",
-      "source": "澎湃新闻",
-      "time": "昨天12:12",
+      "title": "庞莱臣后人不认可伪作说法!江苏文旅回应“获赠名画现身拍卖市场...",
+      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1037636",
+      "source": "上观",
+      "time": "3小时前",
+      "category": "other"
+    },
+    {
+      "title": "读者在素人写作那里寻找坚实感,还是幻梦代偿?",
+      "url": "https://baijiahao.baidu.com/s?id=1851828263503884266&wfr=spider&for=pc",
+      "source": "文汇报",
+      "time": "4小时前",
+      "category": "other"
+    },
+    {
+      "title": "素人非虚构写作背后的三种教学角色",
+      "url": "http://baijiahao.baidu.com/s?id=1851828257460929904&wfr=spider&for=pc",
+      "source": "上观新闻",
+      "time": "4小时前",
+      "category": "voice"
+    },
+    {
+      "title": "评余华长篇新作《卢克明的偷偷一笑》:在轻浮与厚重之间摇摆",
+      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1037594",
+      "source": "上观",
+      "time": "5小时前",
+      "category": "other"
+    },
+    {
+      "title": "跨界对话:共探文学与创作、艺术与金融的交融之美",
+      "url": "http://baijiahao.baidu.com/s?id=1851750927594235123&wfr=spider&for=pc",
+      "source": "上观新闻",
+      "time": "昨天18:27",
+      "category": "other"
+    },
+    {
+      "title": "迟子建谈创作:谁不曾有风雪弥漫的时刻",
+      "url": "https://baijiahao.baidu.com/s?id=1851708707251256709&wfr=spider&for=pc",
+      "source": "京报网",
+      "time": "昨天07:01",
       "category": "other"
     }
   ]
