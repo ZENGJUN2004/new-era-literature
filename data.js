@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-18 19:11",
+  "update_time": "2025-12-18 20:21",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,10 +23,52 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "《为了活下去,我们给自己讲故事》:我们是否有拆解叙事的勇气",
-      "url": "https://baijiahao.baidu.com/s?id=1851620918976850973&wfr=spider&for=pc",
-      "source": "北京日报客户端",
-      "time": "前天08:00",
+      "title": "北大特别策划!戴锦华、杨立华、范晔、贾妍对谈",
+      "url": "http://m.bjnews.com.cn/detail/174538146719296.html",
+      "source": "新京报",
+      "time": "4月23日",
+      "category": "other"
+    },
+    {
+      "title": "戴锦华:面对充满危机的世界,人文学是最好的解毒剂",
+      "url": "https://cul.sohu.com/a/948596137_227314",
+      "source": "搜狐网",
+      "time": "10月29日",
+      "category": "other"
+    },
+    {
+      "title": "戴锦华与文化研究三十年",
+      "url": "https://cul.sohu.com/a/949384391_260616",
+      "source": "搜狐网",
+      "time": "10月31日",
+      "category": "other"
+    },
+    {
+      "title": "在“汤一介当代学人讲座”,听戴锦华回忆“时代之女与造就时代”",
+      "url": "https://baijiahao.baidu.com/s?id=1847588402613043445&wfr=spider&for=pc",
+      "source": "中国青年报",
+      "time": "11月1日",
+      "category": "meeting"
+    },
+    {
+      "title": "戴锦华对话鲁豫:遭遇切·格瓦拉,是我生命里一场精神热恋",
+      "url": "https://www.thepaper.cn/newsDetail_forward_31983989",
+      "source": "澎湃新闻",
+      "time": "11月17日",
+      "category": "other"
+    },
+    {
+      "title": "戴锦华:爱不死,电影不死|金鸡年度演讲全文",
+      "url": "http://www.thepaper.cn/newsDetail_forward_32023832",
+      "source": "澎湃新闻",
+      "time": "11月24日",
+      "category": "other"
+    },
+    {
+      "title": "《当代电影》| 中国女性电影的经验书写与美学政治——戴锦华教授...",
+      "url": "https://yule.sohu.com/a/910374354_121124735",
+      "source": "搜狐娱乐",
+      "time": "7月3日",
       "category": "other"
     },
     {
@@ -84,48 +126,6 @@ window.LIT_DATA = {
       "source": "中工网",
       "time": "10月14日",
       "category": "activity"
-    },
-    {
-      "title": "庞莱臣后人不认可伪作说法!江苏文旅回应“获赠名画现身拍卖市场...",
-      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1037636",
-      "source": "上观",
-      "time": "3小时前",
-      "category": "other"
-    },
-    {
-      "title": "读者在素人写作那里寻找坚实感,还是幻梦代偿?",
-      "url": "https://baijiahao.baidu.com/s?id=1851828263503884266&wfr=spider&for=pc",
-      "source": "文汇报",
-      "time": "4小时前",
-      "category": "other"
-    },
-    {
-      "title": "素人非虚构写作背后的三种教学角色",
-      "url": "http://baijiahao.baidu.com/s?id=1851828257460929904&wfr=spider&for=pc",
-      "source": "上观新闻",
-      "time": "4小时前",
-      "category": "voice"
-    },
-    {
-      "title": "评余华长篇新作《卢克明的偷偷一笑》:在轻浮与厚重之间摇摆",
-      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1037594",
-      "source": "上观",
-      "time": "5小时前",
-      "category": "other"
-    },
-    {
-      "title": "跨界对话:共探文学与创作、艺术与金融的交融之美",
-      "url": "http://baijiahao.baidu.com/s?id=1851750927594235123&wfr=spider&for=pc",
-      "source": "上观新闻",
-      "time": "昨天18:27",
-      "category": "other"
-    },
-    {
-      "title": "迟子建谈创作:谁不曾有风雪弥漫的时刻",
-      "url": "https://baijiahao.baidu.com/s?id=1851708707251256709&wfr=spider&for=pc",
-      "source": "京报网",
-      "time": "昨天07:01",
-      "category": "other"
     }
   ]
 };
