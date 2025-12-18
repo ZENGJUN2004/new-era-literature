@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-18 22:14",
+  "update_time": "2025-12-18 23:13",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,20 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "AI概念短片助力新书发布鲁迅文学奖得主王十月分享“最后一部作品”",
-      "url": "https://baijiahao.baidu.com/s?id=1838777094631934865&wfr=spider&for=pc",
-      "source": "封面新闻",
-      "time": "7月27日",
-      "category": "activity"
-    },
-    {
-      "title": "汇积内力 聚焦时代 抒写生活|中国作家“深入生活·扎根人民”系列...",
-      "url": "https://baijiahao.baidu.com/s?id=1850681660617074479&wfr=spider&for=pc",
-      "source": "天眼新闻",
-      "time": "12月5日",
-      "category": "other"
     },
     {
       "title": "2025-3《收获》目录及简介 | 5月14日出版",
@@ -65,13 +51,6 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "《河南文学》杂志2025年第四期目录",
-      "url": "https://cul.sohu.com/a/942674515_120753574",
-      "source": "搜狐网",
-      "time": "10月12日",
-      "category": "activity"
-    },
-    {
       "title": "期刊目录| 《文学评论》2025年第5期目录、摘要及编后记",
       "url": "http://baijiahao.baidu.com/s?id=1844013382652568959&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
@@ -94,37 +73,16 @@ window.LIT_DATA = {
     },
     {
       "title": "长篇历史小说《红珊瑚》首发",
-      "url": "https://baijiahao.baidu.com/s?id=1845943816360001304&wfr=spider&for=pc",
-      "source": "中工网",
+      "url": "https://baijiahao.baidu.com/s?id=1845939098107077495&wfr=spider&for=pc",
+      "source": "工人日报",
       "time": "10月14日",
       "category": "activity"
     },
     {
-      "title": "插上“改编”的翅膀 让原著飞得更高更远",
-      "url": "https://www.hangzhou.gov.cn/col/col812270/art/2025/art_55fc19cb780d42b4b9502e054efdf933.html",
-      "source": "杭州市人民政府",
-      "time": "昨天09:52",
-      "category": "other"
-    },
-    {
-      "title": "余杭廉洁文化新书发布,“书香传廉”共筑清廉生态",
-      "url": "https://baijiahao.baidu.com/s?id=1851747620926388638&wfr=spider&for=pc",
-      "source": "潮新闻客户端",
-      "time": "昨天17:30",
-      "category": "activity"
-    },
-    {
-      "title": "时光深处的绿色守望——《云下山河》编后记",
-      "url": "https://www.cenews.com.cn/news.html?aid=1758078",
-      "source": "中国环境网",
-      "time": "昨天12:00",
-      "category": "other"
-    },
-    {
-      "title": "“最大的鱼,最小的海”:周晓枫《星鱼》新书分享会点亮京城冬夜",
-      "url": "https://baijiahao.baidu.com/s?id=1851742053682815819&wfr=spider&for=pc",
-      "source": "北晚在线",
-      "time": "昨天15:54",
+      "title": "从西关橘香到沽上粤韵,王松长篇小说《橘红》在广州首发",
+      "url": "https://baijiahao.baidu.com/s?id=1847847012189787325&wfr=spider&for=pc",
+      "source": "钱江晚报",
+      "time": "11月4日",
       "category": "activity"
     }
   ]
