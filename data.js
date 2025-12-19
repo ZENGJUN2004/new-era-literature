@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-19 17:15",
+  "update_time": "2025-12-19 18:12",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,34 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "十年再出发,戏曲新蕊向未来——2025年中国小剧场戏曲展演盛大启幕!",
-      "url": "https://baijiahao.baidu.com/s?id=1850019584749369252&wfr=spider&for=pc",
-      "source": "乐游上海",
-      "time": "11月28日",
-      "category": "other"
-    },
-    {
-      "title": "兰大学子在2025“理解当代中国”外语能力大赛甘肃赛区决赛中获...",
-      "url": "https://baijiahao.baidu.com/s?id=1847847974150846675&wfr=spider&for=pc",
-      "source": "兰州大学",
-      "time": "11月5日",
-      "category": "other"
-    },
-    {
-      "title": "中国当代文学研究会公布“2024中国文学年度档案”",
-      "url": "https://baijiahao.baidu.com/s?id=1821748323942392845&wfr=spider&for=pc",
-      "source": "澎湃新闻",
-      "time": "1月20日",
-      "category": "other"
-    },
-    {
-      "title": "文学会客厅丨中国当代文学研究会会长张清华:青年作家要大胆创新创作",
-      "url": "https://baijiahao.baidu.com/s?id=1834441478641970872&wfr=spider&for=pc",
-      "source": "齐鲁壹点",
-      "time": "6月9日",
-      "category": "other"
     },
     {
       "title": "2025-3《收获》目录及简介 | 5月14日出版",
@@ -79,6 +51,13 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
+      "title": "《河南文学》杂志2025年第四期目录",
+      "url": "https://cul.sohu.com/a/942674515_120753574",
+      "source": "搜狐网",
+      "time": "10月12日",
+      "category": "activity"
+    },
+    {
       "title": "期刊目录| 《文学评论》2025年第5期目录、摘要及编后记",
       "url": "http://baijiahao.baidu.com/s?id=1844013382652568959&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
@@ -100,24 +79,10 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "当不爱演的作家遇到追求真实的纪录片",
-      "url": "https://baijiahao.baidu.com/s?id=1851811795062091597&wfr=spider&for=pc",
-      "source": "光明网",
-      "time": "昨天10:30",
-      "category": "other"
-    },
-    {
-      "title": "贺绍俊的2025年度好书",
-      "url": "https://www.infzm.com/contents/310481",
-      "source": "南方周末",
-      "time": "昨天17:03",
-      "category": "other"
-    },
-    {
-      "title": "以“小叙事”反映“大时代”《地球友好,你在奔跑》新书发布",
-      "url": "https://baijiahao.baidu.com/s?id=1851843913083051256&wfr=spider&for=pc",
-      "source": "中国新闻网",
-      "time": "昨天19:04",
+      "title": "从西关橘香到沽上粤韵,王松长篇小说《橘红》在广州首发",
+      "url": "https://baijiahao.baidu.com/s?id=1847847012189787325&wfr=spider&for=pc",
+      "source": "钱江晚报",
+      "time": "11月4日",
       "category": "activity"
     }
   ]
