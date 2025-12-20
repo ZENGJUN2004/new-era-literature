@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-21 00:12",
+  "update_time": "2025-12-21 01:09",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -79,11 +79,11 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "专访丨王尧《桃花坞》:美好不灭,只是偶尔失踪了",
-      "url": "https://baijiahao.baidu.com/s?id=1851894444649838179&wfr=spider&for=pc",
+      "title": "从西关橘香到沽上粤韵,王松长篇小说《橘红》在广州首发",
+      "url": "https://baijiahao.baidu.com/s?id=1847847012189787325&wfr=spider&for=pc",
       "source": "钱江晚报",
-      "time": "前天08:26",
-      "category": "other"
+      "time": "11月4日",
+      "category": "activity"
     }
   ]
 };
