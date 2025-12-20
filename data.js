@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-20 23:10",
+  "update_time": "2025-12-21 00:12",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -79,11 +79,11 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "渭南著名作家王旺山最新长篇小说《向阳而生》首发推介会成功举行",
-      "url": "https://baijiahao.baidu.com/s?id=1851808580981526113&wfr=spider&for=pc",
-      "source": "中时在线",
-      "time": "前天09:44",
-      "category": "activity"
+      "title": "专访丨王尧《桃花坞》:美好不灭,只是偶尔失踪了",
+      "url": "https://baijiahao.baidu.com/s?id=1851894444649838179&wfr=spider&for=pc",
+      "source": "钱江晚报",
+      "time": "前天08:26",
+      "category": "other"
     }
   ]
 };
