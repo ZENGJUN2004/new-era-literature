@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-20 12:17",
+  "update_time": "2025-12-20 13:11",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -51,13 +51,6 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "《河南文学》杂志2025年第四期目录",
-      "url": "https://cul.sohu.com/a/942674515_120753574",
-      "source": "搜狐网",
-      "time": "10月12日",
-      "category": "activity"
-    },
-    {
       "title": "期刊目录| 《文学评论》2025年第5期目录、摘要及编后记",
       "url": "http://baijiahao.baidu.com/s?id=1844013382652568959&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
@@ -76,6 +69,13 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1845939098107077495&wfr=spider&for=pc",
       "source": "工人日报",
       "time": "10月14日",
+      "category": "activity"
+    },
+    {
+      "title": "从西关橘香到沽上粤韵,王松长篇小说《橘红》在广州首发",
+      "url": "https://baijiahao.baidu.com/s?id=1847847012189787325&wfr=spider&for=pc",
+      "source": "钱江晚报",
+      "time": "11月4日",
       "category": "activity"
     },
     {
