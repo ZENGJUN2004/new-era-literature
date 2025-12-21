@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-21 12:29",
+  "update_time": "2025-12-21 13:13",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,27 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "北京十月文学月这场论坛 探讨青年写作的创新问题",
+      "url": "https://baijiahao.baidu.com/s?id=1847501421602431540&wfr=spider&for=pc",
+      "source": "青瞳视角",
+      "time": "10月31日",
+      "category": "meeting"
+    },
+    {
+      "title": "...期刊与中国非虚构写作生态——以《钟山》《人民文学》《十月...",
+      "url": "https://cul.sohu.com/a/929655837_121124729",
+      "source": "搜狐网",
+      "time": "8月28日",
+      "category": "voice"
+    },
+    {
+      "title": "【贾平凹新作】《消息》首发《十月》杂志,限量版限时抢购!",
+      "url": "https://cul.sohu.com/a/877611717_122354591",
+      "source": "搜狐网",
+      "time": "3月31日",
+      "category": "activity"
     },
     {
       "title": "2025-3《收获》目录及简介 | 5月14日出版",
@@ -76,13 +97,6 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1845939098107077495&wfr=spider&for=pc",
       "source": "工人日报",
       "time": "10月14日",
-      "category": "activity"
-    },
-    {
-      "title": "从西关橘香到沽上粤韵,王松长篇小说《橘红》在广州首发",
-      "url": "https://baijiahao.baidu.com/s?id=1847847012189787325&wfr=spider&for=pc",
-      "source": "钱江晚报",
-      "time": "11月4日",
       "category": "activity"
     }
   ]
