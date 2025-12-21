@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-21 17:11",
+  "update_time": "2025-12-21 18:11",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,27 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "周末书香活动汇总 | 桃花一簇开无主,可爱深红爱浅红",
+      "url": "https://history.sohu.com/a/877017672_121124807",
+      "source": "搜狐网",
+      "time": "3月28日",
+      "category": "other"
+    },
+    {
+      "title": "2025年浦东图书馆“你选我读好书榜”揭晓",
+      "url": "https://baijiahao.baidu.com/s?id=1842862636955085729&wfr=spider&for=pc",
+      "source": "澎湃新闻",
+      "time": "9月10日",
+      "category": "other"
+    },
+    {
+      "title": "AI概念短片助力新书发布鲁迅文学奖得主王十月分享“最后一部作品”",
+      "url": "https://baijiahao.baidu.com/s?id=1838777094631934865&wfr=spider&for=pc",
+      "source": "封面新闻",
+      "time": "7月27日",
+      "category": "activity"
     },
     {
       "title": "2025-3《收获》目录及简介 | 5月14日出版",
@@ -62,6 +83,13 @@ window.LIT_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1844013382652568959&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "9月22日",
+      "category": "activity"
+    },
+    {
+      "title": "获奖感言感动网友,青年作家刘楚昕新书《泥潭》发布",
+      "url": "https://baijiahao.baidu.com/s?id=1836714185649934540&wfr=spider&for=pc",
+      "source": "北京日报客户端",
+      "time": "7月4日",
       "category": "activity"
     },
     {
