@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-21 07:10",
+  "update_time": "2025-12-21 08:55",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -65,17 +65,17 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "获奖感言感动网友,青年作家刘楚昕新书《泥潭》发布",
-      "url": "https://baijiahao.baidu.com/s?id=1836714185649934540&wfr=spider&for=pc",
-      "source": "北京日报客户端",
-      "time": "7月4日",
-      "category": "activity"
-    },
-    {
       "title": "长篇历史小说《红珊瑚》首发",
       "url": "https://baijiahao.baidu.com/s?id=1845939098107077495&wfr=spider&for=pc",
       "source": "工人日报",
       "time": "10月14日",
+      "category": "activity"
+    },
+    {
+      "title": "从西关橘香到沽上粤韵,王松长篇小说《橘红》在广州首发",
+      "url": "https://baijiahao.baidu.com/s?id=1847847012189787325&wfr=spider&for=pc",
+      "source": "钱江晚报",
+      "time": "11月4日",
       "category": "activity"
     }
   ]
