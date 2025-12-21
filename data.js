@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-21 23:10",
+  "update_time": "2025-12-22 00:12",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -62,6 +62,13 @@ window.LIT_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1844013382652568959&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "9月22日",
+      "category": "activity"
+    },
+    {
+      "title": "刘楚昕新书《泥潭》发布会热潮涌动,坦言名气与实力的落差",
+      "url": "https://cul.sohu.com/a/910795611_121956422",
+      "source": "搜狐网",
+      "time": "7月4日",
       "category": "activity"
     },
     {
