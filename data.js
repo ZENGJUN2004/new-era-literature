@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-23 06:11",
+  "update_time": "2025-12-23 07:11",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -41,20 +41,6 @@ window.LIT_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
-      "category": "activity"
-    },
-    {
-      "title": "《河南文学》杂志2025年第三期目录",
-      "url": "https://cul.sohu.com/a/922955150_120753574",
-      "source": "搜狐网",
-      "time": "8月15日",
-      "category": "activity"
-    },
-    {
-      "title": "《河南文学》杂志2025年第四期目录",
-      "url": "https://cul.sohu.com/a/942674515_120753574",
-      "source": "搜狐网",
-      "time": "10月12日",
       "category": "activity"
     },
     {
