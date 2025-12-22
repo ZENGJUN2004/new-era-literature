@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-22 12:01",
+  "update_time": "2025-12-22 12:42",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,60 +23,39 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "国内学术观点(2025.11)",
-      "url": "https://baijiahao.baidu.com/s?id=1846752490040430241&wfr=spider&for=pc",
-      "source": "大众日报",
-      "time": "10月23日",
+      "title": "周末书香活动汇总 | 桃花一簇开无主,可爱深红爱浅红",
+      "url": "https://history.sohu.com/a/877017672_121124807",
+      "source": "搜狐网",
+      "time": "3月28日",
       "category": "other"
     },
     {
-      "title": "著名评论家、作家李敬泽入驻壹点号,分享文学与思想的创新探索",
-      "url": "https://baijiahao.baidu.com/s?id=1847191571904241369&wfr=spider&for=pc",
-      "source": "齐鲁壹点",
-      "time": "10月28日",
-      "category": "meeting"
+      "title": "2025年浦东图书馆“你选我读好书榜”揭晓",
+      "url": "https://baijiahao.baidu.com/s?id=1842862636955085729&wfr=spider&for=pc",
+      "source": "澎湃新闻",
+      "time": "9月10日",
+      "category": "other"
     },
     {
-      "title": "李敬泽:当城市从“远方”变为“此地”,文学如何重构人与城的关系?",
-      "url": "https://baijiahao.baidu.com/s?id=1847511900782500548&wfr=spider&for=pc",
+      "title": "AI概念短片助力新书发布鲁迅文学奖得主王十月分享“最后一部作品”",
+      "url": "https://baijiahao.baidu.com/s?id=1838777094631934865&wfr=spider&for=pc",
       "source": "封面新闻",
-      "time": "10月31日",
-      "category": "other"
+      "time": "7月27日",
+      "category": "activity"
     },
     {
-      "title": "大咖云集共话国家治理与社会治理现代化,长安大学举办首届公共管理...",
-      "url": "https://edu.hsw.cn/system/2025/1116/154650.shtml",
-      "source": "华商网",
-      "time": "11月16日",
-      "category": "other"
-    },
-    {
-      "title": "李敬泽新作《引回风:随笔自选集》发布,“荡秋千式”写作亮相岳麓...",
-      "url": "https://baijiahao.baidu.com/s?id=1849558151414902071&wfr=spider&for=pc",
-      "source": "潇湘晨报",
-      "time": "11月23日",
-      "category": "other"
-    },
-    {
-      "title": "李敬泽:在未来的文学史研究中,访谈会被视为这个时代独特的文体",
-      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1029752",
+      "title": "丁聪扶掖《钟鼓楼》 | 刘心武",
+      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1016645&sid=300",
       "source": "上观",
-      "time": "12月4日",
+      "time": "11月11日",
       "category": "other"
     },
     {
-      "title": "读诺奖作家韩江《不做告别》随想:意象如何完成故事",
-      "url": "https://www.jfdaily.com/news/detail?id=1033737",
-      "source": "上观",
-      "time": "12月11日",
+      "title": "文学如何讲述“你我”?中国作协“作家活动周”探讨普通人书写",
+      "url": "http://baijiahao.baidu.com/s?id=1852031912725431601&wfr=spider&for=pc",
+      "source": "上观新闻",
+      "time": "前天20:53",
       "category": "other"
-    },
-    {
-      "title": "2025企业家香江论坛举办,推动华商群体与世界深度链接",
-      "url": "https://www.jiemian.com/article/13764965.html",
-      "source": "界面新闻",
-      "time": "",
-      "category": "meeting"
     },
     {
       "title": "2025-3《收获》目录及简介 | 5月14日出版",
