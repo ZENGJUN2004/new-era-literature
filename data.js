@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-22 23:11",
+  "update_time": "2025-12-23 00:14",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,27 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "文学好书榜2024年度榜单发布",
-      "url": "https://baijiahao.baidu.com/s?id=1846627357603941492&wfr=spider&for=pc",
-      "source": "新浪财经",
-      "time": "10月22日",
-      "category": "other"
-    },
-    {
-      "title": "豆瓣2025年度读书榜单公布,理想国入围9本",
-      "url": "https://cul.sohu.com/a/967463901_100152450",
-      "source": "搜狐网",
-      "time": "前天13:01",
-      "category": "other"
-    },
-    {
-      "title": "2025新京报年度阅读推荐榜85本好书入围",
-      "url": "https://baijiahao.baidu.com/s?id=1852011700580810740&wfr=spider&for=pc",
-      "source": "新京报官微",
-      "time": "前天12:50",
-      "category": "other"
     },
     {
       "title": "2025-3《收获》目录及简介 | 5月14日出版",
@@ -72,6 +51,13 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
+      "title": "《河南文学》杂志2025年第四期目录",
+      "url": "https://cul.sohu.com/a/942674515_120753574",
+      "source": "搜狐网",
+      "time": "10月12日",
+      "category": "activity"
+    },
+    {
       "title": "期刊目录| 《文学评论》2025年第5期目录、摘要及编后记",
       "url": "http://baijiahao.baidu.com/s?id=1844013382652568959&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
@@ -98,13 +84,6 @@ window.LIT_DATA = {
       "source": "钱江晚报",
       "time": "11月4日",
       "category": "activity"
-    },
-    {
-      "title": "一周文艺:2025年度字词、十大网络流行语发布,2025国产剧最高分出现",
-      "url": "https://baijiahao.baidu.com/s?id=1852174563453630685&wfr=spider&for=pc",
-      "source": "文汇报",
-      "time": "12小时前",
-      "category": "other"
     }
   ]
 };
