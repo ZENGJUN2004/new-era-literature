@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-22 12:42",
+  "update_time": "2025-12-22 13:17",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,41 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "周末书香活动汇总 | 桃花一簇开无主,可爱深红爱浅红",
-      "url": "https://history.sohu.com/a/877017672_121124807",
-      "source": "搜狐网",
-      "time": "3月28日",
-      "category": "other"
-    },
-    {
-      "title": "2025年浦东图书馆“你选我读好书榜”揭晓",
-      "url": "https://baijiahao.baidu.com/s?id=1842862636955085729&wfr=spider&for=pc",
-      "source": "澎湃新闻",
-      "time": "9月10日",
-      "category": "other"
-    },
-    {
-      "title": "AI概念短片助力新书发布鲁迅文学奖得主王十月分享“最后一部作品”",
-      "url": "https://baijiahao.baidu.com/s?id=1838777094631934865&wfr=spider&for=pc",
-      "source": "封面新闻",
-      "time": "7月27日",
-      "category": "activity"
-    },
-    {
-      "title": "丁聪扶掖《钟鼓楼》 | 刘心武",
-      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1016645&sid=300",
-      "source": "上观",
-      "time": "11月11日",
-      "category": "other"
-    },
-    {
-      "title": "文学如何讲述“你我”?中国作协“作家活动周”探讨普通人书写",
-      "url": "http://baijiahao.baidu.com/s?id=1852031912725431601&wfr=spider&for=pc",
-      "source": "上观新闻",
-      "time": "前天20:53",
-      "category": "other"
     },
     {
       "title": "2025-3《收获》目录及简介 | 5月14日出版",
@@ -104,13 +69,6 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1845939098107077495&wfr=spider&for=pc",
       "source": "工人日报",
       "time": "10月14日",
-      "category": "activity"
-    },
-    {
-      "title": "从西关橘香到沽上粤韵,王松长篇小说《橘红》在广州首发",
-      "url": "https://baijiahao.baidu.com/s?id=1847847012189787325&wfr=spider&for=pc",
-      "source": "钱江晚报",
-      "time": "11月4日",
       "category": "activity"
     }
   ]
