@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-24 05:10",
+  "update_time": "2025-12-24 06:11",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,48 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "北大特别策划!戴锦华、杨立华、范晔、贾妍对谈",
-      "url": "http://m.bjnews.com.cn/detail/174538146719296.html",
-      "source": "新京报",
-      "time": "4月23日",
-      "category": "other"
-    },
-    {
-      "title": "深度提问的回归_访谈_节目_观众",
-      "url": "https://yule.sohu.com/a/934319552_121924583",
-      "source": "搜狐娱乐",
-      "time": "9月12日",
-      "category": "other"
-    },
-    {
-      "title": "艺绽|戴锦华:对世界充满迷恋的学者,内心却住着个“小女孩”",
-      "url": "https://baijiahao.baidu.com/s?id=1846839029337108495&wfr=spider&for=pc",
-      "source": "北京日报客户端",
-      "time": "10月24日",
-      "category": "other"
-    },
-    {
-      "title": "在“汤一介当代学人讲座”,听戴锦华回忆“时代之女与造就时代”",
-      "url": "https://baijiahao.baidu.com/s?id=1847588402613043445&wfr=spider&for=pc",
-      "source": "中国青年报",
-      "time": "11月1日",
-      "category": "meeting"
-    },
-    {
-      "title": "金鸡电影论坛|戴锦华:我们还未能回答如何应对AI冲击",
-      "url": "https://www.thepaper.cn/newsDetail_forward_31983945",
-      "source": "澎湃新闻",
-      "time": "11月17日",
-      "category": "meeting"
-    },
-    {
-      "title": "《当代电影》| 中国女性电影的经验书写与美学政治——戴锦华教授...",
-      "url": "https://yule.sohu.com/a/910374354_121124735",
-      "source": "搜狐娱乐",
-      "time": "7月3日",
-      "category": "other"
     },
     {
       "title": "2025-3《收获》目录及简介 | 5月14日出版",
@@ -111,13 +69,6 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1845939098107077495&wfr=spider&for=pc",
       "source": "工人日报",
       "time": "10月14日",
-      "category": "activity"
-    },
-    {
-      "title": "从西关橘香到沽上粤韵,王松长篇小说《橘红》在广州首发",
-      "url": "https://baijiahao.baidu.com/s?id=1847847012189787325&wfr=spider&for=pc",
-      "source": "钱江晚报",
-      "time": "11月4日",
       "category": "activity"
     }
   ]
