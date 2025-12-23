@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-24 02:16",
+  "update_time": "2025-12-24 03:11",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,13 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "医保商保“双目录”发布 科创板创新药企收获颇丰",
-      "url": "https://fund.eastmoney.com/a/202512103587997956.html",
-      "source": "天天基金网",
-      "time": "12月10日",
-      "category": "activity"
     },
     {
       "title": "2025-3《收获》目录及简介 | 5月14日出版",
@@ -76,6 +69,13 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1845939098107077495&wfr=spider&for=pc",
       "source": "工人日报",
       "time": "10月14日",
+      "category": "activity"
+    },
+    {
+      "title": "从西关橘香到沽上粤韵,王松长篇小说《橘红》在广州首发",
+      "url": "https://baijiahao.baidu.com/s?id=1847847012189787325&wfr=spider&for=pc",
+      "source": "钱江晚报",
+      "time": "11月4日",
       "category": "activity"
     }
   ]
