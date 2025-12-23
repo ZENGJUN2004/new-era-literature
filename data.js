@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-23 20:21",
+  "update_time": "2025-12-23 21:29",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,41 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "以写作拯救生活:“素人写作”工作坊在上海师范大学举办",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32111890",
+      "source": "澎湃新闻",
+      "time": "12月5日",
+      "category": "other"
+    },
+    {
+      "title": "资讯 | 《学术月刊》2025年第6期目录及摘要",
+      "url": "http://baijiahao.baidu.com/s?id=1835819279738356458&wfr=spider&for=pc",
+      "source": "上观新闻",
+      "time": "6月24日",
+      "category": "activity"
+    },
+    {
+      "title": "上海首位!陈思和获颁中国现代文学学术贡献荣誉奖",
+      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1031019&sid=300",
+      "source": "上观",
+      "time": "12月7日",
+      "category": "other"
+    },
+    {
+      "title": "专家学者在汉共话新文学语言与中外文学语言传统",
+      "url": "https://baijiahao.baidu.com/s?id=1849047423176621578&wfr=spider&for=pc",
+      "source": "极目新闻",
+      "time": "11月17日",
+      "category": "other"
+    },
+    {
+      "title": "资讯 |《学术月刊》2025年第9期目录及摘要",
+      "url": "http://baijiahao.baidu.com/s?id=1843961684968116029&wfr=spider&for=pc",
+      "source": "上观新闻",
+      "time": "9月22日",
+      "category": "activity"
     },
     {
       "title": "2025-3《收获》目录及简介 | 5月14日出版",
