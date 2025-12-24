@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-24 17:15",
+  "update_time": "2025-12-24 18:12",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,27 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "文化新观察|中国科幻文学:在科技与人文的交汇处书写未来",
-      "url": "https://news.ycwb.com/ikinvkotkb/content_53340856.htm",
-      "source": "金羊网",
-      "time": "4月9日",
-      "category": "voice"
-    },
-    {
-      "title": "科幻文学如何圈粉新大众?",
-      "url": "https://baijiahao.baidu.com/s?id=1847391019566076234&wfr=spider&for=pc",
-      "source": "上观新闻",
-      "time": "10月30日",
-      "category": "voice"
-    },
-    {
-      "title": "...释放IP价值 重塑创作生态——中国网络文学发展新趋势",
-      "url": "https://baijiahao.baidu.com/s?id=1836714858055563358&wfr=spider&for=pc",
-      "source": "新华社客户端",
-      "time": "7月4日",
-      "category": "other"
     },
     {
       "title": "2025-3《收获》目录及简介 | 5月14日出版",
