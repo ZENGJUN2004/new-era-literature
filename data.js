@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-25 01:10",
+  "update_time": "2025-12-25 02:16",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,31 +23,31 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "专家学者在汉共话新文学语言与中外文学语言传统",
-      "url": "https://baijiahao.baidu.com/s?id=1849047423176621578&wfr=spider&for=pc",
-      "source": "极目新闻",
-      "time": "11月17日",
-      "category": "other"
+      "title": "段崇轩:文学研讨会的“变奏曲”|中原作家",
+      "url": "https://cul.sohu.com/a/915929244_475768",
+      "source": "搜狐网",
+      "time": "7月21日",
+      "category": "meeting"
     },
     {
-      "title": "资讯 |《学术月刊》2025年第9期目录及摘要",
-      "url": "http://baijiahao.baidu.com/s?id=1843961684968116029&wfr=spider&for=pc",
-      "source": "上观新闻",
-      "time": "9月22日",
-      "category": "activity"
+      "title": "新岁丰歌 笔抒乡情——罗倩纪实文学《归禾》作品研讨会综述",
+      "url": "https://cul.sohu.com/a/950583399_121124759",
+      "source": "搜狐网",
+      "time": "11月3日",
+      "category": "meeting"
     },
     {
-      "title": "上海首位!陈思和获颁中国现代文学学术贡献荣誉奖",
-      "url": "https://www.jfdaily.com/wx/detail.do?id=1031019",
-      "source": "上观",
-      "time": "12月7日",
-      "category": "other"
+      "title": "“2025钟子逸论坛暨文学与科学交叉研究”国际研讨会综述",
+      "url": "https://baijiahao.baidu.com/s?id=1849110085809815316&wfr=spider&for=pc",
+      "source": "澎湃新闻",
+      "time": "11月18日",
+      "category": "meeting"
     },
     {
-      "title": "资讯 | 中国现代文学学科建设暨陈思和教授新著分享会在沪举行",
-      "url": "http://baijiahao.baidu.com/s?id=1851022562089198175&wfr=spider&for=pc",
-      "source": "上观新闻",
-      "time": "12月9日",
+      "title": "上海书评|2025近读录:百书·十人·一榜",
+      "url": "https://baijiahao.baidu.com/s?id=1852279641453838504&wfr=spider&for=pc",
+      "source": "澎湃新闻",
+      "time": "前天14:30",
       "category": "other"
     },
     {
@@ -56,20 +56,6 @@ window.LIT_DATA = {
       "source": "新华网",
       "time": "前天17:37",
       "category": "voice"
-    },
-    {
-      "title": "上海书评|2025近读录:百书·十人·一榜",
-      "url": "http://www.thepaper.cn/newsDetail_forward_32207357",
-      "source": "澎湃新闻",
-      "time": "前天14:30",
-      "category": "other"
-    },
-    {
-      "title": "迟子建哽咽地对董宇辉说:“你帮我卖了 150 万本《额尔古纳河右岸...",
-      "url": "https://baijiahao.baidu.com/s?id=1852222404290215317&wfr=spider&for=pc",
-      "source": "海峡导报",
-      "time": "前天00:15",
-      "category": "other"
     },
     {
       "title": "2025-3《收获》目录及简介 | 5月14日出版",
@@ -126,6 +112,27 @@ window.LIT_DATA = {
       "source": "钱江晚报",
       "time": "11月4日",
       "category": "activity"
+    },
+    {
+      "title": "攀高筑峰,文艺苏军交出“时代答卷”",
+      "url": "http://www.js.chinanews.com.cn/news/2025/1224/231653.html",
+      "source": "中国新闻网",
+      "time": "昨天08:18",
+      "category": "other"
+    },
+    {
+      "title": "溯源优秀传统文化核心理念 共话中国式生态法治现代化",
+      "url": "http://www.legaldaily.com.cn/index/content/2025-12/24/content_9311632.html",
+      "source": "法治网",
+      "time": "昨天06:35",
+      "category": "other"
+    },
+    {
+      "title": "贴近时代 书写华章——湖南省作协十年工作综述",
+      "url": "https://baijiahao.baidu.com/s?id=1852344000257413195&wfr=spider&for=pc",
+      "source": "湖南日报",
+      "time": "昨天07:04",
+      "category": "meeting"
     },
     {
       "title": "阅读时,我们在一起|界面文化编辑部2025私人书单",
