@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-24 22:11",
+  "update_time": "2025-12-24 23:11",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,20 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "茅盾文学奖不应\"自相矛盾\"_正义网",
+      "url": "http://www.jcrb.com/culture/jianghu/mdwxj/index.html",
+      "source": "正义网",
+      "time": "",
+      "category": "other"
+    },
+    {
+      "title": "【思想界】彼得·汉德克获诺奖惹争议:文学性能够用政治和道德衡量...",
+      "url": "https://m.jiemian.com/article/3573232.html",
+      "source": "界面新闻",
+      "time": "",
+      "category": "voice"
     },
     {
       "title": "2025-3《收获》目录及简介 | 5月14日出版",
@@ -72,11 +86,11 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "从西关橘香到沽上粤韵,王松长篇小说《橘红》在广州首发",
-      "url": "https://baijiahao.baidu.com/s?id=1847847012189787325&wfr=spider&for=pc",
-      "source": "钱江晚报",
-      "time": "11月4日",
-      "category": "activity"
+      "title": "余华新作评分遭遇滑铁卢文学“顶流”也需要祛魅丨新闻两点论",
+      "url": "https://baijiahao.baidu.com/s?id=1852292883372204688&wfr=spider&for=pc",
+      "source": "封面新闻",
+      "time": "昨天18:02",
+      "category": "meeting"
     }
   ]
 };
