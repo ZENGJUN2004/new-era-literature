@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-25 17:14",
+  "update_time": "2025-12-25 18:12",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,48 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "重磅|“《扬子江文学评论》2024年度文学排行榜”发布",
+      "url": "https://cul.sohu.com/a/848121552_121139852",
+      "source": "搜狐网",
+      "time": "1月12日",
+      "category": "voice"
+    },
+    {
+      "title": "2024年度湖南文学排行榜公布,总有你熟悉的",
+      "url": "https://baijiahao.baidu.com/s?id=1829924823507607605&wfr=spider&for=pc",
+      "source": "长沙晚报掌上长沙",
+      "time": "4月20日",
+      "category": "voice"
+    },
+    {
+      "title": "中国作协发布2024年度“中国网络文学影响力榜”",
+      "url": "https://baijiahao.baidu.com/s?id=1835189171202289667&wfr=spider&for=pc",
+      "source": "潇湘晨报",
+      "time": "6月17日",
+      "category": "other"
+    },
+    {
+      "title": "《草木志》入选文学好书榜年度好书",
+      "url": "https://baijiahao.baidu.com/s?id=1844483038480146502&wfr=spider&for=pc",
+      "source": "中工网",
+      "time": "9月28日",
+      "category": "other"
+    },
+    {
+      "title": "一周文艺:多个年度文学榜单揭晓,春节档影史最快预售破亿,导演大卫...",
+      "url": "https://www.thepaper.cn/newsDetail_forward_29975278",
+      "source": "澎湃新闻",
+      "time": "1月23日",
+      "category": "other"
+    },
+    {
+      "title": "文学好书榜2024年度榜单发布",
+      "url": "https://baijiahao.baidu.com/s?id=1846627357603941492&wfr=spider&for=pc",
+      "source": "新浪财经",
+      "time": "10月22日",
+      "category": "other"
     },
     {
       "title": "2025-3《收获》目录及简介 | 5月14日出版",
@@ -69,13 +111,6 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1845939098107077495&wfr=spider&for=pc",
       "source": "工人日报",
       "time": "10月14日",
-      "category": "activity"
-    },
-    {
-      "title": "从西关橘香到沽上粤韵,王松长篇小说《橘红》在广州首发",
-      "url": "https://baijiahao.baidu.com/s?id=1847847012189787325&wfr=spider&for=pc",
-      "source": "钱江晚报",
-      "time": "11月4日",
       "category": "activity"
     },
     {
