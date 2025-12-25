@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-25 14:18",
+  "update_time": "2025-12-25 15:14",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,39 +23,18 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "这十部作品以“啄木之声”,奏响文艺评论强音",
-      "url": "http://baijiahao.baidu.com/s?id=1832698085974034661&wfr=spider&for=pc",
-      "source": "上观新闻",
-      "time": "5月21日",
-      "category": "meeting"
+      "title": "...期刊与中国非虚构写作生态——以《钟山》《人民文学》《十月...",
+      "url": "https://cul.sohu.com/a/929655837_121124729",
+      "source": "搜狐网",
+      "time": "8月28日",
+      "category": "voice"
     },
     {
-      "title": "文艺评论就是要好处说好,坏处说坏——访中国文艺评论家协会新任...",
-      "url": "https://baijiahao.baidu.com/s?id=1837932558877089122&wfr=spider&for=pc",
-      "source": "光明网",
-      "time": "7月18日",
-      "category": "meeting"
-    },
-    {
-      "title": "“《从‘艺术生产’理论到生产性文学批评》出版座谈会”在我校举行",
-      "url": "https://baijiahao.baidu.com/s?id=1849742577423528740&wfr=spider&for=pc",
-      "source": "首都师范大学",
-      "time": "11月25日",
+      "title": "【贾平凹新作】《消息》首发《十月》杂志,限量版限时抢购!",
+      "url": "https://cul.sohu.com/a/877611717_122354591",
+      "source": "搜狐网",
+      "time": "3月31日",
       "category": "activity"
-    },
-    {
-      "title": "www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=846328",
-      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=846328",
-      "source": "上观",
-      "time": "1月17日",
-      "category": "other"
-    },
-    {
-      "title": "收获",
-      "url": "https://baijiahao.baidu.com/s?id=1846902948359785298&wfr=spider&for=pc",
-      "source": "金台资讯",
-      "time": "10月25日",
-      "category": "other"
     },
     {
       "title": "2025-3《收获》目录及简介 | 5月14日出版",
@@ -100,17 +79,24 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "长篇历史小说《红珊瑚》首发",
-      "url": "https://baijiahao.baidu.com/s?id=1845939098107077495&wfr=spider&for=pc",
-      "source": "工人日报",
-      "time": "10月14日",
+      "title": "2025年12月23日 渭南文化旅游资讯微报(组图)",
+      "url": "https://www.ishaanxi.com/c/2025/1223/3583418.shtml",
+      "source": "陕西网",
+      "time": "前天19:11",
+      "category": "other"
+    },
+    {
+      "title": "多部湖北作家作品入选中国小说学会“2025年度好小说”",
+      "url": "http://news.cnhubei.com/content/2025-12/23/content_19740546.html",
+      "source": "荆楚网新闻",
+      "time": "前天19:55",
       "category": "activity"
     },
     {
-      "title": "从西关橘香到沽上粤韵,王松长篇小说《橘红》在广州首发",
-      "url": "https://baijiahao.baidu.com/s?id=1847847012189787325&wfr=spider&for=pc",
-      "source": "钱江晚报",
-      "time": "11月4日",
+      "title": "丁捷新作《绽放》首发:文学的光在哪里?就在每个人的身边",
+      "url": "https://baijiahao.baidu.com/s?id=1852257177315072816&wfr=spider&for=pc",
+      "source": "文汇报",
+      "time": "前天08:34",
       "category": "activity"
     },
     {
@@ -121,38 +107,10 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "2025年,这些文化大家离我们远去",
-      "url": "https://baijiahao.baidu.com/s?id=1852447621147751384&wfr=spider&for=pc",
-      "source": "界面新闻",
-      "time": "3小时前",
-      "category": "other"
-    },
-    {
-      "title": "中原大地披锦绣 绿色发展绘新篇 ——河南省“十四五”林业高质量...",
-      "url": "https://www.henan.gov.cn/2025/12-25/3277983.html",
-      "source": "河南省人民政府门户网站",
-      "time": "6小时前",
-      "category": "other"
-    },
-    {
-      "title": "Sublive关门了,乐迷的乌托邦会一个接一个倒下吗?",
-      "url": "https://36kr.com/p/3608208122316040",
-      "source": "36kr",
-      "time": "昨天08:26",
-      "category": "other"
-    },
-    {
-      "title": "中国浙江摄影家文献 | 郑丽娟:每一次快门,都是与世界对话",
-      "url": "http://www.thepaper.cn/newsDetail_forward_32240310",
-      "source": "澎湃新闻",
-      "time": "昨天14:21",
-      "category": "other"
-    },
-    {
-      "title": "哪种胶原蛋白肽抗衰老效果最好?权威推荐胶原蛋白肽10大品牌,榜首...",
-      "url": "https://baijiahao.baidu.com/s?id=1852349146080963971&wfr=spider&for=pc",
-      "source": "京九晚报",
-      "time": "昨天08:56",
+      "title": "那是我到贵州乡村插队落户当知青时,唯一的书店记忆 | 叶辛",
+      "url": "http://baijiahao.baidu.com/s?id=1852447126678664330&wfr=spider&for=pc",
+      "source": "上观新闻",
+      "time": "4小时前",
       "category": "other"
     },
     {
