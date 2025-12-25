@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-25 13:16",
+  "update_time": "2025-12-25 14:18",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,38 +23,38 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "中国作协副主席、评论家李敬泽做客扬州讲坛",
-      "url": "http://news.yznews.com.cn/2025-11/30/content_7781466.htm",
-      "source": "扬州网",
-      "time": "11月30日",
+      "title": "这十部作品以“啄木之声”,奏响文艺评论强音",
+      "url": "http://baijiahao.baidu.com/s?id=1832698085974034661&wfr=spider&for=pc",
+      "source": "上观新闻",
+      "time": "5月21日",
       "category": "meeting"
     },
     {
-      "title": "李敬泽:在未来的文学史研究中,访谈会被视为这个时代独特的文体",
-      "url": "https://baijiahao.baidu.com/s?id=1850585714616069317&wfr=spider&for=pc",
-      "source": "文汇报",
-      "time": "12月4日",
+      "title": "文艺评论就是要好处说好,坏处说坏——访中国文艺评论家协会新任...",
+      "url": "https://baijiahao.baidu.com/s?id=1837932558877089122&wfr=spider&for=pc",
+      "source": "光明网",
+      "time": "7月18日",
+      "category": "meeting"
+    },
+    {
+      "title": "“《从‘艺术生产’理论到生产性文学批评》出版座谈会”在我校举行",
+      "url": "https://baijiahao.baidu.com/s?id=1849742577423528740&wfr=spider&for=pc",
+      "source": "首都师范大学",
+      "time": "11月25日",
+      "category": "activity"
+    },
+    {
+      "title": "www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=846328",
+      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=846328",
+      "source": "上观",
+      "time": "1月17日",
       "category": "other"
     },
     {
-      "title": "...建设文化强国】全民阅读大讲堂 |李敬泽:“如果赵树理有手机”",
-      "url": "https://news.sxrb.com/GB/314060/10316274.html",
-      "source": "山西新闻网",
-      "time": "4月25日",
-      "category": "other"
-    },
-    {
-      "title": "《全民阅读促进条例》公布李敬泽寄语乡村少年儿童:通过阅读让...",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32190614",
-      "source": "澎湃新闻",
-      "time": "",
-      "category": "other"
-    },
-    {
-      "title": "年轻人为什么喜欢脱口秀",
-      "url": "https://www.takefoto.cn/news/2025/12/11/11456469.shtml",
-      "source": "北晚在线",
-      "time": "12月11日",
+      "title": "收获",
+      "url": "https://baijiahao.baidu.com/s?id=1846902948359785298&wfr=spider&for=pc",
+      "source": "金台资讯",
+      "time": "10月25日",
       "category": "other"
     },
     {
@@ -121,18 +121,46 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "文艺批评·新书选读|李敬泽:深渊中的火",
-      "url": "https://cul.sohu.com/a/969126103_121124790",
-      "source": "搜狐网",
-      "time": "5小时前",
-      "category": "activity"
+      "title": "2025年,这些文化大家离我们远去",
+      "url": "https://baijiahao.baidu.com/s?id=1852447621147751384&wfr=spider&for=pc",
+      "source": "界面新闻",
+      "time": "3小时前",
+      "category": "other"
     },
     {
-      "title": "勾勒时代群像 传递奋进力量,《时代摘要》第三季收官",
-      "url": "https://baijiahao.baidu.com/s?id=1852355575667265478&wfr=spider&for=pc",
-      "source": "都市时报",
-      "time": "昨天10:38",
+      "title": "中原大地披锦绣 绿色发展绘新篇 ——河南省“十四五”林业高质量...",
+      "url": "https://www.henan.gov.cn/2025/12-25/3277983.html",
+      "source": "河南省人民政府门户网站",
+      "time": "6小时前",
       "category": "other"
+    },
+    {
+      "title": "Sublive关门了,乐迷的乌托邦会一个接一个倒下吗?",
+      "url": "https://36kr.com/p/3608208122316040",
+      "source": "36kr",
+      "time": "昨天08:26",
+      "category": "other"
+    },
+    {
+      "title": "中国浙江摄影家文献 | 郑丽娟:每一次快门,都是与世界对话",
+      "url": "http://www.thepaper.cn/newsDetail_forward_32240310",
+      "source": "澎湃新闻",
+      "time": "昨天14:21",
+      "category": "other"
+    },
+    {
+      "title": "哪种胶原蛋白肽抗衰老效果最好?权威推荐胶原蛋白肽10大品牌,榜首...",
+      "url": "https://baijiahao.baidu.com/s?id=1852349146080963971&wfr=spider&for=pc",
+      "source": "京九晚报",
+      "time": "昨天08:56",
+      "category": "other"
+    },
+    {
+      "title": "《鼓励外商投资产业目录(2025年版)》发布,2026年2月1日起施行",
+      "url": "https://finance.eastmoney.com/a/202512243600675957.html",
+      "source": "东方财富网",
+      "time": "昨天15:32",
+      "category": "activity"
     }
   ]
 };
