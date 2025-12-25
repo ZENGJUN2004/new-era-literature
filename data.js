@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-25 12:30",
+  "update_time": "2025-12-25 13:16",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,38 +23,38 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "段崇轩:文学研讨会的“变奏曲”|中原作家",
-      "url": "https://cul.sohu.com/a/915929244_475768",
-      "source": "搜狐网",
-      "time": "7月21日",
+      "title": "中国作协副主席、评论家李敬泽做客扬州讲坛",
+      "url": "http://news.yznews.com.cn/2025-11/30/content_7781466.htm",
+      "source": "扬州网",
+      "time": "11月30日",
       "category": "meeting"
     },
     {
-      "title": "新岁丰歌 笔抒乡情——罗倩纪实文学《归禾》作品研讨会综述",
-      "url": "https://cul.sohu.com/a/950583399_121124759",
-      "source": "搜狐网",
-      "time": "11月3日",
-      "category": "meeting"
-    },
-    {
-      "title": "“2025钟子逸论坛暨文学与科学交叉研究”国际研讨会综述",
-      "url": "https://baijiahao.baidu.com/s?id=1849110085809815316&wfr=spider&for=pc",
-      "source": "澎湃新闻",
-      "time": "11月18日",
-      "category": "meeting"
-    },
-    {
-      "title": "www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=846328",
-      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=846328",
-      "source": "上观",
-      "time": "1月17日",
+      "title": "李敬泽:在未来的文学史研究中,访谈会被视为这个时代独特的文体",
+      "url": "https://baijiahao.baidu.com/s?id=1850585714616069317&wfr=spider&for=pc",
+      "source": "文汇报",
+      "time": "12月4日",
       "category": "other"
     },
     {
-      "title": "收获",
-      "url": "https://baijiahao.baidu.com/s?id=1846902948359785298&wfr=spider&for=pc",
-      "source": "金台资讯",
-      "time": "10月25日",
+      "title": "...建设文化强国】全民阅读大讲堂 |李敬泽:“如果赵树理有手机”",
+      "url": "https://news.sxrb.com/GB/314060/10316274.html",
+      "source": "山西新闻网",
+      "time": "4月25日",
+      "category": "other"
+    },
+    {
+      "title": "《全民阅读促进条例》公布李敬泽寄语乡村少年儿童:通过阅读让...",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32190614",
+      "source": "澎湃新闻",
+      "time": "",
+      "category": "other"
+    },
+    {
+      "title": "年轻人为什么喜欢脱口秀",
+      "url": "https://www.takefoto.cn/news/2025/12/11/11456469.shtml",
+      "source": "北晚在线",
+      "time": "12月11日",
       "category": "other"
     },
     {
@@ -121,53 +121,18 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "擎旗奋进践嘱托 “晋江经验”续华章——晋江市宣传思想文化工作综述",
-      "url": "https://baijiahao.baidu.com/s?id=1852449414717226567&wfr=spider&for=pc",
-      "source": "闽南网",
-      "time": "1小时前",
-      "category": "meeting"
-    },
-    {
-      "title": "中原大地披锦绣 绿色发展绘新篇 ——河南省“十四五”林业高质量...",
-      "url": "https://www.henan.gov.cn/2025/12-25/3277983.html",
-      "source": "河南省人民政府门户网站",
+      "title": "文艺批评·新书选读|李敬泽:深渊中的火",
+      "url": "https://cul.sohu.com/a/969126103_121124790",
+      "source": "搜狐网",
       "time": "5小时前",
-      "category": "other"
-    },
-    {
-      "title": "攀高筑峰,文艺苏军交出“时代答卷”",
-      "url": "http://www.js.chinanews.com.cn/news/2025/1224/231653.html",
-      "source": "中国新闻网",
-      "time": "昨天08:18",
-      "category": "other"
-    },
-    {
-      "title": "溯源优秀传统文化核心理念 共话中国式生态法治现代化",
-      "url": "http://www.legaldaily.com.cn/index/content/2025-12/24/content_9311632.html",
-      "source": "法治网",
-      "time": "昨天06:35",
-      "category": "other"
-    },
-    {
-      "title": "贴近时代 书写华章——湖南省作协十年工作综述",
-      "url": "https://baijiahao.baidu.com/s?id=1852344000257413195&wfr=spider&for=pc",
-      "source": "湖南日报",
-      "time": "昨天07:04",
-      "category": "meeting"
-    },
-    {
-      "title": "哪种胶原蛋白肽抗衰老效果最好?权威推荐胶原蛋白肽10大品牌,榜首...",
-      "url": "https://baijiahao.baidu.com/s?id=1852349146080963971&wfr=spider&for=pc",
-      "source": "京九晚报",
-      "time": "昨天08:56",
-      "category": "other"
-    },
-    {
-      "title": "《鼓励外商投资产业目录(2025年版)》发布,2026年2月1日起施行",
-      "url": "https://finance.eastmoney.com/a/202512243600675957.html",
-      "source": "东方财富网",
-      "time": "昨天15:32",
       "category": "activity"
+    },
+    {
+      "title": "勾勒时代群像 传递奋进力量,《时代摘要》第三季收官",
+      "url": "https://baijiahao.baidu.com/s?id=1852355575667265478&wfr=spider&for=pc",
+      "source": "都市时报",
+      "time": "昨天10:38",
+      "category": "other"
     }
   ]
 };
