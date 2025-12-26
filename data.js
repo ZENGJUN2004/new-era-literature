@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-26 17:13",
+  "update_time": "2025-12-26 18:12",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,13 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "电子书推介 ‖第27期 2025豆瓣年度读书榜单电子书合集",
+      "url": "https://cul.sohu.com/a/969011286_121106994",
+      "source": "搜狐网",
+      "time": "前天22:29",
+      "category": "other"
     },
     {
       "title": "2025-3《收获》目录及简介 | 5月14日出版",
@@ -83,6 +90,20 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1847847012189787325&wfr=spider&for=pc",
       "source": "钱江晚报",
       "time": "11月4日",
+      "category": "activity"
+    },
+    {
+      "title": "2025豆瓣年度读书榜单电子书合集来啦,56本佳作收藏起来慢慢看",
+      "url": "https://cul.sohu.com/a/969083161_121106842",
+      "source": "搜狐网",
+      "time": "昨天08:06",
+      "category": "other"
+    },
+    {
+      "title": "2025年度中国好小说榜单发布 陕西两位作家作品入选",
+      "url": "https://baijiahao.baidu.com/s?id=1852435088259930708&wfr=spider&for=pc",
+      "source": "华商网",
+      "time": "昨天07:34",
       "category": "activity"
     }
   ]
