@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-26 15:14",
+  "update_time": "2025-12-26 16:16",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -72,17 +72,17 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
+      "title": "长篇小说《虞河桥》在京首发作品深入挖掘潍县西方侨民集中营历史...",
+      "url": "https://weifang.iqilu.com/wfminsheng/2025/1211/5874658.shtml",
+      "source": "齐鲁网",
+      "time": "12月11日",
+      "category": "activity"
+    },
+    {
       "title": "长篇历史小说《红珊瑚》首发",
       "url": "https://baijiahao.baidu.com/s?id=1845939098107077495&wfr=spider&for=pc",
       "source": "工人日报",
       "time": "10月14日",
-      "category": "activity"
-    },
-    {
-      "title": "从西关橘香到沽上粤韵,王松长篇小说《橘红》在广州首发",
-      "url": "https://baijiahao.baidu.com/s?id=1847847012189787325&wfr=spider&for=pc",
-      "source": "钱江晚报",
-      "time": "11月4日",
       "category": "activity"
     }
   ]
