@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-26 07:10",
+  "update_time": "2025-12-26 08:51",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -20,20 +20,6 @@ window.LIT_DATA = {
       "url": "https://scholar.baidu.com/scholar?q=当代文学&sc_ylo=2024&sort=sc_time",
       "source": "CNKI",
       "time": "实时",
-      "category": "meeting"
-    },
-    {
-      "title": "批评文体自身也充满着魅力和光芒",
-      "url": "https://baijiahao.baidu.com/s?id=1824176541688809591&wfr=spider&for=pc",
-      "source": "光明网",
-      "time": "2月16日",
-      "category": "meeting"
-    },
-    {
-      "title": "吴义勤:批评何为——我观当前文学批评的两种症候",
-      "url": "https://baijiahao.baidu.com/s?id=1846558743219478496&wfr=spider&for=pc",
-      "source": "光明网",
-      "time": "10月21日",
       "category": "meeting"
     },
     {
