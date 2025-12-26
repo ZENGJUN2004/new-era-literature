@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-26 19:11",
+  "update_time": "2025-12-26 20:20",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -20,6 +20,27 @@ window.LIT_DATA = {
       "url": "https://scholar.baidu.com/scholar?q=当代文学&sc_ylo=2024&sort=sc_time",
       "source": "CNKI",
       "time": "实时",
+      "category": "meeting"
+    },
+    {
+      "title": "重磅!2024年度“中国人文学术十大热点”评选揭晓!",
+      "url": "https://www.rmlt.com.cn/2025/0512/729700.shtml",
+      "source": "人民论坛网",
+      "time": "5月12日",
+      "category": "voice"
+    },
+    {
+      "title": "紫牛热点|莫言新账号两天粉丝突破50万,网友:根本走不出评论区",
+      "url": "https://baijiahao.baidu.com/s?id=1848596041683003113&wfr=spider&for=pc",
+      "source": "扬子晚报",
+      "time": "11月12日",
+      "category": "voice"
+    },
+    {
+      "title": "艺苑论剑|作家“破圈”,走进日常烟火",
+      "url": "https://baijiahao.baidu.com/s?id=1849936311634046300&wfr=spider&for=pc",
+      "source": "齐鲁壹点",
+      "time": "11月27日",
       "category": "meeting"
     },
     {
@@ -72,6 +93,13 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
+      "title": "硬核书写当代中国人的互联网生活史,石一枫长篇小说《一日顶流...",
+      "url": "https://baijiahao.baidu.com/s?id=1829564387551772566&wfr=spider&for=pc",
+      "source": "扬子晚报",
+      "time": "4月16日",
+      "category": "activity"
+    },
+    {
       "title": "长篇历史小说《红珊瑚》首发",
       "url": "https://baijiahao.baidu.com/s?id=1845939098107077495&wfr=spider&for=pc",
       "source": "工人日报",
@@ -84,6 +112,13 @@ window.LIT_DATA = {
       "source": "钱江晚报",
       "time": "11月4日",
       "category": "activity"
+    },
+    {
+      "title": "文化这一年|书香润城,全民阅读图景色彩斑斓",
+      "url": "https://baijiahao.baidu.com/s?id=1852487226237684455&wfr=spider&for=pc",
+      "source": "京报网",
+      "time": "昨天21:14",
+      "category": "other"
     }
   ]
 };
