@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-27 19:09",
+  "update_time": "2025-12-27 20:19",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,27 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "北京十月文学月这场论坛 探讨青年写作的创新问题",
-      "url": "https://baijiahao.baidu.com/s?id=1847501421602431540&wfr=spider&for=pc",
-      "source": "青瞳视角",
-      "time": "10月31日",
-      "category": "meeting"
-    },
-    {
-      "title": "...期刊与中国非虚构写作生态——以《钟山》《人民文学》《十月...",
-      "url": "https://cul.sohu.com/a/929655837_121124729",
-      "source": "搜狐网",
-      "time": "8月28日",
-      "category": "voice"
-    },
-    {
-      "title": "【贾平凹新作】《消息》首发《十月》杂志,限量版限时抢购!",
-      "url": "https://cul.sohu.com/a/877611717_122354591",
-      "source": "搜狐网",
-      "time": "3月31日",
-      "category": "activity"
     },
     {
       "title": "2025-3《收获》目录及简介 | 5月14日出版",
@@ -86,10 +65,10 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "文化新观察|长篇小说创作如何跨越“十字路口”?",
-      "url": "https://baijiahao.baidu.com/s?id=1850662638523927302&wfr=spider&for=pc",
-      "source": "新华社客户端",
-      "time": "12月5日",
+      "title": "硬核书写当代中国人的互联网生活史,石一枫长篇小说《一日顶流...",
+      "url": "https://baijiahao.baidu.com/s?id=1829564387551772566&wfr=spider&for=pc",
+      "source": "扬子晚报",
+      "time": "4月16日",
       "category": "activity"
     },
     {
@@ -100,32 +79,11 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "《北京文学》首发作品《富贵如云》《木匠李密》入选中国小说学会...",
-      "url": "https://baijiahao.baidu.com/s?id=1852621357700015463&wfr=spider&for=pc",
-      "source": "京报网",
-      "time": "10小时前",
-      "category": "activity"
-    },
-    {
-      "title": "文坛名家新作齐发,谁会“笑”到最后?",
-      "url": "https://baijiahao.baidu.com/s?id=1852609844294664936&wfr=spider&for=pc",
-      "source": "文汇报",
-      "time": "13小时前",
-      "category": "other"
-    },
-    {
-      "title": "一周文化讲座|跨年书单不用愁!",
-      "url": "https://baijiahao.baidu.com/s?id=1852538343321085433&wfr=spider&for=pc",
-      "source": "澎湃新闻",
-      "time": "昨天11:02",
-      "category": "meeting"
-    },
-    {
-      "title": "钱报读书会丨赵德发:脚踏土地,以写作“生万物”",
-      "url": "https://baijiahao.baidu.com/s?id=1852557744575068651&wfr=spider&for=pc",
+      "title": "从西关橘香到沽上粤韵,王松长篇小说《橘红》在广州首发",
+      "url": "https://baijiahao.baidu.com/s?id=1847847012189787325&wfr=spider&for=pc",
       "source": "钱江晚报",
-      "time": "昨天16:07",
-      "category": "other"
+      "time": "11月4日",
+      "category": "activity"
     }
   ]
 };
