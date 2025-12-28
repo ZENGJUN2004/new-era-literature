@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-28 19:09",
+  "update_time": "2025-12-28 20:19",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -20,6 +20,27 @@ window.LIT_DATA = {
       "url": "https://scholar.baidu.com/scholar?q=当代文学&sc_ylo=2024&sort=sc_time",
       "source": "CNKI",
       "time": "实时",
+      "category": "meeting"
+    },
+    {
+      "title": "这十部作品以“啄木之声”,奏响文艺评论强音",
+      "url": "http://baijiahao.baidu.com/s?id=1832698085974034661&wfr=spider&for=pc",
+      "source": "上观新闻",
+      "time": "5月21日",
+      "category": "meeting"
+    },
+    {
+      "title": "文艺评论就是要好处说好,坏处说坏——访中国文艺评论家协会新任...",
+      "url": "https://baijiahao.baidu.com/s?id=1837932558877089122&wfr=spider&for=pc",
+      "source": "光明网",
+      "time": "7月18日",
+      "category": "meeting"
+    },
+    {
+      "title": "夏烈专访:从资深评论家“跨界”特约主编",
+      "url": "https://baijiahao.baidu.com/s?id=1834818706263406472&wfr=spider&for=pc",
+      "source": "浙江日报",
+      "time": "6月14日",
       "category": "meeting"
     },
     {
@@ -65,11 +86,32 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
+      "title": "获奖感言感动网友,青年作家刘楚昕新书《泥潭》发布",
+      "url": "https://baijiahao.baidu.com/s?id=1836714185649934540&wfr=spider&for=pc",
+      "source": "北京日报客户端",
+      "time": "7月4日",
+      "category": "activity"
+    },
+    {
       "title": "长篇历史小说《红珊瑚》首发",
       "url": "https://baijiahao.baidu.com/s?id=1845939098107077495&wfr=spider&for=pc",
       "source": "工人日报",
       "time": "10月14日",
       "category": "activity"
+    },
+    {
+      "title": "“小小艺评家”歌剧科普第一课:解锁 “艺术皇冠上的明珠” ▸艺...",
+      "url": "http://www.thepaper.cn/newsDetail_forward_32270229",
+      "source": "澎湃新闻",
+      "time": "3小时前",
+      "category": "other"
+    },
+    {
+      "title": "请回答2025,当全世界的答案涌进评论区",
+      "url": "http://app.myzaker.com/news/article.php?m=1766825821&pk=694f9dc1b15ec03d806503e9",
+      "source": "ZAKER",
+      "time": "昨天16:51",
+      "category": "meeting"
     }
   ]
 };
