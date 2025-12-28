@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-28 07:10",
+  "update_time": "2025-12-28 08:58",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -20,6 +20,27 @@ window.LIT_DATA = {
       "url": "https://scholar.baidu.com/scholar?q=当代文学&sc_ylo=2024&sort=sc_time",
       "source": "CNKI",
       "time": "实时",
+      "category": "meeting"
+    },
+    {
+      "title": "文艺批评·新书选读|\"第七代批评家访谈系列\"·周明全 X 李海英...",
+      "url": "https://cul.sohu.com/a/965635021_121124790",
+      "source": "搜狐网",
+      "time": "12月16日",
+      "category": "activity"
+    },
+    {
+      "title": "一周文化讲座|我们为什么需要文学批评",
+      "url": "https://baijiahao.baidu.com/s?id=1850635741578072252&wfr=spider&for=pc",
+      "source": "澎湃新闻",
+      "time": "12月5日",
+      "category": "meeting"
+    },
+    {
+      "title": "一周文化讲座|文学批评是“鬼扯”吗?",
+      "url": "https://baijiahao.baidu.com/s?id=1850001961985764103&wfr=spider&for=pc",
+      "source": "澎湃新闻",
+      "time": "11月28日",
       "category": "meeting"
     },
     {
@@ -72,24 +93,10 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "硬核书写当代中国人的互联网生活史,石一枫长篇小说《一日顶流...",
-      "url": "https://baijiahao.baidu.com/s?id=1829564387551772566&wfr=spider&for=pc",
-      "source": "扬子晚报",
-      "time": "4月16日",
-      "category": "activity"
-    },
-    {
       "title": "长篇历史小说《红珊瑚》首发",
       "url": "https://baijiahao.baidu.com/s?id=1845939098107077495&wfr=spider&for=pc",
       "source": "工人日报",
       "time": "10月14日",
-      "category": "activity"
-    },
-    {
-      "title": "从西关橘香到沽上粤韵,王松长篇小说《橘红》在广州首发",
-      "url": "https://baijiahao.baidu.com/s?id=1847847012189787325&wfr=spider&for=pc",
-      "source": "钱江晚报",
-      "time": "11月4日",
       "category": "activity"
     }
   ]
