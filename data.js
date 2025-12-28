@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-28 17:11",
+  "update_time": "2025-12-28 18:11",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,73 +23,38 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "这十部作品以“啄木之声”,奏响文艺评论强音",
-      "url": "http://baijiahao.baidu.com/s?id=1832698085974034661&wfr=spider&for=pc",
+      "title": "专家学者在汉共话新文学语言与中外文学语言传统",
+      "url": "https://baijiahao.baidu.com/s?id=1849047423176621578&wfr=spider&for=pc",
+      "source": "极目新闻",
+      "time": "11月17日",
+      "category": "other"
+    },
+    {
+      "title": "资讯 |《学术月刊》2025年第9期目录及摘要",
+      "url": "http://baijiahao.baidu.com/s?id=1843961684968116029&wfr=spider&for=pc",
       "source": "上观新闻",
-      "time": "5月21日",
-      "category": "meeting"
+      "time": "9月22日",
+      "category": "activity"
     },
     {
-      "title": "文艺评论就是要好处说好,坏处说坏——访中国文艺评论家协会新任...",
-      "url": "https://baijiahao.baidu.com/s?id=1837932558877089122&wfr=spider&for=pc",
-      "source": "光明网",
-      "time": "7月18日",
-      "category": "meeting"
-    },
-    {
-      "title": "夏烈专访:从资深评论家“跨界”特约主编",
-      "url": "https://baijiahao.baidu.com/s?id=1834818706263406472&wfr=spider&for=pc",
-      "source": "浙江日报",
-      "time": "6月14日",
-      "category": "meeting"
-    },
-    {
-      "title": "从爆款《冒姓琅琊》看2025年短剧的精品化之路",
-      "url": "https://baijiahao.baidu.com/s?id=1852537262684675632&wfr=spider&for=pc",
-      "source": "光明网",
-      "time": "前天09:19",
+      "title": "上海首位!陈思和获颁中国现代文学学术贡献荣誉奖",
+      "url": "https://baijiahao.baidu.com/s?id=1850841907024718369&wfr=spider&for=pc",
+      "source": "湘湘带你看社会",
+      "time": "12月7日",
       "category": "other"
     },
     {
-      "title": "文学现场·“杭州会议”与“寻根”|谢尚发:如何让史料完整地说话...",
-      "url": "https://cul.sohu.com/a/894253674_121139852",
+      "title": "【优质期刊推荐】心灵悦读——文学类期刊推荐",
+      "url": "https://cul.sohu.com/a/966341879_121106902",
       "source": "搜狐网",
-      "time": "5月12日",
+      "time": "12月17日",
       "category": "other"
     },
     {
-      "title": "回归大地的文学信仰——罗长江《大地五部曲》评论集分享会发言摘登",
-      "url": "https://baijiahao.baidu.com/s?id=1835085212602265908&wfr=spider&for=pc",
-      "source": "红网",
-      "time": "6月16日",
-      "category": "meeting"
-    },
-    {
-      "title": "思潮与现象|杨鹏鑫:再媒介化的裂隙与角力:《繁花》戏剧、电视剧的...",
-      "url": "https://cul.sohu.com/a/864139199_121139852",
-      "source": "搜狐网",
-      "time": "2月26日",
-      "category": "voice"
-    },
-    {
-      "title": "“打工文学”谱写了光荣与梦想,记录了改革开放的“心灵史”",
-      "url": "https://cul.sohu.com/a/859820053_161795",
-      "source": "搜狐网",
-      "time": "2月16日",
-      "category": "other"
-    },
-    {
-      "title": "2025年逝去的世界文学大师:真实的文学赋予个体最本真的表达",
-      "url": "https://baijiahao.baidu.com/s?id=1852565573184654775&wfr=spider&for=pc",
-      "source": "澎湃新闻",
-      "time": "前天18:15",
-      "category": "other"
-    },
-    {
-      "title": "改革浪潮中的深圳文学力量③ 深圳成为新大众文艺的聚集地",
-      "url": "http://www.sznews.com/news/content/2025-12/26/content_31861488.htm",
-      "source": "深圳新闻网",
-      "time": "前天",
+      "title": "资讯 | 中国现代文学学科建设暨陈思和教授新著分享会在沪举行",
+      "url": "http://baijiahao.baidu.com/s?id=1851022562089198175&wfr=spider&for=pc",
+      "source": "上观新闻",
+      "time": "12月9日",
       "category": "other"
     },
     {
@@ -142,6 +107,13 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
+      "title": "硬核书写当代中国人的互联网生活史,石一枫长篇小说《一日顶流...",
+      "url": "https://baijiahao.baidu.com/s?id=1829564387551772566&wfr=spider&for=pc",
+      "source": "扬子晚报",
+      "time": "4月16日",
+      "category": "activity"
+    },
+    {
       "title": "长篇历史小说《红珊瑚》首发",
       "url": "https://baijiahao.baidu.com/s?id=1845939098107077495&wfr=spider&for=pc",
       "source": "工人日报",
@@ -149,18 +121,11 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "请回答2025,当全世界的答案涌进评论区",
-      "url": "http://app.myzaker.com/news/article.php?m=1766825821&pk=694f9dc1b15ec03d806503e9",
-      "source": "ZAKER",
-      "time": "昨天16:51",
-      "category": "meeting"
-    },
-    {
-      "title": "北京曹雪芹学会学术年会召开:红学在当代",
-      "url": "https://baijiahao.baidu.com/s?id=1852649103574829485&wfr=spider&for=pc",
-      "source": "澎湃新闻",
-      "time": "昨天16:23",
-      "category": "other"
+      "title": "从西关橘香到沽上粤韵,王松长篇小说《橘红》在广州首发",
+      "url": "https://baijiahao.baidu.com/s?id=1847847012189787325&wfr=spider&for=pc",
+      "source": "钱江晚报",
+      "time": "11月4日",
+      "category": "activity"
     }
   ]
 };
