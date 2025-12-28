@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-28 16:14",
+  "update_time": "2025-12-28 17:11",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,38 +23,73 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "【优质期刊推荐】心灵悦读——文学类期刊推荐",
-      "url": "https://cul.sohu.com/a/966341879_121106902",
+      "title": "这十部作品以“啄木之声”,奏响文艺评论强音",
+      "url": "http://baijiahao.baidu.com/s?id=1832698085974034661&wfr=spider&for=pc",
+      "source": "上观新闻",
+      "time": "5月21日",
+      "category": "meeting"
+    },
+    {
+      "title": "文艺评论就是要好处说好,坏处说坏——访中国文艺评论家协会新任...",
+      "url": "https://baijiahao.baidu.com/s?id=1837932558877089122&wfr=spider&for=pc",
+      "source": "光明网",
+      "time": "7月18日",
+      "category": "meeting"
+    },
+    {
+      "title": "夏烈专访:从资深评论家“跨界”特约主编",
+      "url": "https://baijiahao.baidu.com/s?id=1834818706263406472&wfr=spider&for=pc",
+      "source": "浙江日报",
+      "time": "6月14日",
+      "category": "meeting"
+    },
+    {
+      "title": "从爆款《冒姓琅琊》看2025年短剧的精品化之路",
+      "url": "https://baijiahao.baidu.com/s?id=1852537262684675632&wfr=spider&for=pc",
+      "source": "光明网",
+      "time": "前天09:19",
+      "category": "other"
+    },
+    {
+      "title": "文学现场·“杭州会议”与“寻根”|谢尚发:如何让史料完整地说话...",
+      "url": "https://cul.sohu.com/a/894253674_121139852",
       "source": "搜狐网",
-      "time": "12月17日",
+      "time": "5月12日",
       "category": "other"
     },
     {
-      "title": "钱报读书会丨赵德发:脚踏土地,以写作“生万物”",
-      "url": "https://baijiahao.baidu.com/s?id=1852557744575068651&wfr=spider&for=pc",
-      "source": "钱江晚报",
-      "time": "前天16:07",
+      "title": "回归大地的文学信仰——罗长江《大地五部曲》评论集分享会发言摘登",
+      "url": "https://baijiahao.baidu.com/s?id=1835085212602265908&wfr=spider&for=pc",
+      "source": "红网",
+      "time": "6月16日",
+      "category": "meeting"
+    },
+    {
+      "title": "思潮与现象|杨鹏鑫:再媒介化的裂隙与角力:《繁花》戏剧、电视剧的...",
+      "url": "https://cul.sohu.com/a/864139199_121139852",
+      "source": "搜狐网",
+      "time": "2月26日",
+      "category": "voice"
+    },
+    {
+      "title": "“打工文学”谱写了光荣与梦想,记录了改革开放的“心灵史”",
+      "url": "https://cul.sohu.com/a/859820053_161795",
+      "source": "搜狐网",
+      "time": "2月16日",
       "category": "other"
     },
     {
-      "title": "就业典型 | 青年残疾诗人许天伦的文学梦:多才谁似许公子 一根手指...",
-      "url": "http://baijiahao.baidu.com/s?id=1852614383932766291&wfr=spider&for=pc",
-      "source": "澎湃新闻客户端",
-      "time": "前天20:43",
+      "title": "2025年逝去的世界文学大师:真实的文学赋予个体最本真的表达",
+      "url": "https://baijiahao.baidu.com/s?id=1852565573184654775&wfr=spider&for=pc",
+      "source": "澎湃新闻",
+      "time": "前天18:15",
       "category": "other"
     },
     {
-      "title": "www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=846328",
-      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=846328",
-      "source": "上观",
-      "time": "1月17日",
-      "category": "other"
-    },
-    {
-      "title": "智飞生物上榜2025重庆民营企业科技创新指数100强",
-      "url": "https://baijiahao.baidu.com/s?id=1852565198817743996&wfr=spider&for=pc",
-      "source": "金台资讯",
-      "time": "前天18:00",
+      "title": "改革浪潮中的深圳文学力量③ 深圳成为新大众文艺的聚集地",
+      "url": "http://www.sznews.com/news/content/2025-12/26/content_31861488.htm",
+      "source": "深圳新闻网",
+      "time": "前天",
       "category": "other"
     },
     {
@@ -114,59 +149,17 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "全国文学报刊出版界2025“新大众文艺联席会议”暨主题研讨会在...",
-      "url": "https://baijiahao.baidu.com/s?id=1852714082642674564&wfr=spider&for=pc",
-      "source": "三秦都市报",
-      "time": "6小时前",
-      "category": "activity"
+      "title": "请回答2025,当全世界的答案涌进评论区",
+      "url": "http://app.myzaker.com/news/article.php?m=1766825821&pk=694f9dc1b15ec03d806503e9",
+      "source": "ZAKER",
+      "time": "昨天16:51",
+      "category": "meeting"
     },
     {
-      "title": "邹胜念:所以,要警惕爱上湖和湖一样的女人 | 纯粹诗歌",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32221584",
+      "title": "北京曹雪芹学会学术年会召开:红学在当代",
+      "url": "https://baijiahao.baidu.com/s?id=1852649103574829485&wfr=spider&for=pc",
       "source": "澎湃新闻",
-      "time": "昨天18:23",
-      "category": "other"
-    },
-    {
-      "title": "《北京文学》首发作品《富贵如云》《木匠李密》入选中国小说学会...",
-      "url": "https://baijiahao.baidu.com/s?id=1852621357543048413&wfr=spider&for=pc",
-      "source": "北晚在线",
-      "time": "昨天08:46",
-      "category": "activity"
-    },
-    {
-      "title": "第35期“解放书单”上新,在书页里读懂时代与思想",
-      "url": "http://baijiahao.baidu.com/s?id=1852613696054596683&wfr=spider&for=pc",
-      "source": "上观新闻",
-      "time": "昨天07:01",
-      "category": "other"
-    },
-    {
-      "title": "文坛名家新作齐发,谁会“笑”到最后?",
-      "url": "https://baijiahao.baidu.com/s?id=1852609844294664936&wfr=spider&for=pc",
-      "source": "文汇报",
-      "time": "昨天06:00",
-      "category": "other"
-    },
-    {
-      "title": "余华、刘震云、陈彦、范稳最新长篇纷纷亮相,谁会“笑”到最后",
-      "url": "https://baijiahao.baidu.com/s?id=1852637044588301558&wfr=spider&for=pc",
-      "source": "湘湘带你看社会",
-      "time": "昨天13:12",
-      "category": "other"
-    },
-    {
-      "title": "封关后,这一文旅盛会首次来到海南",
-      "url": "http://www.thepaper.cn/newsDetail_forward_32267330",
-      "source": "澎湃新闻",
-      "time": "昨天18:03",
-      "category": "other"
-    },
-    {
-      "title": "公开宣判+新闻发布,“沉浸式”接受禁毒教育,“零距离”感受法律威严",
-      "url": "http://baijiahao.baidu.com/s?id=1852639143350434797&wfr=spider&for=pc",
-      "source": "澎湃新闻客户端",
-      "time": "昨天12:16",
+      "time": "昨天16:23",
       "category": "other"
     }
   ]
