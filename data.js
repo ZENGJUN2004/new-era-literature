@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-29 13:21",
+  "update_time": "2025-12-29 14:20",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -20,6 +20,27 @@ window.LIT_DATA = {
       "url": "https://scholar.baidu.com/scholar?q=当代文学&sc_ylo=2024&sort=sc_time",
       "source": "CNKI",
       "time": "实时",
+      "category": "meeting"
+    },
+    {
+      "title": "“《从‘艺术生产’理论到生产性文学批评》出版座谈会”在我校举行",
+      "url": "https://baijiahao.baidu.com/s?id=1849742577423528740&wfr=spider&for=pc",
+      "source": "首都师范大学",
+      "time": "11月25日",
+      "category": "activity"
+    },
+    {
+      "title": "段崇轩:文学研讨会的“变奏曲”|中原作家",
+      "url": "https://cul.sohu.com/a/915929244_475768",
+      "source": "搜狐网",
+      "time": "7月21日",
+      "category": "meeting"
+    },
+    {
+      "title": "“2025钟子逸论坛暨文学与科学交叉研究”国际研讨会综述",
+      "url": "https://baijiahao.baidu.com/s?id=1849110085809815316&wfr=spider&for=pc",
+      "source": "澎湃新闻",
+      "time": "11月18日",
       "category": "meeting"
     },
     {
