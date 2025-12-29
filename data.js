@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-29 21:31",
+  "update_time": "2025-12-29 22:13",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,62 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "周末书香活动汇总 | 桃花一簇开无主,可爱深红爱浅红",
-      "url": "https://history.sohu.com/a/877017672_121124807",
-      "source": "搜狐网",
-      "time": "3月28日",
-      "category": "other"
-    },
-    {
-      "title": "www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=98...",
-      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=987051&sid=300",
-      "source": "上观",
-      "time": "9月22日",
-      "category": "other"
-    },
-    {
-      "title": "中国叙事艺术如何实现当代创新?戴锦华、李修文、徐浩峰上演激情...",
-      "url": "https://baijiahao.baidu.com/s?id=1852671784822698087&wfr=spider&for=pc",
-      "source": "北京日报客户端",
-      "time": "前天22:23",
-      "category": "other"
-    },
-    {
-      "title": "AI概念短片助力新书发布鲁迅文学奖得主王十月分享“最后一部作品”",
-      "url": "https://baijiahao.baidu.com/s?id=1838777094631934865&wfr=spider&for=pc",
-      "source": "封面新闻",
-      "time": "7月27日",
-      "category": "activity"
-    },
-    {
-      "title": "鲁敏新书《不可能死去的人》分享会暨《当代》名家写作课在津举行",
-      "url": "https://cul.sohu.com/a/964644699_121443915",
-      "source": "搜狐网",
-      "time": "12月13日",
-      "category": "activity"
-    },
-    {
-      "title": "鲁迅文学奖得主鲍尔吉·原野写给孩子的自然生存启示录",
-      "url": "http://app.myzaker.com/news/article.php?pk=69403e59b15ec0277063b622",
-      "source": "ZAKER",
-      "time": "12月15日",
-      "category": "other"
-    },
-    {
-      "title": "今晚报:鲁迅文学奖得主新作分享会在南开大学举办 鲁敏:用情感共通...",
-      "url": "https://news.nankai.edu.cn/mtnk/system/2025/12/15/030070197.shtml",
-      "source": "南开大学峡学",
-      "time": "12月12日",
-      "category": "other"
-    },
-    {
-      "title": "评《英雄山》:让英雄变得可亲可敬_央广网",
-      "url": "https://www.cnr.cn/sd/stwl/20251227/t20251227_527474291.shtml",
-      "source": "央广网",
-      "time": "前天10:00",
-      "category": "other"
     },
     {
       "title": "2025-3《收获》目录及简介 | 5月14日出版",
@@ -146,13 +90,6 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1847847012189787325&wfr=spider&for=pc",
       "source": "钱江晚报",
       "time": "11月4日",
-      "category": "activity"
-    },
-    {
-      "title": "...重读文学的温度——杨明强散文集《老屋和炊烟》新书阅享会在蓉...",
-      "url": "http://baijiahao.baidu.com/s?id=1852822954142083474&wfr=spider&for=pc",
-      "source": "澎湃新闻客户端",
-      "time": "7小时前",
       "category": "activity"
     }
   ]
