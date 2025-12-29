@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-30 01:10",
+  "update_time": "2025-12-30 02:17",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -65,9 +65,9 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "获奖感言感动网友 青年作家刘楚昕新书《泥潭》发布",
-      "url": "https://baijiahao.baidu.com/s?id=1836713778541799472&wfr=spider&for=pc",
-      "source": "新华社新媒体",
+      "title": "获奖感言感动网友,青年作家刘楚昕新书《泥潭》发布",
+      "url": "https://baijiahao.baidu.com/s?id=1836714185649934540&wfr=spider&for=pc",
+      "source": "北京日报客户端",
       "time": "7月4日",
       "category": "activity"
     },
