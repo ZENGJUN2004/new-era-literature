@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-30 22:12",
+  "update_time": "2025-12-30 23:12",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -65,10 +65,24 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
+      "title": "硬核书写当代中国人的互联网生活史,石一枫长篇小说《一日顶流...",
+      "url": "https://baijiahao.baidu.com/s?id=1829564387551772566&wfr=spider&for=pc",
+      "source": "扬子晚报",
+      "time": "4月16日",
+      "category": "activity"
+    },
+    {
       "title": "长篇历史小说《红珊瑚》首发",
       "url": "https://baijiahao.baidu.com/s?id=1845939098107077495&wfr=spider&for=pc",
       "source": "工人日报",
       "time": "10月14日",
+      "category": "activity"
+    },
+    {
+      "title": "从西关橘香到沽上粤韵,王松长篇小说《橘红》在广州首发",
+      "url": "https://baijiahao.baidu.com/s?id=1847847012189787325&wfr=spider&for=pc",
+      "source": "钱江晚报",
+      "time": "11月4日",
       "category": "activity"
     }
   ]
