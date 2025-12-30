@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-30 11:56",
+  "update_time": "2025-12-30 12:32",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,20 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "读者在素人写作那里寻找坚实感,还是幻梦代偿?",
-      "url": "http://baijiahao.baidu.com/s?id=1851828249233045126&wfr=spider&for=pc",
-      "source": "上观新闻",
-      "time": "12月18日",
-      "category": "other"
-    },
-    {
-      "title": "素人非虚构写作背后的三种创意写作工坊,有哪些优缺点?",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32240732",
-      "source": "澎湃新闻",
-      "time": "前天14:16",
-      "category": "voice"
     },
     {
       "title": "2025-3《收获》目录及简介 | 5月14日出版",
@@ -98,20 +84,6 @@ window.LIT_DATA = {
       "source": "钱江晚报",
       "time": "11月4日",
       "category": "activity"
-    },
-    {
-      "title": "文艺新风扑面来 大众舞台展风采",
-      "url": "https://baijiahao.baidu.com/s?id=1852794498442104585&wfr=spider&for=pc",
-      "source": "千龙网",
-      "time": "昨天06:55",
-      "category": "other"
-    },
-    {
-      "title": "常方舟︱MBTI、极简主义与网红带货:当“追求真实”成为一种现代迷信",
-      "url": "https://baijiahao.baidu.com/s?id=1852809754777550632&wfr=spider&for=pc",
-      "source": "澎湃新闻",
-      "time": "昨天10:56",
-      "category": "other"
     }
   ]
 };
