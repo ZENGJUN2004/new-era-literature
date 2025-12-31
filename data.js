@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-31 17:15",
+  "update_time": "2025-12-31 18:12",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,27 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "女性文学为何持续破圈?业内人士:以柔情照亮天地,入骨批判见真章",
-      "url": "https://baijiahao.baidu.com/s?id=1835438720752445278&wfr=spider&for=pc",
-      "source": "封面新闻",
-      "time": "6月20日",
-      "category": "other"
-    },
-    {
-      "title": "常方舟︱MBTI、极简主义与网红带货:当“追求真实”成为一种现代迷信",
-      "url": "https://baijiahao.baidu.com/s?id=1852809754777550632&wfr=spider&for=pc",
-      "source": "澎湃新闻",
-      "time": "前天10:56",
-      "category": "other"
-    },
-    {
-      "title": "中英作家聊“她故事”,女性表达应关注更多话题",
-      "url": "https://www.thepaper.cn/newsDetail_forward_31813394",
-      "source": "澎湃新闻",
-      "time": "10月20日",
-      "category": "other"
     },
     {
       "title": "2025-3《收获》目录及简介 | 5月14日出版",
@@ -105,41 +84,6 @@ window.LIT_DATA = {
       "source": "钱江晚报",
       "time": "11月4日",
       "category": "activity"
-    },
-    {
-      "title": "92年后,《雷雨》中的繁漪女士有了新故事",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32275413",
-      "source": "澎湃新闻",
-      "time": "5小时前",
-      "category": "other"
-    },
-    {
-      "title": "“近百年女性作家中,她的文字很淡,气象却是最大的”",
-      "url": "http://www.thepaper.cn/newsDetail_forward_32278547",
-      "source": "澎湃新闻",
-      "time": "5小时前",
-      "category": "other"
-    },
-    {
-      "title": "消失的读者,消失的作家|2025文学盘点",
-      "url": "https://baijiahao.baidu.com/s?id=1852991202475636959&wfr=spider&for=pc",
-      "source": "界面新闻",
-      "time": "6小时前",
-      "category": "other"
-    },
-    {
-      "title": "译作获得第十七届傅雷翻译出版奖文学类奖项 黄荭 无事花草 闲来翻书",
-      "url": "https://baijiahao.baidu.com/s?id=1852902587552358725&wfr=spider&for=pc",
-      "source": "中国青年网",
-      "time": "昨天11:13",
-      "category": "activity"
-    },
-    {
-      "title": "回到文学故乡 重拾舞台诗意",
-      "url": "https://baijiahao.baidu.com/s?id=1852979969383855736&wfr=spider&for=pc",
-      "source": "中国青年网",
-      "time": "昨天09:14",
-      "category": "other"
     }
   ]
 };
