@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-31 22:12",
+  "update_time": "2025-12-31 23:11",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,27 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "豆瓣高分、评论高赞,不出门的日子里,这6部纪录片治愈了我",
-      "url": "http://baijiahao.baidu.com/s?id=1730506789958714144&wfr=spider&for=pc",
-      "source": "澎湃新闻客户端",
-      "time": "",
-      "category": "meeting"
-    },
-    {
-      "title": "...一定要大量读书,读书是为了遇见更好的自己!(附50本豆瓣高分...",
-      "url": "https://cul.sohu.com/a/886722137_352757",
-      "source": "搜狐网",
-      "time": "4月20日",
-      "category": "other"
-    },
-    {
-      "title": "名家三棱镜·乔叶|乔叶:关于《宝水》及其他",
-      "url": "https://cul.sohu.com/a/857403064_121139852",
-      "source": "搜狐网",
-      "time": "2月10日",
-      "category": "other"
     },
     {
       "title": "文学现场·“杭州会议”与“寻根”|谢尚发:如何让史料完整地说话...",
@@ -77,6 +56,41 @@ window.LIT_DATA = {
       "source": "上观新闻",
       "time": "前天16:41",
       "category": "voice"
+    },
+    {
+      "title": "山西·阳泉第三届刘慈欣故乡科幻文化活动周侧记",
+      "url": "http://www.sx.xinhuanet.com/20251015/fd41e5fae4f8482aa3704671f32112cf/c.html",
+      "source": "新华网山西",
+      "time": "10月15日",
+      "category": "voice"
+    },
+    {
+      "title": "文化新观察|中国科幻文学:在科技与人文的交汇处书写未来",
+      "url": "https://news.ycwb.com/ikinvkotkb/content_53340856.htm",
+      "source": "金羊网",
+      "time": "4月9日",
+      "category": "voice"
+    },
+    {
+      "title": "科幻文学如何圈粉新大众?",
+      "url": "https://baijiahao.baidu.com/s?id=1847391019566076234&wfr=spider&for=pc",
+      "source": "上观新闻",
+      "time": "10月30日",
+      "category": "voice"
+    },
+    {
+      "title": "艺览2025·文学盘点:创作、跨界与回响",
+      "url": "https://baijiahao.baidu.com/s?id=1852829596315967415&wfr=spider&for=pc",
+      "source": "齐鲁壹点",
+      "time": "前天16:12",
+      "category": "other"
+    },
+    {
+      "title": "文化新观察丨中国网络文学发展新趋势",
+      "url": "https://baijiahao.baidu.com/s?id=1836721737874141864&wfr=spider&for=pc",
+      "source": "北京日报客户端",
+      "time": "7月4日",
+      "category": "other"
     },
     {
       "title": "2025-3《收获》目录及简介 | 5月14日出版",
@@ -149,38 +163,24 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "将书单主义进行到底︱当真理令我们不悦时,也请不要停止对真理的热爱",
-      "url": "https://baijiahao.baidu.com/s?id=1853022058281941707&wfr=spider&for=pc",
-      "source": "澎湃新闻",
-      "time": "2小时前",
-      "category": "other"
-    },
-    {
-      "title": "扬州社科专家访谈录 | 叶橹:彳亍而行 以诗为航",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32291608",
-      "source": "澎湃新闻",
-      "time": "3小时前",
-      "category": "other"
-    },
-    {
       "title": "“近百年女性作家中,她的文字很淡,气象却是最大的”",
       "url": "https://www.thepaper.cn/newsDetail_forward_32278547",
       "source": "澎湃新闻",
-      "time": "9小时前",
+      "time": "10小时前",
       "category": "other"
     },
     {
-      "title": "硚图荐书丨 2025豆瓣年度读书榜单电子书合集来啦,56本佳作收藏...",
-      "url": "https://cul.sohu.com/a/971124731_121124762",
-      "source": "搜狐网",
-      "time": "13小时前",
+      "title": "消失的读者,消失的作家|2025文学盘点",
+      "url": "https://www.jiemian.com/article/13819206.html",
+      "source": "界面新闻",
+      "time": "12小时前",
       "category": "other"
     },
     {
       "title": "以新的观念直面文学发展新现实",
       "url": "https://baijiahao.baidu.com/s?id=1852965363742411590&wfr=spider&for=pc",
       "source": "光明网",
-      "time": "19小时前",
+      "time": "20小时前",
       "category": "other"
     },
     {
@@ -188,13 +188,6 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1852927426145413135&wfr=spider&for=pc",
       "source": "湘湘带你看社会",
       "time": "昨天18:08",
-      "category": "other"
-    },
-    {
-      "title": "2025年山西文学12件大事",
-      "url": "https://baijiahao.baidu.com/s?id=1852883714579899054&wfr=spider&for=pc",
-      "source": "太原日报",
-      "time": "昨天06:33",
       "category": "other"
     }
   ]
