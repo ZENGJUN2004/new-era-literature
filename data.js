@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-31 16:16",
+  "update_time": "2025-12-31 17:15",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,88 +23,25 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "《红色电影副刊文献典藏本(1924-1949)》新书发布会在兰州大学榆中...",
-      "url": "https://baijiahao.baidu.com/s?id=1851223132869428332&wfr=spider&for=pc",
-      "source": "兰州大学",
-      "time": "12月12日",
-      "category": "activity"
-    },
-    {
-      "title": "兰大学子在2025“理解当代中国”外语能力大赛甘肃赛区决赛中获...",
-      "url": "https://baijiahao.baidu.com/s?id=1847847974150846675&wfr=spider&for=pc",
-      "source": "兰州大学",
-      "time": "11月5日",
+      "title": "女性文学为何持续破圈?业内人士:以柔情照亮天地,入骨批判见真章",
+      "url": "https://baijiahao.baidu.com/s?id=1835438720752445278&wfr=spider&for=pc",
+      "source": "封面新闻",
+      "time": "6月20日",
       "category": "other"
     },
     {
-      "title": "一批湖南作家作品入选“中国当代文学研究会2024中国文学年度档案”",
-      "url": "https://baijiahao.baidu.com/s?id=1821747694446055165&wfr=spider&for=pc",
-      "source": "湖南日报",
-      "time": "1月21日",
-      "category": "other"
-    },
-    {
-      "title": "中国当代文学研究会公布“2024中国文学年度档案”",
-      "url": "https://baijiahao.baidu.com/s?id=1821748323942392845&wfr=spider&for=pc",
+      "title": "常方舟︱MBTI、极简主义与网红带货:当“追求真实”成为一种现代迷信",
+      "url": "https://baijiahao.baidu.com/s?id=1852809754777550632&wfr=spider&for=pc",
       "source": "澎湃新闻",
-      "time": "1月20日",
+      "time": "前天10:56",
       "category": "other"
     },
     {
-      "title": "文学会客厅丨中国当代文学研究会会长张清华:青年作家要大胆创新创作",
-      "url": "https://baijiahao.baidu.com/s?id=1834441478641970872&wfr=spider&for=pc",
-      "source": "齐鲁壹点",
-      "time": "6月9日",
-      "category": "other"
-    },
-    {
-      "title": "网文破圈:从书友圈走向全民场重塑文化生态",
-      "url": "https://baijiahao.baidu.com/s?id=1852851057457352867&wfr=spider&for=pc",
-      "source": "青瞳视角",
-      "time": "前天21:53",
-      "category": "other"
-    },
-    {
-      "title": "批评文体自身也充满着魅力和光芒",
-      "url": "https://baijiahao.baidu.com/s?id=1824176541688809591&wfr=spider&for=pc",
-      "source": "光明网",
-      "time": "2月16日",
-      "category": "meeting"
-    },
-    {
-      "title": "吴义勤:批评何为——我观当前文学批评的两种症候",
-      "url": "https://baijiahao.baidu.com/s?id=1846558743219478496&wfr=spider&for=pc",
-      "source": "光明网",
-      "time": "10月21日",
-      "category": "meeting"
-    },
-    {
-      "title": "一周文化讲座|文学批评是“鬼扯”吗?",
-      "url": "https://baijiahao.baidu.com/s?id=1850001961985764103&wfr=spider&for=pc",
+      "title": "中英作家聊“她故事”,女性表达应关注更多话题",
+      "url": "https://www.thepaper.cn/newsDetail_forward_31813394",
       "source": "澎湃新闻",
-      "time": "11月28日",
-      "category": "meeting"
-    },
-    {
-      "title": "北京十月文学月这场论坛 探讨青年写作的创新问题",
-      "url": "https://baijiahao.baidu.com/s?id=1847501421602431540&wfr=spider&for=pc",
-      "source": "青瞳视角",
-      "time": "10月31日",
-      "category": "meeting"
-    },
-    {
-      "title": "...期刊与中国非虚构写作生态——以《钟山》《人民文学》《十月...",
-      "url": "https://cul.sohu.com/a/929655837_121124729",
-      "source": "搜狐网",
-      "time": "8月28日",
-      "category": "voice"
-    },
-    {
-      "title": "【贾平凹新作】《消息》首发《十月》杂志,限量版限时抢购!",
-      "url": "https://cul.sohu.com/a/877611717_122354591",
-      "source": "搜狐网",
-      "time": "3月31日",
-      "category": "activity"
+      "time": "10月20日",
+      "category": "other"
     },
     {
       "title": "2025-3《收获》目录及简介 | 5月14日出版",
@@ -149,13 +86,6 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "文化新观察|长篇小说创作如何跨越“十字路口”?",
-      "url": "https://baijiahao.baidu.com/s?id=1850662638523927302&wfr=spider&for=pc",
-      "source": "新华社客户端",
-      "time": "12月5日",
-      "category": "activity"
-    },
-    {
       "title": "硬核书写当代中国人的互联网生活史,石一枫长篇小说《一日顶流...",
       "url": "https://baijiahao.baidu.com/s?id=1829564387551772566&wfr=spider&for=pc",
       "source": "扬子晚报",
@@ -170,24 +100,45 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "以新的观念直面文学发展新现实",
-      "url": "https://baijiahao.baidu.com/s?id=1852965363742411590&wfr=spider&for=pc",
-      "source": "光明网",
-      "time": "13小时前",
-      "category": "other"
+      "title": "从西关橘香到沽上粤韵,王松长篇小说《橘红》在广州首发",
+      "url": "https://baijiahao.baidu.com/s?id=1847847012189787325&wfr=spider&for=pc",
+      "source": "钱江晚报",
+      "time": "11月4日",
+      "category": "activity"
     },
     {
-      "title": "徐刚:把文化的元素有机地融入到故事",
-      "url": "https://baijiahao.baidu.com/s?id=1852989901962398603&wfr=spider&for=pc",
-      "source": "齐鲁壹点",
-      "time": "昨天14:07",
-      "category": "other"
-    },
-    {
-      "title": "2025年,哪些文学事件令你印象深刻?",
-      "url": "https://baijiahao.baidu.com/s?id=1852890507237047777&wfr=spider&for=pc",
+      "title": "92年后,《雷雨》中的繁漪女士有了新故事",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32275413",
       "source": "澎湃新闻",
-      "time": "昨天08:20",
+      "time": "5小时前",
+      "category": "other"
+    },
+    {
+      "title": "“近百年女性作家中,她的文字很淡,气象却是最大的”",
+      "url": "http://www.thepaper.cn/newsDetail_forward_32278547",
+      "source": "澎湃新闻",
+      "time": "5小时前",
+      "category": "other"
+    },
+    {
+      "title": "消失的读者,消失的作家|2025文学盘点",
+      "url": "https://baijiahao.baidu.com/s?id=1852991202475636959&wfr=spider&for=pc",
+      "source": "界面新闻",
+      "time": "6小时前",
+      "category": "other"
+    },
+    {
+      "title": "译作获得第十七届傅雷翻译出版奖文学类奖项 黄荭 无事花草 闲来翻书",
+      "url": "https://baijiahao.baidu.com/s?id=1852902587552358725&wfr=spider&for=pc",
+      "source": "中国青年网",
+      "time": "昨天11:13",
+      "category": "activity"
+    },
+    {
+      "title": "回到文学故乡 重拾舞台诗意",
+      "url": "https://baijiahao.baidu.com/s?id=1852979969383855736&wfr=spider&for=pc",
+      "source": "中国青年网",
+      "time": "昨天09:14",
       "category": "other"
     }
   ]
