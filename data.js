@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2025-12-31 20:20",
+  "update_time": "2025-12-31 21:27",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -20,6 +20,27 @@ window.LIT_DATA = {
       "url": "https://scholar.baidu.com/scholar?q=当代文学&sc_ylo=2024&sort=sc_time",
       "source": "CNKI",
       "time": "实时",
+      "category": "meeting"
+    },
+    {
+      "title": "董宇辉获文学奖引争议,文学是不是一种“真空存在”?",
+      "url": "https://baijiahao.baidu.com/s?id=1830125446216865150&wfr=spider&for=pc",
+      "source": "光明日报",
+      "time": "4月23日",
+      "category": "voice"
+    },
+    {
+      "title": "重磅!2024年度“中国人文学术十大热点”评选揭晓!",
+      "url": "https://www.rmlt.com.cn/2025/0512/729700.shtml",
+      "source": "人民论坛网",
+      "time": "5月12日",
+      "category": "voice"
+    },
+    {
+      "title": "艺苑论剑|作家“破圈”,走进日常烟火",
+      "url": "https://baijiahao.baidu.com/s?id=1849936311634046300&wfr=spider&for=pc",
+      "source": "齐鲁壹点",
+      "time": "11月27日",
       "category": "meeting"
     },
     {
