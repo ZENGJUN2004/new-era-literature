@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-02 23:12",
+  "update_time": "2026-01-03 00:13",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -30,24 +30,17 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "22家刊物共答“原创之问”:2026,文学如何捍卫真实?",
-      "url": "https://baijiahao.baidu.com/s?id=1853072821305079854&wfr=spider&for=pc",
-      "source": "澎湃新闻",
-      "time": "昨天08:38",
-      "category": "other"
-    },
-    {
       "title": "将小说擅自改编摄制成短剧上线传播法院:侵犯被独家授权公司的改编...",
       "url": "https://baijiahao.baidu.com/s?id=1853072759241479031&wfr=spider&for=pc",
       "source": "北青网",
-      "time": "昨天08:38",
+      "time": "前天08:38",
       "category": "activity"
     },
     {
       "title": "专家研讨新时代长篇小说创作趋势",
       "url": "https://baijiahao.baidu.com/s?id=1853074185494246261&wfr=spider&for=pc",
       "source": "人民网",
-      "time": "昨天03:46",
+      "time": "前天03:46",
       "category": "activity"
     }
   ]
