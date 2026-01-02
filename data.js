@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-02 07:11",
+  "update_time": "2026-01-02 08:53",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,52 +23,10 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "钱报读书会|用阅读告别2025年",
-      "url": "https://baijiahao.baidu.com/s?id=1853023132469431384&wfr=spider&for=pc",
-      "source": "钱江晚报",
-      "time": "前天19:27",
-      "category": "other"
-    },
-    {
-      "title": "余华携亲签新书入驻抖音!两年热销超400万单作品见证读者热爱",
-      "url": "https://baijiahao.baidu.com/s?id=1852989584436368703&wfr=spider&for=pc",
-      "source": "北青网",
-      "time": "前天10:35",
-      "category": "activity"
-    },
-    {
-      "title": "陈忠实因《白鹿原》一举成名,他受邀参加一个文学交流会,在宾馆里...",
-      "url": "https://baijiahao.baidu.com/s?id=1852959142114156289&wfr=spider&for=pc",
-      "source": "中国网资讯",
-      "time": "前天14:00",
-      "category": "other"
-    },
-    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
-      "category": "activity"
-    },
-    {
-      "title": "潮圈31天阅读打卡计划启动!“读书岛”阅读大礼包等你拿",
-      "url": "https://baijiahao.baidu.com/s?id=1853074091971203416&wfr=spider&for=pc",
-      "source": "潮新闻客户端",
-      "time": "昨天08:58",
-      "category": "other"
-    },
-    {
-      "title": "将小说擅自改编摄制成短剧上线传播法院:侵犯被独家授权公司的改编...",
-      "url": "https://baijiahao.baidu.com/s?id=1853072759241479031&wfr=spider&for=pc",
-      "source": "北青网",
-      "time": "昨天08:38",
-      "category": "activity"
-    },
-    {
-      "title": "专家研讨新时代长篇小说创作趋势",
-      "url": "https://baijiahao.baidu.com/s?id=1853074185494246261&wfr=spider&for=pc",
-      "source": "人民网",
-      "time": "昨天03:46",
       "category": "activity"
     }
   ]
