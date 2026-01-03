@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-03 10:44",
+  "update_time": "2026-01-03 11:50",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,24 +23,17 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "贾樟柯、梁鸿谈非虚构写作和纪录电影",
-      "url": "http://baijiahao.baidu.com/s?id=1717824461237591660&wfr=spider&for=pc",
-      "source": "澎湃新闻客户端",
-      "time": "",
-      "category": "voice"
-    },
-    {
-      "title": "【思想界】彼得·汉德克获诺奖惹争议:文学性能够用政治和道德衡量...",
-      "url": "https://m.jiemian.com/article/3573232.html",
-      "source": "界面新闻",
-      "time": "",
-      "category": "voice"
-    },
-    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
+      "category": "activity"
+    },
+    {
+      "title": "专家研讨新时代长篇小说创作趋势",
+      "url": "https://baijiahao.baidu.com/s?id=1853074185494246261&wfr=spider&for=pc",
+      "source": "人民网",
+      "time": "前天03:46",
       "category": "activity"
     }
   ]
