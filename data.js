@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-03 19:09",
+  "update_time": "2026-01-03 20:19",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -28,13 +28,6 @@ window.LIT_DATA = {
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
-    },
-    {
-      "title": "从《现代的形成与拓路》看百年中国文学与当代文化",
-      "url": "https://baijiahao.baidu.com/s?id=1853258231134909720&wfr=spider&for=pc",
-      "source": "澎湃新闻",
-      "time": "9小时前",
-      "category": "other"
     }
   ]
 };
