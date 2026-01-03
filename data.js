@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-03 21:23",
+  "update_time": "2026-01-03 22:10",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -27,13 +27,6 @@ window.LIT_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
-      "category": "activity"
-    },
-    {
-      "title": "将小说擅自改编摄制成短剧上线传播法院:侵犯被独家授权公司的改编...",
-      "url": "https://baijiahao.baidu.com/s?id=1853072759241479031&wfr=spider&for=pc",
-      "source": "北青网",
-      "time": "前天08:38",
       "category": "activity"
     },
     {
