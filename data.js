@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-04 17:11",
+  "update_time": "2026-01-04 18:11",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,11 +23,11 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "十部作品里的女性故事,汇聚成一支温良智慧的火把",
-      "url": "http://baijiahao.baidu.com/s?id=1726726766072973629&wfr=spider&for=pc",
+      "title": "贾樟柯、梁鸿谈非虚构写作和纪录电影",
+      "url": "http://baijiahao.baidu.com/s?id=1717824461237591660&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
-      "category": "other"
+      "category": "voice"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
