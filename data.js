@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-04 14:17",
+  "update_time": "2026-01-04 15:14",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -28,13 +28,6 @@ window.LIT_DATA = {
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
-    },
-    {
-      "title": "鹿鸣,见天地人心",
-      "url": "https://baijiahao.baidu.com/s?id=1853348890940620921&wfr=spider&for=pc",
-      "source": "华声在线",
-      "time": "4小时前",
-      "category": "other"
     }
   ]
 };
