@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-04 19:09",
+  "update_time": "2026-01-04 20:19",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -28,6 +28,13 @@ window.LIT_DATA = {
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
+    },
+    {
+      "title": "2025年全球各地建筑师的深耕和思考",
+      "url": "https://www.huxiu.com/article/4823126.html",
+      "source": "虎嗅APP",
+      "time": "9小时前",
+      "category": "other"
     }
   ]
 };
