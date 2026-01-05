@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-06 06:11",
+  "update_time": "2026-01-06 07:11",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,32 +23,11 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "2026年,这些华语文学新书要来了(一)",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32309550",
-      "source": "澎湃新闻",
-      "time": "前天11:44",
-      "category": "activity"
-    },
-    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
-    },
-    {
-      "title": "2026年文学上新:长篇扩容、非虚构升温、技术语境探人心",
-      "url": "http://baijiahao.baidu.com/s?id=1853512046747090629&wfr=spider&for=pc",
-      "source": "上观新闻",
-      "time": "1小时前",
-      "category": "voice"
-    },
-    {
-      "title": "今日头条持续加码深度内容创作",
-      "url": "https://baijiahao.baidu.com/s?id=1853437348336768533&wfr=spider&for=pc",
-      "source": "人民网",
-      "time": "昨天02:51",
-      "category": "other"
     }
   ]
 };
