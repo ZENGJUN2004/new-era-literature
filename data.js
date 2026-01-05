@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-05 07:10",
+  "update_time": "2026-01-05 08:57",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,13 +23,6 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "历史上的今天|1982年12月15日,首届茅盾文学奖授奖仪式举行",
-      "url": "https://m.thepaper.cn/newsDetail_forward_32136733",
-      "source": "澎湃新闻",
-      "time": "",
-      "category": "other"
-    },
-    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
@@ -37,24 +30,10 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "罗振宇2026“时间的朋友”跨年演讲:1000天后的世界。-36氪",
-      "url": "https://36kr.com/p/3624850910315522",
-      "source": "36kr",
-      "time": "昨天17:42",
-      "category": "other"
-    },
-    {
-      "title": "你不喜欢的文学人物,反而带给你更多领悟 |作家东西",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32301045",
-      "source": "澎湃新闻",
-      "time": "昨天14:23",
-      "category": "other"
-    },
-    {
-      "title": "刘亮程:穿透彼岸与此生",
-      "url": "https://www.chinanews.com.cn/cul/2026/01-04/10545593.shtml",
-      "source": "中国新闻网",
-      "time": "昨天13:52",
+      "title": "2025年全球各地建筑师的深耕和思考",
+      "url": "https://www.huxiu.com/article/4823126.html",
+      "source": "虎嗅APP",
+      "time": "昨天10:26",
       "category": "other"
     }
   ]
