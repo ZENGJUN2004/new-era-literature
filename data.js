@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-05 20:22",
+  "update_time": "2026-01-05 21:34",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -28,6 +28,20 @@ window.LIT_DATA = {
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
+    },
+    {
+      "title": "“故园深处,情思几许?”——《秋霞圃》读书分享①",
+      "url": "http://baijiahao.baidu.com/s?id=1853478122235397817&wfr=spider&for=pc",
+      "source": "上观新闻",
+      "time": "2小时前",
+      "category": "other"
+    },
+    {
+      "title": "2025年全球各地建筑师的深耕和思考",
+      "url": "https://www.huxiu.com/article/4823126.html",
+      "source": "虎嗅APP",
+      "time": "昨天10:26",
+      "category": "other"
     }
   ]
 };
