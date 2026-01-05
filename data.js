@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-05 14:23",
+  "update_time": "2026-01-05 15:20",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,11 +23,25 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
+      "title": "文艺气象·收获",
+      "url": "https://baijiahao.baidu.com/s?id=1853244136719262480&wfr=spider&for=pc",
+      "source": "金台资讯",
+      "time": "前天09:09",
+      "category": "other"
+    },
+    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
+    },
+    {
+      "title": "韩少功新作《张三李四》:万家灯火,人生百态,本是“文学即人学”最...",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32300400",
+      "source": "澎湃新闻",
+      "time": "昨天14:22",
+      "category": "other"
     }
   ]
 };
