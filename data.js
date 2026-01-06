@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-06 11:57",
+  "update_time": "2026-01-06 12:34",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -28,20 +28,6 @@ window.LIT_DATA = {
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
-    },
-    {
-      "title": "找寻当代文坛的镜子与灯",
-      "url": "https://baijiahao.baidu.com/s?id=1853516241281132695&wfr=spider&for=pc",
-      "source": "新浪财经",
-      "time": "5小时前",
-      "category": "other"
-    },
-    {
-      "title": "53岁青岛大学教授王金胜突发疾病逝世,刚入选全国高被引学者名单",
-      "url": "https://baijiahao.baidu.com/s?id=1853455001086911943&wfr=spider&for=pc",
-      "source": "红星新闻",
-      "time": "昨天13:53",
-      "category": "other"
     }
   ]
 };
