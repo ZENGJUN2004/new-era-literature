@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-06 15:18",
+  "update_time": "2026-01-06 16:17",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -27,13 +27,6 @@ window.LIT_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
-      "category": "activity"
-    },
-    {
-      "title": "赵德发长篇小说《大海风》入选中国当代文学研究会年度榜单",
-      "url": "https://baijiahao.baidu.com/s?id=1853457293501650014&wfr=spider&for=pc",
-      "source": "齐鲁壹点",
-      "time": "昨天14:30",
       "category": "activity"
     }
   ]
