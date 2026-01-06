@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-06 10:52",
+  "update_time": "2026-01-06 11:57",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,32 +23,25 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "十部作品里的女性故事,汇聚成一支温良智慧的火把",
-      "url": "http://baijiahao.baidu.com/s?id=1726726766072973629&wfr=spider&for=pc",
-      "source": "澎湃新闻客户端",
-      "time": "",
-      "category": "other"
-    },
-    {
-      "title": "贾樟柯、梁鸿谈非虚构写作和纪录电影",
-      "url": "http://baijiahao.baidu.com/s?id=1717824461237591660&wfr=spider&for=pc",
-      "source": "澎湃新闻客户端",
-      "time": "",
-      "category": "voice"
-    },
-    {
-      "title": "【思想界】彼得·汉德克获诺奖惹争议:文学性能够用政治和道德衡量...",
-      "url": "https://m.jiemian.com/article/3573232.html",
-      "source": "界面新闻",
-      "time": "",
-      "category": "voice"
-    },
-    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
+    },
+    {
+      "title": "找寻当代文坛的镜子与灯",
+      "url": "https://baijiahao.baidu.com/s?id=1853516241281132695&wfr=spider&for=pc",
+      "source": "新浪财经",
+      "time": "5小时前",
+      "category": "other"
+    },
+    {
+      "title": "53岁青岛大学教授王金胜突发疾病逝世,刚入选全国高被引学者名单",
+      "url": "https://baijiahao.baidu.com/s?id=1853455001086911943&wfr=spider&for=pc",
+      "source": "红星新闻",
+      "time": "昨天13:53",
+      "category": "other"
     }
   ]
 };
