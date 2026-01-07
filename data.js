@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-08 04:13",
+  "update_time": "2026-01-08 05:11",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,25 +23,11 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "【思想界】彼得·汉德克获诺奖惹争议:文学性能够用政治和道德衡量...",
-      "url": "https://m.jiemian.com/article/3573232.html",
-      "source": "界面新闻",
-      "time": "",
-      "category": "voice"
-    },
-    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
-    },
-    {
-      "title": "大江热议:邓紫棋跨界引争议,谁在定义文学的尺子?",
-      "url": "https://jxcomment.jxnews.com.cn/system/2026/01/06/031021359.shtml",
-      "source": "大江网",
-      "time": "昨天10:47",
-      "category": "voice"
     }
   ]
 };
