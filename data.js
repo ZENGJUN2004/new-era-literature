@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-08 18:14",
+  "update_time": "2026-01-08 19:12",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,20 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "非虚构写作:走访、调研、访谈……向一切发问",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32323303",
-      "source": "澎湃新闻",
-      "time": "前天15:39",
-      "category": "voice"
-    },
-    {
-      "title": "贾樟柯、梁鸿谈非虚构写作和纪录电影",
-      "url": "http://baijiahao.baidu.com/s?id=1717824461237591660&wfr=spider&for=pc",
-      "source": "澎湃新闻客户端",
-      "time": "",
-      "category": "voice"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
