@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-10 05:11",
+  "update_time": "2026-01-10 06:11",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -27,6 +27,20 @@ window.LIT_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
+      "category": "activity"
+    },
+    {
+      "title": "一周文化讲座|作为青年“嘴替”的陀思妥耶夫斯基",
+      "url": "https://baijiahao.baidu.com/s?id=1853807033425609832&wfr=spider&for=pc",
+      "source": "澎湃新闻",
+      "time": "昨天11:07",
+      "category": "meeting"
+    },
+    {
+      "title": "聚焦个体命运与历史纵深 抗战题材长篇小说《地啸》首发",
+      "url": "https://baijiahao.baidu.com/s?id=1853803167951408475&wfr=spider&for=pc",
+      "source": "齐鲁壹点",
+      "time": "昨天10:07",
       "category": "activity"
     }
   ]
