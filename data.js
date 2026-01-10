@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-10 10:46",
+  "update_time": "2026-01-10 11:52",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,20 +23,6 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "贾樟柯、梁鸿谈非虚构写作和纪录电影",
-      "url": "http://baijiahao.baidu.com/s?id=1717824461237591660&wfr=spider&for=pc",
-      "source": "澎湃新闻客户端",
-      "time": "",
-      "category": "voice"
-    },
-    {
-      "title": "【思想界】彼得·汉德克获诺奖惹争议:文学性能够用政治和道德衡量...",
-      "url": "https://m.jiemian.com/article/3573232.html",
-      "source": "界面新闻",
-      "time": "",
-      "category": "voice"
-    },
-    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
@@ -49,6 +35,13 @@ window.LIT_DATA = {
       "source": "澎湃新闻",
       "time": "昨天11:07",
       "category": "meeting"
+    },
+    {
+      "title": "聚焦个体命运与历史纵深 抗战题材长篇小说《地啸》首发",
+      "url": "https://baijiahao.baidu.com/s?id=1853803167951408475&wfr=spider&for=pc",
+      "source": "齐鲁壹点",
+      "time": "昨天10:07",
+      "category": "activity"
     }
   ]
 };
