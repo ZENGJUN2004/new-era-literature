@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-10 07:11",
+  "update_time": "2026-01-10 08:51",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -30,32 +30,11 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "2026年,这些新书值得期待",
-      "url": "https://baijiahao.baidu.com/s?id=1853813176770035536&wfr=spider&for=pc",
-      "source": "新京报官微",
-      "time": "昨天12:04",
-      "category": "activity"
-    },
-    {
-      "title": "大众写科幻,带来了什么?",
-      "url": "http://baijiahao.baidu.com/s?id=1853855131427137219&wfr=spider&for=pc",
-      "source": "上观新闻",
-      "time": "昨天23:53",
-      "category": "voice"
-    },
-    {
       "title": "一周文化讲座|作为青年“嘴替”的陀思妥耶夫斯基",
       "url": "https://baijiahao.baidu.com/s?id=1853807033425609832&wfr=spider&for=pc",
       "source": "澎湃新闻",
       "time": "昨天11:07",
       "category": "meeting"
-    },
-    {
-      "title": "聚焦个体命运与历史纵深 抗战题材长篇小说《地啸》首发",
-      "url": "https://baijiahao.baidu.com/s?id=1853803167951408475&wfr=spider&for=pc",
-      "source": "齐鲁壹点",
-      "time": "昨天10:07",
-      "category": "activity"
     }
   ]
 };
