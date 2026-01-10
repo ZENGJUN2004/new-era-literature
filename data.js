@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-10 23:10",
+  "update_time": "2026-01-11 00:12",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,13 +23,6 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "安徽省图2025年度阅读数据出炉:《平凡的世界》《读者》成霸榜...",
-      "url": "https://baijiahao.baidu.com/s?id=1853740753252686890&wfr=spider&for=pc",
-      "source": "大皖新闻",
-      "time": "前天17:32",
-      "category": "other"
-    },
-    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
@@ -40,14 +33,14 @@ window.LIT_DATA = {
       "title": "一周文化讲座|作为青年“嘴替”的陀思妥耶夫斯基",
       "url": "https://baijiahao.baidu.com/s?id=1853807033425609832&wfr=spider&for=pc",
       "source": "澎湃新闻",
-      "time": "昨天11:07",
+      "time": "前天11:07",
       "category": "meeting"
     },
     {
       "title": "聚焦个体命运与历史纵深 抗战题材长篇小说《地啸》首发",
       "url": "https://baijiahao.baidu.com/s?id=1853803167951408475&wfr=spider&for=pc",
       "source": "齐鲁壹点",
-      "time": "昨天10:07",
+      "time": "前天10:07",
       "category": "activity"
     }
   ]
