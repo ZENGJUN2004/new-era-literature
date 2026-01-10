@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-10 17:11",
+  "update_time": "2026-01-10 18:11",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -27,20 +27,6 @@ window.LIT_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
-      "category": "activity"
-    },
-    {
-      "title": "大众写科幻,带来了什么?",
-      "url": "https://baijiahao.baidu.com/s?id=1853890395730591225&wfr=spider&for=pc",
-      "source": "湘湘带你看社会",
-      "time": "7小时前",
-      "category": "voice"
-    },
-    {
-      "title": "2026年,这些新书值得期待",
-      "url": "https://baijiahao.baidu.com/s?id=1853813176770035536&wfr=spider&for=pc",
-      "source": "新京报官微",
-      "time": "昨天12:04",
       "category": "activity"
     },
     {
