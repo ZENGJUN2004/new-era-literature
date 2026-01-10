@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-10 21:23",
+  "update_time": "2026-01-10 22:10",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -27,13 +27,6 @@ window.LIT_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
-      "category": "activity"
-    },
-    {
-      "title": "《新传媒时代与新大众文艺的兴起:新大众文艺大家论》新书发布暨...",
-      "url": "https://baijiahao.baidu.com/s?id=1853820120371975482&wfr=spider&for=pc",
-      "source": "三秦都市报",
-      "time": "昨天14:33",
       "category": "activity"
     },
     {
