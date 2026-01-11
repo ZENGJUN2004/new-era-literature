@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-11 18:11",
+  "update_time": "2026-01-11 19:09",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -41,41 +41,6 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1853803167951408475&wfr=spider&for=pc",
       "source": "齐鲁壹点",
       "time": "前天10:07",
-      "category": "activity"
-    },
-    {
-      "title": "名家云集《明月陪》作品研讨会 探讨汉语的建设性与诗歌的独特美学",
-      "url": "https://www.cqcb.com/yuedu/hudong/2026-01-11/6048122_pc.html",
-      "source": "上游新闻",
-      "time": "40分钟前",
-      "category": "meeting"
-    },
-    {
-      "title": "观众超10万人次,新书超10万种,2026北京图书订货会圆满落幕",
-      "url": "https://baijiahao.baidu.com/s?id=1853992915944190146&wfr=spider&for=pc",
-      "source": "钱江晚报",
-      "time": "5小时前",
-      "category": "activity"
-    },
-    {
-      "title": "《小城大事》开播,原著作者朱晓军:朱媛媛实在太出色了",
-      "url": "https://baijiahao.baidu.com/s?id=1853982314632119707&wfr=spider&for=pc",
-      "source": "澎湃新闻",
-      "time": "8小时前",
-      "category": "other"
-    },
-    {
-      "title": "三天超10万观众慕书而来",
-      "url": "https://baijiahao.baidu.com/s?id=1853980962004981512&wfr=spider&for=pc",
-      "source": "湘湘带你看社会",
-      "time": "8小时前",
-      "category": "other"
-    },
-    {
-      "title": "展出40万余种新书、超10万人次入场……2026北京图书订货会落幕",
-      "url": "https://baijiahao.baidu.com/s?id=1854000199496460700&wfr=spider&for=pc",
-      "source": "人民资讯",
-      "time": "8小时前",
       "category": "activity"
     },
     {
