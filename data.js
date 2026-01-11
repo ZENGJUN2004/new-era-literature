@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-12 05:10",
+  "update_time": "2026-01-12 06:11",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -41,6 +41,27 @@ window.LIT_DATA = {
       "url": "https://cul.sohu.com/a/974531640_394566",
       "source": "搜狐网",
       "time": "前天09:31",
+      "category": "activity"
+    },
+    {
+      "title": "老藤长篇小说《自愈者》在京首发在“AI迷宫”中寻找心灵坐标",
+      "url": "https://baijiahao.baidu.com/s?id=1853940665722016960&wfr=spider&for=pc",
+      "source": "红网",
+      "time": "前天22:32",
+      "category": "activity"
+    },
+    {
+      "title": "抗战题材长篇小说《地啸》首发式在京举行",
+      "url": "https://baijiahao.baidu.com/s?id=1853939442690456824&wfr=spider&for=pc",
+      "source": "大众日报",
+      "time": "前天22:13",
+      "category": "activity"
+    },
+    {
+      "title": "有趣且珍贵的“图书目录”",
+      "url": "https://baijiahao.baidu.com/s?id=1853971690354413321&wfr=spider&for=pc",
+      "source": "新浪财经",
+      "time": "昨天06:46",
       "category": "activity"
     }
   ]
