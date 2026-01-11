@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-11 16:15",
+  "update_time": "2026-01-11 17:11",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,6 +23,13 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
+      "title": "大众写科幻,带来了什么?",
+      "url": "http://baijiahao.baidu.com/s?id=1853855131427137219&wfr=spider&for=pc",
+      "source": "上观新闻",
+      "time": "前天23:53",
+      "category": "voice"
+    },
+    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
@@ -42,6 +49,13 @@ window.LIT_DATA = {
       "source": "齐鲁壹点",
       "time": "前天10:07",
       "category": "activity"
+    },
+    {
+      "title": "一个由邓紫棋“闯银河”引出的话题——科幻文学距离“大众化...",
+      "url": "https://baijiahao.baidu.com/s?id=1853982660955263853&wfr=spider&for=pc",
+      "source": "金羊网",
+      "time": "7小时前",
+      "category": "voice"
     },
     {
       "title": "...CSSCI)来源期刊目录2025-2026 (新闻出版、语言文学、传统...",
