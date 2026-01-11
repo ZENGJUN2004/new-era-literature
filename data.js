@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-11 17:11",
+  "update_time": "2026-01-11 18:11",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,13 +23,6 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "大众写科幻,带来了什么?",
-      "url": "http://baijiahao.baidu.com/s?id=1853855131427137219&wfr=spider&for=pc",
-      "source": "上观新闻",
-      "time": "前天23:53",
-      "category": "voice"
-    },
-    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
@@ -51,11 +44,39 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "一个由邓紫棋“闯银河”引出的话题——科幻文学距离“大众化...",
-      "url": "https://baijiahao.baidu.com/s?id=1853982660955263853&wfr=spider&for=pc",
-      "source": "金羊网",
-      "time": "7小时前",
-      "category": "voice"
+      "title": "名家云集《明月陪》作品研讨会 探讨汉语的建设性与诗歌的独特美学",
+      "url": "https://www.cqcb.com/yuedu/hudong/2026-01-11/6048122_pc.html",
+      "source": "上游新闻",
+      "time": "40分钟前",
+      "category": "meeting"
+    },
+    {
+      "title": "观众超10万人次,新书超10万种,2026北京图书订货会圆满落幕",
+      "url": "https://baijiahao.baidu.com/s?id=1853992915944190146&wfr=spider&for=pc",
+      "source": "钱江晚报",
+      "time": "5小时前",
+      "category": "activity"
+    },
+    {
+      "title": "《小城大事》开播,原著作者朱晓军:朱媛媛实在太出色了",
+      "url": "https://baijiahao.baidu.com/s?id=1853982314632119707&wfr=spider&for=pc",
+      "source": "澎湃新闻",
+      "time": "8小时前",
+      "category": "other"
+    },
+    {
+      "title": "三天超10万观众慕书而来",
+      "url": "https://baijiahao.baidu.com/s?id=1853980962004981512&wfr=spider&for=pc",
+      "source": "湘湘带你看社会",
+      "time": "8小时前",
+      "category": "other"
+    },
+    {
+      "title": "展出40万余种新书、超10万人次入场……2026北京图书订货会落幕",
+      "url": "https://baijiahao.baidu.com/s?id=1854000199496460700&wfr=spider&for=pc",
+      "source": "人民资讯",
+      "time": "8小时前",
+      "category": "activity"
     },
     {
       "title": "...CSSCI)来源期刊目录2025-2026 (新闻出版、语言文学、传统...",
