@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-12 07:11",
+  "update_time": "2026-01-12 08:55",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,20 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "迎春以诗,“第40届青春诗会诗丛”在京首发",
+      "url": "https://baijiahao.baidu.com/s?id=1853904836037271469&wfr=spider&for=pc",
+      "source": "文汇报",
+      "time": "前天13:03",
+      "category": "activity"
+    },
+    {
+      "title": "作家晓苏在汉病逝 才华与大爱留人间 他根植于乡土是湖北文坛...",
+      "url": "http://news.cnhubei.com/content/2026-01/10/content_19768258.html",
+      "source": "荆楚网新闻",
+      "time": "前天09:39",
+      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
