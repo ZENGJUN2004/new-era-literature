@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-13 02:17",
+  "update_time": "2026-01-13 03:14",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,27 +23,6 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "继人民文学出版社之后,上海古籍出版社等也下架《经典常谈》,纠错...",
-      "url": "http://app.myzaker.com/news/article.php?m=1768206904&pk=6964b15a8e9f09676e1e0dff",
-      "source": "ZAKER",
-      "time": "",
-      "category": "activity"
-    },
-    {
-      "title": "文学花边·播客|对话赵松:为什么你有“阅读困难症”?",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32252149",
-      "source": "澎湃新闻",
-      "time": "前天08:51",
-      "category": "other"
-    },
-    {
-      "title": "【思想界】彼得·汉德克获诺奖惹争议:文学性能够用政治和道德衡量...",
-      "url": "https://m.jiemian.com/article/3573232.html",
-      "source": "界面新闻",
-      "time": "",
-      "category": "voice"
-    },
-    {
       "title": "有趣且珍贵的“图书目录”",
       "url": "https://baijiahao.baidu.com/s?id=1853971690354413321&wfr=spider&for=pc",
       "source": "新浪财经",
@@ -56,34 +35,6 @@ window.LIT_DATA = {
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
-    },
-    {
-      "title": "穿江越海,勇立潮头:中铁十四局大盾构品牌的20载破壁之路",
-      "url": "https://stock.10jqka.com.cn/20260112/c673940465.shtml",
-      "source": "同花顺",
-      "time": "昨天18:22",
-      "category": "other"
-    },
-    {
-      "title": "纵览热点丨继人民文学出版社之后,上海古籍出版社等也下架《经典常...",
-      "url": "https://baijiahao.baidu.com/s?id=1854102921090124370&wfr=spider&for=pc",
-      "source": "湘湘带你看社会",
-      "time": "昨天17:32",
-      "category": "activity"
-    },
-    {
-      "title": "何以“诗城”——写在第三届太阳岛冰雪诗会举行之际",
-      "url": "http://app.myzaker.com/news/article.php?pk=69644a10b15ec074e57c9399",
-      "source": "ZAKER",
-      "time": "昨天08:54",
-      "category": "other"
-    },
-    {
-      "title": "“新时代报告文学创作”系列讲座(第二讲)将于18日开讲",
-      "url": "https://baijiahao.baidu.com/s?id=1854104212412219422&wfr=spider&for=pc",
-      "source": "湘湘带你看社会",
-      "time": "昨天17:52",
-      "category": "meeting"
     }
   ]
 };
