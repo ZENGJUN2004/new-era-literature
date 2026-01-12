@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-12 11:01",
+  "update_time": "2026-01-12 12:11",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,18 +23,18 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "十部作品里的女性故事,汇聚成一支温良智慧的火把",
-      "url": "http://baijiahao.baidu.com/s?id=1726726766072973629&wfr=spider&for=pc",
-      "source": "澎湃新闻客户端",
-      "time": "",
-      "category": "other"
+      "title": "在文学的窄门相遇:阿来与丛治辰对谈文学批评的星光与体温",
+      "url": "https://baijiahao.baidu.com/s?id=1853944315224352043&wfr=spider&for=pc",
+      "source": "封面新闻",
+      "time": "前天23:29",
+      "category": "meeting"
     },
     {
-      "title": "贾樟柯、梁鸿谈非虚构写作和纪录电影",
-      "url": "http://baijiahao.baidu.com/s?id=1717824461237591660&wfr=spider&for=pc",
-      "source": "澎湃新闻客户端",
-      "time": "",
-      "category": "voice"
+      "title": "推开《文学的窄门》,阿来、丛治辰共话文学批评的力量",
+      "url": "https://baijiahao.baidu.com/s?id=1853856234448157087&wfr=spider&for=pc",
+      "source": "封面新闻",
+      "time": "前天00:11",
+      "category": "meeting"
     },
     {
       "title": "【思想界】彼得·汉德克获诺奖惹争议:文学性能够用政治和道德衡量...",
@@ -58,10 +58,10 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "2026北京图书订货会,这些新书和活动值得我们回顾",
-      "url": "https://baijiahao.baidu.com/s?id=1853923961316218683&wfr=spider&for=pc",
-      "source": "新京报",
-      "time": "前天18:07",
+      "title": "每一寸土地都充满生机,“新时代山乡巨变创作计划”长篇小说《种粮...",
+      "url": "https://cul.sohu.com/a/974531640_394566",
+      "source": "搜狐网",
+      "time": "前天09:31",
       "category": "activity"
     },
     {
@@ -79,31 +79,10 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "热辣湘书 乘“数”而上——2026北京图书订货会中南传媒“马”力全开",
-      "url": "https://baijiahao.baidu.com/s?id=1854023147430130991&wfr=spider&for=pc",
-      "source": "红网",
-      "time": "1小时前",
-      "category": "other"
-    },
-    {
       "title": "有趣且珍贵的“图书目录”",
       "url": "https://baijiahao.baidu.com/s?id=1853971690354413321&wfr=spider&for=pc",
       "source": "新浪财经",
       "time": "昨天06:46",
-      "category": "activity"
-    },
-    {
-      "title": "2026北京图书订货会,哪些新书被推荐?",
-      "url": "https://baijiahao.baidu.com/s?id=1854019087056703520&wfr=spider&for=pc",
-      "source": "澎湃新闻",
-      "time": "昨天19:18",
-      "category": "activity"
-    },
-    {
-      "title": "每一寸土地都充满生机,“新时代山乡巨变创作计划”长篇小说《种粮...",
-      "url": "https://cul.sohu.com/a/974772531_121119389",
-      "source": "搜狐网",
-      "time": "昨天08:11",
       "category": "activity"
     }
   ]
