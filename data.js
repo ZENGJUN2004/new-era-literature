@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-12 15:19",
+  "update_time": "2026-01-12 16:18",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -20,13 +20,6 @@ window.LIT_DATA = {
       "url": "https://scholar.baidu.com/scholar?q=当代文学&sc_ylo=2024&sort=sc_time",
       "source": "CNKI",
       "time": "实时",
-      "category": "meeting"
-    },
-    {
-      "title": "...文艺再出发——黔西南州文学艺术界联合会第八次代表大会综述",
-      "url": "https://baijiahao.baidu.com/s?id=1853920626648425084&wfr=spider&for=pc",
-      "source": "天眼新闻",
-      "time": "前天16:50",
       "category": "meeting"
     },
     {
