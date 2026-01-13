@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-13 11:58",
+  "update_time": "2026-01-13 12:35",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -35,6 +35,13 @@ window.LIT_DATA = {
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
+    },
+    {
+      "title": "毕飞宇:要想“手高”,必须首先“眼高”",
+      "url": "https://cul.sohu.com/a/975366061_121124715",
+      "source": "搜狐网",
+      "time": "7小时前",
+      "category": "other"
     },
     {
       "title": "关注AI时代的精神困境 老藤长篇小说《自愈者》首发",
