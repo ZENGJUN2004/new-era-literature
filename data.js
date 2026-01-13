@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-13 16:17",
+  "update_time": "2026-01-13 17:19",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,6 +23,13 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
+      "title": "大型历史文献纪录片《信仰的力量》研讨会--党史频道--人民网",
+      "url": "http://dangshi.people.com.cn/GB/151935/406058/index.html",
+      "source": "人民网",
+      "time": "",
+      "category": "meeting"
+    },
+    {
       "title": "有趣且珍贵的“图书目录”",
       "url": "https://baijiahao.baidu.com/s?id=1853971690354413321&wfr=spider&for=pc",
       "source": "新浪财经",
@@ -34,6 +41,27 @@ window.LIT_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
+      "category": "activity"
+    },
+    {
+      "title": "盘点2025年“ACG行业”事件Top100_澎湃号·湃客_澎湃新闻-The Paper",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32369751",
+      "source": "澎湃新闻",
+      "time": "3小时前",
+      "category": "other"
+    },
+    {
+      "title": "“2025收获文学榜”入围名单揭晓,《十月》作品入选",
+      "url": "https://cul.sohu.com/a/975235058_121124729",
+      "source": "搜狐网",
+      "time": "昨天17:03",
+      "category": "other"
+    },
+    {
+      "title": "召唤新的地理想象与叙事未来,杨庆祥出新书《必将有人重写南方》",
+      "url": "https://baijiahao.baidu.com/s?id=1854095560148453382&wfr=spider&for=pc",
+      "source": "北晚在线",
+      "time": "昨天15:14",
       "category": "activity"
     },
     {
