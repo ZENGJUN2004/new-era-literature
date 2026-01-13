@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-13 08:47",
+  "update_time": "2026-01-13 10:51",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,6 +23,20 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
+      "title": "贾樟柯、梁鸿谈非虚构写作和纪录电影",
+      "url": "http://baijiahao.baidu.com/s?id=1717824461237591660&wfr=spider&for=pc",
+      "source": "澎湃新闻客户端",
+      "time": "",
+      "category": "voice"
+    },
+    {
+      "title": "【思想界】彼得·汉德克获诺奖惹争议:文学性能够用政治和道德衡量...",
+      "url": "https://m.jiemian.com/article/3573232.html",
+      "source": "界面新闻",
+      "time": "",
+      "category": "voice"
+    },
+    {
       "title": "有趣且珍贵的“图书目录”",
       "url": "https://baijiahao.baidu.com/s?id=1853971690354413321&wfr=spider&for=pc",
       "source": "新浪财经",
@@ -35,6 +49,13 @@ window.LIT_DATA = {
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
+    },
+    {
+      "title": "这些年度好书你读过几本?",
+      "url": "https://baijiahao.baidu.com/s?id=1854101885171353252&wfr=spider&for=pc",
+      "source": "中国青年报",
+      "time": "昨天17:15",
+      "category": "other"
     }
   ]
 };
