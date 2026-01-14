@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-14 07:11",
+  "update_time": "2026-01-14 08:55",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -27,6 +27,13 @@ window.LIT_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
+      "category": "activity"
+    },
+    {
+      "title": "关注AI时代的精神困境 老藤长篇小说《自愈者》首发",
+      "url": "https://baijiahao.baidu.com/s?id=1854099054361085706&wfr=spider&for=pc",
+      "source": "湖南日报",
+      "time": "前天16:00",
       "category": "activity"
     }
   ]
