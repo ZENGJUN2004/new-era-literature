@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-15 19:11",
+  "update_time": "2026-01-15 20:22",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -28,13 +28,6 @@ window.LIT_DATA = {
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
-    },
-    {
-      "title": "跨界融合,素人崛起,AI冲击……2025中国文坛盘点",
-      "url": "https://baijiahao.baidu.com/s?id=1854363764122606894&wfr=spider&for=pc",
-      "source": "人民日报",
-      "time": "4小时前",
-      "category": "other"
     }
   ]
 };
