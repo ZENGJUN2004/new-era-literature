@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-15 07:11",
+  "update_time": "2026-01-15 08:51",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -27,13 +27,6 @@ window.LIT_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
-      "category": "activity"
-    },
-    {
-      "title": "重磅首发!昭通长篇儿童小说《背篼里的图书馆》新鲜出炉!",
-      "url": "https://cul.sohu.com/a/975448241_121106902",
-      "source": "搜狐网",
-      "time": "前天09:52",
       "category": "activity"
     }
   ]
