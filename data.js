@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-16 21:31",
+  "update_time": "2026-01-16 22:15",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,13 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "十部作品里的女性故事,汇聚成一支温良智慧的火把",
+      "url": "http://baijiahao.baidu.com/s?id=1726726766072973629&wfr=spider&for=pc",
+      "source": "澎湃新闻客户端",
+      "time": "",
+      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
