@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-16 18:13",
+  "update_time": "2026-01-16 19:11",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -34,6 +34,20 @@ window.LIT_DATA = {
       "url": "https://cul.sohu.com/a/976077723_121123794",
       "source": "搜狐网",
       "time": "前天19:03",
+      "category": "activity"
+    },
+    {
+      "title": "洞天寻隐·学林纪|越南黎初帝王的道教信仰",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32373309",
+      "source": "澎湃新闻",
+      "time": "7小时前",
+      "category": "other"
+    },
+    {
+      "title": "当一个科幻小说家患上「老年痴呆」",
+      "url": "https://baijiahao.baidu.com/s?id=1854396038979954697&wfr=spider&for=pc",
+      "source": "人物",
+      "time": "10小时前",
       "category": "activity"
     }
   ]
