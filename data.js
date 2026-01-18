@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-18 17:12",
+  "update_time": "2026-01-18 18:11",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -27,6 +27,13 @@ window.LIT_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
+      "category": "activity"
+    },
+    {
+      "title": "卢新华获“美国图书大奖银奖”的英文版小说《无漏》,原名《米勒...",
+      "url": "https://cul.sohu.com/a/976829605_121124744",
+      "source": "搜狐网",
+      "time": "前天17:31",
       "category": "activity"
     }
   ]
