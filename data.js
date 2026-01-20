@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-21 00:21",
+  "update_time": "2026-01-21 01:20",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -28,27 +28,6 @@ window.LIT_DATA = {
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
-    },
-    {
-      "title": "真善美的三重奏:文学批评的时代使命|新批评",
-      "url": "http://www.thepaper.cn/newsDetail_forward_32417549",
-      "source": "澎湃新闻",
-      "time": "昨天13:10",
-      "category": "meeting"
-    },
-    {
-      "title": "中国红学会会长孙伟科:研究《红楼梦》是人生的幸运",
-      "url": "https://baijiahao.baidu.com/s?id=1854738591458976683&wfr=spider&for=pc",
-      "source": "大众日报",
-      "time": "昨天11:07",
-      "category": "other"
-    },
-    {
-      "title": "发展30年的网络文学,在今天的文艺生态中有多重要",
-      "url": "https://baijiahao.baidu.com/s?id=1854819941331296129&wfr=spider&for=pc",
-      "source": "人民日报",
-      "time": "昨天15:28",
-      "category": "other"
     }
   ]
 };
