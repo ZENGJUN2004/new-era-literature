@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-21 20:24",
+  "update_time": "2026-01-21 21:38",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,20 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
+      "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
+      "source": "澎湃新闻客户端",
+      "time": "",
+      "category": "activity"
+    },
+    {
+      "title": "抵达辽阔远方的多声部抗战叙事——长篇小说《地啸》首发实录",
+      "url": "https://baijiahao.baidu.com/s?id=1854825795286531236&wfr=spider&for=pc",
+      "source": "齐鲁壹点",
+      "time": "昨天17:01",
+      "category": "activity"
     }
   ]
 };
