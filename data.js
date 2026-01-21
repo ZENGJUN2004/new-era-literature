@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-21 17:23",
+  "update_time": "2026-01-21 18:16",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -27,6 +27,20 @@ window.LIT_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
+      "category": "activity"
+    },
+    {
+      "title": "《落花吟》新书发布:落花为引,诗韵传情",
+      "url": "https://cul.sohu.com/a/974392873_100162058",
+      "source": "搜狐网",
+      "time": "1月9日",
+      "category": "activity"
+    },
+    {
+      "title": "原名《米勒》首发《江南》杂志,卢新华英文小说《无漏》出版",
+      "url": "https://baijiahao.baidu.com/s?id=1854827209032317530&wfr=spider&for=pc",
+      "source": "钱江晚报",
+      "time": "昨天17:22",
       "category": "activity"
     },
     {
