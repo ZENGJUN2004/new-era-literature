@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-21 14:20",
+  "update_time": "2026-01-21 15:20",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,18 +23,11 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "【钛晨报】国家医保局:医保药品目录调整专家评审工作已结束;把...",
-      "url": "https://www.tmtpost.com/6283071.html",
-      "source": "钛媒体官方网站",
-      "time": "",
-      "category": "activity"
-    },
-    {
-      "title": "喜讯传来!祝贺ECUSTer!",
-      "url": "http://baijiahao.baidu.com/s?id=1854734605807830498&wfr=spider&for=pc",
+      "title": "贾樟柯、梁鸿谈非虚构写作和纪录电影",
+      "url": "http://baijiahao.baidu.com/s?id=1717824461237591660&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
-      "time": "前天09:42",
-      "category": "other"
+      "time": "",
+      "category": "voice"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
@@ -42,20 +35,6 @@ window.LIT_DATA = {
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
-    },
-    {
-      "title": "北京最冷门纪念馆,每月仅开放2小时,参观攻略来了",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32422980",
-      "source": "澎湃新闻",
-      "time": "昨天11:54",
-      "category": "other"
-    },
-    {
-      "title": "《龙法之声》2025年冬季特刊来啦!",
-      "url": "http://baijiahao.baidu.com/s?id=1854835544239452474&wfr=spider&for=pc",
-      "source": "澎湃新闻客户端",
-      "time": "昨天17:45",
-      "category": "other"
     },
     {
       "title": "抵达辽阔远方的多声部抗战叙事——长篇小说《地啸》首发实录",
