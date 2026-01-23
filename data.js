@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-23 23:15",
+  "update_time": "2026-01-24 00:17",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,25 +23,11 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "【专访】文学研究者张莉:远离非黑即白二元对立的思维,去认识和...",
-      "url": "https://m.jiemian.com/article/4103429.html",
-      "source": "界面新闻",
-      "time": "",
-      "category": "other"
-    },
-    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
-    },
-    {
-      "title": "一本书链接一座城・归乡站|《十种人生,一种态度》威海分享会",
-      "url": "https://baijiahao.baidu.com/s?id=1855105285272782816&wfr=spider&for=pc",
-      "source": "文旅威海",
-      "time": "6小时前",
-      "category": "other"
     }
   ]
 };
