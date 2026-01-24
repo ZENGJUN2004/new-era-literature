@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-24 15:12",
+  "update_time": "2026-01-24 16:14",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,13 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "深度书写非洲 张翎《赤道风语——东非漫行散记》新书发布",
-      "url": "https://baijiahao.baidu.com/s?id=1855009426425362877&wfr=spider&for=pc",
-      "source": "中国新闻网",
-      "time": "前天17:38",
-      "category": "activity"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
