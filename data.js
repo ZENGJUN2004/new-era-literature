@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-24 22:10",
+  "update_time": "2026-01-25 00:12",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -33,7 +33,7 @@ window.LIT_DATA = {
       "title": "一周文化讲座|在乙游里读《源氏物语》,用长视频播马尔克斯_北京...",
       "url": "https://cul.sohu.com/a/979146019_260616",
       "source": "搜狐网",
-      "time": "昨天11:03",
+      "time": "前天11:03",
       "category": "meeting"
     }
   ]
