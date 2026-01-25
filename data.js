@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-25 11:10",
+  "update_time": "2026-01-25 12:44",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,38 +23,17 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "掌握新闻报道写作的非虚构力量,开启你的写作新篇章!",
-      "url": "https://cul.sohu.com/a/979065823_122528565",
-      "source": "搜狐网",
-      "time": "前天08:06",
-      "category": "voice"
-    },
-    {
-      "title": "贾樟柯、梁鸿谈非虚构写作和纪录电影",
-      "url": "http://baijiahao.baidu.com/s?id=1717824461237591660&wfr=spider&for=pc",
-      "source": "澎湃新闻客户端",
-      "time": "",
-      "category": "voice"
-    },
-    {
-      "title": "【思想界】彼得·汉德克获诺奖惹争议:文学性能够用政治和道德衡量...",
-      "url": "https://m.jiemian.com/article/3573232.html",
-      "source": "界面新闻",
-      "time": "",
-      "category": "voice"
-    },
-    {
-      "title": "一周文艺:阿来推出非虚构新作,2026年新书出版计划,文学改编电视剧...",
-      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1050469",
-      "source": "上观",
-      "time": "1月12日",
+      "title": "赵德发长篇小说《大海风》入选中国当代文学研究会年度榜单",
+      "url": "https://baijiahao.baidu.com/s?id=1853457293501650014&wfr=spider&for=pc",
+      "source": "齐鲁壹点",
+      "time": "1月5日",
       "category": "activity"
     },
     {
-      "title": "成为《人民文学》头条的报告文学,需要历练什么样的脚力与笔力?",
-      "url": "http://baijiahao.baidu.com/s?id=1726635185081314797&wfr=spider&for=pc",
-      "source": "澎湃新闻客户端",
-      "time": "",
+      "title": "中国当代文学研究会年度榜单(2025)发布",
+      "url": "https://baijiahao.baidu.com/s?id=1853483055197931621&wfr=spider&for=pc",
+      "source": "澎湃新闻",
+      "time": "1月5日",
       "category": "other"
     },
     {
@@ -65,11 +44,46 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
+      "title": "清流映故道,文心照山河!84岁冯骥才再出新书,聚焦天津五大道",
+      "url": "https://baijiahao.baidu.com/s?id=1855092883709057808&wfr=spider&for=pc",
+      "source": "极目新闻",
+      "time": "前天15:46",
+      "category": "activity"
+    },
+    {
+      "title": "老藤长篇小说《自愈者》新书发布会举办",
+      "url": "https://baijiahao.baidu.com/s?id=1854092227377307964&wfr=spider&for=pc",
+      "source": "工人日报",
+      "time": "1月12日",
+      "category": "activity"
+    },
+    {
       "title": "一周文化讲座|在乙游里读《源氏物语》,用长视频播马尔克斯_北京...",
       "url": "https://cul.sohu.com/a/979146019_260616",
       "source": "搜狐网",
       "time": "前天11:03",
       "category": "meeting"
+    },
+    {
+      "title": "文汇X七猫X澎湃共建“智融出版”,《星箭之盾》打头阵",
+      "url": "https://baijiahao.baidu.com/s?id=1855193684582421351&wfr=spider&for=pc",
+      "source": "澎湃新闻",
+      "time": "昨天18:28",
+      "category": "activity"
+    },
+    {
+      "title": "《芒砀古国——多元文明淬炼下的永城王庄遗址》新书发布",
+      "url": "https://baijiahao.baidu.com/s?id=1855183932209399306&wfr=spider&for=pc",
+      "source": "中国日报网",
+      "time": "昨天14:49",
+      "category": "activity"
+    },
+    {
+      "title": "考古发现纪实文学《芒砀古国》新书在河南郑州发布",
+      "url": "https://baijiahao.baidu.com/s?id=1855168583040111960&wfr=spider&for=pc",
+      "source": "中国新闻网",
+      "time": "昨天11:48",
+      "category": "activity"
     }
   ]
 };
