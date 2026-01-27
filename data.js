@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-27 13:20",
+  "update_time": "2026-01-27 14:20",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -30,13 +30,6 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "潍坊两作家发布长篇小说创作计划",
-      "url": "http://weifang.sdnews.com.cn/%2f/wh/202601/t20260116_4627665.htm",
-      "source": "潍坊频道",
-      "time": "1月16日",
-      "category": "activity"
-    },
-    {
       "title": "《能不忆江南》新书首发以文学笔触书写浙江生态文明",
       "url": "http://news.10jqka.com.cn/00000000/c674290131.shtml",
       "source": "同花顺财经",
@@ -54,7 +47,7 @@ window.LIT_DATA = {
       "title": "《能不忆江南》新书首发,聆听时光隧道的江南回响",
       "url": "https://baijiahao.baidu.com/s?id=1855433849065467437&wfr=spider&for=pc",
       "source": "极目新闻",
-      "time": "3小时前",
+      "time": "4小时前",
       "category": "activity"
     },
     {
