@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-27 18:16",
+  "update_time": "2026-01-27 19:15",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -47,49 +47,14 @@ window.LIT_DATA = {
       "title": "钱报读书会预告丨李敬泽X翟业军X沈苇X萧耳:西湖畔,听风起",
       "url": "https://baijiahao.baidu.com/s?id=1855460530894792785&wfr=spider&for=pc",
       "source": "钱江晚报",
-      "time": "1小时前",
+      "time": "2小时前",
       "category": "other"
     },
     {
       "title": "于苍洱文脉间深耕,听大理故事花开有声",
       "url": "https://baijiahao.baidu.com/s?id=1855451402284417490&wfr=spider&for=pc",
       "source": "央广网",
-      "time": "3小时前",
-      "category": "other"
-    },
-    {
-      "title": "吕厚量|女神、娼妓、妻子与女奴:古典时代的女性生活",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32415806",
-      "source": "澎湃新闻",
-      "time": "5小时前",
-      "category": "other"
-    },
-    {
-      "title": "上海文艺的高光与深流|舞台剧的在地性与国际化",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32412234",
-      "source": "澎湃新闻",
-      "time": "7小时前",
-      "category": "other"
-    },
-    {
-      "title": "2025年文学研究发展报告",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32463879",
-      "source": "澎湃新闻",
-      "time": "昨天11:38",
-      "category": "other"
-    },
-    {
-      "title": "当AI遇上网络文学——AI时代的网络文学批评",
-      "url": "https://baijiahao.baidu.com/s?id=1855342540300190576&wfr=spider&for=pc",
-      "source": "光明网",
-      "time": "昨天09:53",
-      "category": "meeting"
-    },
-    {
-      "title": "一场跨越九百年的“文学考古”",
-      "url": "https://baijiahao.baidu.com/s?id=1855340685625163638&wfr=spider&for=pc",
-      "source": "金台资讯",
-      "time": "昨天08:48",
+      "time": "4小时前",
       "category": "other"
     },
     {
@@ -97,6 +62,13 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1855371597721452895&wfr=spider&for=pc",
       "source": "金台资讯",
       "time": "昨天17:24",
+      "category": "other"
+    },
+    {
+      "title": "一场跨越九百年的“文学考古”",
+      "url": "https://baijiahao.baidu.com/s?id=1855340685625163638&wfr=spider&for=pc",
+      "source": "金台资讯",
+      "time": "昨天08:48",
       "category": "other"
     }
   ]
