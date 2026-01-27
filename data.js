@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-27 14:20",
+  "update_time": "2026-01-27 15:20",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,17 +23,24 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
+      "title": "气血充足的年代剧怎么拍?_澎湃号·湃客_澎湃新闻-The Paper",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32460441",
+      "source": "澎湃新闻",
+      "time": "前天17:25",
+      "category": "other"
+    },
+    {
+      "title": "直播预告|来新湖南,看李敬泽毕飞宇梁鸿共话如何在文学里“从心...",
+      "url": "https://baijiahao.baidu.com/s?id=1854365056970471651&wfr=spider&for=pc",
+      "source": "湖南日报",
+      "time": "1月15日",
+      "category": "other"
+    },
+    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
-      "category": "activity"
-    },
-    {
-      "title": "《能不忆江南》新书首发以文学笔触书写浙江生态文明",
-      "url": "http://news.10jqka.com.cn/00000000/c674290131.shtml",
-      "source": "同花顺财经",
-      "time": "前天22:58",
       "category": "activity"
     },
     {
@@ -44,38 +51,38 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "《能不忆江南》新书首发,聆听时光隧道的江南回响",
-      "url": "https://baijiahao.baidu.com/s?id=1855433849065467437&wfr=spider&for=pc",
-      "source": "极目新闻",
-      "time": "4小时前",
-      "category": "activity"
-    },
-    {
-      "title": "聆听时光隧道的江南回响《能不忆江南》新书首发",
-      "url": "http://baijiahao.baidu.com/s?id=1855342442268963646&wfr=spider&for=pc",
-      "source": "澎湃新闻客户端",
-      "time": "昨天09:53",
-      "category": "activity"
-    },
-    {
-      "title": "长篇散文《能不忆江南》在杭州首发以文学凝视浙江生态文明画卷",
-      "url": "https://baijiahao.baidu.com/s?id=1855371197321701467&wfr=spider&for=pc",
-      "source": "文汇报",
-      "time": "昨天17:30",
-      "category": "activity"
-    },
-    {
-      "title": "中国散文学会会长叶梅新作《能不忆江南》首发式在杭举行",
-      "url": "https://baijiahao.baidu.com/s?id=1855339947651498986&wfr=spider&for=pc",
+      "title": "人民城市人民建,浙产剧《小城大事》收官看哭观众",
+      "url": "https://baijiahao.baidu.com/s?id=1855453329457003489&wfr=spider&for=pc",
       "source": "钱江晚报",
-      "time": "昨天09:13",
-      "category": "activity"
+      "time": "5分钟前",
+      "category": "other"
     },
     {
-      "title": "行走浙江,落笔成诗:长篇散文《能不忆江南》新书首发",
-      "url": "http://www.zj.chinanews.com.cn/jzkzj/2026-01-26/detail-ihezhfas0229524.shtml",
-      "source": "中国新闻网",
-      "time": "昨天20:57",
+      "title": "《小城大事》热播,《中国农民城》作者朱晓军说“他们要造一个天堂”",
+      "url": "https://baijiahao.baidu.com/s?id=1855440848271251811&wfr=spider&for=pc",
+      "source": "浙江日报",
+      "time": "2小时前",
+      "category": "other"
+    },
+    {
+      "title": "以优质内容供给助推全民阅读 - 读书 - 中国产业经济信息网",
+      "url": "https://www.cinic.org.cn/whys/ds/1621776.html",
+      "source": "中国产业经济信息网",
+      "time": "昨天",
+      "category": "other"
+    },
+    {
+      "title": "《我在人间种过花》:诗心与岁月的深沉沉淀",
+      "url": "https://baijiahao.baidu.com/s?id=1855366247204307607&wfr=spider&for=pc",
+      "source": "中国青年报",
+      "time": "昨天16:12",
+      "category": "other"
+    },
+    {
+      "title": "林莉诗集《我们所热爱的生活》在北京首发研讨",
+      "url": "https://baijiahao.baidu.com/s?id=1855361100468542440&wfr=spider&for=pc",
+      "source": "中国日报网",
+      "time": "昨天13:43",
       "category": "activity"
     }
   ]
