@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-28 20:24",
+  "update_time": "2026-01-28 21:40",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,60 +23,11 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "【专访】文学研究者张莉:远离非黑即白二元对立的思维,去认识和...",
-      "url": "https://m.jiemian.com/article/4103429.html",
-      "source": "界面新闻",
-      "time": "",
-      "category": "other"
-    },
-    {
-      "title": "2025文学报年度好书榜揭晓",
-      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1052392&sid=300",
-      "source": "上观",
-      "time": "1月16日",
-      "category": "other"
-    },
-    {
-      "title": "汇聚女性力量,持微火者·女性文学好书榜发布",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32376524",
-      "source": "澎湃新闻",
-      "time": "1月14日",
-      "category": "other"
-    },
-    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
-    },
-    {
-      "title": "她走过无数人间,萧红为何影响一代又一代写作者和读者",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32469616",
-      "source": "澎湃新闻",
-      "time": "8小时前",
-      "category": "other"
-    },
-    {
-      "title": "当小说离开作者:一次真实的阅读现场",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32451947",
-      "source": "澎湃新闻",
-      "time": "8小时前",
-      "category": "activity"
-    },
-    {
-      "title": "吕厚量|女神、娼妓、妻子与女奴:古典时代的女性生活",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32415806",
-      "source": "澎湃新闻",
-      "time": "昨天12:59",
-      "category": "other"
-    },
-    {
-      "title": "蒋在《外面天气怎么样》:“她”文学中的心灵“潮湿”",
-      "url": "https://baijiahao.baidu.com/s?id=1855437416346888503&wfr=spider&for=pc",
-      "source": "中国青年网",
-      "time": "昨天10:43",
-      "category": "other"
     }
   ]
 };
