@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-29 21:52",
+  "update_time": "2026-01-29 22:31",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,24 +23,10 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "《全民阅读促进条例》颁布 为全民阅读提供条件保障",
-      "url": "http://yn.people.com.cn/n2/2026/0114/c372453-41471599.html",
-      "source": "人民网",
-      "time": "1月14日",
-      "category": "other"
-    },
-    {
-      "title": "省两会上,师院人这样建言|刘大泯委员:加强乡土文学研究并筹建中国...",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32474433",
+      "title": "中国当代文学研究会年度榜单(2025)发布",
+      "url": "https://baijiahao.baidu.com/s?id=1853483055197931621&wfr=spider&for=pc",
       "source": "澎湃新闻",
-      "time": "前天13:59",
-      "category": "other"
-    },
-    {
-      "title": "严肃文学,舞台依然广阔(金台随笔)",
-      "url": "http://sn.people.com.cn/n2/2026/0114/c186331-41471880.html",
-      "source": "人民网",
-      "time": "1月14日",
+      "time": "1月5日",
       "category": "other"
     },
     {
@@ -51,24 +37,24 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "从“大河”到“人间”:阿来近期的非虚构书写",
-      "url": "https://baijiahao.baidu.com/s?id=1855641686249388111&wfr=spider&for=pc",
-      "source": "湘湘带你看社会",
-      "time": "4小时前",
-      "category": "voice"
-    },
-    {
-      "title": "清欢自在书间:2025年下半年过目难忘的六本新书",
-      "url": "https://baijiahao.baidu.com/s?id=1855529682553627268&wfr=spider&for=pc",
+      "title": "丛新强|《回响》中的“回响”是怎样形成的",
+      "url": "https://baijiahao.baidu.com/s?id=1855620452135806488&wfr=spider&for=pc",
       "source": "齐鲁壹点",
-      "time": "昨天11:29",
-      "category": "activity"
+      "time": "11小时前",
+      "category": "other"
     },
     {
-      "title": "太平间里睡觉,拔上万颗牙,自嘲“认字不多”、却靠一本书赚了1550...",
-      "url": "https://baijiahao.baidu.com/s?id=1855562279680447930&wfr=spider&for=pc",
-      "source": "中国网资讯",
-      "time": "昨天20:08",
+      "title": "法院里来了一群大作家——“知名作家看法院”创作采风活动安徽启幕",
+      "url": "https://baijiahao.baidu.com/s?id=1855524448773772659&wfr=spider&for=pc",
+      "source": "最高人民法院",
+      "time": "昨天10:06",
+      "category": "other"
+    },
+    {
+      "title": "《人民法院报》:法院里来了一群大作家 “知名作家看法院”创作...",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32486695",
+      "source": "澎湃新闻",
+      "time": "昨天18:43",
       "category": "other"
     }
   ]
