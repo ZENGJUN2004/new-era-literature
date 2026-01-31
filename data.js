@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-31 21:35",
+  "update_time": "2026-01-31 22:15",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,13 +23,6 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "“拖把”和“抹布”的启示",
-      "url": "https://baijiahao.baidu.com/s?id=1855617412563728167&wfr=spider&for=pc",
-      "source": "新浪财经",
-      "time": "前天10:44",
-      "category": "other"
-    },
-    {
       "title": "驼生活:以阿拉善纯净之源,重塑高端驼奶品质标杆",
       "url": "https://baijiahao.baidu.com/s?id=1855642039779037260&wfr=spider&for=pc",
       "source": "生活日报",
@@ -49,13 +42,6 @@ window.LIT_DATA = {
       "source": "搜狐网",
       "time": "1月14日",
       "category": "activity"
-    },
-    {
-      "title": "2022—2024年度“赵树理文学奖”获奖者专访",
-      "url": "https://www.sxrb.com/content/202601/30/c95676.html",
-      "source": "山西新闻网",
-      "time": "昨天07:05",
-      "category": "other"
     }
   ]
 };
