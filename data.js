@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-31 16:16",
+  "update_time": "2026-01-31 17:17",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -34,13 +34,6 @@ window.LIT_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
-      "category": "activity"
-    },
-    {
-      "title": "文明高地 耕读潍坊|以潍坊非遗为主题,长篇小说创作计划启动",
-      "url": "https://cul.sohu.com/a/976975666_121218495",
-      "source": "搜狐网",
-      "time": "1月17日",
       "category": "activity"
     },
     {
