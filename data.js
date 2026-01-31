@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-31 11:19",
+  "update_time": "2026-01-31 12:56",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,53 +23,25 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "丛新强|《回响》中的“回响”是怎样形成的",
-      "url": "https://baijiahao.baidu.com/s?id=1855620452135806488&wfr=spider&for=pc",
-      "source": "齐鲁壹点",
-      "time": "前天11:31",
-      "category": "other"
+      "title": "陈晓明|当代文学研究的方法与个性选择——略谈张博实的文学评论",
+      "url": "https://cul.sohu.com/a/976660349_121119385",
+      "source": "搜狐网",
+      "time": "1月16日",
+      "category": "meeting"
     },
     {
-      "title": "中国当代文学研究会年度榜单(2025)发布",
-      "url": "https://baijiahao.baidu.com/s?id=1853483055197931621&wfr=spider&for=pc",
+      "title": "现代语文教育之路|陈望道:分水塘的灯光",
+      "url": "https://m.thepaper.cn/newsDetail_forward_32302488",
       "source": "澎湃新闻",
-      "time": "1月5日",
-      "category": "other"
-    },
-    {
-      "title": "贾樟柯、梁鸿谈非虚构写作和纪录电影",
-      "url": "http://baijiahao.baidu.com/s?id=1717824461237591660&wfr=spider&for=pc",
-      "source": "澎湃新闻客户端",
-      "time": "",
-      "category": "voice"
-    },
-    {
-      "title": "【思想界】彼得·汉德克获诺奖惹争议:文学性能够用政治和道德衡量...",
-      "url": "https://m.jiemian.com/article/3573232.html",
-      "source": "界面新闻",
-      "time": "",
-      "category": "voice"
-    },
-    {
-      "title": "一周文艺:阿来推出非虚构新作,2026年新书出版计划,文学改编电视剧...",
-      "url": "https://baijiahao.baidu.com/s?id=1854077351447842645&wfr=spider&for=pc",
-      "source": "新浪财经",
-      "time": "1月12日",
-      "category": "activity"
-    },
-    {
-      "title": "2025文学报年度好书榜揭晓 新大众文艺重点在“新”",
-      "url": "https://baijiahao.baidu.com/s?id=1854696435006784770&wfr=spider&for=pc",
-      "source": "新民晚报",
       "time": "1月18日",
       "category": "other"
     },
     {
-      "title": "2026年,这些新书值得我们期待(上)",
-      "url": "https://baijiahao.baidu.com/s?id=1854440677511475404&wfr=spider&for=pc",
-      "source": "界面新闻",
-      "time": "1月16日",
-      "category": "activity"
+      "title": "市井叙事中的时代寓言与人性叩问——论何世波《严二》的创作艺术",
+      "url": "https://cul.sohu.com/a/981492843_120727409",
+      "source": "搜狐网",
+      "time": "前天17:47",
+      "category": "meeting"
     },
     {
       "title": "驼生活:以阿拉善纯净之源,重塑高端驼奶品质标杆",
@@ -91,6 +63,13 @@ window.LIT_DATA = {
       "source": "搜狐网",
       "time": "1月14日",
       "category": "activity"
+    },
+    {
+      "title": "慢阅读偶感(文思)",
+      "url": "https://baijiahao.baidu.com/s?id=1855792145498528316&wfr=spider&for=pc",
+      "source": "人民网",
+      "time": "9小时前",
+      "category": "other"
     },
     {
       "title": "45岁汤唯拿奖上热搜:被封杀12年里,她从未放弃过一件事!",
