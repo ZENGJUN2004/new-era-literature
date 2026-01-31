@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-01-31 23:13",
+  "update_time": "2026-02-01 00:15",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,13 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "驼生活:以阿拉善纯净之源,重塑高端驼奶品质标杆",
-      "url": "https://baijiahao.baidu.com/s?id=1855642039779037260&wfr=spider&for=pc",
-      "source": "生活日报",
-      "time": "前天17:15",
-      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
