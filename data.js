@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-01 09:11",
+  "update_time": "2026-02-01 12:19",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,20 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "2022—2024年度“赵树理文学奖”获奖者专访",
-      "url": "https://www.sxrb.com/content/202601/30/c95676.html",
-      "source": "山西新闻网",
-      "time": "前天07:05",
-      "category": "other"
-    },
-    {
-      "title": "陈东林评当代诗人刘剑‖1首2025年中国长诗最佳文本奖作品,绝对...",
-      "url": "https://cul.sohu.com/a/977103227_99890677",
-      "source": "搜狐网",
-      "time": "1月17日",
-      "category": "other"
     },
     {
       "title": "国家发展改革委、商务部发布《鼓励外商投资产业目录(2025年版)》",
