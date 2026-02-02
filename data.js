@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-03 02:28",
+  "update_time": "2026-02-03 07:17",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,18 +23,18 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "【钛晨报】国家医保局:医保药品目录调整专家评审工作已结束;把...",
-      "url": "https://www.tmtpost.com/6283071.html",
-      "source": "钛媒体官方网站",
-      "time": "",
-      "category": "activity"
+      "title": "阎晶明:新大众文艺,每个人都可以是写作者",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32410550",
+      "source": "澎湃新闻",
+      "time": "1月18日",
+      "category": "other"
     },
     {
-      "title": "辅酶q10哪个牌子好?辅酶q10品牌,高纯检测数据透明",
-      "url": "https://baijiahao.baidu.com/s?id=1855903107571904017&wfr=spider&for=pc",
-      "source": "荆门新闻网",
-      "time": "前天14:25",
-      "category": "other"
+      "title": "国家发展改革委、商务部发布《鼓励外商投资产业目录(2025年版)》",
+      "url": "https://m.thepaper.cn/newsDetail_forward_32368121",
+      "source": "澎湃新闻",
+      "time": "1月12日",
+      "category": "activity"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
@@ -49,27 +49,6 @@ window.LIT_DATA = {
       "source": "搜狐网",
       "time": "1月14日",
       "category": "activity"
-    },
-    {
-      "title": "孩子寒假学什么?拆开AI大脑,深游AI核心逻辑!",
-      "url": "http://www.thepaper.cn/newsDetail_forward_32489923",
-      "source": "澎湃新闻",
-      "time": "昨天13:10",
-      "category": "other"
-    },
-    {
-      "title": "雪峰文化·深度观察|《全民阅读促进条例》施行首日 怀化共商全民...",
-      "url": "https://baijiahao.baidu.com/s?id=1856023208792328319&wfr=spider&for=pc",
-      "source": "掌上怀化",
-      "time": "昨天16:26",
-      "category": "other"
-    },
-    {
-      "title": "让阅读成为残疾人生活常态——解读《“我们一起阅读吧”联合倡议...",
-      "url": "https://baijiahao.baidu.com/s?id=1855985613647449269&wfr=spider&for=pc",
-      "source": "中国残疾人联合会",
-      "time": "昨天10:58",
-      "category": "other"
     }
   ]
 };
