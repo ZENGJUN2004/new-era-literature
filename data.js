@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-03 00:24",
+  "update_time": "2026-02-03 01:30",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,6 +23,34 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
+      "title": "文学期刊如何“突围”?全国名刊长沙共商转型",
+      "url": "https://baijiahao.baidu.com/s?id=1855937320673633119&wfr=spider&for=pc",
+      "source": "湖南日报",
+      "time": "前天22:58",
+      "category": "other"
+    },
+    {
+      "title": "中国当代文学研究会2025年度榜单",
+      "url": "https://baijiahao.baidu.com/s?id=1854879539663024017&wfr=spider&for=pc",
+      "source": "青瞳视角",
+      "time": "1月21日",
+      "category": "other"
+    },
+    {
+      "title": "中国当代文学研究会年度榜单(2025)发布",
+      "url": "https://baijiahao.baidu.com/s?id=1853483055197931621&wfr=spider&for=pc",
+      "source": "澎湃新闻",
+      "time": "1月5日",
+      "category": "other"
+    },
+    {
+      "title": "对话戴锦华:文科的价值坐标,AI再校准?",
+      "url": "https://www.huxiu.com/article/4827747.html",
+      "source": "虎嗅APP",
+      "time": "1月19日",
+      "category": "other"
+    },
+    {
       "title": "国家发展改革委、商务部发布《鼓励外商投资产业目录(2025年版)》",
       "url": "https://m.thepaper.cn/newsDetail_forward_32368121",
       "source": "澎湃新闻",
@@ -42,6 +70,13 @@ window.LIT_DATA = {
       "source": "搜狐网",
       "time": "1月14日",
       "category": "activity"
+    },
+    {
+      "title": "中国当代文学研究会年度榜单发布",
+      "url": "https://baijiahao.baidu.com/s?id=1855942095675059485&wfr=spider&for=pc",
+      "source": "新浪财经",
+      "time": "昨天00:45",
+      "category": "other"
     }
   ]
 };
