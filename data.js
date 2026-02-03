@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-03 07:17",
+  "update_time": "2026-02-03 09:05",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,10 +23,10 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "阎晶明:新大众文艺,每个人都可以是写作者",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32410550",
-      "source": "澎湃新闻",
-      "time": "1月18日",
+      "title": "对话戴锦华:文科的价值坐标,AI再校准?",
+      "url": "https://www.huxiu.com/article/4827747.html",
+      "source": "虎嗅APP",
+      "time": "1月19日",
       "category": "other"
     },
     {
