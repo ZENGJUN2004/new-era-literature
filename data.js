@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-03 09:05",
+  "update_time": "2026-02-03 12:04",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,13 +23,6 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "对话戴锦华:文科的价值坐标,AI再校准?",
-      "url": "https://www.huxiu.com/article/4827747.html",
-      "source": "虎嗅APP",
-      "time": "1月19日",
-      "category": "other"
-    },
-    {
       "title": "国家发展改革委、商务部发布《鼓励外商投资产业目录(2025年版)》",
       "url": "https://m.thepaper.cn/newsDetail_forward_32368121",
       "source": "澎湃新闻",
@@ -48,6 +41,13 @@ window.LIT_DATA = {
       "url": "https://cul.sohu.com/a/976114324_232127",
       "source": "搜狐网",
       "time": "1月14日",
+      "category": "activity"
+    },
+    {
+      "title": "冉学东长篇小说《上寨》首发仪式暨作品讨论会在西安举行",
+      "url": "https://baijiahao.baidu.com/s?id=1855993505774569048&wfr=spider&for=pc",
+      "source": "三秦都市报",
+      "time": "昨天14:19",
       "category": "activity"
     }
   ]
