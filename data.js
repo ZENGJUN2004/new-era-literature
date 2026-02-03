@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-03 17:29",
+  "update_time": "2026-02-03 18:29",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,34 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "《生命树》等近25部剧角逐2026开年档:“首爆”仍然缺失?",
-      "url": "https://baijiahao.baidu.com/s?id=1855882963276949469&wfr=spider&for=pc",
-      "source": "新浪财经",
-      "time": "前天08:28",
-      "category": "other"
-    },
-    {
-      "title": "读书会|王春林:2025中国小说:一个人的小说排行榜",
-      "url": "https://baijiahao.baidu.com/s?id=1853627163032581096&wfr=spider&for=pc",
-      "source": "齐鲁壹点",
-      "time": "1月7日",
-      "category": "activity"
-    },
-    {
-      "title": "一周文艺:阿来推出非虚构新作,2026年新书出版计划,文学改编电视剧...",
-      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1050469",
-      "source": "上观",
-      "time": "1月12日",
-      "category": "activity"
-    },
-    {
-      "title": "新书|在文字中探寻民族文化根脉,“文学共同体书系·中国当代多...",
-      "url": "https://baijiahao.baidu.com/s?id=1854720583649548752&wfr=spider&for=pc",
-      "source": "扬子晚报",
-      "time": "1月19日",
-      "category": "activity"
     },
     {
       "title": "国家发展改革委、商务部发布《鼓励外商投资产业目录(2025年版)》",
