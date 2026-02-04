@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-04 16:28",
+  "update_time": "2026-02-04 17:32",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,24 +23,17 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "莫言:大师都是等人死了以后追加的",
-      "url": "https://yule.sohu.com/a/979184148_122389433",
-      "source": "搜狐娱乐",
-      "time": "1月23日",
-      "category": "other"
-    },
-    {
-      "title": "阎晶明:新大众文艺,每个人都可以是写作者",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32410550",
-      "source": "澎湃新闻",
-      "time": "1月18日",
-      "category": "other"
-    },
-    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
+      "category": "activity"
+    },
+    {
+      "title": "每一寸土地都充满生机,“新时代山乡巨变创作计划”长篇小说《种粮...",
+      "url": "https://cul.sohu.com/a/976114324_232127",
+      "source": "搜狐网",
+      "time": "1月14日",
       "category": "activity"
     },
     {
