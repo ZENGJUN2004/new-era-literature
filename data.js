@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-04 14:36",
+  "update_time": "2026-02-04 15:37",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,10 +23,10 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "仁怀文学花红果硕添新枝",
-      "url": "https://baijiahao.baidu.com/s?id=1855988440130238222&wfr=spider&for=pc",
-      "source": "金台资讯",
-      "time": "前天11:56",
+      "title": "钱报读书会|海飞《剧院》开启“迷城”系列,发掘南方县城的秘密",
+      "url": "https://baijiahao.baidu.com/s?id=1856001116947451615&wfr=spider&for=pc",
+      "source": "钱江晚报",
+      "time": "前天16:20",
       "category": "other"
     },
     {
@@ -44,6 +44,41 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
+      "title": "城市更新,焕新别样“城市烟火”丨新民述评",
+      "url": "http://baijiahao.baidu.com/s?id=1856174728156380745&wfr=spider&for=pc",
+      "source": "上观新闻",
+      "time": "1小时前",
+      "category": "other"
+    },
+    {
+      "title": "一场法治与文学的深度对话|“知名作家看法院”走进浙江台州",
+      "url": "http://www.thepaper.cn/newsDetail_forward_32531685",
+      "source": "澎湃新闻",
+      "time": "2小时前",
+      "category": "other"
+    },
+    {
+      "title": "...奋进新征程强大动能——2025年南昌市宣传思想文化工作综述",
+      "url": "https://baijiahao.baidu.com/s?id=1856162684063374111&wfr=spider&for=pc",
+      "source": "南昌发布",
+      "time": "4小时前",
+      "category": "meeting"
+    },
+    {
+      "title": "作家与好书直播间等你!立春之夜,共赴3小时文学漫游",
+      "url": "http://www.thepaper.cn/newsDetail_forward_32527799",
+      "source": "澎湃新闻",
+      "time": "4小时前",
+      "category": "other"
+    },
+    {
+      "title": "专访|刚刚下线的“钱弘佐”吴昊宸:我也在跟着《太平年》学历史",
+      "url": "https://baijiahao.baidu.com/s?id=1856156861392488663&wfr=spider&for=pc",
+      "source": "钱江晚报",
+      "time": "5小时前",
+      "category": "other"
+    },
+    {
       "title": "作家陈彦:当代文学像一曲交响乐",
       "url": "http://www.thepaper.cn/newsDetail_forward_32522404",
       "source": "澎湃新闻",
@@ -51,32 +86,11 @@ window.LIT_DATA = {
       "category": "other"
     },
     {
-      "title": "《人民文学》第三次“与辉同行”:电影背后有丰富的文学",
-      "url": "http://www.thepaper.cn/newsDetail_forward_32522568",
-      "source": "澎湃新闻",
-      "time": "昨天15:40",
+      "title": "2026年第2期《党建》刊发中国作家协会党组文章",
+      "url": "https://baijiahao.baidu.com/s?id=1856080410343804553&wfr=spider&for=pc",
+      "source": "党建网",
+      "time": "昨天10:04",
       "category": "other"
-    },
-    {
-      "title": "人民文学出版社推出《经典常谈(全新校订版)》",
-      "url": "https://baijiahao.baidu.com/s?id=1856101088686185340&wfr=spider&for=pc",
-      "source": "北京日报客户端",
-      "time": "昨天18:51",
-      "category": "activity"
-    },
-    {
-      "title": "2025收获文学榜揭晓!苏童吴真全勇先毕飞宇拿下各榜头名",
-      "url": "http://baijiahao.baidu.com/s?id=1856106912380411878&wfr=spider&for=pc",
-      "source": "上观新闻",
-      "time": "昨天20:24",
-      "category": "other"
-    },
-    {
-      "title": "人民文学出版社致歉,《经典常谈》校订已完成",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32526818",
-      "source": "澎湃新闻",
-      "time": "昨天20:51",
-      "category": "activity"
     }
   ]
 };
