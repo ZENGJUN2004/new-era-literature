@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-05 14:43",
+  "update_time": "2026-02-05 15:43",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,17 +23,10 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "大众写科幻,带来了什么?",
-      "url": "https://baijiahao.baidu.com/s?id=1853890395730591225&wfr=spider&for=pc",
-      "source": "湘湘带你看社会",
-      "time": "1月10日",
-      "category": "voice"
-    },
-    {
-      "title": "迈向跨界融合的“大文学”时代",
-      "url": "https://www.news.cn/book/20260120/d3fa6fd5f93048fc88a2d3be4ef48224/c.html",
-      "source": "新华网",
-      "time": "1月20日",
+      "title": "“西游”IP为何长盛不衰?",
+      "url": "https://www.bjnews.com.cn/detail/1770077284189189.html",
+      "source": "新京报网",
+      "time": "前天08:07",
       "category": "other"
     },
     {
@@ -42,6 +35,34 @@ window.LIT_DATA = {
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
+    },
+    {
+      "title": "李敬泽做客西湖讲坛谈“情感考古”:在文学中探寻中国人情感的源头",
+      "url": "https://baijiahao.baidu.com/s?id=1856159539287434750&wfr=spider&for=pc",
+      "source": "浙江日报",
+      "time": "昨天10:20",
+      "category": "other"
+    },
+    {
+      "title": "西湖讲坛首讲:李敬泽谈“情感考古”,在文学中探寻中国人情感的源头",
+      "url": "https://baijiahao.baidu.com/s?id=1856178408755433363&wfr=spider&for=pc",
+      "source": "钱江晚报",
+      "time": "昨天15:20",
+      "category": "other"
+    },
+    {
+      "title": "「新语境下散文何为」挖掘散文更为广袤深厚的可能性",
+      "url": "https://baijiahao.baidu.com/s?id=1856144813616926411&wfr=spider&for=pc",
+      "source": "光明网",
+      "time": "昨天03:45",
+      "category": "other"
+    },
+    {
+      "title": "2025收获文学榜背后,创作有哪些新走向?",
+      "url": "https://baijiahao.baidu.com/s?id=1856139608343207044&wfr=spider&for=pc",
+      "source": "新浪财经",
+      "time": "昨天05:04",
+      "category": "other"
     }
   ]
 };
