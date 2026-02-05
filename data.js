@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-05 13:47",
+  "update_time": "2026-02-05 14:43",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,20 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "大众写科幻,带来了什么?",
+      "url": "https://baijiahao.baidu.com/s?id=1853890395730591225&wfr=spider&for=pc",
+      "source": "湘湘带你看社会",
+      "time": "1月10日",
+      "category": "voice"
+    },
+    {
+      "title": "迈向跨界融合的“大文学”时代",
+      "url": "https://www.news.cn/book/20260120/d3fa6fd5f93048fc88a2d3be4ef48224/c.html",
+      "source": "新华网",
+      "time": "1月20日",
+      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
