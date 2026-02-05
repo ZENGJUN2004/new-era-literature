@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-05 21:58",
+  "update_time": "2026-02-05 22:41",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,20 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "茅盾文学奖不应\"自相矛盾\"_正义网",
+      "url": "http://www.jcrb.com/culture/jianghu/mdwxj/index.html",
+      "source": "正义网",
+      "time": "",
+      "category": "other"
+    },
+    {
+      "title": "【思想界】彼得·汉德克获诺奖惹争议:文学性能够用政治和道德衡量...",
+      "url": "https://m.jiemian.com/article/3573232.html",
+      "source": "界面新闻",
+      "time": "",
+      "category": "voice"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
