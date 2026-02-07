@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-07 20:22",
+  "update_time": "2026-02-07 21:37",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -28,6 +28,27 @@ window.LIT_DATA = {
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
+    },
+    {
+      "title": "诗话淮北 览古韵今声",
+      "url": "https://baijiahao.baidu.com/s?id=1856429323987092769&wfr=spider&for=pc",
+      "source": "新浪财经",
+      "time": "11小时前",
+      "category": "other"
+    },
+    {
+      "title": "安徽人文讲坛丨2月8日,诗话淮北",
+      "url": "https://baijiahao.baidu.com/s?id=1856369637652711525&wfr=spider&for=pc",
+      "source": "大皖新闻",
+      "time": "昨天17:56",
+      "category": "other"
+    },
+    {
+      "title": "一周文化讲座|太平有年",
+      "url": "https://baijiahao.baidu.com/s?id=1856343688962732725&wfr=spider&for=pc",
+      "source": "澎湃新闻",
+      "time": "昨天11:07",
+      "category": "meeting"
     }
   ]
 };
