@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-07 15:24",
+  "update_time": "2026-02-07 16:18",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,27 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "一周文艺:阿来推出非虚构新作,2026年新书出版计划,文学改编电视剧...",
-      "url": "https://www.jfdaily.com/wx/detail.do?id=1050469",
-      "source": "上观",
-      "time": "1月12日",
-      "category": "activity"
-    },
-    {
-      "title": "青年作家正陷入孤独写作,文学共同体是有效路径吗?",
-      "url": "http://baijiahao.baidu.com/s?id=1856284693444131491&wfr=spider&for=pc",
-      "source": "上观新闻",
-      "time": "前天19:30",
-      "category": "other"
-    },
-    {
-      "title": "青年写作真问题:不是经验少,而是太怕“不够老”?",
-      "url": "http://baijiahao.baidu.com/s?id=1856285322738965085&wfr=spider&for=pc",
-      "source": "上观新闻",
-      "time": "前天19:40",
-      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
