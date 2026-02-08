@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-08 22:18",
+  "update_time": "2026-02-08 23:16",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,39 +23,11 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "【钛晨报】国家医保局:医保药品目录调整专家评审工作已结束;把...",
-      "url": "https://www.tmtpost.com/6283071.html",
-      "source": "钛媒体官方网站",
-      "time": "",
-      "category": "activity"
-    },
-    {
-      "title": "2026-1《收获》| 中篇:秦苏岚(赵刚)",
-      "url": "https://cul.sohu.com/a/978582246_638785",
-      "source": "搜狐网",
-      "time": "1月21日",
-      "category": "other"
-    },
-    {
-      "title": "2026-1《收获》| 短篇:走进书店的人(阮夕清)",
-      "url": "https://cul.sohu.com/a/979961041_638785",
-      "source": "搜狐网",
-      "time": "1月25日",
-      "category": "other"
-    },
-    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
-    },
-    {
-      "title": "筋膜枪什么牌子的好?十款专业测评,火眼金睛识别哪个牌子好!",
-      "url": "https://baijiahao.baidu.com/s?id=1856529513991636665&wfr=spider&for=pc",
-      "source": "开封网",
-      "time": "9小时前",
-      "category": "other"
     }
   ]
 };
