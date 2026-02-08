@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-08 15:32",
+  "update_time": "2026-02-08 16:20",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,11 +23,25 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
+      "title": "【散文】岁月留痕处 生命自芳华——读《沧桑岁月》四则文字有感‖...",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32549356",
+      "source": "澎湃新闻",
+      "time": "前天15:07",
+      "category": "other"
+    },
+    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
+    },
+    {
+      "title": "夜读| 汗漫:由胡适的一封信谈起",
+      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1064714&sid=11",
+      "source": "上观",
+      "time": "昨天20:00",
+      "category": "other"
     }
   ]
 };
