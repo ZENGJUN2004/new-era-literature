@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-09 23:43",
+  "update_time": "2026-02-10 01:41",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -40,7 +40,7 @@ window.LIT_DATA = {
       "title": "《富甲天下大盛魁》首发式在呼举行 万里茶道传奇从荧屏走向书页",
       "url": "https://cul.sohu.com/a/985091772_121117460",
       "source": "搜狐网",
-      "time": "昨天13:28",
+      "time": "前天13:28",
       "category": "activity"
     }
   ]
