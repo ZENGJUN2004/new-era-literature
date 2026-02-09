@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-10 04:31",
+  "update_time": "2026-02-10 05:29",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -44,11 +44,11 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "女性韧性与时代褶皱的双重书写",
-      "url": "https://paper.people.com.cn/zgcsb/pc/content/202602/09/content_30139558.html",
-      "source": "人民网",
-      "time": "昨天",
-      "category": "other"
+      "title": "玉泉区举办《富甲天下大盛魁》新书首发式",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32567136",
+      "source": "澎湃新闻",
+      "time": "昨天09:51",
+      "category": "activity"
     }
   ]
 };
