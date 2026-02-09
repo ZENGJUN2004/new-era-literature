@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-10 01:41",
+  "update_time": "2026-02-10 02:41",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -42,6 +42,13 @@ window.LIT_DATA = {
       "source": "搜狐网",
       "time": "前天13:28",
       "category": "activity"
+    },
+    {
+      "title": "豆瓣8.4分,读过他的书,想要不喜欢语文都很难",
+      "url": "http://www.thepaper.cn/newsDetail_forward_32523197",
+      "source": "澎湃新闻",
+      "time": "昨天13:10",
+      "category": "other"
     }
   ]
 };
