@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-09 19:38",
+  "update_time": "2026-02-09 20:39",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,6 +23,20 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
+      "title": "“中国小说年度风云榜”在京正式启动",
+      "url": "https://baijiahao.baidu.com/s?id=1854818522315788227&wfr=spider&for=pc",
+      "source": "中国新闻网",
+      "time": "1月20日",
+      "category": "activity"
+    },
+    {
+      "title": "中国当代文学研究会2025年度榜单",
+      "url": "https://baijiahao.baidu.com/s?id=1854879539663024017&wfr=spider&for=pc",
+      "source": "青瞳视角",
+      "time": "1月21日",
+      "category": "other"
+    },
+    {
       "title": "鼓励外商投资产业目录(2025年版)",
       "url": "http://www.mofcom.gov.cn/zfxxgk/zc/gz/art/2025/art_960476d904144787afc9f6fc004cd549.html",
       "source": "中华人民共和国商务部",
@@ -35,6 +49,13 @@ window.LIT_DATA = {
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
+    },
+    {
+      "title": "宝鸡家具企业获出口资质 陕西文化成果亮点频现",
+      "url": "http://news.10jqka.com.cn/20260209/c674644820.shtml",
+      "source": "同花顺财经",
+      "time": "11小时前",
+      "category": "other"
     },
     {
       "title": "《富甲天下大盛魁》首发式在呼举行 万里茶道传奇从荧屏走向书页",
