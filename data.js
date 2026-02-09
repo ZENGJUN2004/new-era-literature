@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-10 02:41",
+  "update_time": "2026-02-10 04:31",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -44,10 +44,10 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "豆瓣8.4分,读过他的书,想要不喜欢语文都很难",
-      "url": "http://www.thepaper.cn/newsDetail_forward_32523197",
-      "source": "澎湃新闻",
-      "time": "昨天13:10",
+      "title": "女性韧性与时代褶皱的双重书写",
+      "url": "https://paper.people.com.cn/zgcsb/pc/content/202602/09/content_30139558.html",
+      "source": "人民网",
+      "time": "昨天",
       "category": "other"
     }
   ]
