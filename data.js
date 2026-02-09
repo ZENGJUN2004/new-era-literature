@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-09 07:19",
+  "update_time": "2026-02-09 09:06",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -38,8 +38,8 @@ window.LIT_DATA = {
     },
     {
       "title": "长篇纪实文学《烽火》新书发布暨座谈会在德州举行",
-      "url": "https://baijiahao.baidu.com/s?id=1854984906459423165&wfr=spider&for=pc",
-      "source": "大众日报",
+      "url": "https://baijiahao.baidu.com/s?id=1855004406851169830&wfr=spider&for=pc",
+      "source": "闪电新闻",
       "time": "1月22日",
       "category": "activity"
     },
