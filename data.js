@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-09 15:06",
+  "update_time": "2026-02-09 16:37",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,20 +23,6 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "“拖把”和“抹布”的启示",
-      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1058836",
-      "source": "上观",
-      "time": "1月29日",
-      "category": "other"
-    },
-    {
-      "title": "2名印度飞饼师傅被认定“外籍专家”,每人领1000元慰问费!多方发声",
-      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1065039",
-      "source": "上观",
-      "time": "前天22:00",
-      "category": "other"
-    },
-    {
       "title": "鼓励外商投资产业目录(2025年版)",
       "url": "http://www.mofcom.gov.cn/zfxxgk/zc/gz/art/2025/art_960476d904144787afc9f6fc004cd549.html",
       "source": "中华人民共和国商务部",
@@ -49,13 +35,6 @@ window.LIT_DATA = {
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
-    },
-    {
-      "title": "骆以军 × 张怡微:世事流转,惟有“废物”恒常如新|播客",
-      "url": "https://baijiahao.baidu.com/s?id=1856613938455837860&wfr=spider&for=pc",
-      "source": "澎湃新闻",
-      "time": "4小时前",
-      "category": "other"
     },
     {
       "title": "《富甲天下大盛魁》首发式在呼举行 万里茶道传奇从荧屏走向书页",
