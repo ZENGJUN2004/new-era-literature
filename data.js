@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-10 19:42",
+  "update_time": "2026-02-10 20:44",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -42,6 +42,48 @@ window.LIT_DATA = {
       "source": "搜狐网",
       "time": "前天13:28",
       "category": "activity"
+    },
+    {
+      "title": "赠书送“福”传文脉,石桥镇喜迎新春文化礼",
+      "url": "https://baijiahao.baidu.com/s?id=1856729134629444807&wfr=spider&for=pc",
+      "source": "齐鲁壹点",
+      "time": "3小时前",
+      "category": "other"
+    },
+    {
+      "title": "从乡村少年到茅奖作家:一本书读懂徐则臣的“北上”人生",
+      "url": "https://baijiahao.baidu.com/s?id=1856720830348876388&wfr=spider&for=pc",
+      "source": "封面新闻",
+      "time": "5小时前",
+      "category": "other"
+    },
+    {
+      "title": "澳门文总助力《人民文学》葡文版首刊发行",
+      "url": "https://baijiahao.baidu.com/s?id=1856709252075079119&wfr=spider&for=pc",
+      "source": "中国新闻网",
+      "time": "8小时前",
+      "category": "other"
+    },
+    {
+      "title": "《人民文学》葡文版首刊正式发行",
+      "url": "https://baijiahao.baidu.com/s?id=1856707364268271148&wfr=spider&for=pc",
+      "source": "海外网",
+      "time": "9小时前",
+      "category": "other"
+    },
+    {
+      "title": "春风荐书|姜明《八千年的凝视》:文化传承中,文学的表达不可或缺",
+      "url": "https://baijiahao.baidu.com/s?id=1856613370285896668&wfr=spider&for=pc",
+      "source": "钱江晚报",
+      "time": "昨天10:31",
+      "category": "other"
+    },
+    {
+      "title": "一周文艺:“与辉同行”联手期刊,李洱《花腔》国外获奖,剧版《蝇王...",
+      "url": "http://baijiahao.baidu.com/s?id=1856611836017857563&wfr=spider&for=pc",
+      "source": "上观新闻",
+      "time": "昨天10:09",
+      "category": "other"
     }
   ]
 };
