@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-10 15:52",
+  "update_time": "2026-02-10 16:38",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,13 +23,6 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "“茅盾文学奖”得主迟子建哽咽地对董宇辉说:“你帮我卖了150万本...",
-      "url": "https://baijiahao.baidu.com/s?id=1855744897645177818&wfr=spider&for=pc",
-      "source": "台海网",
-      "time": "1月30日",
-      "category": "other"
-    },
-    {
       "title": "鼓励外商投资产业目录(2025年版)",
       "url": "http://www.mofcom.gov.cn/zfxxgk/zc/gz/art/2025/art_960476d904144787afc9f6fc004cd549.html",
       "source": "中华人民共和国商务部",
@@ -44,25 +37,67 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
+      "title": "长篇纪实文学《烽火》新书发布暨座谈会在德州举行",
+      "url": "https://baijiahao.baidu.com/s?id=1854984906459423165&wfr=spider&for=pc",
+      "source": "大众日报",
+      "time": "1月22日",
+      "category": "activity"
+    },
+    {
+      "title": "盘州本土作家创作的长篇历史纪实小说《乌蒙铁壁》新书发布",
+      "url": "https://baijiahao.baidu.com/s?id=1854571604814312489&wfr=spider&for=pc",
+      "source": "天眼新闻",
+      "time": "1月17日",
+      "category": "activity"
+    },
+    {
+      "title": "翰墨生香,诗心共映|本土作家许良(吉伦巴雅尔)新书发布会暨作品...",
+      "url": "https://cul.sohu.com/a/985142059_121106854",
+      "source": "搜狐网",
+      "time": "前天16:59",
+      "category": "activity"
+    },
+    {
+      "title": "深度书写非洲 张翎《赤道风语——东非漫行散记》新书发布",
+      "url": "https://baijiahao.baidu.com/s?id=1855009426425362877&wfr=spider&for=pc",
+      "source": "中国新闻网",
+      "time": "1月22日",
+      "category": "activity"
+    },
+    {
       "title": "从乡村少年到茅奖作家:一本书读懂徐则臣的“北上”人生",
       "url": "https://baijiahao.baidu.com/s?id=1856720830348876388&wfr=spider&for=pc",
       "source": "封面新闻",
-      "time": "48分钟前",
+      "time": "1小时前",
       "category": "other"
     },
     {
-      "title": "“大丈夫当以天下为己任” ——从小学作文窥见少年茅盾的天下初心...",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32543618",
+      "title": "向死而生:当我们学会告别,才真正开始活着",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32519409",
       "source": "澎湃新闻",
-      "time": "4小时前",
+      "time": "昨天13:10",
       "category": "other"
     },
     {
-      "title": "一周文艺:“与辉同行”联手期刊,李洱《花腔》国外获奖,剧版《蝇王...",
-      "url": "https://baijiahao.baidu.com/s?id=1856611828257420989&wfr=spider&for=pc",
-      "source": "文汇报",
-      "time": "昨天10:09",
+      "title": "河北文学精品创作竞绽芳华",
+      "url": "https://baijiahao.baidu.com/s?id=1856608715087494022&wfr=spider&for=pc",
+      "source": "金台资讯",
+      "time": "昨天08:56",
       "category": "other"
+    },
+    {
+      "title": "《青城梨园撷英》新书发布会在呼和浩特举行",
+      "url": "https://baijiahao.baidu.com/s?id=1856608272935335132&wfr=spider&for=pc",
+      "source": "湘湘带你看社会",
+      "time": "昨天09:13",
+      "category": "activity"
+    },
+    {
+      "title": "《百年骑楼》新书发布系统反映海口气韵与百年城市变迁",
+      "url": "https://baijiahao.baidu.com/s?id=1856620227254872390&wfr=spider&for=pc",
+      "source": "湘湘带你看社会",
+      "time": "昨天12:23",
+      "category": "activity"
     }
   ]
 };
