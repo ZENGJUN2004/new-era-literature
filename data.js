@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-11 22:08",
+  "update_time": "2026-02-11 23:48",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,16 +23,9 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "她走过无数人间,萧红为何影响一代代写作者和读者",
-      "url": "https://www.bjnews.com.cn/detail/1770683515189912.html",
-      "source": "新京报",
-      "time": "",
-      "category": "other"
-    },
-    {
-      "title": "鼓励外商投资产业目录(2025年版)",
-      "url": "http://www.mofcom.gov.cn/zfxxgk/zc/gz/art/2025/art_960476d904144787afc9f6fc004cd549.html",
-      "source": "中华人民共和国商务部",
+      "title": "【钛晨报】国家医保局:医保药品目录调整专家评审工作已结束;把...",
+      "url": "https://www.tmtpost.com/6283071.html",
+      "source": "钛媒体官方网站",
       "time": "",
       "category": "activity"
     },
@@ -42,6 +35,13 @@ window.LIT_DATA = {
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
+    },
+    {
+      "title": "千幅禁毒警示春联走进千家万户",
+      "url": "http://www.thepaper.cn/newsDetail_forward_32585624",
+      "source": "澎湃新闻",
+      "time": "5小时前",
+      "category": "other"
     }
   ]
 };
