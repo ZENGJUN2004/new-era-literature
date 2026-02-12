@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-12 23:40",
+  "update_time": "2026-02-13 00:45",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,13 +23,6 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "中国当代文学研究会2025年度榜单",
-      "url": "https://baijiahao.baidu.com/s?id=1854879539663024017&wfr=spider&for=pc",
-      "source": "青瞳视角",
-      "time": "1月21日",
-      "category": "other"
-    },
-    {
       "title": "鼓励外商投资产业目录(2025年版)",
       "url": "http://www.mofcom.gov.cn/zfxxgk/zc/gz/art/2025/art_960476d904144787afc9f6fc004cd549.html",
       "source": "中华人民共和国商务部",
@@ -44,24 +37,17 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "江子:他们在中国古代,是有服饰标识的,那就是袍子,直襟直筒、衣长...",
-      "url": "http://www.thepaper.cn/newsDetail_forward_32581632",
-      "source": "澎湃新闻",
-      "time": "昨天12:33",
-      "category": "other"
-    },
-    {
       "title": "《花城》首发作品,李洱《花腔》荣获瑞典“2025年度好书奖”",
       "url": "https://www.thepaper.cn/newsDetail_forward_32557542",
       "source": "澎湃新闻",
-      "time": "昨天12:32",
+      "time": "前天12:32",
       "category": "activity"
     },
     {
       "title": "陈毓小说集《我们结婚吧》首发式暨作品研讨会在西安成功举行",
       "url": "https://baijiahao.baidu.com/s?id=1856814979481683196&wfr=spider&for=pc",
       "source": "三秦都市报",
-      "time": "昨天15:44",
+      "time": "前天15:44",
       "category": "activity"
     }
   ]
