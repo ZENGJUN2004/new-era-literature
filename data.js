@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-12 17:37",
+  "update_time": "2026-02-12 18:34",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,11 +23,39 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
+      "title": "豆瓣开分9.6,这部“人生之书”为何如此动人?",
+      "url": "https://m.thepaper.cn/newsDetail_forward_32522857",
+      "source": "澎湃新闻",
+      "time": "",
+      "category": "other"
+    },
+    {
+      "title": "鼓励外商投资产业目录(2025年版)",
+      "url": "http://www.mofcom.gov.cn/zfxxgk/zc/gz/art/2025/art_960476d904144787afc9f6fc004cd549.html",
+      "source": "中华人民共和国商务部",
+      "time": "",
+      "category": "activity"
+    },
+    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
+    },
+    {
+      "title": "周四新书 |豆瓣好书主题周之《脆弱的家庭》",
+      "url": "https://cul.sohu.com/a/986560033_121106902",
+      "source": "搜狐网",
+      "time": "8小时前",
+      "category": "activity"
+    },
+    {
+      "title": "曲周县图书馆春节开放时间及活动预告",
+      "url": "https://baijiahao.baidu.com/s?id=1856883977819243684&wfr=spider&for=pc",
+      "source": "邯郸新闻网",
+      "time": "昨天10:23",
+      "category": "other"
     },
     {
       "title": "《花城》首发作品,李洱《花腔》荣获瑞典“2025年度好书奖”",
