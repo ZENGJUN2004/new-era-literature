@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-13 03:44",
+  "update_time": "2026-02-13 04:22",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,20 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "“大奖书系 经典传承” 新春书展 | 书香贺岁・云享新春——2026...",
+      "url": "https://cul.sohu.com/a/986188146_121106908",
+      "source": "搜狐网",
+      "time": "前天11:30",
+      "category": "other"
+    },
+    {
+      "title": "萧红的另一重身影:人比笔执着,笔比人清醒",
+      "url": "https://baijiahao.baidu.com/s?id=1856798275700924268&wfr=spider&for=pc",
+      "source": "中国青年网",
+      "time": "前天11:20",
+      "category": "other"
     },
     {
       "title": "鼓励外商投资产业目录(2025年版)",
@@ -49,6 +63,13 @@ window.LIT_DATA = {
       "source": "三秦都市报",
       "time": "前天15:44",
       "category": "activity"
+    },
+    {
+      "title": "观众醒了,烂剧凉了",
+      "url": "https://www.huxiu.com/article/4834804.html",
+      "source": "虎嗅APP",
+      "time": "昨天20:53",
+      "category": "other"
     }
   ]
 };
