@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-12 15:44",
+  "update_time": "2026-02-12 16:33",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -34,6 +34,20 @@ window.LIT_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
+      "category": "activity"
+    },
+    {
+      "title": "《花城》首发作品,李洱《花腔》荣获瑞典“2025年度好书奖”",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32557542",
+      "source": "澎湃新闻",
+      "time": "昨天12:32",
+      "category": "activity"
+    },
+    {
+      "title": "陈毓小说集《我们结婚吧》首发式暨作品研讨会在西安成功举行",
+      "url": "https://baijiahao.baidu.com/s?id=1856814979481683196&wfr=spider&for=pc",
+      "source": "三秦都市报",
+      "time": "昨天15:44",
       "category": "activity"
     }
   ]
