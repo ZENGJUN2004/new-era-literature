@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-12 12:13",
+  "update_time": "2026-02-12 13:58",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,6 +23,20 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
+      "title": "女性为何写作?她们用文字打破边界",
+      "url": "http://baijiahao.baidu.com/s?id=1855001128564567122&wfr=spider&for=pc",
+      "source": "上观新闻",
+      "time": "1月22日",
+      "category": "other"
+    },
+    {
+      "title": "她走过无数人间,萧红为何影响一代代写作者和读者",
+      "url": "https://baijiahao.baidu.com/s?id=1856696928215865706&wfr=spider&for=pc",
+      "source": "新浪财经",
+      "time": "前天08:42",
+      "category": "other"
+    },
+    {
       "title": "鼓励外商投资产业目录(2025年版)",
       "url": "http://www.mofcom.gov.cn/zfxxgk/zc/gz/art/2025/art_960476d904144787afc9f6fc004cd549.html",
       "source": "中华人民共和国商务部",
@@ -35,20 +49,6 @@ window.LIT_DATA = {
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
-    },
-    {
-      "title": "“大奖书系 经典传承” 新春书展 | 书香贺岁・云享新春——2026...",
-      "url": "https://cul.sohu.com/a/986188146_121106908",
-      "source": "搜狐网",
-      "time": "昨天11:30",
-      "category": "other"
-    },
-    {
-      "title": "萧红的另一重身影:人比笔执着,笔比人清醒",
-      "url": "https://baijiahao.baidu.com/s?id=1856781697935318722&wfr=spider&for=pc",
-      "source": "青瞳视角",
-      "time": "昨天07:08",
-      "category": "other"
     }
   ]
 };
