@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-13 23:32",
+  "update_time": "2026-02-14 00:32",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,6 +23,27 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
+      "title": "李敬泽《引回风:随笔自选集》:自我追溯的“时间之书”",
+      "url": "https://baijiahao.baidu.com/s?id=1854627724132683640&wfr=spider&for=pc",
+      "source": "中国青年网",
+      "time": "1月18日",
+      "category": "other"
+    },
+    {
+      "title": "《赤心擎海:郑成功传》以全球视野重现郑成功的精神世界",
+      "url": "https://baijiahao.baidu.com/s?id=1856930050321438079&wfr=spider&for=pc",
+      "source": "中国青年报",
+      "time": "前天22:28",
+      "category": "other"
+    },
+    {
+      "title": "李敬泽的春秋头脑与山海经思维",
+      "url": "http://baijiahao.baidu.com/s?id=1856908258642157320&wfr=spider&for=pc",
+      "source": "上观新闻",
+      "time": "前天16:41",
+      "category": "other"
+    },
+    {
       "title": "鼓励外商投资产业目录(2025年版)",
       "url": "http://www.mofcom.gov.cn/zfxxgk/zc/gz/art/2025/art_960476d904144787afc9f6fc004cd549.html",
       "source": "中华人民共和国商务部",
@@ -37,18 +58,11 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "《花城》首发作品,李洱《花腔》荣获瑞典“2025年度好书奖”",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32557542",
-      "source": "澎湃新闻",
-      "time": "前天12:32",
-      "category": "activity"
-    },
-    {
-      "title": "陈毓小说集《我们结婚吧》首发式暨作品研讨会在西安成功举行",
-      "url": "https://baijiahao.baidu.com/s?id=1856814979481683196&wfr=spider&for=pc",
-      "source": "三秦都市报",
-      "time": "前天15:44",
-      "category": "activity"
+      "title": "关于《引回风》和文学的“风马牛而相及”",
+      "url": "https://baijiahao.baidu.com/s?id=1856994727916084343&wfr=spider&for=pc",
+      "source": "钱江晚报",
+      "time": "昨天15:33",
+      "category": "other"
     }
   ]
 };
