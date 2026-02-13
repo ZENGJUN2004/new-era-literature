@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-13 22:34",
+  "update_time": "2026-02-13 23:32",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,20 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "中国当代文学研究会2025年度榜单",
-      "url": "https://baijiahao.baidu.com/s?id=1854879539663024017&wfr=spider&for=pc",
-      "source": "青瞳视角",
-      "time": "1月21日",
-      "category": "other"
-    },
-    {
-      "title": "中国当代文学研究会年度榜单发布",
-      "url": "https://baijiahao.baidu.com/s?id=1855942095675059485&wfr=spider&for=pc",
-      "source": "新浪财经",
-      "time": "2月2日",
-      "category": "other"
     },
     {
       "title": "鼓励外商投资产业目录(2025年版)",
@@ -62,13 +48,6 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1856814979481683196&wfr=spider&for=pc",
       "source": "三秦都市报",
       "time": "前天15:44",
-      "category": "activity"
-    },
-    {
-      "title": "百花洲文艺出版社2025年度好书揭晓",
-      "url": "https://cul.sohu.com/a/986614767_121119389",
-      "source": "搜狐网",
-      "time": "昨天10:45",
       "category": "activity"
     }
   ]
