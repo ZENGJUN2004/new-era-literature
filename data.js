@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-13 17:33",
+  "update_time": "2026-02-13 18:29",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,13 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "枕边书 | 李玉民:我对人生命运着迷的源起",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32562348",
+      "source": "澎湃新闻",
+      "time": "前天12:33",
+      "category": "other"
     },
     {
       "title": "鼓励外商投资产业目录(2025年版)",
