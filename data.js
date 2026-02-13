@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-13 12:10",
+  "update_time": "2026-02-13 13:52",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,27 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "江子:他们在中国古代,是有服饰标识的,那就是袍子,直襟直筒、衣长...",
-      "url": "http://www.thepaper.cn/newsDetail_forward_32581632",
-      "source": "澎湃新闻",
-      "time": "前天12:33",
-      "category": "other"
-    },
-    {
-      "title": "中国当代文学研究会2025年度榜单",
-      "url": "https://baijiahao.baidu.com/s?id=1854879539663024017&wfr=spider&for=pc",
-      "source": "青瞳视角",
-      "time": "1月21日",
-      "category": "other"
-    },
-    {
-      "title": "中国当代文学研究会年度榜单发布",
-      "url": "https://baijiahao.baidu.com/s?id=1855942095675059485&wfr=spider&for=pc",
-      "source": "新浪财经",
-      "time": "2月2日",
-      "category": "other"
     },
     {
       "title": "鼓励外商投资产业目录(2025年版)",
