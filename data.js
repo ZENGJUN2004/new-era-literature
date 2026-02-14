@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-14 17:20",
+  "update_time": "2026-02-14 18:15",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,13 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "收获文学榜在上海揭晓!苏童《好天气》领衔长篇榜首",
-      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1062380",
-      "source": "上观",
-      "time": "2月3日",
-      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
