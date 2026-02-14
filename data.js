@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-14 19:14",
+  "update_time": "2026-02-14 20:22",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,11 +23,11 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "收获文学榜在上海揭晓!苏童《好天气》领衔长篇榜首",
-      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1062380",
-      "source": "上观",
-      "time": "2月3日",
-      "category": "other"
+      "title": "鼓励外商投资产业目录(2025年版)",
+      "url": "http://www.mofcom.gov.cn/zfxxgk/zc/gz/art/2025/art_960476d904144787afc9f6fc004cd549.html",
+      "source": "中华人民共和国商务部",
+      "time": "",
+      "category": "activity"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
