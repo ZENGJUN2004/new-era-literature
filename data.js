@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-14 15:27",
+  "update_time": "2026-02-14 16:18",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,27 +23,6 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "李敬泽《引回风:随笔自选集》:自我追溯的“时间之书”",
-      "url": "https://baijiahao.baidu.com/s?id=1854627724132683640&wfr=spider&for=pc",
-      "source": "中国青年网",
-      "time": "1月18日",
-      "category": "other"
-    },
-    {
-      "title": "《赤心擎海:郑成功传》以全球视野重现郑成功的精神世界",
-      "url": "https://baijiahao.baidu.com/s?id=1856930050321438079&wfr=spider&for=pc",
-      "source": "中国青年报",
-      "time": "前天22:28",
-      "category": "other"
-    },
-    {
-      "title": "李敬泽的春秋头脑与山海经思维",
-      "url": "http://baijiahao.baidu.com/s?id=1856908258642157320&wfr=spider&for=pc",
-      "source": "上观新闻",
-      "time": "前天16:41",
-      "category": "other"
-    },
-    {
       "title": "鼓励外商投资产业目录(2025年版)",
       "url": "http://www.mofcom.gov.cn/zfxxgk/zc/gz/art/2025/art_960476d904144787afc9f6fc004cd549.html",
       "source": "中华人民共和国商务部",
@@ -56,20 +35,6 @@ window.LIT_DATA = {
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
-    },
-    {
-      "title": "上市半年码洋近1000万,我编了一部“职业生涯仅此一次”的书",
-      "url": "https://cul.sohu.com/a/987038691_121123863",
-      "source": "搜狐网",
-      "time": "昨天14:23",
-      "category": "activity"
-    },
-    {
-      "title": "在文学经典中打捞人格“原型”",
-      "url": "https://cul.sohu.com/a/986879754_120952561",
-      "source": "搜狐网",
-      "time": "昨天07:00",
-      "category": "other"
     }
   ]
 };
