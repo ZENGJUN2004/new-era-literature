@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-16 02:20",
+  "update_time": "2026-02-16 03:18",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,20 +23,6 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "茅盾文学奖不应\"自相矛盾\"_正义网",
-      "url": "http://www.jcrb.com/culture/jianghu/mdwxj/index.html",
-      "source": "正义网",
-      "time": "",
-      "category": "other"
-    },
-    {
-      "title": "【思想界】彼得·汉德克获诺奖惹争议:文学性能够用政治和道德衡量...",
-      "url": "https://m.jiemian.com/article/3573232.html",
-      "source": "界面新闻",
-      "time": "",
-      "category": "voice"
-    },
-    {
       "title": "鼓励外商投资产业目录(2025年版)",
       "url": "http://www.mofcom.gov.cn/zfxxgk/zc/gz/art/2025/art_960476d904144787afc9f6fc004cd549.html",
       "source": "中华人民共和国商务部",
@@ -49,13 +35,6 @@ window.LIT_DATA = {
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
-    },
-    {
-      "title": "西语登上超级碗,是一场“文化复仇”吗?|文化周报",
-      "url": "https://baijiahao.baidu.com/s?id=1857158649163593266&wfr=spider&for=pc",
-      "source": "界面新闻",
-      "time": "昨天11:00",
-      "category": "other"
     }
   ]
 };
