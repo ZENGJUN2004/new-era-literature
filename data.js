@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-15 12:11",
+  "update_time": "2026-02-15 13:48",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,13 +23,6 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "“全光谱”青春:当一个时代在纸页上呼吸",
-      "url": "https://china.huanqiu.com/article/4QM3cxhs3sg",
-      "source": "环球网",
-      "time": "前天14:05",
-      "category": "other"
-    },
-    {
       "title": "鼓励外商投资产业目录(2025年版)",
       "url": "http://www.mofcom.gov.cn/zfxxgk/zc/gz/art/2025/art_960476d904144787afc9f6fc004cd549.html",
       "source": "中华人民共和国商务部",
@@ -44,18 +37,11 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "重拾当代性:文学与思想的新探索",
-      "url": "https://cul.sohu.com/a/987557896_121956422",
+      "title": "2026马年新春图书推荐 | 大奖书系·经典传承",
+      "url": "https://cul.sohu.com/a/987487609_121106875",
       "source": "搜狐网",
-      "time": "3小时前",
+      "time": "昨天22:34",
       "category": "other"
-    },
-    {
-      "title": "天南地北怀化人 | 沅水文脉的当代延续——马珂散文随笔和文学评论...",
-      "url": "https://www.0745news.cn/folder3287/folder2068/folder2/folder39/2026-02-15/1169152.html",
-      "source": "掌上怀化",
-      "time": "10小时前",
-      "category": "meeting"
     }
   ]
 };
