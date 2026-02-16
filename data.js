@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-16 14:00",
+  "update_time": "2026-02-16 15:03",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,13 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "鼓励外商投资产业目录(2025年版)",
-      "url": "http://www.mofcom.gov.cn/zfxxgk/zc/gz/art/2025/art_960476d904144787afc9f6fc004cd549.html",
-      "source": "中华人民共和国商务部",
-      "time": "",
-      "category": "activity"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
