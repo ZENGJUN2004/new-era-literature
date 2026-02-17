@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-17 23:41",
+  "update_time": "2026-02-18 00:44",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,32 +23,11 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "豆瓣高分、评论高赞,不出门的日子里,这6部纪录片治愈了我",
-      "url": "http://baijiahao.baidu.com/s?id=1730506789958714144&wfr=spider&for=pc",
-      "source": "澎湃新闻客户端",
-      "time": "",
-      "category": "meeting"
-    },
-    {
-      "title": "“想读”!豆瓣高分新书21种",
-      "url": "https://cul.sohu.com/a/977795632_228930",
-      "source": "搜狐网",
-      "time": "1月19日",
-      "category": "activity"
-    },
-    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
-    },
-    {
-      "title": "文学双周记|《呼啸山庄》《蝇王》《纯真博物馆》改编齐亮相",
-      "url": "https://baijiahao.baidu.com/s?id=1857249405029297946&wfr=spider&for=pc",
-      "source": "澎湃新闻",
-      "time": "昨天10:11",
-      "category": "other"
     }
   ]
 };
