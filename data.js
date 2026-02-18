@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-18 07:19",
+  "update_time": "2026-02-18 09:07",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,20 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "中国当代文学研究会2025年度榜单",
+      "url": "https://baijiahao.baidu.com/s?id=1854879539663024017&wfr=spider&for=pc",
+      "source": "青瞳视角",
+      "time": "1月21日",
+      "category": "other"
+    },
+    {
+      "title": "中国当代文学研究会年度榜单发布",
+      "url": "https://baijiahao.baidu.com/s?id=1855942095675059485&wfr=spider&for=pc",
+      "source": "新浪财经",
+      "time": "2月2日",
+      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
