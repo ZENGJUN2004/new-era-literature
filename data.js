@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-20 02:38",
+  "update_time": "2026-02-20 03:33",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,13 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "郭玉洁:亿万个孤独的自我|年度阅读",
-      "url": "https://baijiahao.baidu.com/s?id=1857431855820724815&wfr=spider&for=pc",
-      "source": "新浪财经",
-      "time": "前天11:07",
-      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
