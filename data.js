@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-20 14:41",
+  "update_time": "2026-02-20 15:40",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,11 +23,18 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "项静:从博物到非虚构:自然生态写作的一条路径 | 生态文学与自然...",
-      "url": "http://baijiahao.baidu.com/s?id=1741290134711738687&wfr=spider&for=pc",
+      "title": "中国当代文学研究会年度榜单发布",
+      "url": "https://baijiahao.baidu.com/s?id=1855942095675059485&wfr=spider&for=pc",
+      "source": "新浪财经",
+      "time": "2月2日",
+      "category": "other"
+    },
+    {
+      "title": "豆瓣高分、评论高赞,不出门的日子里,这6部纪录片治愈了我",
+      "url": "http://baijiahao.baidu.com/s?id=1730506789958714144&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
-      "category": "voice"
+      "category": "meeting"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
