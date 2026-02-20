@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-20 15:40",
+  "update_time": "2026-02-20 16:29",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -20,20 +20,6 @@ window.LIT_DATA = {
       "url": "https://scholar.baidu.com/scholar?q=当代文学&sc_ylo=2024&sort=sc_time",
       "source": "CNKI",
       "time": "实时",
-      "category": "meeting"
-    },
-    {
-      "title": "中国当代文学研究会年度榜单发布",
-      "url": "https://baijiahao.baidu.com/s?id=1855942095675059485&wfr=spider&for=pc",
-      "source": "新浪财经",
-      "time": "2月2日",
-      "category": "other"
-    },
-    {
-      "title": "豆瓣高分、评论高赞,不出门的日子里,这6部纪录片治愈了我",
-      "url": "http://baijiahao.baidu.com/s?id=1730506789958714144&wfr=spider&for=pc",
-      "source": "澎湃新闻客户端",
-      "time": "",
       "category": "meeting"
     },
     {
