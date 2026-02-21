@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-21 13:42",
+  "update_time": "2026-02-21 14:28",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,27 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "创生主义教育时代已来,教育的核心价值何在?新年第一天,全国专家...",
+      "url": "http://baijiahao.baidu.com/s?id=1853117574044722911&wfr=spider&for=pc",
+      "source": "上观新闻",
+      "time": "1月1日",
+      "category": "other"
+    },
+    {
+      "title": "观察:只想给你一个美好未来 _中国网",
+      "url": "http://www.china.com.cn/opinion/node_7184121.htm",
+      "source": "中国网",
+      "time": "",
+      "category": "other"
+    },
+    {
+      "title": "等富了再保护环境?项飚吕植分析环保“破局”",
+      "url": "https://m.jiemian.com/article/8099822.html",
+      "source": "界面新闻",
+      "time": "",
+      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
