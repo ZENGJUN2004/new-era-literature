@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-21 13:00",
+  "update_time": "2026-02-21 13:42",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -28,13 +28,6 @@ window.LIT_DATA = {
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
-    },
-    {
-      "title": "洪山非遗楚香惊艳亮相央视《非遗春晚》",
-      "url": "https://baijiahao.baidu.com/s?id=1857662614339878230&wfr=spider&for=pc",
-      "source": "洪山大学之城",
-      "time": "昨天22:41",
-      "category": "other"
     }
   ]
 };
