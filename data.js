@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-22 01:17",
+  "update_time": "2026-02-22 02:19",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,20 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "守正彰美 立言开新",
+      "url": "https://hbrb.hebnews.cn/pad/paper/c/202602/06/content_297805.html",
+      "source": "河北日报",
+      "time": "2月6日",
+      "category": "other"
+    },
+    {
+      "title": "两会好声音|汤素兰:建议恢复毛泽东文学奖、湖南省青年文学奖",
+      "url": "https://baijiahao.baidu.com/s?id=1856189106319101679&wfr=spider&for=pc",
+      "source": "红网",
+      "time": "2月4日",
+      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
