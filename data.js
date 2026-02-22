@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-22 16:19",
+  "update_time": "2026-02-22 17:20",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -20,6 +20,20 @@ window.LIT_DATA = {
       "url": "https://scholar.baidu.com/scholar?q=当代文学&sc_ylo=2024&sort=sc_time",
       "source": "CNKI",
       "time": "实时",
+      "category": "meeting"
+    },
+    {
+      "title": "媒体眼中海大的2025年!",
+      "url": "https://baijiahao.baidu.com/s?id=1856159417055495057&wfr=spider&for=pc",
+      "source": "中国海洋大学",
+      "time": "2月4日",
+      "category": "other"
+    },
+    {
+      "title": "大型历史文献纪录片《信仰的力量》研讨会--党史频道--人民网",
+      "url": "http://dangshi.people.com.cn/GB/151935/406058/index.html",
+      "source": "人民网",
+      "time": "",
       "category": "meeting"
     },
     {
