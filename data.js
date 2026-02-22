@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-22 21:36",
+  "update_time": "2026-02-22 22:16",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -20,6 +20,13 @@ window.LIT_DATA = {
       "url": "https://scholar.baidu.com/scholar?q=当代文学&sc_ylo=2024&sort=sc_time",
       "source": "CNKI",
       "time": "实时",
+      "category": "meeting"
+    },
+    {
+      "title": "文艺批评 |陈晓明:姑苏记忆的现代绽出——试析《桃花坞》的文化...",
+      "url": "https://history.sohu.com/a/984730341_121124790",
+      "source": "搜狐网",
+      "time": "2月7日",
       "category": "meeting"
     },
     {
