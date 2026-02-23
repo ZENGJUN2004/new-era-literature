@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-23 17:41",
+  "update_time": "2026-02-23 18:39",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,11 +23,11 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "豆瓣高分、评论高赞,不出门的日子里,这6部纪录片治愈了我",
-      "url": "http://baijiahao.baidu.com/s?id=1730506789958714144&wfr=spider&for=pc",
-      "source": "澎湃新闻客户端",
-      "time": "",
-      "category": "meeting"
+      "title": "新上海人的精神考古:都市移民二十年,她们如何安放野心与迷茫?",
+      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1065691",
+      "source": "上观",
+      "time": "2月9日",
+      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
@@ -35,20 +35,6 @@ window.LIT_DATA = {
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
-    },
-    {
-      "title": "i阅读丨豆瓣好书",
-      "url": "https://cul.sohu.com/a/989195313_121106822",
-      "source": "搜狐网",
-      "time": "7小时前",
-      "category": "other"
-    },
-    {
-      "title": "豆瓣9.1分,读懂了乡土,才能读懂中国",
-      "url": "https://www.huxiu.com/article/4836274.html",
-      "source": "虎嗅APP",
-      "time": "8小时前",
-      "category": "other"
     }
   ]
 };
