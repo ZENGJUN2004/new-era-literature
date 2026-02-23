@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-23 22:01",
+  "update_time": "2026-02-23 22:49",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,13 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "新上海人的精神考古:都市移民二十年,她们如何安放野心与迷茫?",
-      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1065691",
-      "source": "上观",
-      "time": "2月9日",
-      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
