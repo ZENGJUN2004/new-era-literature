@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-24 12:07",
+  "update_time": "2026-02-24 13:52",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,34 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "一周文艺:阿来推出非虚构新作,2026年新书出版计划,文学改编电视剧...",
-      "url": "https://www.jfdaily.com/wx/detail.do?id=1050469",
-      "source": "上观",
-      "time": "1月12日",
-      "category": "activity"
-    },
-    {
-      "title": "2026年,这些新书值得我们期待(上)",
-      "url": "https://baijiahao.baidu.com/s?id=1854440677511475404&wfr=spider&for=pc",
-      "source": "界面新闻",
-      "time": "1月16日",
-      "category": "activity"
-    },
-    {
-      "title": "2025文学报年度好书榜揭晓 新大众文艺重点在“新”",
-      "url": "https://baijiahao.baidu.com/s?id=1854696435006784770&wfr=spider&for=pc",
-      "source": "新民晚报",
-      "time": "1月18日",
-      "category": "other"
-    },
-    {
-      "title": "苏童毕飞宇吴真全勇先,2025收获文学榜揭晓,榜首作家这样说",
-      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1062375",
-      "source": "上观",
-      "time": "2月3日",
-      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
