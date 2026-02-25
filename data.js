@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-25 14:49",
+  "update_time": "2026-02-25 15:44",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,13 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "女性为何写作?她们用文字打破边界",
-      "url": "http://baijiahao.baidu.com/s?id=1855001128564567122&wfr=spider&for=pc",
-      "source": "上观新闻",
-      "time": "1月22日",
-      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
