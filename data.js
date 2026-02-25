@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-25 19:32",
+  "update_time": "2026-02-25 20:36",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,13 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "《收获》文学榜揭晓,榜单映射中国文坛迎来“丰年”",
-      "url": "https://baijiahao.baidu.com/s?id=1856184387041322771&wfr=spider&for=pc",
-      "source": "北京日报客户端",
-      "time": "2月4日",
-      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
