@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-25 16:35",
+  "update_time": "2026-02-25 17:41",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -28,6 +28,13 @@ window.LIT_DATA = {
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
+    },
+    {
+      "title": "写有情义的人 和那些情义流淌的瞬间",
+      "url": "https://baijiahao.baidu.com/s?id=1858053331954877569&wfr=spider&for=pc",
+      "source": "青瞳视角",
+      "time": "9小时前",
+      "category": "other"
     }
   ]
 };
