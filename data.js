@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-26 20:36",
+  "update_time": "2026-02-26 23:42",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,6 +23,13 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
+      "title": "【钛晨报】国家医保局:医保药品目录调整专家评审工作已结束;把...",
+      "url": "https://www.tmtpost.com/6283071.html",
+      "source": "钛媒体官方网站",
+      "time": "",
+      "category": "activity"
+    },
+    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
@@ -30,30 +37,9 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "伦敦电视节官宣:超级剧集《瓦猫》启动 打造东方人文剧集",
-      "url": "https://baijiahao.baidu.com/s?id=1858176450127040337&wfr=spider&for=pc",
-      "source": "千龙网",
-      "time": "3小时前",
-      "category": "other"
-    },
-    {
-      "title": "【线上展览】大奖书系·经典传承丨“马跃文渊·春满书城”超星...",
-      "url": "https://cul.sohu.com/a/990283549_121106869",
-      "source": "搜狐网",
-      "time": "4小时前",
-      "category": "other"
-    },
-    {
-      "title": "传统文学走上荧屏开辟新空间",
-      "url": "https://baijiahao.baidu.com/s?id=1858048104888429035&wfr=spider&for=pc",
-      "source": "光明网",
-      "time": "昨天05:40",
-      "category": "other"
-    },
-    {
       "title": "财经下午茶20260225 | 上海发布楼市“沪七条”",
-      "url": "https://stock.10jqka.com.cn/20260225/c674902343.shtml",
-      "source": "同花顺",
+      "url": "http://news.10jqka.com.cn/20260225/c674902343.shtml",
+      "source": "同花顺财经",
       "time": "昨天16:54",
       "category": "other"
     }
