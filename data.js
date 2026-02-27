@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-28 06:13",
+  "update_time": "2026-02-28 07:15",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,20 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "如何把一个想法写成畅销书?美国顶尖非虚构作家的写作课",
+      "url": "https://www.lifeweek.com.cn/article/13495",
+      "source": "三联生活周刊",
+      "time": "",
+      "category": "voice"
+    },
+    {
+      "title": "贾樟柯、梁鸿谈非虚构写作和纪录电影",
+      "url": "http://baijiahao.baidu.com/s?id=1717824461237591660&wfr=spider&for=pc",
+      "source": "澎湃新闻客户端",
+      "time": "",
+      "category": "voice"
     },
     {
       "title": "AITO问界在阿联酋收获200台首批订单",
