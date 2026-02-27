@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-27 23:29",
+  "update_time": "2026-02-28 00:28",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,17 +23,10 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "财经下午茶20260225 | 上海发布楼市“沪七条”",
-      "url": "https://stock.10jqka.com.cn/20260225/c674902343.shtml",
-      "source": "同花顺",
-      "time": "前天16:54",
-      "category": "other"
-    },
-    {
-      "title": "第15期海绵阅读法训练营招募 | 课程超详细介绍",
-      "url": "https://cul.sohu.com/a/989994069_121124743",
-      "source": "搜狐网",
-      "time": "前天19:50",
+      "title": "AITO问界在阿联酋收获200台首批订单",
+      "url": "http://news.10jqka.com.cn/20260226/c674931181.shtml",
+      "source": "同花顺财经",
+      "time": "前天15:36",
       "category": "other"
     },
     {
@@ -42,13 +35,6 @@ window.LIT_DATA = {
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
-    },
-    {
-      "title": "AITO问界在阿联酋收获200台首批订单",
-      "url": "http://news.10jqka.com.cn/20260226/c674931181.shtml",
-      "source": "同花顺财经",
-      "time": "昨天15:36",
-      "category": "other"
     }
   ]
 };
