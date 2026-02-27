@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-27 16:29",
+  "update_time": "2026-02-27 17:30",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -42,6 +42,27 @@ window.LIT_DATA = {
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
+    },
+    {
+      "title": "《刘醒龙文学年谱》出版",
+      "url": "http://news.cnhubei.com/content/2026-02/27/content_19841961.html",
+      "source": "荆楚网新闻",
+      "time": "8小时前",
+      "category": "activity"
+    },
+    {
+      "title": "伦敦电视节官宣:超级剧集《瓦猫》启动 打造东方人文剧集",
+      "url": "https://baijiahao.baidu.com/s?id=1858176450127040337&wfr=spider&for=pc",
+      "source": "千龙网",
+      "time": "昨天16:39",
+      "category": "other"
+    },
+    {
+      "title": "【线上展览】大奖书系·经典传承丨“马跃文渊·春满书城”超星...",
+      "url": "https://cul.sohu.com/a/990283549_121106869",
+      "source": "搜狐网",
+      "time": "昨天16:20",
+      "category": "other"
     },
     {
       "title": "AITO问界在阿联酋收获200台首批订单",
