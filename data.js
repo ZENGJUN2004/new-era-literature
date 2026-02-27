@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-27 19:24",
+  "update_time": "2026-02-27 20:32",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,20 +23,6 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "抖音精选热播电视剧推荐!2026开年这5部封神,不追血亏",
-      "url": "https://yule.sohu.com/a/987559186_122569971",
-      "source": "搜狐娱乐",
-      "time": "2月15日",
-      "category": "other"
-    },
-    {
-      "title": "豆瓣开分9.6,这部“人生之书”为何如此动人?",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32522857",
-      "source": "澎湃新闻",
-      "time": "2月5日",
-      "category": "other"
-    },
-    {
       "title": "财经下午茶20260225 | 上海发布楼市“沪七条”",
       "url": "https://stock.10jqka.com.cn/20260225/c674902343.shtml",
       "source": "同花顺",
@@ -56,13 +42,6 @@ window.LIT_DATA = {
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
-    },
-    {
-      "title": "豆瓣8.5+,解读5本心理学经典,开启你的开挂人生",
-      "url": "https://cul.sohu.com/a/990585703_121124723",
-      "source": "搜狐网",
-      "time": "6小时前",
-      "category": "other"
     },
     {
       "title": "AITO问界在阿联酋收获200台首批订单",
