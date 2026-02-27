@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-27 18:27",
+  "update_time": "2026-02-27 19:24",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,24 +23,17 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "【钛晨报】国家医保局:医保药品目录调整专家评审工作已结束;把...",
-      "url": "https://www.tmtpost.com/6283071.html",
-      "source": "钛媒体官方网站",
-      "time": "",
-      "category": "activity"
-    },
-    {
-      "title": "军营观察丨一名文职工程师的“匠人心语”",
-      "url": "https://www.huaxia.com/c/2026/02/25/2119961.shtml",
-      "source": "华夏经纬网",
-      "time": "前天10:46",
+      "title": "抖音精选热播电视剧推荐!2026开年这5部封神,不追血亏",
+      "url": "https://yule.sohu.com/a/987559186_122569971",
+      "source": "搜狐娱乐",
+      "time": "2月15日",
       "category": "other"
     },
     {
-      "title": "第15期海绵阅读法训练营招募 | 课程超详细介绍",
-      "url": "https://cul.sohu.com/a/989994069_121124743",
-      "source": "搜狐网",
-      "time": "前天19:50",
+      "title": "豆瓣开分9.6,这部“人生之书”为何如此动人?",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32522857",
+      "source": "澎湃新闻",
+      "time": "2月5日",
       "category": "other"
     },
     {
@@ -51,6 +44,13 @@ window.LIT_DATA = {
       "category": "other"
     },
     {
+      "title": "第15期海绵阅读法训练营招募 | 课程超详细介绍",
+      "url": "https://cul.sohu.com/a/989994069_121124743",
+      "source": "搜狐网",
+      "time": "前天19:50",
+      "category": "other"
+    },
+    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
@@ -58,17 +58,17 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "定格寒假的美好瞬间_青网教育频道_中国青年网",
-      "url": "https://edu.youth.cn/wzlb/202602/t20260227_16529988.htm",
-      "source": "中国青年网",
-      "time": "9小时前",
+      "title": "豆瓣8.5+,解读5本心理学经典,开启你的开挂人生",
+      "url": "https://cul.sohu.com/a/990585703_121124723",
+      "source": "搜狐网",
+      "time": "6小时前",
       "category": "other"
     },
     {
-      "title": "百济神州首次全年盈利 普冉股份去年净利2.08亿元超预告值",
-      "url": "http://app.myzaker.com/news/article.php?pk=69a0551e8e9f0953ee52b8db",
-      "source": "ZAKER",
-      "time": "昨天22:12",
+      "title": "AITO问界在阿联酋收获200台首批订单",
+      "url": "http://news.10jqka.com.cn/20260226/c674931181.shtml",
+      "source": "同花顺财经",
+      "time": "昨天15:36",
       "category": "other"
     }
   ]
