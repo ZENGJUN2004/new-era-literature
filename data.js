@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-28 22:12",
+  "update_time": "2026-02-28 23:12",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,13 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "她说|戴锦华:做现实主义者,求不可能之事",
+      "url": "https://baijiahao.baidu.com/s?id=1855465476132764191&wfr=spider&for=pc",
+      "source": "新闻晨报",
+      "time": "1月27日",
+      "category": "other"
     },
     {
       "title": "AITO问界在阿联酋收获200台首批订单",
