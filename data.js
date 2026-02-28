@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-28 20:22",
+  "update_time": "2026-02-28 21:30",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -42,6 +42,13 @@ window.LIT_DATA = {
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
+    },
+    {
+      "title": "大文学观视野下的文学创作——鲁院河北班学员研讨选编",
+      "url": "http://app.myzaker.com/news/article.php?pk=69a1191e8e9f09031d680887",
+      "source": "ZAKER",
+      "time": "昨天12:10",
+      "category": "meeting"
     }
   ]
 };
