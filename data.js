@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-28 14:23",
+  "update_time": "2026-02-28 15:19",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -42,13 +42,6 @@ window.LIT_DATA = {
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
-    },
-    {
-      "title": "文艺批评,难在何处",
-      "url": "https://www.qstheory.cn/20260228/84fbf365c88f486a94886bbebd15a1f6/c.html",
-      "source": "求是网",
-      "time": "3小时前",
-      "category": "meeting"
     }
   ]
 };
