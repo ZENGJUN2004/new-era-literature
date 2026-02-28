@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-02-28 23:12",
+  "update_time": "2026-03-01 00:14",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,27 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "她说|戴锦华:做现实主义者,求不可能之事",
-      "url": "https://baijiahao.baidu.com/s?id=1855465476132764191&wfr=spider&for=pc",
-      "source": "新闻晨报",
-      "time": "1月27日",
-      "category": "other"
-    },
-    {
-      "title": "AITO问界在阿联酋收获200台首批订单",
-      "url": "http://news.10jqka.com.cn/20260226/c674931181.shtml",
-      "source": "同花顺财经",
-      "time": "前天15:36",
-      "category": "other"
-    },
-    {
-      "title": "AITO问界阿联酋收获200台首批订单",
-      "url": "http://news.10jqka.com.cn/20260226/c674934621.shtml",
-      "source": "同花顺财经",
-      "time": "前天17:13",
-      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
