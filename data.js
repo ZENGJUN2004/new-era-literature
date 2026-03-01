@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-02 00:15",
+  "update_time": "2026-03-02 01:14",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,24 +23,17 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "她说|戴锦华:做现实主义者,求不可能之事",
-      "url": "https://baijiahao.baidu.com/s?id=1855465476132764191&wfr=spider&for=pc",
-      "source": "新闻晨报",
-      "time": "1月27日",
-      "category": "other"
-    },
-    {
-      "title": "【专访】文学研究者张莉:远离非黑即白二元对立的思维,去认识和...",
-      "url": "https://m.jiemian.com/article/4103429.html",
-      "source": "界面新闻",
-      "time": "",
-      "category": "other"
-    },
-    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
+      "category": "activity"
+    },
+    {
+      "title": "超越地方小说的文学野心 | 方柏林评《东岸纪事》",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32669896",
+      "source": "澎湃新闻",
+      "time": "前天13:49",
       "category": "activity"
     }
   ]
