@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-02 14:42",
+  "update_time": "2026-03-02 15:42",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,18 +23,18 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
+      "title": "成为《人民文学》头条的报告文学,需要历练什么样的脚力与笔力?",
+      "url": "http://baijiahao.baidu.com/s?id=1726635185081314797&wfr=spider&for=pc",
+      "source": "澎湃新闻客户端",
+      "time": "",
+      "category": "other"
+    },
+    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
-    },
-    {
-      "title": "书润德乡·好书推荐第366期|以她之眼,照见自我与远方",
-      "url": "https://cul.sohu.com/a/991535965_121106884",
-      "source": "搜狐网",
-      "time": "3小时前",
-      "category": "other"
     }
   ]
 };
