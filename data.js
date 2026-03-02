@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-02 22:36",
+  "update_time": "2026-03-02 23:31",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -28,76 +28,6 @@ window.LIT_DATA = {
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
-    },
-    {
-      "title": "新加坡著名慈善家、作家卓顺发《太阳出来了,露水不见了》新书发布",
-      "url": "https://cul.sohu.com/a/976352761_121192997",
-      "source": "搜狐网",
-      "time": "1月15日",
-      "category": "activity"
-    },
-    {
-      "title": "盘州本土作家创作的长篇历史纪实小说《乌蒙铁壁》新书发布",
-      "url": "https://baijiahao.baidu.com/s?id=1854571604814312489&wfr=spider&for=pc",
-      "source": "天眼新闻",
-      "time": "1月17日",
-      "category": "activity"
-    },
-    {
-      "title": "长篇纪实文学《烽火》新书发布暨座谈会在德州举行",
-      "url": "https://baijiahao.baidu.com/s?id=1854984906459423165&wfr=spider&for=pc",
-      "source": "大众日报",
-      "time": "1月22日",
-      "category": "activity"
-    },
-    {
-      "title": "广东台山:多措并举推动侨乡文化协同发展",
-      "url": "https://baijiahao.baidu.com/s?id=1858344339200729068&wfr=spider&for=pc",
-      "source": "党建网",
-      "time": "前天10:02",
-      "category": "other"
-    },
-    {
-      "title": "徐则臣《我要从南走到北》新书发布",
-      "url": "https://baijiahao.baidu.com/s?id=1856807777518009503&wfr=spider&for=pc",
-      "source": "中国新闻网",
-      "time": "2月11日",
-      "category": "activity"
-    },
-    {
-      "title": "呈现70后成长足迹",
-      "url": "https://baijiahao.baidu.com/s?id=1858328828873105188&wfr=spider&for=pc",
-      "source": "人民网",
-      "time": "前天02:40",
-      "category": "other"
-    },
-    {
-      "title": "文学双周记|刘震云获意大利文学奖,伊朗作家入围国际布克奖",
-      "url": "https://baijiahao.baidu.com/s?id=1858527171065670672&wfr=spider&for=pc",
-      "source": "澎湃新闻",
-      "time": "9小时前",
-      "category": "other"
-    },
-    {
-      "title": "2月新书速递 | 暖意书香,温情共读",
-      "url": "https://cul.sohu.com/a/991554344_121106875",
-      "source": "搜狐网",
-      "time": "10小时前",
-      "category": "activity"
-    },
-    {
-      "title": "面对“鸡娃内耗”、“孩子躺平”问题,这篇深度对谈给出了一把...",
-      "url": "https://www.tmtpost.com/7895001.html",
-      "source": "钛媒体官方网站",
-      "time": "昨天17:08",
-      "category": "other"
-    },
-    {
-      "title": "86岁作家杨本芬“抄袭”争议未平,新作《母女》上架,出品方果麦...",
-      "url": "https://baijiahao.baidu.com/s?id=1858450677135415751&wfr=spider&for=pc",
-      "source": "红星新闻",
-      "time": "昨天17:17",
-      "category": "voice"
     }
   ]
 };
