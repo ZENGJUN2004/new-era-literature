@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-02 19:26",
+  "update_time": "2026-03-02 20:31",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -27,6 +27,13 @@ window.LIT_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
+      "category": "activity"
+    },
+    {
+      "title": "超越地方小说的文学野心 | 方柏林评《东岸纪事》",
+      "url": "https://m.thepaper.cn/newsDetail_forward_32669896",
+      "source": "澎湃新闻",
+      "time": "前天13:49",
       "category": "activity"
     }
   ]
