@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-02 13:43",
+  "update_time": "2026-03-02 14:42",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -28,6 +28,13 @@ window.LIT_DATA = {
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
+    },
+    {
+      "title": "书润德乡·好书推荐第366期|以她之眼,照见自我与远方",
+      "url": "https://cul.sohu.com/a/991535965_121106884",
+      "source": "搜狐网",
+      "time": "3小时前",
+      "category": "other"
     }
   ]
 };
