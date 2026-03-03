@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-03 19:24",
+  "update_time": "2026-03-03 20:31",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -20,6 +20,13 @@ window.LIT_DATA = {
       "url": "https://scholar.baidu.com/scholar?q=当代文学&sc_ylo=2024&sort=sc_time",
       "source": "CNKI",
       "time": "实时",
+      "category": "meeting"
+    },
+    {
+      "title": "大文学观视野下的文学创作——鲁院河北班学员研讨选编",
+      "url": "http://app.myzaker.com/news/article.php?pk=69a1191e8e9f09031d680887",
+      "source": "ZAKER",
+      "time": "",
       "category": "meeting"
     },
     {
