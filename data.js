@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-03 09:05",
+  "update_time": "2026-03-03 12:04",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,11 +23,25 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
+      "title": "李敬泽西湖开讲“情感考古”:在文学经典中打捞人格“原型”",
+      "url": "https://baijiahao.baidu.com/s?id=1855931438943299825&wfr=spider&for=pc",
+      "source": "封面新闻",
+      "time": "2月1日",
+      "category": "other"
+    },
+    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
+    },
+    {
+      "title": "中国人的“怪奇物语”,原来一直藏在这里……丨元宵×惊蛰专辑",
+      "url": "https://cul.sohu.com/a/991917422_121106991",
+      "source": "搜狐网",
+      "time": "1小时前",
+      "category": "other"
     }
   ]
 };
