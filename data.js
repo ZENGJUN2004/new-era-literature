@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-03 22:36",
+  "update_time": "2026-03-03 23:37",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,11 +23,25 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
+      "title": "中国当代文学研究会年度榜单(2025)发布",
+      "url": "http://www.thepaper.cn/newsDetail_forward_32317986",
+      "source": "澎湃新闻",
+      "time": "1月5日",
+      "category": "other"
+    },
+    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
+    },
+    {
+      "title": "《准点开讲》全民思政课:3月7日,黄春校长分享“关乎成长的十八件...",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32693002",
+      "source": "澎湃新闻",
+      "time": "8小时前",
+      "category": "other"
     }
   ]
 };
