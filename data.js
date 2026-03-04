@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-04 16:26",
+  "update_time": "2026-03-04 17:29",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,27 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "新上海人的精神考古:都市移民二十年,她们如何安放野心与迷茫?",
+      "url": "https://baijiahao.baidu.com/s?id=1856633691384123161&wfr=spider&for=pc",
+      "source": "文汇报",
+      "time": "2月9日",
+      "category": "other"
+    },
+    {
+      "title": "豆瓣高分、评论高赞,不出门的日子里,这6部纪录片治愈了我",
+      "url": "http://baijiahao.baidu.com/s?id=1730506789958714144&wfr=spider&for=pc",
+      "source": "澎湃新闻客户端",
+      "time": "",
+      "category": "meeting"
+    },
+    {
+      "title": "书润德乡·好书推荐第366期|以她之眼,照见自我与远方",
+      "url": "https://cul.sohu.com/a/991535965_121106884",
+      "source": "搜狐网",
+      "time": "前天11:28",
+      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
