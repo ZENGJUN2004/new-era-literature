@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-04 17:29",
+  "update_time": "2026-03-04 18:24",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,24 +23,31 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "新上海人的精神考古:都市移民二十年,她们如何安放野心与迷茫?",
-      "url": "https://baijiahao.baidu.com/s?id=1856633691384123161&wfr=spider&for=pc",
-      "source": "文汇报",
-      "time": "2月9日",
+      "title": "《繁花》出海,游本昌的“爷叔”、辛芷蕾的“李李”征服法国观众",
+      "url": "http://baijiahao.baidu.com/s?id=1858549464967485641&wfr=spider&for=pc",
+      "source": "上观新闻",
+      "time": "前天19:27",
       "category": "other"
     },
     {
-      "title": "豆瓣高分、评论高赞,不出门的日子里,这6部纪录片治愈了我",
-      "url": "http://baijiahao.baidu.com/s?id=1730506789958714144&wfr=spider&for=pc",
-      "source": "澎湃新闻客户端",
-      "time": "",
-      "category": "meeting"
+      "title": "1997年,陈忠实当选作协主席后去省里开会,一位官员傲慢地问:“怎么...",
+      "url": "https://baijiahao.baidu.com/s?id=1858544020505995772&wfr=spider&for=pc",
+      "source": "海峡导报",
+      "time": "前天22:19",
+      "category": "other"
     },
     {
-      "title": "书润德乡·好书推荐第366期|以她之眼,照见自我与远方",
-      "url": "https://cul.sohu.com/a/991535965_121106884",
-      "source": "搜狐网",
-      "time": "前天11:28",
+      "title": "茅盾文学奖得主徐则臣受聘为连云港“读城”推荐官",
+      "url": "https://baijiahao.baidu.com/s?id=1857112032497137778&wfr=spider&for=pc",
+      "source": "金台资讯",
+      "time": "2月14日",
+      "category": "other"
+    },
+    {
+      "title": "...科学网]中国人民大学教授刘震云获第十五届意大利国际南北文学奖",
+      "url": "https://news.ruc.edu.cn/2028310563231342593.html",
+      "source": "中国人民大学新闻网",
+      "time": "前天",
       "category": "other"
     },
     {
@@ -49,6 +56,20 @@ window.LIT_DATA = {
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
+    },
+    {
+      "title": "文娱新论|年代剧刷屏,为何观众还喊剧荒?",
+      "url": "https://baijiahao.baidu.com/s?id=1858712641287535177&wfr=spider&for=pc",
+      "source": "钱江晚报",
+      "time": "3小时前",
+      "category": "meeting"
+    },
+    {
+      "title": "《繁花》在欧洲流媒体平台上线",
+      "url": "https://baijiahao.baidu.com/s?id=1858618773890926036&wfr=spider&for=pc",
+      "source": "中工网",
+      "time": "昨天10:18",
+      "category": "other"
     }
   ]
 };
