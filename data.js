@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-05 12:02",
+  "update_time": "2026-03-05 13:40",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,11 +23,25 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
+      "title": "新上海人的精神考古:都市移民二十年,她们如何安放野心与迷茫?",
+      "url": "https://baijiahao.baidu.com/s?id=1856633691384123161&wfr=spider&for=pc",
+      "source": "文汇报",
+      "time": "2月9日",
+      "category": "other"
+    },
+    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
+    },
+    {
+      "title": "美是生成的——朱立元教授访谈录",
+      "url": "https://cul.sohu.com/a/992271065_121119369",
+      "source": "搜狐网",
+      "time": "昨天08:03",
+      "category": "other"
     }
   ]
 };
