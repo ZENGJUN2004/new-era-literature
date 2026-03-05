@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-05 20:33",
+  "update_time": "2026-03-05 21:54",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,24 +23,10 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "人民文学出版社致歉,《经典常谈》校订已完成",
-      "url": "https://baijiahao.baidu.com/s?id=1856136464442507613&wfr=spider&for=pc",
-      "source": "光明日报",
-      "time": "2月3日",
-      "category": "activity"
-    },
-    {
-      "title": "“新春走基层—春天送你一首诗”系列活动走进陕西铜川",
-      "url": "https://cul.sohu.com/a/992168729_121119377",
-      "source": "搜狐网",
-      "time": "前天20:34",
-      "category": "other"
-    },
-    {
-      "title": "沮水文苑丨袁英民:陕西快板《人民文学耀州行》",
-      "url": "https://cul.sohu.com/a/991826855_121124746",
-      "source": "搜狐网",
-      "time": "前天06:02",
+      "title": "由想象到现实,机器人花了半个世纪的时间",
+      "url": "https://m.jiemian.com/article/3308356.html",
+      "source": "界面新闻",
+      "time": "",
       "category": "other"
     },
     {
@@ -51,25 +37,53 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "“知名作家看法院”采风作品:春天里的法度与温度",
-      "url": "https://baijiahao.baidu.com/s?id=1858785342958759044&wfr=spider&for=pc",
-      "source": "最高人民法院",
+      "title": "新加坡著名慈善家、作家卓顺发《太阳出来了,露水不见了》新书发布",
+      "url": "https://cul.sohu.com/a/976352761_121192997",
+      "source": "搜狐网",
+      "time": "1月15日",
+      "category": "activity"
+    },
+    {
+      "title": "盘州本土作家创作的长篇历史纪实小说《乌蒙铁壁》新书发布",
+      "url": "https://baijiahao.baidu.com/s?id=1854571604814312489&wfr=spider&for=pc",
+      "source": "天眼新闻",
+      "time": "1月17日",
+      "category": "activity"
+    },
+    {
+      "title": "上话改编《82年生的金智英》梁咏琪领衔,话剧《我们成为的她》7月...",
+      "url": "https://baijiahao.baidu.com/s?id=1858805252678642421&wfr=spider&for=pc",
+      "source": "新闻晨报",
+      "time": "6小时前",
+      "category": "other"
+    },
+    {
+      "title": "经典唤新 激活文化市场“一池春水”",
+      "url": "https://baijiahao.baidu.com/s?id=1858789237977220474&wfr=spider&for=pc",
+      "source": "光明网",
       "time": "10小时前",
       "category": "other"
     },
     {
-      "title": "阅读的美丽瞬间(文思)",
-      "url": "https://baijiahao.baidu.com/s?id=1858783702311700846&wfr=spider&for=pc",
-      "source": "光明网",
-      "time": "11小时前",
+      "title": "知名作家新作上市读者排队抢购",
+      "url": "https://cul.sohu.com/a/992757833_122279996",
+      "source": "搜狐网",
+      "time": "10小时前",
+      "category": "activity"
+    },
+    {
+      "title": "“写作就是去当街溜子,遇见有情有义的人” | 作家孙睿",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32691631",
+      "source": "澎湃新闻",
+      "time": "昨天16:12",
       "category": "other"
     },
     {
-      "title": "专访全国政协常委迟子建:所有的阅读方式都是对知识的抵达,值得尊重",
-      "url": "http://news.10jqka.com.cn/20260304/c675069899.shtml",
-      "source": "同花顺财经",
-      "time": "昨天16:16",
-      "category": "other"
+      "title": "“巴金小说系列·文库本”发布",
+      "url": "https://baijiahao.baidu.com/s?id=1858689023048209639&wfr=spider&for=pc",
+      "source": "金台资讯",
+      "time": "昨天07:56",
+      "category": "activity"
     }
   ]
 };
