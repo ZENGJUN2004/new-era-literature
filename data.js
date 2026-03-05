@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-05 16:27",
+  "update_time": "2026-03-05 17:33",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -28,6 +28,27 @@ window.LIT_DATA = {
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
+    },
+    {
+      "title": "赵燕飞散文集《脉与络》研讨会在京举行",
+      "url": "https://baijiahao.baidu.com/s?id=1858786753550146846&wfr=spider&for=pc",
+      "source": "红网",
+      "time": "7小时前",
+      "category": "meeting"
+    },
+    {
+      "title": "文旅传播的流量密码与精神内核:“张玥工作室”文旅报道创新实践",
+      "url": "https://www.huxiu.com/article/4839071.html",
+      "source": "虎嗅APP",
+      "time": "昨天20:09",
+      "category": "other"
+    },
+    {
+      "title": "邱不苑:以自我为田野,成长出“拥抱混沌的勇气”",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32694109",
+      "source": "澎湃新闻",
+      "time": "昨天15:06",
+      "category": "other"
     }
   ]
 };
