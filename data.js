@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-06 15:32",
+  "update_time": "2026-03-06 16:24",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,13 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "诗坛“骂战”再起唐小林与曹谁的交锋谁能笑到最后?",
+      "url": "https://cul.sohu.com/a/992438115_121124730",
+      "source": "搜狐网",
+      "time": "前天15:00",
+      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
