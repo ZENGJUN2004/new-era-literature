@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-06 20:29",
+  "update_time": "2026-03-06 21:45",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,11 +23,32 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
+      "title": "中国当代文学研究会年度榜单(2025)发布",
+      "url": "http://www.thepaper.cn/newsDetail_forward_32317986",
+      "source": "澎湃新闻",
+      "time": "1月5日",
+      "category": "other"
+    },
+    {
+      "title": "文学双周记|22家刊物答原创之问,邓紫棋入选银河奖引热议",
+      "url": "https://baijiahao.baidu.com/s?id=1853442602393722283&wfr=spider&for=pc",
+      "source": "澎湃新闻",
+      "time": "1月5日",
+      "category": "other"
+    },
+    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
+    },
+    {
+      "title": "他打开了流量密码,却拒绝了洪水般的流量|纪念罗曼·罗兰",
+      "url": "https://www.yicai.com/news/103073213.html",
+      "source": "第一财经",
+      "time": "11小时前",
+      "category": "other"
     }
   ]
 };
