@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-06 16:24",
+  "update_time": "2026-03-06 17:27",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,18 +23,18 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "诗坛“骂战”再起唐小林与曹谁的交锋谁能笑到最后?",
-      "url": "https://cul.sohu.com/a/992438115_121124730",
-      "source": "搜狐网",
-      "time": "前天15:00",
-      "category": "other"
-    },
-    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
+    },
+    {
+      "title": "汇聚现代化强市建设的磅礴力量——全市宣传思想文化工作综述",
+      "url": "https://baijiahao.baidu.com/s?id=1858802516019087221&wfr=spider&for=pc",
+      "source": "鲁网",
+      "time": "昨天14:29",
+      "category": "meeting"
     }
   ]
 };
