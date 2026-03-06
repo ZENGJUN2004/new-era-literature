@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-06 11:59",
+  "update_time": "2026-03-06 13:09",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,32 +23,25 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "女性为何写作?她们用文字打破边界",
-      "url": "http://baijiahao.baidu.com/s?id=1855001128564567122&wfr=spider&for=pc",
-      "source": "上观新闻",
-      "time": "1月22日",
+      "title": "文旅传播的流量密码与精神内核:“张玥工作室”文旅报道创新实践",
+      "url": "https://www.huxiu.com/article/4839071.html",
+      "source": "虎嗅APP",
+      "time": "前天20:09",
       "category": "other"
     },
     {
-      "title": "以小说笔法打捞日常的微光:从《脉与络》看散文创作",
-      "url": "http://www.thepaper.cn/newsDetail_forward_32691831",
-      "source": "澎湃新闻",
-      "time": "前天15:27",
+      "title": "杨本芬承认抄了,出版社为何哑了",
+      "url": "https://wb.sznews.com/MB/content/202603/06/content_3430233.html",
+      "source": "深圳晚报数字报",
+      "time": "今天",
       "category": "activity"
     },
     {
-      "title": "豆瓣阅读和晋江文学城,开年卖出了什么IP?",
-      "url": "https://www.huxiu.com/article/4838848.html",
-      "source": "虎嗅APP",
-      "time": "前天10:57",
+      "title": "邱不苑:以自我为田野,成长出“拥抱混沌的勇气”",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32694109",
+      "source": "澎湃新闻",
+      "time": "前天15:06",
       "category": "other"
-    },
-    {
-      "title": "【思想界】彼得·汉德克获诺奖惹争议:文学性能够用政治和道德衡量...",
-      "url": "https://m.jiemian.com/article/3573232.html",
-      "source": "界面新闻",
-      "time": "",
-      "category": "voice"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
@@ -58,32 +51,25 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "一周文化讲座|寻找女性灵魂深处的力量",
-      "url": "https://baijiahao.baidu.com/s?id=1858880338874296385&wfr=spider&for=pc",
+      "title": "【历史文化】青灯一杯酒 千里故人书‖刘德元",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32712324",
       "source": "澎湃新闻",
-      "time": "53分钟前",
-      "category": "meeting"
-    },
-    {
-      "title": "新书预告丨“我要讲的就是那些让所有女性都噤若寒蝉的事情”",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32702506",
-      "source": "澎湃新闻",
-      "time": "昨天13:43",
-      "category": "activity"
-    },
-    {
-      "title": "她如何写作“学界小说”?|专访苏枕书",
-      "url": "https://baijiahao.baidu.com/s?id=1858805975635583938&wfr=spider&for=pc",
-      "source": "新浪财经",
-      "time": "昨天15:02",
-      "category": "activity"
-    },
-    {
-      "title": "扫码阅读 | 三八妇女节,致敬每一位自在生长的女性",
-      "url": "http://www.thepaper.cn/newsDetail_forward_32708180",
-      "source": "澎湃新闻",
-      "time": "昨天17:28",
+      "time": "1小时前",
       "category": "other"
+    },
+    {
+      "title": "《断裂与延续》:窥见中国工业文明的精神特质和价值遗存",
+      "url": "http://app.myzaker.com/news/article.php?pk=69a98d118e9f095e060a602d",
+      "source": "ZAKER",
+      "time": "昨天22:00",
+      "category": "other"
+    },
+    {
+      "title": "赵燕飞散文集《脉与络》研讨会在京举行",
+      "url": "https://baijiahao.baidu.com/s?id=1858786753550146846&wfr=spider&for=pc",
+      "source": "红网",
+      "time": "昨天10:14",
+      "category": "meeting"
     }
   ]
 };
