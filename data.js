@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-07 22:14",
+  "update_time": "2026-03-07 23:13",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,34 +23,6 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "名社集萃丨人民文学出版社:生产人民的文学",
-      "url": "https://cul.sohu.com/a/992721208_121106908",
-      "source": "搜狐网",
-      "time": "前天10:18",
-      "category": "activity"
-    },
-    {
-      "title": "“知名作家看法院”采风作品:春天里的法度与温度",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32709100",
-      "source": "澎湃新闻",
-      "time": "前天18:37",
-      "category": "other"
-    },
-    {
-      "title": "创新是作家活力的展现",
-      "url": "https://baijiahao.baidu.com/s?id=1858831769060869523&wfr=spider&for=pc",
-      "source": "文汇报",
-      "time": "前天22:15",
-      "category": "other"
-    },
-    {
-      "title": "向葡语国家传播中国文学《人民文学》葡文版首刊正式发行",
-      "url": "https://baijiahao.baidu.com/s?id=1857935327681773426&wfr=spider&for=pc",
-      "source": "新浪财经",
-      "time": "2月24日",
-      "category": "other"
-    },
-    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
@@ -65,25 +37,18 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "当女性拿起笔,科幻终于有了“身体”|翻翻书·送书",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32705824",
+      "title": "上海宋庆龄基金会女性创造力分享会暨《上场:女性艺术家访谈录...",
+      "url": "https://baijiahao.baidu.com/s?id=1858976472615716019&wfr=spider&for=pc",
+      "source": "东方网",
+      "time": "13小时前",
+      "category": "other"
+    },
+    {
+      "title": "一周文化讲座|寻找女性灵魂深处的力量",
+      "url": "https://baijiahao.baidu.com/s?id=1858880338874296385&wfr=spider&for=pc",
       "source": "澎湃新闻",
-      "time": "昨天17:03",
-      "category": "voice"
-    },
-    {
-      "title": "阅读的美丽瞬间(文思)",
-      "url": "https://baijiahao.baidu.com/s?id=1858893330478854532&wfr=spider&for=pc",
-      "source": "中国青年网",
-      "time": "昨天14:29",
-      "category": "other"
-    },
-    {
-      "title": "东西问丨作家梁鸿:为何说“中国在梁庄”?",
-      "url": "https://baijiahao.baidu.com/s?id=1858918088453739862&wfr=spider&for=pc",
-      "source": "中国新闻网",
-      "time": "昨天21:04",
-      "category": "other"
+      "time": "昨天11:05",
+      "category": "meeting"
     }
   ]
 };
