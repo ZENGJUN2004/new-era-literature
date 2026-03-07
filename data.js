@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-07 23:13",
+  "update_time": "2026-03-08 00:15",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -35,20 +35,6 @@ window.LIT_DATA = {
       "source": "红网",
       "time": "1月10日",
       "category": "activity"
-    },
-    {
-      "title": "上海宋庆龄基金会女性创造力分享会暨《上场:女性艺术家访谈录...",
-      "url": "https://baijiahao.baidu.com/s?id=1858976472615716019&wfr=spider&for=pc",
-      "source": "东方网",
-      "time": "13小时前",
-      "category": "other"
-    },
-    {
-      "title": "一周文化讲座|寻找女性灵魂深处的力量",
-      "url": "https://baijiahao.baidu.com/s?id=1858880338874296385&wfr=spider&for=pc",
-      "source": "澎湃新闻",
-      "time": "昨天11:05",
-      "category": "meeting"
     }
   ]
 };
