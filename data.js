@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-08 19:12",
+  "update_time": "2026-03-08 20:23",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -35,20 +35,6 @@ window.LIT_DATA = {
       "source": "红网",
       "time": "1月10日",
       "category": "activity"
-    },
-    {
-      "title": "如何真正回归大众视野?三位戏剧人给出他们的回答",
-      "url": "https://baijiahao.baidu.com/s?id=1859062539887379030&wfr=spider&for=pc",
-      "source": "钱江晚报",
-      "time": "7小时前",
-      "category": "other"
-    },
-    {
-      "title": "黄仕忠|“学术生产”的三种方式(附回音)",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32716358",
-      "source": "澎湃新闻",
-      "time": "昨天12:42",
-      "category": "other"
     }
   ]
 };
