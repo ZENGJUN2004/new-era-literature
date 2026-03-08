@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-09 02:18",
+  "update_time": "2026-03-09 03:16",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,10 +23,31 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
+      "title": "张静波|弗吉尼亚·伍尔夫的女仆:“你的自由,就是我的不自由”",
+      "url": "http://www.thepaper.cn/newsDetail_forward_32704385",
+      "source": "澎湃新闻",
+      "time": "前天11:36",
+      "category": "other"
+    },
+    {
+      "title": "为什么读萧红永远不过时?回望她“细致的观察”与“越轨的笔致”",
+      "url": "http://baijiahao.baidu.com/s?id=1858961976140092028&wfr=spider&for=pc",
+      "source": "上观新闻",
+      "time": "前天08:44",
+      "category": "other"
+    },
+    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
+      "category": "activity"
+    },
+    {
+      "title": "老藤长篇小说《自愈者》在京首发在“AI迷宫”中寻找心灵坐标",
+      "url": "https://baijiahao.baidu.com/s?id=1853940665722016960&wfr=spider&for=pc",
+      "source": "红网",
+      "time": "1月10日",
       "category": "activity"
     }
   ]
