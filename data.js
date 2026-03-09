@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-09 21:58",
+  "update_time": "2026-03-09 22:44",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,13 +23,6 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "她说|戴锦华:做现实主义者,求不可能之事",
-      "url": "https://baijiahao.baidu.com/s?id=1855465476132764191&wfr=spider&for=pc",
-      "source": "新闻晨报",
-      "time": "1月27日",
-      "category": "other"
-    },
-    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
@@ -44,10 +37,24 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "“女性爽片”的出现,到底是解药还是麻药?|编辑部聊天室",
-      "url": "https://baijiahao.baidu.com/s?id=1859068705682201721&wfr=spider&for=pc",
-      "source": "界面新闻",
-      "time": "昨天12:58",
+      "title": "陈丹燕:上海给了我很多,我想为它做些什么",
+      "url": "https://www.jfdaily.com/news/detail?id=1078073",
+      "source": "上观",
+      "time": "昨天14:49",
+      "category": "other"
+    },
+    {
+      "title": "从农村儿媳到大学教授 作家黄灯:在“普通”里看见光亮|她自有光",
+      "url": "https://baijiahao.baidu.com/s?id=1859053322390914170&wfr=spider&for=pc",
+      "source": "封面新闻",
+      "time": "昨天08:56",
+      "category": "other"
+    },
+    {
+      "title": "全民“养龙虾”时代,我们为什么写作?",
+      "url": "https://baijiahao.baidu.com/s?id=1859084748767619126&wfr=spider&for=pc",
+      "source": "新京报",
+      "time": "昨天17:16",
       "category": "other"
     }
   ]
