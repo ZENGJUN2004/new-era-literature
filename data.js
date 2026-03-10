@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-10 17:33",
+  "update_time": "2026-03-10 18:28",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,10 +23,10 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "文学双周记|22家刊物答原创之问,邓紫棋入选银河奖引热议",
-      "url": "https://baijiahao.baidu.com/s?id=1853442602393722283&wfr=spider&for=pc",
-      "source": "澎湃新闻",
-      "time": "1月5日",
+      "title": "全民“养龙虾”时代,我们为什么写作?",
+      "url": "https://www.bjnews.com.cn/detail/1772961370168733.html",
+      "source": "新京报",
+      "time": "前天17:16",
       "category": "other"
     },
     {
@@ -42,6 +42,13 @@ window.LIT_DATA = {
       "source": "红网",
       "time": "1月10日",
       "category": "activity"
+    },
+    {
+      "title": "AI圈贩卖焦虑已经过于离谱了",
+      "url": "https://www.huxiu.com/article/4840484.html",
+      "source": "虎嗅APP",
+      "time": "昨天19:02",
+      "category": "other"
     }
   ]
 };
