@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-12 15:39",
+  "update_time": "2026-03-12 16:30",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,27 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "赵德发长篇小说《大海风》入选中国当代文学研究会年度榜单(2025)",
+      "url": "https://baijiahao.baidu.com/s?id=1853465599041956599&wfr=spider&for=pc",
+      "source": "闪电新闻",
+      "time": "1月5日",
+      "category": "activity"
+    },
+    {
+      "title": "长篇小说《大海风》入选中国当代文学研究会年度榜单作者赵德发...",
+      "url": "https://baijiahao.baidu.com/s?id=1853815024647126329&wfr=spider&for=pc",
+      "source": "闪电新闻",
+      "time": "1月9日",
+      "category": "activity"
+    },
+    {
+      "title": "2025豆瓣年度榜单:从经典到先锋,这10部作品是时代的精神注脚",
+      "url": "https://cul.sohu.com/a/976892771_121123844",
+      "source": "搜狐网",
+      "time": "1月16日",
+      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
