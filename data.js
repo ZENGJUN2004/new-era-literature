@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-12 17:32",
+  "update_time": "2026-03-12 18:28",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,6 +23,13 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
+      "title": "豆瓣高分、评论高赞,不出门的日子里,这6部纪录片治愈了我",
+      "url": "http://baijiahao.baidu.com/s?id=1730506789958714144&wfr=spider&for=pc",
+      "source": "澎湃新闻客户端",
+      "time": "",
+      "category": "meeting"
+    },
+    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
@@ -30,10 +37,66 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "老藤长篇小说《自愈者》在京首发在“AI迷宫”中寻找心灵坐标",
-      "url": "https://baijiahao.baidu.com/s?id=1853940665722016960&wfr=spider&for=pc",
-      "source": "红网",
-      "time": "1月10日",
+      "title": "丹青红棉映羊城60余位画家定格英雄花与广州地标之美",
+      "url": "https://www.chinanews.com.cn/cul/2026/03-10/10584662.shtml",
+      "source": "中国新闻网",
+      "time": "前天19:22",
+      "category": "other"
+    },
+    {
+      "title": "儿童打击乐音乐剧《花木兰》融传统文化与现代艺术讲述中国故事",
+      "url": "https://www.chinanews.com.cn/cul/2026/03-10/10584674.shtml",
+      "source": "中国新闻网",
+      "time": "前天19:38",
+      "category": "other"
+    },
+    {
+      "title": "《如轼:苏东坡的后半生》挖掘苏轼与“小人物”的温暖交往",
+      "url": "https://www.chinanews.com.cn/cul/2026/03-10/10584670.shtml",
+      "source": "中国新闻网",
+      "time": "前天19:39",
+      "category": "other"
+    },
+    {
+      "title": "小说精选| 魏子洋:小说《枣花窑》,当代青年作家的现实主义力作",
+      "url": "https://hea.china.com/articles/20260310/202603101821885.html",
+      "source": "中华网",
+      "time": "前天16:09",
+      "category": "activity"
+    },
+    {
+      "title": "独家对话马伯庸:每一部作品都是清零后重新开始",
+      "url": "https://baijiahao.baidu.com/s?id=1859232755073096936&wfr=spider&for=pc",
+      "source": "澎湃新闻",
+      "time": "前天08:27",
+      "category": "other"
+    },
+    {
+      "title": "刘楚昕《泥潭》亲笔签名版图书正式发售 限量珍藏开启阅读新体验",
+      "url": "https://cul.sohu.com/a/995248841_121123525",
+      "source": "搜狐网",
+      "time": "昨天19:05",
+      "category": "other"
+    },
+    {
+      "title": "《和平》:当普通人遭遇战争丨新书",
+      "url": "https://baijiahao.baidu.com/s?id=1859358993204516897&wfr=spider&for=pc",
+      "source": "湘湘带你看社会",
+      "time": "昨天17:54",
+      "category": "activity"
+    },
+    {
+      "title": "铜川作家陈继清长篇小说《村雁》出版 聚焦乡村脱贫振兴",
+      "url": "http://news.10jqka.com.cn/20260311/c675210532.shtml",
+      "source": "同花顺财经",
+      "time": "昨天09:28",
+      "category": "activity"
+    },
+    {
+      "title": "战火尘烟里叩问人性,葛水平长篇新作《和平》出版",
+      "url": "https://baijiahao.baidu.com/s?id=1859366856993656913&wfr=spider&for=pc",
+      "source": "青瞳视角",
+      "time": "昨天19:58",
       "category": "activity"
     }
   ]
