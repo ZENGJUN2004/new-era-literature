@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-15 06:15",
+  "update_time": "2026-03-15 07:17",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -34,6 +34,13 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1853940665722016960&wfr=spider&for=pc",
       "source": "红网",
       "time": "1月10日",
+      "category": "activity"
+    },
+    {
+      "title": "长篇小说《爱不落下》推出五周年纪念版,用人文精神抚慰患者心灵痛苦",
+      "url": "https://baijiahao.baidu.com/s?id=1859544289053058770&wfr=spider&for=pc",
+      "source": "京报网",
+      "time": "前天18:44",
       "category": "activity"
     }
   ]
