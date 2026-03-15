@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-16 01:18",
+  "update_time": "2026-03-16 02:22",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,13 +23,6 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "《呼啸山庄》重映:“魔改”背后经典文学的生命力",
-      "url": "https://baijiahao.baidu.com/s?id=1859642331617835982&wfr=spider&for=pc",
-      "source": "钱江晚报",
-      "time": "前天20:56",
-      "category": "other"
-    },
-    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
@@ -42,20 +35,6 @@ window.LIT_DATA = {
       "source": "红网",
       "time": "1月10日",
       "category": "activity"
-    },
-    {
-      "title": "张莉:新女性写作之“新”,不在面孔,在视角",
-      "url": "https://baijiahao.baidu.com/s?id=1859711296080429540&wfr=spider&for=pc",
-      "source": "潮新闻客户端",
-      "time": "昨天15:12",
-      "category": "voice"
-    },
-    {
-      "title": "西湖讲坛第2讲——张莉解读萧红,探寻新女性写作传统的源流",
-      "url": "https://baijiahao.baidu.com/s?id=1859709488761011576&wfr=spider&for=pc",
-      "source": "青瞳视角",
-      "time": "昨天14:45",
-      "category": "voice"
     }
   ]
 };
