@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-15 15:38",
+  "update_time": "2026-03-15 16:25",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,32 +23,11 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "“读过《呼啸山庄》再看电影,会为小说骄傲”|文学花边",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32761067",
-      "source": "澎湃新闻",
-      "time": "前天15:20",
-      "category": "activity"
-    },
-    {
-      "title": "长篇小说《爱不落下》推出五周年纪念版",
-      "url": "https://baijiahao.baidu.com/s?id=1859543396031147501&wfr=spider&for=pc",
-      "source": "人民资讯",
-      "time": "前天18:35",
-      "category": "activity"
-    },
-    {
-      "title": "新时代主题创作新标杆 电视剧《生命树》创作座谈会举行",
-      "url": "https://www.chinanews.com.cn/cul/2026/03-13/10586390.shtml",
-      "source": "中国新闻网",
-      "time": "前天17:58",
+      "title": "女性为何写作?她们用文字打破边界",
+      "url": "https://baijiahao.baidu.com/s?id=1855001128564567122&wfr=spider&for=pc",
+      "source": "上观新闻",
+      "time": "1月22日",
       "category": "other"
-    },
-    {
-      "title": "长篇小说《爱不落下》推出五周年纪念版,用人文精神抚慰患者心灵痛苦",
-      "url": "https://baijiahao.baidu.com/s?id=1859544289198840653&wfr=spider&for=pc",
-      "source": "北晚在线",
-      "time": "前天18:44",
-      "category": "activity"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
@@ -63,6 +42,27 @@ window.LIT_DATA = {
       "source": "红网",
       "time": "1月10日",
       "category": "activity"
+    },
+    {
+      "title": "张莉:新女性写作之“新”,不在面孔,在视角",
+      "url": "https://baijiahao.baidu.com/s?id=1859711296080429540&wfr=spider&for=pc",
+      "source": "潮新闻客户端",
+      "time": "1小时前",
+      "category": "voice"
+    },
+    {
+      "title": "西湖讲坛第2讲——张莉解读萧红,探寻新女性写作传统的源流",
+      "url": "https://baijiahao.baidu.com/s?id=1859709488761011576&wfr=spider&for=pc",
+      "source": "青瞳视角",
+      "time": "1小时前",
+      "category": "voice"
+    },
+    {
+      "title": "《呼啸山庄》重映:“魔改”背后经典文学的生命力",
+      "url": "https://baijiahao.baidu.com/s?id=1859642331617835982&wfr=spider&for=pc",
+      "source": "钱江晚报",
+      "time": "昨天20:56",
+      "category": "other"
     }
   ]
 };
