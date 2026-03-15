@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-15 07:17",
+  "update_time": "2026-03-15 09:12",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,6 +23,27 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
+      "title": "【思想界】彼得·汉德克获诺奖惹争议:文学性能够用政治和道德衡量...",
+      "url": "https://m.jiemian.com/article/3573232.html",
+      "source": "界面新闻",
+      "time": "",
+      "category": "voice"
+    },
+    {
+      "title": "《金瓶梅》电影中的女性命运:被欲望与权力裹挟的悲剧史诗",
+      "url": "https://cul.sohu.com/a/996216101_120020441",
+      "source": "搜狐网",
+      "time": "前天22:14",
+      "category": "other"
+    },
+    {
+      "title": "86岁作家杨本芬就抄袭争议致歉,她认错的价值在哪里",
+      "url": "https://baijiahao.baidu.com/s?id=1858335445781151541&wfr=spider&for=pc",
+      "source": "正观新闻",
+      "time": "2月28日",
+      "category": "voice"
+    },
+    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
@@ -37,11 +58,11 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "长篇小说《爱不落下》推出五周年纪念版,用人文精神抚慰患者心灵痛苦",
-      "url": "https://baijiahao.baidu.com/s?id=1859544289053058770&wfr=spider&for=pc",
-      "source": "京报网",
-      "time": "前天18:44",
-      "category": "activity"
+      "title": "第35次改编,《呼啸山庄》争议不少",
+      "url": "https://baijiahao.baidu.com/s?id=1859532705359042756&wfr=spider&for=pc",
+      "source": "齐鲁壹点",
+      "time": "昨天21:44",
+      "category": "voice"
     }
   ]
 };
