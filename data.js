@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-16 22:13",
+  "update_time": "2026-03-16 23:54",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,13 +23,6 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "豆瓣高分、评论高赞,不出门的日子里,这6部纪录片治愈了我",
-      "url": "http://baijiahao.baidu.com/s?id=1730506789958714144&wfr=spider&for=pc",
-      "source": "澎湃新闻客户端",
-      "time": "",
-      "category": "meeting"
-    },
-    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
@@ -42,20 +35,6 @@ window.LIT_DATA = {
       "source": "红网",
       "time": "1月10日",
       "category": "activity"
-    },
-    {
-      "title": "漫改天花板!《海贼王》真人版第二季豆瓣8.8超高分",
-      "url": "https://wap.gamersky.com/news/Content-2106200.html",
-      "source": "游民星空",
-      "time": "4小时前",
-      "category": "other"
-    },
-    {
-      "title": "豆瓣开年评分最高华语片《翠湖》导演卞灼来合肥路演",
-      "url": "https://www.ahwang.cn/hefei/2026/0315/2982248.html",
-      "source": "安徽网",
-      "time": "昨天19:12",
-      "category": "other"
     }
   ]
 };
