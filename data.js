@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-16 07:18",
+  "update_time": "2026-03-16 09:12",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,20 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "她说|戴锦华:做现实主义者,求不可能之事",
+      "url": "https://baijiahao.baidu.com/s?id=1855465476132764191&wfr=spider&for=pc",
+      "source": "新闻晨报",
+      "time": "1月27日",
+      "category": "other"
+    },
+    {
+      "title": "四川省十四届人大五次会议“代表通道”集体采访活动(第二场)",
+      "url": "http://www.scio.gov.cn/xwfb/dfxwfb/gssfbh/sc_13848/202602/t20260210_949661.html",
+      "source": "中华人民共和国国务院新闻办公室",
+      "time": "2月4日",
+      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
