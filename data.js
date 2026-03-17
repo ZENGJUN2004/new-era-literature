@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-18 03:47",
+  "update_time": "2026-03-18 04:27",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -35,6 +35,13 @@ window.LIT_DATA = {
       "source": "红网",
       "time": "1月10日",
       "category": "activity"
+    },
+    {
+      "title": "后人类、科幻与争议性议题——未来馆展示内容的三大趋势",
+      "url": "https://baijiahao.baidu.com/s?id=1859877170481776135&wfr=spider&for=pc",
+      "source": "光明网",
+      "time": "昨天11:07",
+      "category": "voice"
     }
   ]
 };
