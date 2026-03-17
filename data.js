@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-17 18:39",
+  "update_time": "2026-03-17 19:36",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,13 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "相山风流传千载 绿金煤城焕新颜",
-      "url": "https://baijiahao.baidu.com/s?id=1859687192509836817&wfr=spider&for=pc",
-      "source": "新浪财经",
-      "time": "前天08:51",
-      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
