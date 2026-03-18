@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-18 09:08",
+  "update_time": "2026-03-18 12:13",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -35,6 +35,13 @@ window.LIT_DATA = {
       "source": "红网",
       "time": "1月10日",
       "category": "activity"
+    },
+    {
+      "title": "文艺批评 | 洪子诚:“反必胜主义”的文学史写作",
+      "url": "https://cul.sohu.com/a/997477922_121124790",
+      "source": "搜狐网",
+      "time": "昨天08:02",
+      "category": "meeting"
     }
   ]
 };
