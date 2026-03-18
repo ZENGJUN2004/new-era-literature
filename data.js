@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-18 18:40",
+  "update_time": "2026-03-18 19:37",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,20 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "大学生访谈“五老” 系列|追光而往,向光而行——褚君浩",
+      "url": "https://m.thepaper.cn/newsDetail_forward_32775453",
+      "source": "澎湃新闻",
+      "time": "前天09:29",
+      "category": "other"
+    },
+    {
+      "title": "【思想界】彼得·汉德克获诺奖惹争议:文学性能够用政治和道德衡量...",
+      "url": "https://m.jiemian.com/article/3573232.html",
+      "source": "界面新闻",
+      "time": "",
+      "category": "voice"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
