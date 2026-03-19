@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-19 20:36",
+  "update_time": "2026-03-19 22:01",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -35,6 +35,48 @@ window.LIT_DATA = {
       "source": "红网",
       "time": "1月10日",
       "category": "activity"
+    },
+    {
+      "title": "鲁奖图书《诗者的织物(诗歌卷)》编辑策划手记",
+      "url": "https://news.ycwb.com/ikimvkhtjb/content_54018078.htm",
+      "source": "金羊网",
+      "time": "4小时前",
+      "category": "other"
+    },
+    {
+      "title": "江子:应该记住这些袍子的名字,他们每一个名字,于今天都是传奇,都...",
+      "url": "http://www.thepaper.cn/newsDetail_forward_32794267",
+      "source": "澎湃新闻",
+      "time": "9小时前",
+      "category": "other"
+    },
+    {
+      "title": "萧红,走过无数人间(创作谈)",
+      "url": "https://baijiahao.baidu.com/s?id=1860055991175418754&wfr=spider&for=pc",
+      "source": "中国青年网",
+      "time": "11小时前",
+      "category": "other"
+    },
+    {
+      "title": "活动预告丨2026渌江讲坛·建宸大课堂首讲将启 沈念解码AI时代文学...",
+      "url": "https://baijiahao.baidu.com/s?id=1860007233313920757&wfr=spider&for=pc",
+      "source": "红网",
+      "time": "昨天21:35",
+      "category": "other"
+    },
+    {
+      "title": "鲁迅文学奖得主赴正安授课:散文创作要“去滤镜”“写独特”",
+      "url": "https://baijiahao.baidu.com/s?id=1859982885196417007&wfr=spider&for=pc",
+      "source": "天眼新闻",
+      "time": "昨天13:53",
+      "category": "other"
+    },
+    {
+      "title": "“文学共同体书系”再添新章",
+      "url": "https://baijiahao.baidu.com/s?id=1859986821706589064&wfr=spider&for=pc",
+      "source": "工人日报",
+      "time": "昨天16:14",
+      "category": "other"
     }
   ]
 };
