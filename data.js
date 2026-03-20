@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-20 16:28",
+  "update_time": "2026-03-20 17:30",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,11 +23,11 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "文学期刊《岁月》打假:假杂志恶意仿冒版式,非法收取高额费用",
-      "url": "https://baijiahao.baidu.com/s?id=1860011448675082580&wfr=spider&for=pc",
-      "source": "澎湃新闻",
-      "time": "前天22:44",
-      "category": "other"
+      "title": "【钛晨报】国家医保局:医保药品目录调整专家评审工作已结束;把...",
+      "url": "https://www.tmtpost.com/6283071.html",
+      "source": "钛媒体官方网站",
+      "time": "",
+      "category": "activity"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
@@ -37,11 +37,25 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "老藤长篇小说《自愈者》在京首发在“AI迷宫”中寻找心灵坐标",
-      "url": "https://baijiahao.baidu.com/s?id=1853940665722016960&wfr=spider&for=pc",
-      "source": "红网",
-      "time": "1月10日",
-      "category": "activity"
+      "title": "与中国同行,共享发展机遇",
+      "url": "https://baijiahao.baidu.com/s?id=1860054544294132214&wfr=spider&for=pc",
+      "source": "人民网",
+      "time": "昨天08:52",
+      "category": "other"
+    },
+    {
+      "title": "八方速递",
+      "url": "https://baijiahao.baidu.com/s?id=1860050109268559395&wfr=spider&for=pc",
+      "source": "人民网",
+      "time": "昨天03:26",
+      "category": "other"
+    },
+    {
+      "title": "别让“偏方”和“好奇”害了你!_澎湃号·政务_澎湃新闻-The Paper",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32795913",
+      "source": "澎湃新闻",
+      "time": "昨天16:42",
+      "category": "other"
     },
     {
       "title": "七部门联合发布新版《鼓励进口服务目录》",
