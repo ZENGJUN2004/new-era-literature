@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-20 15:39",
+  "update_time": "2026-03-20 16:28",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,13 +23,6 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "中国作协“著名作家抵达文学‘县’场”活动侧记",
-      "url": "https://baijiahao.baidu.com/s?id=1859975398283382569&wfr=spider&for=pc",
-      "source": "湘湘带你看社会",
-      "time": "前天13:12",
-      "category": "other"
-    },
-    {
       "title": "文学期刊《岁月》打假:假杂志恶意仿冒版式,非法收取高额费用",
       "url": "https://baijiahao.baidu.com/s?id=1860011448675082580&wfr=spider&for=pc",
       "source": "澎湃新闻",
@@ -49,13 +42,6 @@ window.LIT_DATA = {
       "source": "红网",
       "time": "1月10日",
       "category": "activity"
-    },
-    {
-      "title": "素人写作爆火背后:身份标签与文学质量的博弈",
-      "url": "http://baijiahao.baidu.com/s?id=1860074449644611891&wfr=spider&for=pc",
-      "source": "上观新闻",
-      "time": "昨天15:26",
-      "category": "other"
     },
     {
       "title": "七部门联合发布新版《鼓励进口服务目录》",
