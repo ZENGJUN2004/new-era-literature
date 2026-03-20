@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-20 18:27",
+  "update_time": "2026-03-20 19:23",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,11 +23,11 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "吴琼︱一个接受史的“文化逻辑”:詹姆逊在中国",
-      "url": "https://cul.sohu.com/a/998112292_121119369",
-      "source": "搜狐网",
-      "time": "前天12:12",
-      "category": "other"
+      "title": "【思想界】彼得·汉德克获诺奖惹争议:文学性能够用政治和道德衡量...",
+      "url": "https://m.jiemian.com/article/3573232.html",
+      "source": "界面新闻",
+      "time": "",
+      "category": "voice"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
@@ -42,13 +42,6 @@ window.LIT_DATA = {
       "source": "红网",
       "time": "1月10日",
       "category": "activity"
-    },
-    {
-      "title": "百年中国文学中的现代精神——《现代的形成与拓路》的学理内涵与...",
-      "url": "https://baijiahao.baidu.com/s?id=1860029159079963674&wfr=spider&for=pc",
-      "source": "光明网",
-      "time": "昨天02:45",
-      "category": "other"
     },
     {
       "title": "七部门联合发布新版《鼓励进口服务目录》",
