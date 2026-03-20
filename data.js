@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-20 22:35",
+  "update_time": "2026-03-20 23:33",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,6 +23,13 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
+      "title": "吴琼︱一个接受史的“文化逻辑”:詹姆逊在中国",
+      "url": "https://cul.sohu.com/a/998112292_121119369",
+      "source": "搜狐网",
+      "time": "前天12:12",
+      "category": "other"
+    },
+    {
       "title": "文学期刊《岁月》打假:假杂志恶意仿冒版式,非法收取高额费用",
       "url": "https://baijiahao.baidu.com/s?id=1860011448675082580&wfr=spider&for=pc",
       "source": "澎湃新闻",
@@ -37,11 +44,11 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "老藤长篇小说《自愈者》在京首发在“AI迷宫”中寻找心灵坐标",
-      "url": "https://baijiahao.baidu.com/s?id=1853940665722016960&wfr=spider&for=pc",
-      "source": "红网",
-      "time": "1月10日",
-      "category": "activity"
+      "title": "百年中国文学中的现代精神——《现代的形成与拓路》的学理内涵与...",
+      "url": "https://baijiahao.baidu.com/s?id=1860029159079963674&wfr=spider&for=pc",
+      "source": "光明网",
+      "time": "昨天02:45",
+      "category": "other"
     },
     {
       "title": "七部门联合发布新版《鼓励进口服务目录》",
