@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-21 19:14",
+  "update_time": "2026-03-21 20:23",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,6 +23,20 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
+      "title": "《十月》杂志举办青年作家创作分享会",
+      "url": "https://baijiahao.baidu.com/s?id=1860050202536776799&wfr=spider&for=pc",
+      "source": "人民网",
+      "time": "前天02:21",
+      "category": "other"
+    },
+    {
+      "title": "【钛晨报】国家医保局:医保药品目录调整专家评审工作已结束;把...",
+      "url": "https://www.tmtpost.com/6283071.html",
+      "source": "钛媒体官方网站",
+      "time": "",
+      "category": "activity"
+    },
+    {
       "title": "七部门联合发布新版《鼓励进口服务目录》",
       "url": "https://stock.10jqka.com.cn/20260319/c675400664.shtml",
       "source": "同花顺",
@@ -37,11 +51,11 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "老藤长篇小说《自愈者》在京首发在“AI迷宫”中寻找心灵坐标",
-      "url": "https://baijiahao.baidu.com/s?id=1853940665722016960&wfr=spider&for=pc",
-      "source": "红网",
-      "time": "1月10日",
-      "category": "activity"
+      "title": "在华外企看中国“十五五”规划——与中国同行,共享发展机遇",
+      "url": "https://baijiahao.baidu.com/s?id=1860141240616188432&wfr=spider&for=pc",
+      "source": "国际在线",
+      "time": "昨天09:05",
+      "category": "other"
     }
   ]
 };
