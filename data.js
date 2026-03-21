@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-21 23:16",
+  "update_time": "2026-03-22 00:16",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,17 +23,17 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "七部门联合发布新版《鼓励进口服务目录》",
-      "url": "https://stock.10jqka.com.cn/20260319/c675400664.shtml",
-      "source": "同花顺",
-      "time": "前天10:27",
-      "category": "activity"
-    },
-    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
+      "category": "activity"
+    },
+    {
+      "title": "老藤长篇小说《自愈者》在京首发在“AI迷宫”中寻找心灵坐标",
+      "url": "https://baijiahao.baidu.com/s?id=1853940665722016960&wfr=spider&for=pc",
+      "source": "红网",
+      "time": "1月10日",
       "category": "activity"
     }
   ]
