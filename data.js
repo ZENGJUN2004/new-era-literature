@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-21 16:19",
+  "update_time": "2026-03-21 17:21",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -42,6 +42,13 @@ window.LIT_DATA = {
       "source": "红网",
       "time": "1月10日",
       "category": "activity"
+    },
+    {
+      "title": "会议纪要|文本中的读者:中古文人的阅读与书写",
+      "url": "http://www.thepaper.cn/newsDetail_forward_32790698",
+      "source": "澎湃新闻",
+      "time": "昨天14:09",
+      "category": "other"
     }
   ]
 };
