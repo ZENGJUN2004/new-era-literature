@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-21 14:29",
+  "update_time": "2026-03-21 15:26",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,32 +23,25 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "安妮·埃尔诺的记忆书写",
-      "url": "http://baijiahao.baidu.com/s?id=1860078207305236386&wfr=spider&for=pc",
-      "source": "上观新闻",
-      "time": "前天16:26",
-      "category": "other"
+      "title": "文艺评论|从地域文字叙事到跨媒介声画传播——贵州文学的影视转化...",
+      "url": "https://baijiahao.baidu.com/s?id=1860100191569572245&wfr=spider&for=pc",
+      "source": "天眼新闻",
+      "time": "前天21:05",
+      "category": "meeting"
     },
     {
-      "title": "互联网之下,素人写作的出路何在?",
-      "url": "http://app.myzaker.com/news/article.php?pk=69bba6148e9f095f84520d65",
-      "source": "ZAKER",
-      "time": "前天15:26",
-      "category": "other"
+      "title": "文艺评论|文学与影视创作的双重交响",
+      "url": "https://baijiahao.baidu.com/s?id=1860100191569425598&wfr=spider&for=pc",
+      "source": "天眼新闻",
+      "time": "前天21:26",
+      "category": "meeting"
     },
     {
-      "title": "罗伟章:大多数走上文学道路的人,生命里都留有一块伤疤",
-      "url": "http://baijiahao.baidu.com/s?id=1860074387067412034&wfr=spider&for=pc",
-      "source": "上观新闻",
-      "time": "前天15:25",
-      "category": "other"
-    },
-    {
-      "title": "《脐带纪事》新书首发:我们知道奶奶/外婆的名字,却不了解她的一生",
-      "url": "https://baijiahao.baidu.com/s?id=1860080496984888698&wfr=spider&for=pc",
-      "source": "钱江晚报",
-      "time": "前天17:01",
-      "category": "activity"
+      "title": "沅水文脉的当代延续——马珂散文随笔与文学评论审美观察",
+      "url": "https://baijiahao.baidu.com/s?id=1858377455122319929&wfr=spider&for=pc",
+      "source": "潇湘晨报",
+      "time": "2月28日",
+      "category": "meeting"
     },
     {
       "title": "七部门联合发布新版《鼓励进口服务目录》",
@@ -65,18 +58,18 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "熊若皙:从金融跨界新闻,用真诚对话建立真实的联结",
-      "url": "https://www.huxiu.com/article/4843862.html",
-      "source": "虎嗅APP",
-      "time": "昨天14:40",
+      "title": "商伟|八十年代的大学:有关文学的回忆与随想",
+      "url": "https://baijiahao.baidu.com/s?id=1860234984683409667&wfr=spider&for=pc",
+      "source": "澎湃新闻",
+      "time": "5小时前",
       "category": "other"
     },
     {
-      "title": "真实自有万钧之力|“澎湃·镜相”第三届非虚构写作大赛进入复审阶段",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32777272",
-      "source": "澎湃新闻",
-      "time": "昨天07:52",
-      "category": "voice"
+      "title": "用文字为时代代言,为普通大众代言——专访著名作家、鲁迅文学奖...",
+      "url": "https://baijiahao.baidu.com/s?id=1860183141392853454&wfr=spider&for=pc",
+      "source": "湘湘带你看社会",
+      "time": "昨天20:14",
+      "category": "other"
     }
   ]
 };
