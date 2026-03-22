@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-22 13:45",
+  "update_time": "2026-03-22 14:37",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,13 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "迈向跨界融合的“大文学”时代",
+      "url": "http://www.xinhuanet.com/book/20260120/d3fa6fd5f93048fc88a2d3be4ef48224/c.html",
+      "source": "新华网",
+      "time": "1月20日",
+      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
