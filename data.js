@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-23 15:55",
+  "update_time": "2026-03-23 16:42",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,13 +23,6 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "2026闽商年度盛典在福建福州举办",
-      "url": "https://www.chinanews.com.cn/cj/2026/03-21/10590413.shtml",
-      "source": "中国新闻网",
-      "time": "前天08:56",
-      "category": "other"
-    },
-    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
@@ -42,20 +35,6 @@ window.LIT_DATA = {
       "source": "红网",
       "time": "1月10日",
       "category": "activity"
-    },
-    {
-      "title": "“点赞”的暴政、智能体的忧伤以及人民为何需要“品味”",
-      "url": "https://www.huxiu.com/article/4844362.html",
-      "source": "虎嗅APP",
-      "time": "6小时前",
-      "category": "other"
-    },
-    {
-      "title": "商伟|八十年代的大学:有关文学的回忆与随想",
-      "url": "https://www.bjnews.com.cn/detail/1774176071019173.html",
-      "source": "新京报网",
-      "time": "昨天18:41",
-      "category": "other"
     }
   ]
 };
