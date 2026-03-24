@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-24 09:01",
+  "update_time": "2026-03-24 12:07",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,11 +23,18 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "女性为何写作?她们用文字打破边界",
-      "url": "https://baijiahao.baidu.com/s?id=1855001128564567122&wfr=spider&for=pc",
-      "source": "上观新闻",
-      "time": "1月22日",
-      "category": "other"
+      "title": "如何把一个想法写成畅销书?美国顶尖非虚构作家的写作课",
+      "url": "https://www.lifeweek.com.cn/article/13495",
+      "source": "三联生活周刊",
+      "time": "",
+      "category": "voice"
+    },
+    {
+      "title": "贾樟柯、梁鸿谈非虚构写作和纪录电影",
+      "url": "http://baijiahao.baidu.com/s?id=1717824461237591660&wfr=spider&for=pc",
+      "source": "澎湃新闻客户端",
+      "time": "",
+      "category": "voice"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
@@ -42,20 +49,6 @@ window.LIT_DATA = {
       "source": "红网",
       "time": "1月10日",
       "category": "activity"
-    },
-    {
-      "title": "看见她们、理解她们、讲述她们",
-      "url": "https://www.huxiu.com/article/4844429.html",
-      "source": "虎嗅APP",
-      "time": "昨天11:37",
-      "category": "other"
-    },
-    {
-      "title": "...承德商会、《海河书香》节目成功举办“三八”国际妇女节文学雅...",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32816335",
-      "source": "澎湃新闻",
-      "time": "昨天19:03",
-      "category": "other"
     }
   ]
 };
