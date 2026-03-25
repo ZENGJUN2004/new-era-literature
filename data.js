@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-26 06:25",
+  "update_time": "2026-03-26 07:23",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -30,10 +30,10 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "诗酒融情墨韵留香,姚洪磊新著《共饮此杯》在汉首发",
-      "url": "https://zx.cjn.cn/csqpd/wh_20004/202603/t5272147.htm",
-      "source": "长江网",
-      "time": "3月12日",
+      "title": "老藤长篇小说《自愈者》在京首发在“AI迷宫”中寻找心灵坐标",
+      "url": "https://baijiahao.baidu.com/s?id=1853940665722016960&wfr=spider&for=pc",
+      "source": "红网",
+      "time": "1月10日",
       "category": "activity"
     }
   ]
