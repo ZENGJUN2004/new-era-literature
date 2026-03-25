@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-25 07:21",
+  "update_time": "2026-03-25 09:07",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,6 +23,13 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
+      "title": "【思想界】彼得·汉德克获诺奖惹争议:文学性能够用政治和道德衡量...",
+      "url": "https://m.jiemian.com/article/3573232.html",
+      "source": "界面新闻",
+      "time": "",
+      "category": "voice"
+    },
+    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
@@ -35,6 +42,13 @@ window.LIT_DATA = {
       "source": "红网",
       "time": "1月10日",
       "category": "activity"
+    },
+    {
+      "title": "苏轼与“一色杏花三十里”",
+      "url": "https://baijiahao.baidu.com/s?id=1860501553296733593&wfr=spider&for=pc",
+      "source": "光明网",
+      "time": "昨天08:29",
+      "category": "other"
     }
   ]
 };
