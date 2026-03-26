@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-27 06:17",
+  "update_time": "2026-03-27 07:20",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,27 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "这一场文学跨年,作家带大家一起重温文学故乡,述说文学跋涉",
+      "url": "https://www.takefoto.cn/news/2026/01/02/11500412.shtml",
+      "source": "北晚在线",
+      "time": "1月2日",
+      "category": "other"
+    },
+    {
+      "title": "一周文艺:阿来推出非虚构新作,2026年新书出版计划,文学改编电视剧...",
+      "url": "https://www.jfdaily.com/wx/detail.do?id=1050469",
+      "source": "上观",
+      "time": "1月12日",
+      "category": "activity"
+    },
+    {
+      "title": "文学年景 精彩纷呈——2025年文学阅读",
+      "url": "https://news.gmw.cn/2026-01/17/content_38542176.htm",
+      "source": "光明网新闻中心",
+      "time": "1月17日",
+      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
