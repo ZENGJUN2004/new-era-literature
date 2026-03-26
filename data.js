@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-26 20:46",
+  "update_time": "2026-03-26 22:19",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -35,41 +35,6 @@ window.LIT_DATA = {
       "source": "红网",
       "time": "1月10日",
       "category": "activity"
-    },
-    {
-      "title": "在醴陵,这堂课上了六年了",
-      "url": "https://baijiahao.baidu.com/s?id=1860718532778320997&wfr=spider&for=pc",
-      "source": "潇湘晨报",
-      "time": "2小时前",
-      "category": "other"
-    },
-    {
-      "title": "作家乔叶谈经典阅读:为我们提供文化参照",
-      "url": "https://baijiahao.baidu.com/s?id=1860718199868759523&wfr=spider&for=pc",
-      "source": "中国新闻网",
-      "time": "2小时前",
-      "category": "other"
-    },
-    {
-      "title": "馆员荐书|3月少儿图书推荐:在文字里遇见春天",
-      "url": "https://baijiahao.baidu.com/s?id=1860710326996925583&wfr=spider&for=pc",
-      "source": "文旅威海",
-      "time": "5小时前",
-      "category": "other"
-    },
-    {
-      "title": "徐则臣:写作源自内心需求,没必要跟AI一较高下",
-      "url": "https://baijiahao.baidu.com/s?id=1860618322935429547&wfr=spider&for=pc",
-      "source": "中国新闻网",
-      "time": "昨天15:29",
-      "category": "other"
-    },
-    {
-      "title": "好书推荐 | 时光之筛,经典为铭:鲁迅文学奖获奖作品精选",
-      "url": "https://cul.sohu.com/a/1000866421_121106884",
-      "source": "搜狐网",
-      "time": "昨天11:18",
-      "category": "other"
     }
   ]
 };
