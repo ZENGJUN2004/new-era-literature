@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-28 03:35",
+  "update_time": "2026-03-28 04:25",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,6 +23,20 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
+      "title": "脑机接口会给人类社会带来什么?这部硬科幻之作给出令人叹为观止的...",
+      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1086910&sid=200",
+      "source": "上观",
+      "time": "前天07:18",
+      "category": "voice"
+    },
+    {
+      "title": "怀念您的流利峭拔的文风”——从汪曾祺致李健吾的两封信谈起",
+      "url": "http://baijiahao.baidu.com/s?id=1860707806522278781&wfr=spider&for=pc",
+      "source": "上观新闻",
+      "time": "前天15:13",
+      "category": "other"
+    },
+    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
@@ -34,6 +48,13 @@ window.LIT_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1860705385276777429&wfr=spider&for=pc",
       "source": "上观新闻",
       "time": "前天14:35",
+      "category": "activity"
+    },
+    {
+      "title": "布克奖得主、爱尔兰文学大师约翰·班维尔作品集重磅上市",
+      "url": "https://baijiahao.baidu.com/s?id=1860799201937663769&wfr=spider&for=pc",
+      "source": "钱江晚报",
+      "time": "昨天15:24",
       "category": "activity"
     }
   ]
