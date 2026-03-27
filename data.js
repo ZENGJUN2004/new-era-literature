@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-27 23:41",
+  "update_time": "2026-03-28 00:41",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -33,7 +33,7 @@ window.LIT_DATA = {
       "title": "《巴黎评论》首发余华小说新作",
       "url": "http://baijiahao.baidu.com/s?id=1860705385276777429&wfr=spider&for=pc",
       "source": "上观新闻",
-      "time": "昨天14:35",
+      "time": "前天14:35",
       "category": "activity"
     }
   ]
