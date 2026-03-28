@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-28 14:43",
+  "update_time": "2026-03-28 15:38",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,27 +23,6 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "文学批评为何失锐气?需重提文学批评的“内与外”",
-      "url": "http://baijiahao.baidu.com/s?id=1859444186919220910&wfr=spider&for=pc",
-      "source": "上观新闻",
-      "time": "3月12日",
-      "category": "meeting"
-    },
-    {
-      "title": "【思想界】彼得·汉德克获诺奖惹争议:文学性能够用政治和道德衡量...",
-      "url": "https://m.jiemian.com/article/3573232.html",
-      "source": "界面新闻",
-      "time": "",
-      "category": "voice"
-    },
-    {
-      "title": "晋江文学城涉多起名誉权纠纷",
-      "url": "https://baijiahao.baidu.com/s?id=1860727418018854249&wfr=spider&for=pc",
-      "source": "和讯网",
-      "time": "前天19:38",
-      "category": "other"
-    },
-    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
@@ -56,13 +35,6 @@ window.LIT_DATA = {
       "source": "上观新闻",
       "time": "前天14:35",
       "category": "activity"
-    },
-    {
-      "title": "晋江文学城回应严禁使用老天奶 审核标准引争议",
-      "url": "https://news.china.com/socialgd/10000169/20260327/49362284.html",
-      "source": "中华网·新闻",
-      "time": "昨天12:36",
-      "category": "voice"
     }
   ]
 };
