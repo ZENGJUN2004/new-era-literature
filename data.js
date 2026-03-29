@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-29 23:21",
+  "update_time": "2026-03-30 00:22",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,31 +23,17 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "在AI时代,何为艺术?何为人?我们为何创作?",
-      "url": "https://baijiahao.baidu.com/s?id=1860771486600074242&wfr=spider&for=pc",
-      "source": "北青网",
-      "time": "前天08:04",
+      "title": "【演界】上海民族乐团新演出季启幕,《诗的中国》奏响海派民乐新篇",
+      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1088300",
+      "source": "上观",
+      "time": "前天20:01",
       "category": "other"
     },
     {
-      "title": "媒体眼中海大的2025年!",
-      "url": "https://baijiahao.baidu.com/s?id=1856159417055495057&wfr=spider&for=pc",
-      "source": "中国海洋大学",
-      "time": "2月4日",
-      "category": "other"
-    },
-    {
-      "title": "光明文化周末:期刊看台",
-      "url": "https://baijiahao.baidu.com/s?id=1860760484269396945&wfr=spider&for=pc",
-      "source": "光明网",
-      "time": "前天04:35",
-      "category": "other"
-    },
-    {
-      "title": "“Z世代文学,向何处”,《十月》创作分享会尝试作答",
-      "url": "https://baijiahao.baidu.com/s?id=1859897163056459211&wfr=spider&for=pc",
-      "source": "北京日报客户端",
-      "time": "3月17日",
+      "title": "燃烧一块冰 | 里所的当代诗歌课作品选",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32823861",
+      "source": "澎湃新闻",
+      "time": "前天13:57",
       "category": "other"
     },
     {
@@ -58,18 +44,18 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "让诗歌语言重新发光,吴撇诗集《我在我里面放了什么》作品研讨会举办",
-      "url": "https://baijiahao.baidu.com/s?id=1860994775058579632&wfr=spider&for=pc",
-      "source": "北京日报客户端",
-      "time": "4小时前",
-      "category": "meeting"
+      "title": "创新地方司法档案的“打开方式”",
+      "url": "http://www.legaldaily.com.cn/index/content/2026-03/29/content_9364366.html",
+      "source": "法治网",
+      "time": "昨天06:16",
+      "category": "other"
     },
     {
-      "title": "长篇小说《群马》昆明研讨:从“边地文学”走向“中国文学”",
-      "url": "https://baijiahao.baidu.com/s?id=1860907387730358534&wfr=spider&for=pc",
-      "source": "中国新闻网",
-      "time": "昨天20:05",
-      "category": "activity"
+      "title": "刘楚昕携《泥潭》亮相,讲述爆款严肃文学背后的故事",
+      "url": "https://baijiahao.baidu.com/s?id=1861007196341313920&wfr=spider&for=pc",
+      "source": "长沙晚报掌上长沙",
+      "time": "昨天22:32",
+      "category": "other"
     }
   ]
 };
