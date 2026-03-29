@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-30 00:22",
+  "update_time": "2026-03-30 01:21",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,17 +23,10 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "【演界】上海民族乐团新演出季启幕,《诗的中国》奏响海派民乐新篇",
-      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1088300",
-      "source": "上观",
-      "time": "前天20:01",
-      "category": "other"
-    },
-    {
-      "title": "燃烧一块冰 | 里所的当代诗歌课作品选",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32823861",
-      "source": "澎湃新闻",
-      "time": "前天13:57",
+      "title": "鲁奖得主石一枫:创作的核心是找到让创作者信服的触动点",
+      "url": "https://baijiahao.baidu.com/s?id=1860865766220057554&wfr=spider&for=pc",
+      "source": "封面新闻",
+      "time": "前天09:04",
       "category": "other"
     },
     {
@@ -42,20 +35,6 @@ window.LIT_DATA = {
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
-    },
-    {
-      "title": "创新地方司法档案的“打开方式”",
-      "url": "http://www.legaldaily.com.cn/index/content/2026-03/29/content_9364366.html",
-      "source": "法治网",
-      "time": "昨天06:16",
-      "category": "other"
-    },
-    {
-      "title": "刘楚昕携《泥潭》亮相,讲述爆款严肃文学背后的故事",
-      "url": "https://baijiahao.baidu.com/s?id=1861007196341313920&wfr=spider&for=pc",
-      "source": "长沙晚报掌上长沙",
-      "time": "昨天22:32",
-      "category": "other"
     }
   ]
 };
