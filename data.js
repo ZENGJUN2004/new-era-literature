@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-30 03:25",
+  "update_time": "2026-03-30 04:19",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,53 +23,11 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "广东茂名首部综合性城市传记《茂名传》出版发行",
-      "url": "https://www.chinanews.com.cn/gn/2026/03-28/10594438.shtml",
-      "source": "中国新闻网",
-      "time": "前天17:23",
-      "category": "activity"
-    },
-    {
-      "title": "静安打造“首发经济”生态圈,让更多中国原创设计诞生在静安",
-      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1088400&sid=11",
-      "source": "上观",
-      "time": "前天19:44",
-      "category": "activity"
-    },
-    {
-      "title": "【钛晨报】国家医保局:医保药品目录调整专家评审工作已结束;把...",
-      "url": "https://www.tmtpost.com/6283071.html",
-      "source": "钛媒体官方网站",
-      "time": "",
-      "category": "activity"
-    },
-    {
-      "title": "收获文学榜在上海揭晓!苏童《好天气》领衔长篇榜首",
-      "url": "https://www.jfdaily.com/news/detail?id=1062380",
-      "source": "上观",
-      "time": "2月3日",
-      "category": "other"
-    },
-    {
-      "title": "孔学堂书局学术编辑部副主任王紫玥:光是目录都核对了10多遍|...",
-      "url": "https://baijiahao.baidu.com/s?id=1860870988075425260&wfr=spider&for=pc",
-      "source": "天眼新闻",
-      "time": "前天09:40",
-      "category": "activity"
-    },
-    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
-    },
-    {
-      "title": "「每日研报解读·万邦德」",
-      "url": "https://baijiahao.baidu.com/s?id=1860995614573085864&wfr=spider&for=pc",
-      "source": "新浪财经",
-      "time": "昨天19:28",
-      "category": "other"
     }
   ]
 };
