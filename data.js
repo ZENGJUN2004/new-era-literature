@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-29 16:28",
+  "update_time": "2026-03-29 17:27",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,13 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "在AI时代,何为艺术?何为人?我们为何创作?",
+      "url": "https://baijiahao.baidu.com/s?id=1860771486600074242&wfr=spider&for=pc",
+      "source": "北青网",
+      "time": "前天08:04",
+      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
