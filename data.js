@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-30 01:21",
+  "update_time": "2026-03-30 02:26",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,10 +23,10 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "鲁奖得主石一枫:创作的核心是找到让创作者信服的触动点",
-      "url": "https://baijiahao.baidu.com/s?id=1860865766220057554&wfr=spider&for=pc",
-      "source": "封面新闻",
-      "time": "前天09:04",
+      "title": "《人民文学》葡文版首刊正式发行",
+      "url": "https://baijiahao.baidu.com/s?id=1856707364268271148&wfr=spider&for=pc",
+      "source": "海外网",
+      "time": "2月10日",
       "category": "other"
     },
     {
