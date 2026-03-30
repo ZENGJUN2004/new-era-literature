@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-03-30 23:59",
+  "update_time": "2026-03-31 00:52",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,11 +23,25 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
+      "title": "文学双周记|22家刊物答原创之问,邓紫棋入选银河奖引热议",
+      "url": "https://baijiahao.baidu.com/s?id=1853442602393722283&wfr=spider&for=pc",
+      "source": "澎湃新闻",
+      "time": "1月5日",
+      "category": "other"
+    },
+    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
+    },
+    {
+      "title": "以书为渡,在阅读里安顿自己|北京实体书店活动预告(3月28日~4月3日)",
+      "url": "https://baijiahao.baidu.com/s?id=1861067590391345786&wfr=spider&for=pc",
+      "source": "北京日报客户端",
+      "time": "昨天14:32",
+      "category": "other"
     }
   ]
 };
