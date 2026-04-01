@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-04-01 07:23",
+  "update_time": "2026-04-01 09:20",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -28,6 +28,13 @@ window.LIT_DATA = {
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
+    },
+    {
+      "title": "视频播客:缝纫机与雨伞在解剖台上的相遇——对视频播客新媒介破圈...",
+      "url": "http://www.xinhuanet.com/ent/20260401/2b29074367fb4e7b9c0e5a31360e5c6b/c.html",
+      "source": "新华网",
+      "time": "27分钟前",
+      "category": "other"
     }
   ]
 };
