@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-04-02 00:00",
+  "update_time": "2026-04-02 00:56",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -40,7 +40,7 @@ window.LIT_DATA = {
       "title": "余华小说新作首发《巴黎评论》,托宾谈爱尔兰文学被低估作家|3月...",
       "url": "https://m.thepaper.cn/newsDetail_forward_32854661",
       "source": "澎湃新闻",
-      "time": "昨天12:22",
+      "time": "前天12:22",
       "category": "activity"
     }
   ]
