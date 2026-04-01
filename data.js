@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-04-01 09:20",
+  "update_time": "2026-04-01 12:38",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -30,11 +30,11 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "视频播客:缝纫机与雨伞在解剖台上的相遇——对视频播客新媒介破圈...",
-      "url": "http://www.xinhuanet.com/ent/20260401/2b29074367fb4e7b9c0e5a31360e5c6b/c.html",
-      "source": "新华网",
-      "time": "27分钟前",
-      "category": "other"
+      "title": "余华小说新作首发《巴黎评论》,托宾谈爱尔兰文学被低估作家|3月...",
+      "url": "https://m.thepaper.cn/newsDetail_forward_32854661",
+      "source": "澎湃新闻",
+      "time": "昨天12:22",
+      "category": "activity"
     }
   ]
 };
