@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-04-03 06:22",
+  "update_time": "2026-04-03 07:23",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,6 +23,13 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
+      "title": "【散文】墨香琴韵润华蓥——王富强文艺创作与乡土情怀略记‖明月松",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32870631",
+      "source": "澎湃新闻",
+      "time": "前天13:57",
+      "category": "other"
+    },
+    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
@@ -37,17 +44,10 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "一位享誉全球的文学批评家的悲剧研究力作,梳理悲剧艺术的历史脉络",
-      "url": "https://baijiahao.baidu.com/s?id=1861346023561590171&wfr=spider&for=pc",
-      "source": "青瞳视角",
-      "time": "昨天16:16",
-      "category": "meeting"
-    },
-    {
-      "title": "在世界与文学之间——读季进新著《世界中的当代文学》",
-      "url": "http://baijiahao.baidu.com/s?id=1861351411612897509&wfr=spider&for=pc",
-      "source": "上观新闻",
-      "time": "昨天17:43",
+      "title": "广东文学馆上演焕新记:“年轻人来不来,是衡量文学馆好不好的重要...",
+      "url": "https://news.ycwb.com/ikimvkotki/content_54044146.htm",
+      "source": "金羊网",
+      "time": "昨天19:49",
       "category": "other"
     }
   ]
