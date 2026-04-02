@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-04-03 04:24",
+  "update_time": "2026-04-03 05:26",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,6 +23,20 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
+      "title": "女性为何写作?她们用文字打破边界",
+      "url": "https://baijiahao.baidu.com/s?id=1855001128564567122&wfr=spider&for=pc",
+      "source": "上观新闻",
+      "time": "1月22日",
+      "category": "other"
+    },
+    {
+      "title": "凝“新”聚力 | 巾帼同行·文润山河——四川省网络女作家妇联走进...",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32871106",
+      "source": "澎湃新闻",
+      "time": "前天11:00",
+      "category": "other"
+    },
+    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
@@ -35,6 +49,13 @@ window.LIT_DATA = {
       "source": "红网",
       "time": "1月10日",
       "category": "activity"
+    },
+    {
+      "title": "关于她们的文学,当至林深,倦雪归一",
+      "url": "https://baijiahao.baidu.com/s?id=1861342157599233420&wfr=spider&for=pc",
+      "source": "大众日报",
+      "time": "昨天15:16",
+      "category": "other"
     }
   ]
 };
