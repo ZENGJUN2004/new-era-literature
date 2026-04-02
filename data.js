@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-04-02 09:10",
+  "update_time": "2026-04-02 12:17",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,38 +23,24 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "虹书舫“超级文学邮轮”盛装启航,北外滩再添都市文化新地标",
-      "url": "https://www.shanghai.gov.cn/nw15343/20260331/8340a82c21fc4c80be55e4ee2b2153d6.html",
-      "source": "上海市人民政府",
-      "time": "前天",
+      "title": "AI让演员走开的年代 人还能做什么",
+      "url": "https://baijiahao.baidu.com/s?id=1861175179720032882&wfr=spider&for=pc",
+      "source": "千龙网",
+      "time": "前天19:02",
       "category": "other"
     },
     {
-      "title": "海河遇珠江橘香润文脉",
-      "url": "https://baijiahao.baidu.com/s?id=1861153757912027478&wfr=spider&for=pc",
-      "source": "湘湘带你看社会",
-      "time": "前天13:22",
+      "title": "中共中国作家协会党组关于二十届中央第四轮巡视整改进展情况的通报",
+      "url": "https://baijiahao.baidu.com/s?id=1861183640247618807&wfr=spider&for=pc",
+      "source": "北京日报客户端",
+      "time": "前天21:16",
       "category": "other"
-    },
-    {
-      "title": "“海河之子,珠江寻根”:王松《橘红》新书分享会温情举行",
-      "url": "https://baijiahao.baidu.com/s?id=1861171750917200576&wfr=spider&for=pc",
-      "source": "扬子晚报",
-      "time": "前天17:39",
-      "category": "activity"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
-      "category": "activity"
-    },
-    {
-      "title": "老藤长篇小说《自愈者》在京首发在“AI迷宫”中寻找心灵坐标",
-      "url": "https://baijiahao.baidu.com/s?id=1853940665722016960&wfr=spider&for=pc",
-      "source": "红网",
-      "time": "1月10日",
       "category": "activity"
     },
     {
@@ -65,32 +51,25 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
+      "title": "如何读懂一个诗人,张清华《诗歌的肖像》系列分享会在上海、苏州举行",
+      "url": "https://baijiahao.baidu.com/s?id=1861322366973991876&wfr=spider&for=pc",
+      "source": "钱江晚报",
+      "time": "2小时前",
+      "category": "other"
+    },
+    {
+      "title": "好的创作谈打开新视野",
+      "url": "https://baijiahao.baidu.com/s?id=1861205441199608786&wfr=spider&for=pc",
+      "source": "光明网",
+      "time": "昨天02:25",
+      "category": "other"
+    },
+    {
       "title": "扎根烟火 以文共情",
       "url": "https://baijiahao.baidu.com/s?id=1861230952541248208&wfr=spider&for=pc",
       "source": "三秦都市报",
       "time": "昨天07:01",
       "category": "other"
-    },
-    {
-      "title": "这艘“文学邮轮”苏州河畔“启航”,你想来打卡吗?",
-      "url": "https://baijiahao.baidu.com/s?id=1861246052071991551&wfr=spider&for=pc",
-      "source": "人民日报",
-      "time": "昨天13:48",
-      "category": "other"
-    },
-    {
-      "title": "上海打造阅读休闲消费新场景 “文学邮轮”虹书舫“启航”",
-      "url": "http://www.xinhuanet.com/book/20260401/ea5edbb008c94b91b233b20cbcc17ccb/c.html",
-      "source": "新华网",
-      "time": "昨天14:41",
-      "category": "other"
-    },
-    {
-      "title": "王松长篇小说《橘红》:连接津粤 书写百年家族史诗",
-      "url": "https://baijiahao.baidu.com/s?id=1861252156067003452&wfr=spider&for=pc",
-      "source": "中国新闻网",
-      "time": "昨天15:24",
-      "category": "activity"
     }
   ]
 };
