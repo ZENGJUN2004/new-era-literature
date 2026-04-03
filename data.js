@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-04-03 12:18",
+  "update_time": "2026-04-03 14:05",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,13 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "百年中国文学中的现代精神——《现代的形成与拓路》的学理内涵与...",
-      "url": "https://news.gmw.cn/2026-03/19/content_38655986.htm",
-      "source": "光明网新闻中心",
-      "time": "3月19日",
-      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
