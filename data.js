@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-04-03 07:23",
+  "update_time": "2026-04-03 09:13",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,32 +23,11 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "【散文】墨香琴韵润华蓥——王富强文艺创作与乡土情怀略记‖明月松",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32870631",
-      "source": "澎湃新闻",
-      "time": "前天13:57",
-      "category": "other"
-    },
-    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
-    },
-    {
-      "title": "老藤长篇小说《自愈者》在京首发在“AI迷宫”中寻找心灵坐标",
-      "url": "https://baijiahao.baidu.com/s?id=1853940665722016960&wfr=spider&for=pc",
-      "source": "红网",
-      "time": "1月10日",
-      "category": "activity"
-    },
-    {
-      "title": "广东文学馆上演焕新记:“年轻人来不来,是衡量文学馆好不好的重要...",
-      "url": "https://news.ycwb.com/ikimvkotki/content_54044146.htm",
-      "source": "金羊网",
-      "time": "昨天19:49",
-      "category": "other"
     }
   ]
 };
