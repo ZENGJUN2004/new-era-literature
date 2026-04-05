@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-04-05 09:15",
+  "update_time": "2026-04-05 12:27",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -27,13 +27,6 @@ window.LIT_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
-      "category": "activity"
-    },
-    {
-      "title": "长篇革命历史小说《商山星火》出版",
-      "url": "https://baijiahao.baidu.com/s?id=1861459993288106858&wfr=spider&for=pc",
-      "source": "中国青年报",
-      "time": "前天22:29",
       "category": "activity"
     }
   ]
