@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-04-09 06:29",
+  "update_time": "2026-04-09 07:29",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,10 +23,38 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
+      "title": "“网文IP热”现象的背后",
+      "url": "http://cul.china.com.cn/2022-06/23/content_42012461.htm",
+      "source": "中国网",
+      "time": "",
+      "category": "voice"
+    },
+    {
+      "title": "《小说评论》年度论坛:聚焦“现象级文本与文学史书写”",
+      "url": "http://baijiahao.baidu.com/s?id=1751357796338047975&wfr=spider&for=pc",
+      "source": "澎湃新闻客户端",
+      "time": "",
+      "category": "activity"
+    },
+    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
+      "category": "activity"
+    },
+    {
+      "title": "济南优势工业产品目录公布 天鹅股份核心农机装备入选",
+      "url": "https://stock.10jqka.com.cn/20260408/c675834775.shtml",
+      "source": "同花顺",
+      "time": "昨天16:33",
+      "category": "activity"
+    },
+    {
+      "title": "小说《好天气》拍了5集AI微电影,苏童:我支持",
+      "url": "https://baijiahao.baidu.com/s?id=1861874978356591035&wfr=spider&for=pc",
+      "source": "澎湃新闻",
+      "time": "昨天12:24",
       "category": "activity"
     }
   ]
