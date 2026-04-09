@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-04-10 01:52",
+  "update_time": "2026-04-10 02:45",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -35,13 +35,6 @@ window.LIT_DATA = {
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
-    },
-    {
-      "title": "花城文学院成立三周年,探索“文学+”的无限可能",
-      "url": "https://culture.ycwb.com/ikimvkhtio/content_54026563.htm",
-      "source": "金羊网",
-      "time": "3月24日",
-      "category": "other"
     },
     {
       "title": "小说《好天气》拍了5集AI微电影,苏童:我支持",
