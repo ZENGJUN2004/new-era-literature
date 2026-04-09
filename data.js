@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-04-09 18:02",
+  "update_time": "2026-04-09 19:44",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,55 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "观察:只想给你一个美好未来 _中国网",
+      "url": "http://www.china.com.cn/opinion/node_7184121.htm",
+      "source": "中国网",
+      "time": "",
+      "category": "other"
+    },
+    {
+      "title": "【第一奇书笔记】李敬泽:怎么说话,何以沉默",
+      "url": "http://www.myzaker.com/article/69784a261bc8e08222000016",
+      "source": "ZAKER资讯",
+      "time": "1月27日",
+      "category": "other"
+    },
+    {
+      "title": "李敬泽开启“西湖首讲”:在文学中探寻中国人情感的源头",
+      "url": "https://ori.hangzhou.com.cn/ornews/content/2026-02/01/content_9171836.htm",
+      "source": "杭州网",
+      "time": "2月1日",
+      "category": "other"
+    },
+    {
+      "title": "观察者网·观学院直播厅「思想者说」第21期:给日本松链子,这是...",
+      "url": "https://baijiahao.baidu.com/s?id=1856886008341810036&wfr=spider&for=pc",
+      "source": "观察者网",
+      "time": "2月12日",
+      "category": "other"
+    },
+    {
+      "title": "“Z世代文学,向何处”,《十月》创作分享会尝试作答",
+      "url": "https://baijiahao.baidu.com/s?id=1859897163056459211&wfr=spider&for=pc",
+      "source": "北京日报客户端",
+      "time": "3月17日",
+      "category": "other"
+    },
+    {
+      "title": "写出属于自己的独特体验,Z世代文学向何处?",
+      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1082705",
+      "source": "上观",
+      "time": "3月20日",
+      "category": "other"
+    },
+    {
+      "title": "《十月》杂志举办青年作家创作分享会",
+      "url": "https://baijiahao.baidu.com/s?id=1860050202536776799&wfr=spider&for=pc",
+      "source": "人民网",
+      "time": "3月19日",
+      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
