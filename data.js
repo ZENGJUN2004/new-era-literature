@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-04-10 18:52",
+  "update_time": "2026-04-10 19:39",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,13 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "《人民文学》葡文版首刊正式发行",
-      "url": "https://baijiahao.baidu.com/s?id=1856707364268271148&wfr=spider&for=pc",
-      "source": "海外网",
-      "time": "2月10日",
-      "category": "other"
     },
     {
       "title": "济南优势工业产品目录公布 天鹅股份核心农机装备入选",
