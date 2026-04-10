@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-04-10 20:42",
+  "update_time": "2026-04-10 22:09",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -27,6 +27,13 @@ window.LIT_DATA = {
       "url": "https://stock.10jqka.com.cn/20260408/c675834775.shtml",
       "source": "同花顺",
       "time": "前天16:33",
+      "category": "activity"
+    },
+    {
+      "title": "...开展《2026年度上海市智能机器人标杆企业与应用场景推荐目录...",
+      "url": "http://baijiahao.baidu.com/s?id=1861907357138835619&wfr=spider&for=pc",
+      "source": "上观新闻",
+      "time": "前天20:24",
       "category": "activity"
     },
     {
