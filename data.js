@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-04-11 21:46",
+  "update_time": "2026-04-11 22:27",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,27 +23,6 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "这一场文学跨年,作家带大家一起重温文学故乡,述说文学跋涉",
-      "url": "https://www.takefoto.cn/news/2026/01/02/11500412.shtml",
-      "source": "北晚在线",
-      "time": "1月2日",
-      "category": "other"
-    },
-    {
-      "title": "迈向跨界融合的“大文学”时代",
-      "url": "http://www.xinhuanet.com/book/20260120/d3fa6fd5f93048fc88a2d3be4ef48224/c.html",
-      "source": "新华网",
-      "time": "1月20日",
-      "category": "other"
-    },
-    {
-      "title": "上三鲜 书圈顶流还是苏东坡",
-      "url": "https://baijiahao.baidu.com/s?id=1860954698460070572&wfr=spider&for=pc",
-      "source": "华声在线",
-      "time": "3月29日",
-      "category": "other"
-    },
-    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
@@ -56,13 +35,6 @@ window.LIT_DATA = {
       "source": "中国西藏网",
       "time": "前天09:37",
       "category": "activity"
-    },
-    {
-      "title": "深耕文坛数十年,阎晶明畅谈:读懂新大众文艺,读懂当下时代文学",
-      "url": "http://baijiahao.baidu.com/s?id=1862044823610323363&wfr=spider&for=pc",
-      "source": "上观新闻",
-      "time": "昨天09:24",
-      "category": "other"
     }
   ]
 };
