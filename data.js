@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-04-11 23:23",
+  "update_time": "2026-04-12 00:23",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -27,13 +27,6 @@ window.LIT_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
-      "category": "activity"
-    },
-    {
-      "title": "杨年华新书《文成公主民间故事集》《神奇八宿》在拉萨首发",
-      "url": "http://www.tibet.cn/cn/culture/202604/t20260409_7958655.html",
-      "source": "中国西藏网",
-      "time": "前天09:37",
       "category": "activity"
     }
   ]
