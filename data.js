@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-04-11 07:25",
+  "update_time": "2026-04-11 09:11",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -20,6 +20,13 @@ window.LIT_DATA = {
       "url": "https://scholar.baidu.com/scholar?q=当代文学&sc_ylo=2024&sort=sc_time",
       "source": "CNKI",
       "time": "实时",
+      "category": "meeting"
+    },
+    {
+      "title": "糟糕的文学评论罗列展览,好的评论引发群山回响|新批评",
+      "url": "http://baijiahao.baidu.com/s?id=1720996479792979416&wfr=spider&for=pc",
+      "source": "澎湃新闻客户端",
+      "time": "",
       "category": "meeting"
     },
     {
