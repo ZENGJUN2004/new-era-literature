@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-04-12 21:53",
+  "update_time": "2026-04-12 22:32",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,20 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "写出属于自己的独特体验,Z世代文学向何处?",
+      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1082705",
+      "source": "上观",
+      "time": "3月20日",
+      "category": "other"
+    },
+    {
+      "title": "《十月》杂志举办青年作家创作分享会",
+      "url": "https://baijiahao.baidu.com/s?id=1860050202536776799&wfr=spider&for=pc",
+      "source": "人民网",
+      "time": "3月19日",
+      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
