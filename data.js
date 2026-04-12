@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-04-12 23:26",
+  "update_time": "2026-04-13 00:25",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -33,7 +33,7 @@ window.LIT_DATA = {
       "title": "把家乡长辈抗战故事写成书,长篇小说《长城1933》长沙首发",
       "url": "https://baijiahao.baidu.com/s?id=1862171110712203201&wfr=spider&for=pc",
       "source": "潇湘晨报",
-      "time": "昨天18:52",
+      "time": "前天18:52",
       "category": "activity"
     }
   ]
