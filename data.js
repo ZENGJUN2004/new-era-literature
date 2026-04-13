@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-04-13 15:07",
+  "update_time": "2026-04-13 17:25",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,6 +23,13 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
+      "title": "《小说评论》年度论坛:聚焦“现象级文本与文学史书写”",
+      "url": "http://baijiahao.baidu.com/s?id=1751357796338047975&wfr=spider&for=pc",
+      "source": "澎湃新闻客户端",
+      "time": "",
+      "category": "activity"
+    },
+    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
@@ -31,8 +38,8 @@ window.LIT_DATA = {
     },
     {
       "title": "把家乡长辈抗战故事写成书,长篇小说《长城1933》长沙首发",
-      "url": "https://history.sohu.com/a/1008264262_120914498",
-      "source": "搜狐网",
+      "url": "https://baijiahao.baidu.com/s?id=1862171110712203201&wfr=spider&for=pc",
+      "source": "潇湘晨报",
       "time": "前天18:52",
       "category": "activity"
     }
