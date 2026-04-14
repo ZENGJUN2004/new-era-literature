@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-04-15 06:36",
+  "update_time": "2026-04-15 07:34",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,6 +23,13 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
+      "title": "写出属于自己的独特体验,Z世代文学向何处?",
+      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1082705",
+      "source": "上观",
+      "time": "3月20日",
+      "category": "other"
+    },
+    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
@@ -42,6 +49,13 @@ window.LIT_DATA = {
       "source": "顶端新闻",
       "time": "昨天12:47",
       "category": "other"
+    },
+    {
+      "title": "时隔六年莫言小说“上新”,喊话读者:像刷短视频那样刷新书吧",
+      "url": "https://baijiahao.baidu.com/s?id=1862414856918967976&wfr=spider&for=pc",
+      "source": "钱江晚报",
+      "time": "昨天11:14",
+      "category": "activity"
     }
   ]
 };
