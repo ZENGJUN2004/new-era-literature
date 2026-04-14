@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-04-15 03:59",
+  "update_time": "2026-04-15 04:51",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -27,6 +27,13 @@ window.LIT_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
+      "category": "activity"
+    },
+    {
+      "title": "莫言新书《人呐》抖音电商首发做客樊登直播间畅谈阅读与创作",
+      "url": "https://baijiahao.baidu.com/s?id=1862349210526296930&wfr=spider&for=pc",
+      "source": "新闻晨报",
+      "time": "前天18:03",
       "category": "activity"
     }
   ]
