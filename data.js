@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-04-15 04:51",
+  "update_time": "2026-04-15 05:41",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -30,11 +30,18 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "莫言新书《人呐》抖音电商首发做客樊登直播间畅谈阅读与创作",
-      "url": "https://baijiahao.baidu.com/s?id=1862349210526296930&wfr=spider&for=pc",
-      "source": "新闻晨报",
-      "time": "前天18:03",
-      "category": "activity"
+      "title": "2026滋补行业精选,十佳灵芝孢子粉国货,品质过硬收获大众认可",
+      "url": "https://baijiahao.baidu.com/s?id=1862435436165218453&wfr=spider&for=pc",
+      "source": "中国农科新闻网",
+      "time": "昨天16:54",
+      "category": "other"
+    },
+    {
+      "title": "《长城》主编张雅丽:不迎合潮流,只引领精神|顶端文学名刊访谈",
+      "url": "https://baijiahao.baidu.com/s?id=1862424072859094860&wfr=spider&for=pc",
+      "source": "顶端新闻",
+      "time": "昨天12:47",
+      "category": "other"
     }
   ]
 };
