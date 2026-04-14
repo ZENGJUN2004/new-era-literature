@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-04-15 01:06",
+  "update_time": "2026-04-15 02:56",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,31 +23,24 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "“非虚构”和“虚构”的界限",
-      "url": "http://baijiahao.baidu.com/s?id=1740112764190450044&wfr=spider&for=pc",
+      "title": "《小说评论》年度论坛:聚焦“现象级文本与文学史书写”",
+      "url": "http://baijiahao.baidu.com/s?id=1751357796338047975&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
-      "category": "voice"
-    },
-    {
-      "title": "如何把一个想法写成畅销书?美国顶尖非虚构作家的写作课",
-      "url": "https://www.lifeweek.com.cn/article/13495",
-      "source": "三联生活周刊",
-      "time": "",
-      "category": "voice"
-    },
-    {
-      "title": "贾樟柯、梁鸿谈非虚构写作和纪录电影",
-      "url": "http://baijiahao.baidu.com/s?id=1717824461237591660&wfr=spider&for=pc",
-      "source": "澎湃新闻客户端",
-      "time": "",
-      "category": "voice"
+      "category": "activity"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
+      "category": "activity"
+    },
+    {
+      "title": "莫言新书《人呐》抖音电商首发做客樊登直播间畅谈阅读与创作",
+      "url": "https://baijiahao.baidu.com/s?id=1862349210526296930&wfr=spider&for=pc",
+      "source": "新闻晨报",
+      "time": "前天18:03",
       "category": "activity"
     }
   ]
