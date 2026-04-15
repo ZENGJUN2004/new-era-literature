@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-04-16 00:55",
+  "update_time": "2026-04-16 01:58",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -41,20 +41,6 @@ window.LIT_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
-      "category": "activity"
-    },
-    {
-      "title": "一部小说的多重解读:关于《相对性》的讨论",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32891114",
-      "source": "澎湃新闻",
-      "time": "4月3日",
-      "category": "activity"
-    },
-    {
-      "title": "时隔六年莫言小说“上新”,喊话读者:像刷短视频那样刷新书吧",
-      "url": "https://baijiahao.baidu.com/s?id=1862414856918967976&wfr=spider&for=pc",
-      "source": "钱江晚报",
-      "time": "前天11:14",
       "category": "activity"
     }
   ]
