@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-04-16 06:33",
+  "update_time": "2026-04-16 07:33",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,11 +23,25 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "中国锂电十年:欧美抢跑,日韩超车,中国企业后来居上",
-      "url": "https://36kr.com/p/1937106931305089",
-      "source": "36kr",
+      "title": "“非虚构”和“虚构”的界限",
+      "url": "http://baijiahao.baidu.com/s?id=1740112764190450044&wfr=spider&for=pc",
+      "source": "澎湃新闻客户端",
       "time": "",
-      "category": "other"
+      "category": "voice"
+    },
+    {
+      "title": "如何把一个想法写成畅销书?美国顶尖非虚构作家的写作课",
+      "url": "https://www.lifeweek.com.cn/article/13495",
+      "source": "三联生活周刊",
+      "time": "",
+      "category": "voice"
+    },
+    {
+      "title": "贾樟柯、梁鸿谈非虚构写作和纪录电影",
+      "url": "http://baijiahao.baidu.com/s?id=1717824461237591660&wfr=spider&for=pc",
+      "source": "澎湃新闻客户端",
+      "time": "",
+      "category": "voice"
     },
     {
       "title": "2026滋补行业精选,十佳灵芝孢子粉国货,品质过硬收获大众认可",
@@ -51,18 +65,11 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "一部小说的多重解读:关于《相对性》的讨论",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32891114",
-      "source": "澎湃新闻",
-      "time": "4月3日",
-      "category": "activity"
-    },
-    {
-      "title": "时隔六年莫言小说“上新”,喊话读者:像刷短视频那样刷新书吧",
-      "url": "https://baijiahao.baidu.com/s?id=1862414856918967976&wfr=spider&for=pc",
-      "source": "钱江晚报",
-      "time": "前天11:14",
-      "category": "activity"
+      "title": "粤好书|橘红香中品粤韵",
+      "url": "https://news.dayoo.com/gzrbrmt/202604/15/170636_54948267.htm",
+      "source": "大洋网",
+      "time": "昨天16:05",
+      "category": "other"
     }
   ]
 };
