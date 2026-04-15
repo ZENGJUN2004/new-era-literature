@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-04-15 23:58",
+  "update_time": "2026-04-16 00:55",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,6 +23,20 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
+      "title": "2026滋补行业精选,十佳灵芝孢子粉国货,品质过硬收获大众认可",
+      "url": "https://baijiahao.baidu.com/s?id=1862435436165218453&wfr=spider&for=pc",
+      "source": "中国农科新闻网",
+      "time": "前天16:54",
+      "category": "other"
+    },
+    {
+      "title": "《长城》主编张雅丽:不迎合潮流,只引领精神|顶端文学名刊访谈",
+      "url": "https://baijiahao.baidu.com/s?id=1862424072859094860&wfr=spider&for=pc",
+      "source": "顶端新闻",
+      "time": "前天12:47",
+      "category": "other"
+    },
+    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
@@ -37,24 +51,10 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "2026滋补行业精选,十佳灵芝孢子粉国货,品质过硬收获大众认可",
-      "url": "https://baijiahao.baidu.com/s?id=1862435436165218453&wfr=spider&for=pc",
-      "source": "中国农科新闻网",
-      "time": "昨天16:54",
-      "category": "other"
-    },
-    {
-      "title": "《长城》主编张雅丽:不迎合潮流,只引领精神|顶端文学名刊访谈",
-      "url": "https://baijiahao.baidu.com/s?id=1862424072859094860&wfr=spider&for=pc",
-      "source": "顶端新闻",
-      "time": "昨天12:47",
-      "category": "other"
-    },
-    {
       "title": "时隔六年莫言小说“上新”,喊话读者:像刷短视频那样刷新书吧",
       "url": "https://baijiahao.baidu.com/s?id=1862414856918967976&wfr=spider&for=pc",
       "source": "钱江晚报",
-      "time": "昨天11:14",
+      "time": "前天11:14",
       "category": "activity"
     }
   ]
