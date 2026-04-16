@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-04-16 19:50",
+  "update_time": "2026-04-16 21:00",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,10 +23,10 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "《收获》文学榜揭晓,榜单映射中国文坛迎来“丰年”",
-      "url": "https://baijiahao.baidu.com/s?id=1856239939715495964&wfr=spider&for=pc",
-      "source": "中工网",
-      "time": "2月4日",
+      "title": "《长城》主编张雅丽:不迎合潮流,只引领精神|顶端文学名刊访谈",
+      "url": "https://baijiahao.baidu.com/s?id=1862424072859094860&wfr=spider&for=pc",
+      "source": "顶端新闻",
+      "time": "前天12:47",
       "category": "other"
     },
     {
