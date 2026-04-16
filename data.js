@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-04-16 14:27",
+  "update_time": "2026-04-16 16:21",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -30,10 +30,10 @@ window.LIT_DATA = {
       "category": "other"
     },
     {
-      "title": "《长城》主编张雅丽:不迎合潮流,只引领精神|顶端文学名刊访谈",
-      "url": "https://baijiahao.baidu.com/s?id=1862424072859094860&wfr=spider&for=pc",
-      "source": "顶端新闻",
-      "time": "前天12:47",
+      "title": "...阅读」《文史知识》正式入选长安街读书会干部学习核心来源期刊",
+      "url": "https://www.bjnews.com.cn/detail/1776165349019396.html",
+      "source": "新京报网",
+      "time": "前天19:45",
       "category": "other"
     },
     {
