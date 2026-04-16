@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-04-16 18:06",
+  "update_time": "2026-04-16 19:50",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,17 +23,10 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "2026滋补行业精选,十佳灵芝孢子粉国货,品质过硬收获大众认可",
-      "url": "https://baijiahao.baidu.com/s?id=1862435436165218453&wfr=spider&for=pc",
-      "source": "中国农科新闻网",
-      "time": "前天16:54",
-      "category": "other"
-    },
-    {
-      "title": "...阅读」《文史知识》正式入选长安街读书会干部学习核心来源期刊",
-      "url": "https://www.bjnews.com.cn/detail/1776165349019396.html",
-      "source": "新京报网",
-      "time": "前天19:45",
+      "title": "《收获》文学榜揭晓,榜单映射中国文坛迎来“丰年”",
+      "url": "https://baijiahao.baidu.com/s?id=1856239939715495964&wfr=spider&for=pc",
+      "source": "中工网",
+      "time": "2月4日",
       "category": "other"
     },
     {
