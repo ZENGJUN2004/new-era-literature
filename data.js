@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-04-17 23:48",
+  "update_time": "2026-04-18 00:41",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -28,13 +28,6 @@ window.LIT_DATA = {
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
-    },
-    {
-      "title": "粤好书|橘红香中品粤韵",
-      "url": "https://news.dayoo.com/gzrbrmt/202604/15/170636_54948267.htm",
-      "source": "大洋网",
-      "time": "前天16:05",
-      "category": "other"
     }
   ]
 };
