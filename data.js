@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-04-17 16:20",
+  "update_time": "2026-04-17 18:03",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,41 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "2025春风月榜半年报告:希望这22本佳作为你带来光",
-      "url": "https://baijiahao.baidu.com/s?id=1853802033490694012&wfr=spider&for=pc",
-      "source": "钱江晚报",
-      "time": "1月9日",
-      "category": "other"
-    },
-    {
-      "title": "2026年,这50本新书值得期待_凤凰网",
-      "url": "https://culture.ifeng.com/c/8pmADpIACBv",
-      "source": "凤凰网文化读书",
-      "time": "1月9日",
-      "category": "activity"
-    },
-    {
-      "title": "一周文艺:阿来推出非虚构新作,2026年新书出版计划,文学改编电视剧...",
-      "url": "https://www.jfdaily.com/wx/detail.do?id=1050469",
-      "source": "上观",
-      "time": "1月12日",
-      "category": "activity"
-    },
-    {
-      "title": "2026年,这些新书值得我们期待(上)",
-      "url": "https://baijiahao.baidu.com/s?id=1854440677511475404&wfr=spider&for=pc",
-      "source": "界面新闻",
-      "time": "1月16日",
-      "category": "activity"
-    },
-    {
-      "title": "2026年,这些图书不要错过",
-      "url": "https://baijiahao.baidu.com/s?id=1857913561928553786&wfr=spider&for=pc",
-      "source": "扬子晚报",
-      "time": "2月23日",
-      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
