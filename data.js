@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-04-18 19:26",
+  "update_time": "2026-04-18 20:34",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -27,13 +27,6 @@ window.LIT_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
-      "category": "activity"
-    },
-    {
-      "title": "一部小说的多重解读:关于《相对性》的讨论",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32891114",
-      "source": "澎湃新闻",
-      "time": "4月3日",
       "category": "activity"
     }
   ]
