@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-04-18 09:13",
+  "update_time": "2026-04-18 12:22",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -28,6 +28,20 @@ window.LIT_DATA = {
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
+    },
+    {
+      "title": "...阅读」《文史知识》正式入选长安街读书会干部学习核心来源期刊",
+      "url": "https://m.thepaper.cn/newsDetail_forward_32972511",
+      "source": "澎湃新闻",
+      "time": "昨天17:00",
+      "category": "other"
+    },
+    {
+      "title": "一周文化讲座|世界上本没有爱情",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32985472",
+      "source": "澎湃新闻",
+      "time": "昨天11:03",
+      "category": "meeting"
     }
   ]
 };
