@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-04-19 05:23",
+  "update_time": "2026-04-19 06:22",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,25 +23,18 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "文艺批评·新书选读|宫立《中国现代文学史诀微》导言、后记及书评",
-      "url": "https://cul.sohu.com/a/1006593663_121124790",
-      "source": "搜狐网",
-      "time": "4月8日",
-      "category": "activity"
-    },
-    {
-      "title": "...阅读」《文史知识》正式入选长安街读书会干部学习核心来源期刊",
-      "url": "https://m.thepaper.cn/newsDetail_forward_32972511",
-      "source": "澎湃新闻",
-      "time": "前天17:00",
-      "category": "other"
-    },
-    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
+    },
+    {
+      "title": "一周文化讲座|世界上本没有爱情",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32985472",
+      "source": "澎湃新闻",
+      "time": "前天11:03",
+      "category": "meeting"
     }
   ]
 };
