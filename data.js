@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-04-19 20:34",
+  "update_time": "2026-04-19 21:53",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -28,13 +28,6 @@ window.LIT_DATA = {
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
-    },
-    {
-      "title": "一周文化讲座|世界上本没有爱情",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32985472",
-      "source": "澎湃新闻",
-      "time": "前天11:03",
-      "category": "meeting"
     }
   ]
 };
