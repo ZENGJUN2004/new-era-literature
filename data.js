@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-04-21 06:33",
+  "update_time": "2026-04-21 07:33",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,20 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "数智浪潮下的管理革新,今元集团数智时代人力资源服务创新论坛圆满...",
-      "url": "https://finance.ynet.com/2026/03/19/3994206t632.html",
-      "source": "财经_YNET.com北青网",
-      "time": "3月19日",
-      "category": "meeting"
-    },
-    {
-      "title": "在AI时代,何为艺术?何为人?我们为何创作?",
-      "url": "https://baijiahao.baidu.com/s?id=1860771486600074242&wfr=spider&for=pc",
-      "source": "北青网",
-      "time": "3月27日",
-      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
