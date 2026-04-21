@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-04-21 16:25",
+  "update_time": "2026-04-21 18:09",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,20 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "观察者网·观学院直播厅【思想者说】第21期:从中俄美三国元首同日...",
-      "url": "https://www.guancha.cn/LiBo/2026_02_12_806901.shtml",
-      "source": "观察者网",
-      "time": "2月12日",
-      "category": "other"
-    },
-    {
-      "title": "生命中的那坛酒|李敬泽、刘擎:专注、纯粹、极致,是人类共同的精神...",
-      "url": "https://www.xhby.net/content/s69c0a8b5e4b03734d4022d9e.html",
-      "source": "新华报业网",
-      "time": "3月23日",
-      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
