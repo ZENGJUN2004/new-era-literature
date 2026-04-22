@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-04-22 14:29",
+  "update_time": "2026-04-22 16:23",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,27 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "大众写科幻,带来了什么?",
+      "url": "http://baijiahao.baidu.com/s?id=1853855131427137219&wfr=spider&for=pc",
+      "source": "上观新闻",
+      "time": "1月9日",
+      "category": "voice"
+    },
+    {
+      "title": "中国网络文学走向多样性繁荣",
+      "url": "https://baijiahao.baidu.com/s?id=1862950470829076947&wfr=spider&for=pc",
+      "source": "金台资讯",
+      "time": "前天08:56",
+      "category": "other"
+    },
+    {
+      "title": "中国科幻产业走向“生态出海”",
+      "url": "https://baijiahao.baidu.com/s?id=1861855033203367752&wfr=spider&for=pc",
+      "source": "环球网",
+      "time": "4月8日",
+      "category": "voice"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
