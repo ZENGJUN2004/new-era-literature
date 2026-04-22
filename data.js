@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-04-23 05:41",
+  "update_time": "2026-04-23 06:37",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -27,13 +27,6 @@ window.LIT_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
-      "category": "activity"
-    },
-    {
-      "title": "马伯庸4月15日空降呼和浩特!白天抢首发,晚上蹲签名!",
-      "url": "https://cul.sohu.com/a/1008270150_121117460",
-      "source": "搜狐网",
-      "time": "4月11日",
       "category": "activity"
     }
   ]
