@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-04-23 12:42",
+  "update_time": "2026-04-23 14:54",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,13 +23,6 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "豆瓣8.0+!高分人物传记,一书读罢头飞雪",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33007780",
-      "source": "澎湃新闻",
-      "time": "前天12:54",
-      "category": "other"
-    },
-    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
@@ -37,18 +30,11 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "值得反复阅读的8本满分传记,真能改变人生",
-      "url": "http://www.thepaper.cn/newsDetail_forward_33016730",
-      "source": "澎湃新闻",
-      "time": "20分钟前",
-      "category": "other"
-    },
-    {
-      "title": "拍北京地铁上的读书人第八年:依然相信文字的力量",
-      "url": "https://baijiahao.baidu.com/s?id=1863233588100629875&wfr=spider&for=pc",
-      "source": "澎湃新闻",
-      "time": "22分钟前",
-      "category": "other"
+      "title": "时隔六年推出《人呐》 莫言请读者“刷”短小说",
+      "url": "http://news.yunnan.cn/system/2026/04/21/033974363.shtml",
+      "source": "云南网",
+      "time": "前天11:53",
+      "category": "activity"
     }
   ]
 };
