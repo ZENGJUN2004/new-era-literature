@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-04-24 01:08",
+  "update_time": "2026-04-24 02:53",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,52 +23,59 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "【观学院直播厅-思想者说】第23期:对伊开战一月有余,最让人惊讶的...",
-      "url": "https://www.guancha.cn/huangjing/2026_04_03_812403.shtml",
-      "source": "观察者网",
-      "time": "4月3日",
-      "category": "other"
-    },
-    {
-      "title": "在新居与坟墓之间,他和父亲一起造了一座花园|翻翻书·送书",
-      "url": "http://www.thepaper.cn/newsDetail_forward_33010103",
+      "title": "文学双周记|22家刊物答原创之问,邓紫棋入选银河奖引热议",
+      "url": "https://baijiahao.baidu.com/s?id=1853442602393722283&wfr=spider&for=pc",
       "source": "澎湃新闻",
-      "time": "前天17:44",
+      "time": "1月5日",
       "category": "other"
     },
     {
-      "title": "在复旦,一年读书数百册是一种什么样的体验?",
-      "url": "http://baijiahao.baidu.com/s?id=1863141129351770867&wfr=spider&for=pc",
-      "source": "澎湃新闻客户端",
-      "time": "前天09:31",
+      "title": "中国当代文学研究会年度榜单发布",
+      "url": "https://baijiahao.baidu.com/s?id=1855942095675059485&wfr=spider&for=pc",
+      "source": "新浪财经",
+      "time": "2月2日",
       "category": "other"
     },
     {
-      "title": "清除AI“数字泔水” 以“治”促“智”",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33030014",
-      "source": "澎湃新闻",
-      "time": "前天17:15",
+      "title": "AI帮你速读文本,但阅读更需“主动狩猎”",
+      "url": "https://www.jfdaily.com/news/detail?id=1101185",
+      "source": "上观",
+      "time": "前天23:51",
       "category": "other"
     },
     {
-      "title": "跨界书写自然与人文:阿来《大河源》入选“2025中国好书”|“书...",
-      "url": "https://baijiahao.baidu.com/s?id=1863156297369771792&wfr=spider&for=pc",
-      "source": "封面新闻",
-      "time": "前天15:51",
+      "title": "中国科幻产业走向“生态出海”",
+      "url": "https://baijiahao.baidu.com/s?id=1861855033203367752&wfr=spider&for=pc",
+      "source": "环球网",
+      "time": "4月8日",
+      "category": "voice"
+    },
+    {
+      "title": "从“单峰突起”走向“群峰并立”",
+      "url": "https://baijiahao.baidu.com/s?id=1863114992955541364&wfr=spider&for=pc",
+      "source": "光明网",
+      "time": "前天04:00",
       "category": "other"
     },
     {
-      "title": "秉持“大文学观”构建城市诗学:第二届中国城市文化诗学研究青年...",
-      "url": "https://culture.ycwb.com/ikimvkotii/content_54077839.htm",
-      "source": "金羊网",
-      "time": "前天12:23",
+      "title": "【思想界】彼得·汉德克获诺奖惹争议:文学性能够用政治和道德衡量...",
+      "url": "https://m.jiemian.com/article/3573232.html",
+      "source": "界面新闻",
+      "time": "",
+      "category": "voice"
+    },
+    {
+      "title": "媒体眼中海大的2025年!",
+      "url": "https://baijiahao.baidu.com/s?id=1856159417055495057&wfr=spider&for=pc",
+      "source": "中国海洋大学",
+      "time": "2月4日",
       "category": "other"
     },
     {
-      "title": "在滨江,阅见生活",
-      "url": "https://baijiahao.baidu.com/s?id=1863055191762380523&wfr=spider&for=pc",
-      "source": "钱江晚报",
-      "time": "前天15:07",
+      "title": "《十月》杂志举办青年作家创作分享会",
+      "url": "https://baijiahao.baidu.com/s?id=1860050202536776799&wfr=spider&for=pc",
+      "source": "人民网",
+      "time": "3月19日",
       "category": "other"
     },
     {
@@ -79,151 +86,46 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "盘州本土作家创作的长篇历史纪实小说《乌蒙铁壁》新书发布",
-      "url": "https://baijiahao.baidu.com/s?id=1854571604814312489&wfr=spider&for=pc",
+      "title": "在“精读堂”里,对经典细嚼慢咽|世界读书日",
+      "url": "https://baijiahao.baidu.com/s?id=1863226382610776437&wfr=spider&for=pc",
       "source": "天眼新闻",
-      "time": "1月17日",
-      "category": "activity"
-    },
-    {
-      "title": "...的怀抱里,如何讨得时间的欢喜——《讨时间的欢喜》新书发布会",
-      "url": "https://cul.sohu.com/a/1012964681_232127",
-      "source": "搜狐网",
-      "time": "前天14:06",
-      "category": "activity"
-    },
-    {
-      "title": "墨润沂蒙承文脉 街藏烟火续华章——《书院街》新书发布会在临沂...",
-      "url": "https://baijiahao.baidu.com/s?id=1862343638391270552&wfr=spider&for=pc",
-      "source": "琅琊新闻网",
-      "time": "4月13日",
-      "category": "activity"
-    },
-    {
-      "title": "...淮海路,上海人的品质之路--4月25日马尚龙《淮海路上》新书发布会",
-      "url": "http://www.thepaper.cn/newsDetail_forward_33019702",
-      "source": "澎湃新闻",
-      "time": "前天15:48",
-      "category": "activity"
-    },
-    {
-      "title": "北京大学中文系教授张颐武主讲!多彩贵州“四大文化工程”学术委员...",
-      "url": "https://baijiahao.baidu.com/s?id=1863226382893468651&wfr=spider&for=pc",
-      "source": "天眼新闻",
-      "time": "昨天10:00",
+      "time": "昨天09:43",
       "category": "other"
     },
     {
-      "title": "北大张颐武教授将在贵阳孔学堂开讲!",
-      "url": "https://baijiahao.baidu.com/s?id=1863245993418439041&wfr=spider&for=pc",
-      "source": "贵阳网",
-      "time": "昨天15:37",
-      "category": "other"
-    },
-    {
-      "title": "杨潇×索耳:她既想死,又想去巴黎|世界读书日特辑",
-      "url": "https://baijiahao.baidu.com/s?id=1863235191737112447&wfr=spider&for=pc",
-      "source": "澎湃新闻",
-      "time": "昨天12:44",
-      "category": "other"
-    },
-    {
-      "title": "《师范生》走进重庆师范大学,作家李燕燕与师范生共话教育初心",
-      "url": "https://baijiahao.baidu.com/s?id=1863275518964937673&wfr=spider&for=pc",
-      "source": "上游新闻",
-      "time": "昨天23:14",
-      "category": "other"
-    },
-    {
-      "title": "《无图之旅》新书阅读分享会在中国人民大学举行",
-      "url": "https://news.ruc.edu.cn/2047134836175548418.html",
-      "source": "中国人民大学新闻网",
-      "time": "昨天",
-      "category": "activity"
-    },
-    {
-      "title": "首个“全民阅读活动周” 晚报邀请知名作家分享案头好书",
-      "url": "https://baijiahao.baidu.com/s?id=1863225029531096504&wfr=spider&for=pc",
-      "source": "北青网",
-      "time": "昨天10:04",
-      "category": "other"
-    },
-    {
-      "title": "杭州“开明来临·烛火阅读”基地启幕 以阅读之光照亮成长",
-      "url": "https://baijiahao.baidu.com/s?id=1863270235052098885&wfr=spider&for=pc",
-      "source": "中国新闻网",
-      "time": "昨天21:59",
-      "category": "other"
-    },
-    {
-      "title": "首个“全民阅读活动周”来了!在湖州,原来阅读可以这么“玩”",
-      "url": "http://baijiahao.baidu.com/s?id=1863225806976061847&wfr=spider&for=pc",
-      "source": "澎湃新闻客户端",
-      "time": "昨天10:15",
-      "category": "other"
-    },
-    {
-      "title": "首个“全民阅读活动周” 知名作家分享案头好书",
-      "url": "https://baijiahao.baidu.com/s?id=1863228614734798558&wfr=spider&for=pc",
-      "source": "每日甘肃",
-      "time": "昨天08:58",
-      "category": "other"
-    },
-    {
-      "title": "走!到赣江之滨,赴一场书香之约",
-      "url": "https://baijiahao.baidu.com/s?id=1863245927750998080&wfr=spider&for=pc",
-      "source": "未来网",
-      "time": "昨天15:36",
-      "category": "other"
-    },
-    {
-      "title": "首届春风悦读生活集开幕,乔叶:领会到读书的好,就会“去扫千山雪”",
-      "url": "https://baijiahao.baidu.com/s?id=1863259980328981583&wfr=spider&for=pc",
-      "source": "钱江晚报",
-      "time": "昨天19:18",
-      "category": "other"
-    },
-    {
-      "title": "毕飞宇亮相2026年“八桂书香周”畅谈文学创作与评论",
-      "url": "https://www.gxnews.com.cn/staticpages/20260423/newgx69e9b4bd-21935010.shtml",
-      "source": "广西新闻网",
-      "time": "昨天13:57",
-      "category": "meeting"
-    },
-    {
-      "title": "文化十分丨阅读穿越古今 文学纵横南北 听茅盾文学奖得主徐则臣...",
-      "url": "https://baijiahao.baidu.com/s?id=1863261301100606826&wfr=spider&for=pc",
-      "source": "央视新闻",
-      "time": "昨天19:42",
-      "category": "other"
-    },
-    {
-      "title": "在变化的时代寻找不变的精神定力——访第十一届茅盾文学奖得主...",
-      "url": "https://baijiahao.baidu.com/s?id=1863225940485097085&wfr=spider&for=pc",
-      "source": "三秦都市报",
-      "time": "昨天10:16",
-      "category": "other"
-    },
-    {
-      "title": "2026阅读趋势图鉴:小众书被看见,老书再翻红",
-      "url": "http://baijiahao.baidu.com/s?id=1863271188205945361&wfr=spider&for=pc",
-      "source": "上观新闻",
-      "time": "昨天22:17",
-      "category": "other"
-    },
-    {
-      "title": "国内首个文学名家数字空间——“张炜文云馆”重磅上线",
-      "url": "https://baijiahao.baidu.com/s?id=1863240760036451569&wfr=spider&for=pc",
+      "title": "以轻喜剧书写新时代山乡巨变,张继长篇小说《喜上眉梢》研讨会在京...",
+      "url": "https://baijiahao.baidu.com/s?id=1863255890411536534&wfr=spider&for=pc",
       "source": "齐鲁壹点",
-      "time": "昨天15:06",
+      "time": "昨天18:14",
+      "category": "activity"
+    },
+    {
+      "title": "拍北京地铁上的读书人第八年:依然相信文字的力量",
+      "url": "https://baijiahao.baidu.com/s?id=1863233588100629875&wfr=spider&for=pc",
+      "source": "澎湃新闻",
+      "time": "昨天12:19",
       "category": "other"
     },
     {
-      "title": "台湾作家新作《往日食光》书写家常风味 蕴藏两岸记忆",
-      "url": "https://baijiahao.baidu.com/s?id=1863246390085477459&wfr=spider&for=pc",
-      "source": "千龙网",
-      "time": "昨天15:43",
+      "title": "值得反复阅读的8本满分传记,真能改变人生",
+      "url": "http://www.thepaper.cn/newsDetail_forward_33016730",
+      "source": "澎湃新闻",
+      "time": "昨天12:21",
       "category": "other"
+    },
+    {
+      "title": "网文领跑数字阅读出海",
+      "url": "https://baijiahao.baidu.com/s?id=1863226308179440803&wfr=spider&for=pc",
+      "source": "中工网",
+      "time": "昨天09:31",
+      "category": "other"
+    },
+    {
+      "title": "作家出版社推出“一页榆·轻阅读系列”,首批4本小说问世",
+      "url": "https://baijiahao.baidu.com/s?id=1863237393200488046&wfr=spider&for=pc",
+      "source": "济南时报",
+      "time": "昨天12:40",
+      "category": "activity"
     }
   ]
 };
