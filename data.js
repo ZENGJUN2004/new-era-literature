@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-04-23 19:52",
+  "update_time": "2026-04-23 20:56",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,6 +23,13 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
+      "title": "沅水文脉的当代延续——马珂散文随笔与文学评论审美观察",
+      "url": "https://baijiahao.baidu.com/s?id=1858377455122319929&wfr=spider&for=pc",
+      "source": "潇湘晨报",
+      "time": "2月28日",
+      "category": "meeting"
+    },
+    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
@@ -37,17 +44,38 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "北大张颐武教授将在贵阳孔学堂开讲!",
-      "url": "https://baijiahao.baidu.com/s?id=1863245993418439041&wfr=spider&for=pc",
-      "source": "贵阳网",
-      "time": "4小时前",
+      "title": "收藏张炜著作版本989册,张炜手稿版本展藏馆开馆",
+      "url": "https://baijiahao.baidu.com/s?id=1863262273773199476&wfr=spider&for=pc",
+      "source": "济南时报",
+      "time": "1小时前",
       "category": "other"
     },
     {
-      "title": "4月26日,北大教授张颐武将在孔学堂开讲“民族文化与当下生活”",
-      "url": "https://baijiahao.baidu.com/s?id=1863165830177270482&wfr=spider&for=pc",
-      "source": "天眼新闻",
-      "time": "昨天17:42",
+      "title": "经典与新大众文艺共舞:文学出版国家队的数字时代答卷",
+      "url": "http://www.chinatoday.com.cn/zw2018/ly_4982/202604/t20260423_800435901.html",
+      "source": "今日中国",
+      "time": "5小时前",
+      "category": "activity"
+    },
+    {
+      "title": "番茄小说出席「Key talk 跨·约」讲座,分享IP多元开发经验",
+      "url": "https://baijiahao.baidu.com/s?id=1863173156367146081&wfr=spider&for=pc",
+      "source": "文汇报",
+      "time": "昨天20:19",
+      "category": "activity"
+    },
+    {
+      "title": "从观看到阅读,影视作品与书籍双向奔赴",
+      "url": "https://baijiahao.baidu.com/s?id=1863151388067261265&wfr=spider&for=pc",
+      "source": "千龙网",
+      "time": "昨天14:33",
+      "category": "other"
+    },
+    {
+      "title": "数字化时代文学阅读的新样态",
+      "url": "https://baijiahao.baidu.com/s?id=1863118765823543855&wfr=spider&for=pc",
+      "source": "光明网",
+      "time": "昨天04:35",
       "category": "other"
     }
   ]
