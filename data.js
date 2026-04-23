@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-04-23 20:56",
+  "update_time": "2026-04-23 23:07",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,11 +23,32 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "沅水文脉的当代延续——马珂散文随笔与文学评论审美观察",
-      "url": "https://baijiahao.baidu.com/s?id=1858377455122319929&wfr=spider&for=pc",
-      "source": "潇湘晨报",
-      "time": "2月28日",
+      "title": "《巴黎评论》首发余华小说新作",
+      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1087285",
+      "source": "上观",
+      "time": "3月26日",
+      "category": "activity"
+    },
+    {
+      "title": "「评论」贾浅浅论文涉嫌抄袭事件引关注,若存在学术不端应“零容忍”",
+      "url": "https://baijiahao.baidu.com/s?id=1861974429763741436&wfr=spider&for=pc",
+      "source": "界面新闻",
+      "time": "4月9日",
       "category": "meeting"
+    },
+    {
+      "title": "夜读| 谈瀛洲:英国文学家肖像展中的王尔德照片",
+      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1091870",
+      "source": "上观",
+      "time": "4月4日",
+      "category": "other"
+    },
+    {
+      "title": "豆瓣8.0+!高分人物传记,一书读罢头飞雪",
+      "url": "https://m.thepaper.cn/newsDetail_forward_33007780",
+      "source": "澎湃新闻",
+      "time": "前天12:54",
+      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
@@ -37,46 +58,25 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "原创图像小说《雪鹿》入选2025年度“中国好书”",
-      "url": "https://www.chinanews.com.cn/cul/2026/04-21/10608151.shtml",
-      "source": "中国新闻网",
-      "time": "前天22:56",
-      "category": "activity"
-    },
-    {
-      "title": "收藏张炜著作版本989册,张炜手稿版本展藏馆开馆",
-      "url": "https://baijiahao.baidu.com/s?id=1863262273773199476&wfr=spider&for=pc",
-      "source": "济南时报",
-      "time": "1小时前",
+      "title": "拍北京地铁上的读书人第八年:依然相信文字的力量",
+      "url": "https://baijiahao.baidu.com/s?id=1863233588100629875&wfr=spider&for=pc",
+      "source": "澎湃新闻",
+      "time": "10小时前",
       "category": "other"
     },
     {
-      "title": "经典与新大众文艺共舞:文学出版国家队的数字时代答卷",
-      "url": "http://www.chinatoday.com.cn/zw2018/ly_4982/202604/t20260423_800435901.html",
-      "source": "今日中国",
-      "time": "5小时前",
-      "category": "activity"
-    },
-    {
-      "title": "番茄小说出席「Key talk 跨·约」讲座,分享IP多元开发经验",
-      "url": "https://baijiahao.baidu.com/s?id=1863173156367146081&wfr=spider&for=pc",
-      "source": "文汇报",
-      "time": "昨天20:19",
-      "category": "activity"
-    },
-    {
-      "title": "从观看到阅读,影视作品与书籍双向奔赴",
-      "url": "https://baijiahao.baidu.com/s?id=1863151388067261265&wfr=spider&for=pc",
-      "source": "千龙网",
-      "time": "昨天14:33",
+      "title": "值得反复阅读的8本满分传记,真能改变人生",
+      "url": "http://www.thepaper.cn/newsDetail_forward_33016730",
+      "source": "澎湃新闻",
+      "time": "10小时前",
       "category": "other"
     },
     {
-      "title": "数字化时代文学阅读的新样态",
-      "url": "https://baijiahao.baidu.com/s?id=1863118765823543855&wfr=spider&for=pc",
-      "source": "光明网",
-      "time": "昨天04:35",
-      "category": "other"
+      "title": "张晓雪诗集《桐木与音色》:为自由又坚定的灵魂赋形|新批评",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33003027",
+      "source": "澎湃新闻",
+      "time": "昨天12:50",
+      "category": "meeting"
     }
   ]
 };
