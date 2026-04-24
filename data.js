@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-04-25 00:46",
+  "update_time": "2026-04-25 01:42",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -27,6 +27,13 @@ window.LIT_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
+      "category": "activity"
+    },
+    {
+      "title": "一部乡村振兴的文学样本——柏祥伟长篇小说《尼山脚下》研讨会在...",
+      "url": "https://baijiahao.baidu.com/s?id=1863256772969470715&wfr=spider&for=pc",
+      "source": "齐鲁壹点",
+      "time": "前天18:27",
       "category": "activity"
     }
   ]
