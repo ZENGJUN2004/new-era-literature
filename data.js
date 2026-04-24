@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-04-24 16:57",
+  "update_time": "2026-04-24 18:16",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,13 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "【观学院直播厅-思想者说】第23期:对伊开战一月有余,最让人惊讶的...",
-      "url": "https://www.guancha.cn/huangjing/2026_04_03_812403.shtml",
-      "source": "观察者网",
-      "time": "4月3日",
-      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
