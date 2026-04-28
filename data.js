@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-04-28 18:52",
+  "update_time": "2026-04-28 20:19",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -28,6 +28,27 @@ window.LIT_DATA = {
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
+    },
+    {
+      "title": "埃安N60正式上市:10.68万起,把30万级智驾体验带给年轻人",
+      "url": "https://baijiahao.baidu.com/s?id=1863695441961167715&wfr=spider&for=pc",
+      "source": "潇湘晨报",
+      "time": "5小时前",
+      "category": "activity"
+    },
+    {
+      "title": "拟每10股派发现金红利5元 以岭药业2025年实现归母净利润12.86亿元",
+      "url": "https://www.cnstock.com/commonDetail/694039",
+      "source": "上海证券报·中国证券网",
+      "time": "6小时前",
+      "category": "other"
+    },
+    {
+      "title": "向高质量发展聚力前行(深观察)",
+      "url": "https://baijiahao.baidu.com/s?id=1863585413636206556&wfr=spider&for=pc",
+      "source": "人民网",
+      "time": "昨天03:13",
+      "category": "other"
     },
     {
       "title": "读懂这部旷世神作,人生就少了99%的烦恼!",
