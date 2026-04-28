@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-04-29 03:16",
+  "update_time": "2026-04-29 04:57",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,13 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "读懂这部旷世神作,人生就少了99%的烦恼!",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33045290",
+      "source": "澎湃新闻",
+      "time": "前天15:05",
+      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
