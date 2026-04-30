@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-04-30 16:00",
+  "update_time": "2026-04-30 18:06",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,48 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "观众来信:",
+      "url": "https://news.cctv.com/news/focus/letter/letter.html",
+      "source": "央视网",
+      "time": "",
+      "category": "other"
+    },
+    {
+      "title": "李敬泽",
+      "url": "https://www.thepaper.cn/tag/323867",
+      "source": "澎湃新闻",
+      "time": "",
+      "category": "other"
+    },
+    {
+      "title": "观察者网·观学院直播厅「思想者说」第21期:给日本松链子,这是...",
+      "url": "https://baijiahao.baidu.com/s?id=1856886008341810036&wfr=spider&for=pc",
+      "source": "观察者网",
+      "time": "2月12日",
+      "category": "other"
+    },
+    {
+      "title": "【专访齐泽克(上)】末日正在靠近,但没人相信它会发生",
+      "url": "https://m.jiemian.com/article/3337688_toutiao.html",
+      "source": "界面新闻",
+      "time": "",
+      "category": "other"
+    },
+    {
+      "title": "台湾民调:过半受访者认为台湾须主动面对两岸统一的讨论",
+      "url": "https://baijiahao.baidu.com/s?id=1862527094614952480&wfr=spider&for=pc",
+      "source": "千龙网",
+      "time": "4月15日",
+      "category": "meeting"
+    },
+    {
+      "title": "特朗普的“国家安全”观念,将如何形塑中美关系?-李巍-观察者网",
+      "url": "https://m.guancha.cn/liwei3/2026_04_16_813810.shtml",
+      "source": "观察者网",
+      "time": "4月16日",
+      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
