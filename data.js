@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-05-01 00:13",
+  "update_time": "2026-05-01 02:02",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,48 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "“Z世代文学,向何处”,《十月》创作分享会尝试作答",
+      "url": "https://baijiahao.baidu.com/s?id=1859897163056459211&wfr=spider&for=pc",
+      "source": "北京日报客户端",
+      "time": "3月17日",
+      "category": "other"
+    },
+    {
+      "title": "写出属于自己的独特体验,Z世代文学向何处?",
+      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1082705",
+      "source": "上观",
+      "time": "3月20日",
+      "category": "other"
+    },
+    {
+      "title": "《十月》杂志举办青年作家创作分享会",
+      "url": "https://baijiahao.baidu.com/s?id=1860050202536776799&wfr=spider&for=pc",
+      "source": "人民网",
+      "time": "3月19日",
+      "category": "other"
+    },
+    {
+      "title": "收获文学榜在上海揭晓!苏童《好天气》领衔长篇榜首",
+      "url": "http://baijiahao.baidu.com/s?id=1856101673487226555&wfr=spider&for=pc",
+      "source": "上观新闻",
+      "time": "2月3日",
+      "category": "other"
+    },
+    {
+      "title": "苏童毕飞宇吴真全勇先,2025收获文学榜揭晓,榜首作家这样说",
+      "url": "http://baijiahao.baidu.com/s?id=1856104193950555898&wfr=spider&for=pc",
+      "source": "上观新闻",
+      "time": "2月3日",
+      "category": "other"
+    },
+    {
+      "title": "《收获》文学榜揭晓,榜单映射中国文坛迎来“丰年”",
+      "url": "https://baijiahao.baidu.com/s?id=1856184355598057672&wfr=spider&for=pc",
+      "source": "新华网",
+      "time": "2月4日",
+      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
