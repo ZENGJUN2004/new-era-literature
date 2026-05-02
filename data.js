@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-05-03 00:35",
+  "update_time": "2026-05-03 01:36",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,13 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "女性写作浮出历史地表之后:当代中国文学应当如何书写拉姆们?",
+      "url": "https://www.jiemian.com/article/5128818_toutiao.html",
+      "source": "界面新闻",
+      "time": "",
+      "category": "voice"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
