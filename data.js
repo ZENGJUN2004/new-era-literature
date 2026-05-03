@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-05-03 23:37",
+  "update_time": "2026-05-04 00:35",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,18 +23,11 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "写出属于自己的独特体验,Z世代文学向何处?",
-      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1082705",
-      "source": "上观",
-      "time": "3月20日",
-      "category": "other"
-    },
-    {
-      "title": "《十月》杂志举办青年作家创作分享会",
-      "url": "https://baijiahao.baidu.com/s?id=1860050202536776799&wfr=spider&for=pc",
-      "source": "人民网",
-      "time": "3月19日",
-      "category": "other"
+      "title": "山东仁科多款产品入选《2026济南优势工业产品目录》",
+      "url": "https://www.instrument.com.cn/news/20260423/895152.shtml",
+      "source": "仪器信息网",
+      "time": "4月23日",
+      "category": "activity"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
