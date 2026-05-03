@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-05-04 05:31",
+  "update_time": "2026-05-04 06:29",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,13 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "《小说评论》年度论坛:聚焦“现象级文本与文学史书写”",
-      "url": "http://baijiahao.baidu.com/s?id=1751357796338047975&wfr=spider&for=pc",
-      "source": "澎湃新闻客户端",
-      "time": "",
-      "category": "activity"
     },
     {
       "title": "山东仁科多款产品入选《2026济南优势工业产品目录》",
