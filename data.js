@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-05-03 17:11",
+  "update_time": "2026-05-03 18:43",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,34 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "文学双周记|22家刊物答原创之问,邓紫棋入选银河奖引热议",
+      "url": "https://baijiahao.baidu.com/s?id=1853442602393722283&wfr=spider&for=pc",
+      "source": "澎湃新闻",
+      "time": "1月5日",
+      "category": "other"
+    },
+    {
+      "title": "读书|江苏作家群星闪耀各大文学榜单",
+      "url": "https://baijiahao.baidu.com/s?id=1853472863581195178&wfr=spider&for=pc",
+      "source": "扬子晚报",
+      "time": "1月5日",
+      "category": "other"
+    },
+    {
+      "title": "豆瓣2025年度图书榜单出炉你打卡了几本?",
+      "url": "https://cul.sohu.com/a/973411847_121106994",
+      "source": "搜狐网",
+      "time": "1月7日",
+      "category": "other"
+    },
+    {
+      "title": "赵德发长篇小说《大海风》入选中国当代文学研究会年度榜单(2025)",
+      "url": "https://baijiahao.baidu.com/s?id=1853465599041956599&wfr=spider&for=pc",
+      "source": "闪电新闻",
+      "time": "1月5日",
+      "category": "activity"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
