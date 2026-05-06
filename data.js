@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-05-07 03:18",
+  "update_time": "2026-05-07 05:01",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -38,8 +38,8 @@ window.LIT_DATA = {
     },
     {
       "title": "《收获》文学榜揭晓,榜单映射中国文坛迎来“丰年”",
-      "url": "https://baijiahao.baidu.com/s?id=1856184355598057672&wfr=spider&for=pc",
-      "source": "新华网",
+      "url": "https://baijiahao.baidu.com/s?id=1856239939715495964&wfr=spider&for=pc",
+      "source": "中工网",
       "time": "2月4日",
       "category": "other"
     },
