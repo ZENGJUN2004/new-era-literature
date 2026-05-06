@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-05-06 09:28",
+  "update_time": "2026-05-06 13:18",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,13 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "山东仁科多款产品入选《2026济南优势工业产品目录》",
-      "url": "https://www.instrument.com.cn/news/20260423/895152.shtml",
-      "source": "仪器信息网",
-      "time": "4月23日",
-      "category": "activity"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
