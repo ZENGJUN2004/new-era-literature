@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-05-08 05:45",
+  "update_time": "2026-05-08 06:50",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,25 +23,18 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "真善美的三重奏:文学批评的时代使命|新批评",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32417549",
-      "source": "澎湃新闻",
-      "time": "1月20日",
-      "category": "meeting"
-    },
-    {
-      "title": "透视时代文学的谜面(批评前沿)",
-      "url": "https://baijiahao.baidu.com/s?id=1862589532946570984&wfr=spider&for=pc",
-      "source": "光明网",
-      "time": "4月16日",
-      "category": "meeting"
-    },
-    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
+    },
+    {
+      "title": "爬格子的收获",
+      "url": "https://whwb.cjn.cn/html/2026-05/07/content_48089_3406684.htm",
+      "source": "武汉晚报",
+      "time": "昨天",
+      "category": "other"
     }
   ]
 };
