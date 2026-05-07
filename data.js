@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-05-08 03:23",
+  "update_time": "2026-05-08 04:56",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -20,13 +20,6 @@ window.LIT_DATA = {
       "url": "https://scholar.baidu.com/scholar?q=当代文学&sc_ylo=2024&sort=sc_time",
       "source": "CNKI",
       "time": "实时",
-      "category": "meeting"
-    },
-    {
-      "title": "透视时代文学的谜面(批评前沿)",
-      "url": "https://baijiahao.baidu.com/s?id=1862589532946570984&wfr=spider&for=pc",
-      "source": "光明网",
-      "time": "4月16日",
       "category": "meeting"
     },
     {
