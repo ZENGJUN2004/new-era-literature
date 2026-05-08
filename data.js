@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-05-09 00:08",
+  "update_time": "2026-05-09 02:03",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,13 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "阅读,看到更大的世界 2026当代文学之夜在郑州举办",
-      "url": "https://baijiahao.baidu.com/s?id=1863494055023905428&wfr=spider&for=pc",
-      "source": "大河网",
-      "time": "4月26日",
-      "category": "other"
     },
     {
       "title": "爬格子的收获",
