@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-05-08 22:29",
+  "update_time": "2026-05-09 00:08",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,18 +23,25 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
-      "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
-      "source": "澎湃新闻客户端",
-      "time": "",
-      "category": "activity"
+      "title": "阅读,看到更大的世界 2026当代文学之夜在郑州举办",
+      "url": "https://baijiahao.baidu.com/s?id=1863494055023905428&wfr=spider&for=pc",
+      "source": "大河网",
+      "time": "4月26日",
+      "category": "other"
     },
     {
       "title": "爬格子的收获",
       "url": "https://whwb.cjn.cn/html/2026-05/07/content_48089_3406684.htm",
       "source": "武汉晚报",
-      "time": "昨天",
+      "time": "前天",
       "category": "other"
+    },
+    {
+      "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
+      "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
+      "source": "澎湃新闻客户端",
+      "time": "",
+      "category": "activity"
     }
   ]
 };
