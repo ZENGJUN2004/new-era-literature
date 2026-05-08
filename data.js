@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-05-09 04:02",
+  "update_time": "2026-05-09 05:47",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -30,11 +30,25 @@ window.LIT_DATA = {
       "category": "other"
     },
     {
+      "title": "西点药业(301130)2025年度管理层讨论与分析",
+      "url": "https://stock.stockstar.com/RB2026050700039656.shtml",
+      "source": "证券之星",
+      "time": "前天21:03",
+      "category": "meeting"
+    },
+    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
+    },
+    {
+      "title": "一周文化讲座|聊聊那些年被妈妈打的故事",
+      "url": "https://cul.sohu.com/a/1019731501_260616",
+      "source": "搜狐网",
+      "time": "昨天11:33",
+      "category": "meeting"
     }
   ]
 };
