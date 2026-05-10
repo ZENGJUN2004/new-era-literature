@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-05-10 23:41",
+  "update_time": "2026-05-11 00:41",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -28,13 +28,6 @@ window.LIT_DATA = {
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
-    },
-    {
-      "title": "一周文化讲座|聊聊那些年被妈妈打的故事",
-      "url": "https://cul.sohu.com/a/1019731501_260616",
-      "source": "搜狐网",
-      "time": "前天11:33",
-      "category": "meeting"
     }
   ]
 };
