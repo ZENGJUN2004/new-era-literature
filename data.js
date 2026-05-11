@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-05-11 19:55",
+  "update_time": "2026-05-11 22:19",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,59 +23,10 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "2026年,这些华语文学新书要来了(一)",
-      "url": "https://baijiahao.baidu.com/s?id=1853356377637123634&wfr=spider&for=pc",
-      "source": "澎湃新闻",
-      "time": "1月4日",
-      "category": "activity"
-    },
-    {
-      "title": "2025春风月榜半年报告:希望这22本佳作为你带来光",
-      "url": "https://baijiahao.baidu.com/s?id=1853802033490694012&wfr=spider&for=pc",
-      "source": "钱江晚报",
-      "time": "1月9日",
-      "category": "other"
-    },
-    {
-      "title": "一周文艺:阿来推出非虚构新作,2026年新书出版计划,文学改编电视剧...",
-      "url": "https://www.jfdaily.com/wx/detail.do?id=1050469",
-      "source": "上观",
-      "time": "1月12日",
-      "category": "activity"
-    },
-    {
-      "title": "2026年,这些新书值得我们期待(上)",
-      "url": "https://baijiahao.baidu.com/s?id=1854440677511475404&wfr=spider&for=pc",
-      "source": "界面新闻",
-      "time": "1月16日",
-      "category": "activity"
-    },
-    {
-      "title": "2026年,这些图书不要错过",
-      "url": "https://baijiahao.baidu.com/s?id=1857913561928553786&wfr=spider&for=pc",
-      "source": "扬子晚报",
-      "time": "2月23日",
-      "category": "other"
-    },
-    {
-      "title": "2025年度刀锋图书奖在泉州揭晓 年度主题聚焦“假如我是新的”",
-      "url": "http://news.10jqka.com.cn/20260421/c676158301.shtml",
-      "source": "同花顺财经",
-      "time": "4月21日",
-      "category": "other"
-    },
-    {
-      "title": "今年上海作家们有哪些新作品出版?这场文学创作座谈会有分享,十二...",
-      "url": "https://baijiahao.baidu.com/s?id=1863069065231049456&wfr=spider&for=pc",
-      "source": "新闻晨报",
-      "time": "4月21日",
-      "category": "activity"
-    },
-    {
-      "title": "从“新”出发,重塑书写的河道|2025年度刀锋图书奖全榜单",
-      "url": "https://baijiahao.baidu.com/s?id=1862975324373258594&wfr=spider&for=pc",
-      "source": "新周刊",
-      "time": "4月20日",
+      "title": "“Z世代文学,向何处”,《十月》创作分享会尝试作答",
+      "url": "https://baijiahao.baidu.com/s?id=1859897163056459211&wfr=spider&for=pc",
+      "source": "北京日报客户端",
+      "time": "3月17日",
       "category": "other"
     },
     {
