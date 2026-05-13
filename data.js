@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-05-13 22:01",
+  "update_time": "2026-05-14 00:21",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -27,13 +27,6 @@ window.LIT_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
-      "category": "activity"
-    },
-    {
-      "title": "《三体》终于出少儿漫画版啦,首发破万册!",
-      "url": "https://baijiahao.baidu.com/s?id=1864900701509689007&wfr=spider&for=pc",
-      "source": "新浪财经",
-      "time": "前天21:58",
       "category": "activity"
     }
   ]
