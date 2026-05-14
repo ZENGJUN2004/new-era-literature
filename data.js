@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-05-15 06:54",
+  "update_time": "2026-05-15 07:44",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,20 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "阅读,看到更大的世界 2026当代文学之夜在郑州举办",
+      "url": "https://baijiahao.baidu.com/s?id=1863494055023905428&wfr=spider&for=pc",
+      "source": "大河网",
+      "time": "4月26日",
+      "category": "other"
+    },
+    {
+      "title": "胡晓明:读一点学术史_翻书党_澎湃新闻-The Paper",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33053802",
+      "source": "澎湃新闻",
+      "time": "4月26日",
+      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
