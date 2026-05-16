@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-05-16 19:42",
+  "update_time": "2026-05-16 20:54",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -28,13 +28,6 @@ window.LIT_DATA = {
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
-    },
-    {
-      "title": "湃书单|澎湃新闻编辑们在读的13本书:玩以载道",
-      "url": "https://baijiahao.baidu.com/s?id=1865244871251419690&wfr=spider&for=pc",
-      "source": "澎湃新闻",
-      "time": "昨天17:07",
-      "category": "other"
     }
   ]
 };
