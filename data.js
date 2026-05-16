@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-05-16 17:19",
+  "update_time": "2026-05-16 18:54",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,17 +23,10 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "《三体》之后,下一个“破圈”之作在哪里",
-      "url": "https://baijiahao.baidu.com/s?id=1863114992955488797&wfr=spider&for=pc",
-      "source": "光明网",
-      "time": "4月22日",
-      "category": "other"
-    },
-    {
-      "title": "中国科幻产业走向“生态出海”",
-      "url": "https://baijiahao.baidu.com/s?id=1861855033203367752&wfr=spider&for=pc",
-      "source": "环球网",
-      "time": "4月8日",
+      "title": "【思想界】彼得·汉德克获诺奖惹争议:文学性能够用政治和道德衡量...",
+      "url": "https://m.jiemian.com/article/3573232.html",
+      "source": "界面新闻",
+      "time": "",
       "category": "voice"
     },
     {
