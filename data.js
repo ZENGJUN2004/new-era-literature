@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-05-16 23:46",
+  "update_time": "2026-05-17 00:43",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,20 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "《三体》之后,下一个“破圈”之作在哪里",
-      "url": "https://baijiahao.baidu.com/s?id=1863114992955488797&wfr=spider&for=pc",
-      "source": "光明网",
-      "time": "4月22日",
-      "category": "other"
-    },
-    {
-      "title": "中国科幻产业走向“生态出海”",
-      "url": "https://baijiahao.baidu.com/s?id=1861855033203367752&wfr=spider&for=pc",
-      "source": "环球网",
-      "time": "4月8日",
-      "category": "voice"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
