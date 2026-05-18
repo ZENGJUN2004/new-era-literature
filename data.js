@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-05-19 03:21",
+  "update_time": "2026-05-19 05:00",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -27,6 +27,13 @@ window.LIT_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
+      "category": "activity"
+    },
+    {
+      "title": "《逐光而行》首发式在南京聋校举行",
+      "url": "http://njcb.xhby.net/pc/con/202605/18/content_1554822.html",
+      "source": "南京晨报",
+      "time": "昨天",
       "category": "activity"
     }
   ]
