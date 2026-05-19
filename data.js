@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-05-19 21:48",
+  "update_time": "2026-05-20 00:43",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -30,17 +30,10 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "给时光以生命,请山河证青春——《棋盘山下》新书首发式在蓉举行",
-      "url": "http://www.xinhuanet.com/book/20260428/ae1f4024236c432985062b8c4ab1fa88/c.html",
-      "source": "新华网",
-      "time": "4月28日",
-      "category": "activity"
-    },
-    {
       "title": "《逐光而行》首发式在南京聋校举行",
       "url": "http://njcb.xhby.net/pc/con/202605/18/content_1554822.html",
       "source": "南京晨报",
-      "time": "昨天",
+      "time": "前天",
       "category": "activity"
     }
   ]
