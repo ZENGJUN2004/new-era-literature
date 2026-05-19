@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-05-19 14:10",
+  "update_time": "2026-05-19 18:29",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,27 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "项静:从博物到非虚构:自然生态写作的一条路径 | 生态文学与自然...",
-      "url": "http://baijiahao.baidu.com/s?id=1741290134711738687&wfr=spider&for=pc",
-      "source": "澎湃新闻客户端",
-      "time": "",
-      "category": "voice"
-    },
-    {
-      "title": "蔡崇达非虚构写作访谈录:人是最了不起的艺术品",
-      "url": "https://36kr.com/p/1723320942593",
-      "source": "36kr",
-      "time": "",
-      "category": "voice"
-    },
-    {
-      "title": "贾樟柯、梁鸿谈非虚构写作和纪录电影",
-      "url": "http://baijiahao.baidu.com/s?id=1717824461237591660&wfr=spider&for=pc",
-      "source": "澎湃新闻客户端",
-      "time": "",
-      "category": "voice"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
