@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-05-22 06:09",
+  "update_time": "2026-05-22 07:49",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -30,13 +30,6 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "程小莹长篇新作《原本》:寻找庸常岁月里的精神原乡 | 深读",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33178883",
-      "source": "澎湃新闻",
-      "time": "前天11:52",
-      "category": "other"
-    },
-    {
       "title": "文耀岛城、薪火相传!首届刘知侠长篇小说奖颁奖,《青岛市中青年...",
       "url": "https://baijiahao.baidu.com/s?id=1865698674387227669&wfr=spider&for=pc",
       "source": "大众日报",
@@ -48,6 +41,20 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1865704053349245673&wfr=spider&for=pc",
       "source": "半岛都市报",
       "time": "前天18:41",
+      "category": "activity"
+    },
+    {
+      "title": "《芝镇说》获“刘知侠长篇小说奖”",
+      "url": "https://paper.dzwww.com/ncdz/content/20260521/Articel02004MT.htm",
+      "source": "大众日报数字报",
+      "time": "昨天",
+      "category": "activity"
+    },
+    {
+      "title": "《芝镇说》获“刘知侠长篇小说奖",
+      "url": "http://www.sd.xinhuanet.com/20260521/99288cd565ca45b8aa461c551361c5f7/c.html",
+      "source": "新华网山东频道",
+      "time": "昨天11:23",
       "category": "activity"
     }
   ]
