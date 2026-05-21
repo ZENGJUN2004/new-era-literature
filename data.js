@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-05-22 02:50",
+  "update_time": "2026-05-22 04:29",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,13 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "新刊推介|致青春 致奋斗 致家风绵长",
-      "url": "https://baijiahao.baidu.com/s?id=1865692102816627647&wfr=spider&for=pc",
-      "source": "中国妇女",
-      "time": "前天15:21",
-      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
