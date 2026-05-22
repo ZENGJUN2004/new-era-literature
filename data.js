@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-05-22 14:38",
+  "update_time": "2026-05-22 18:14",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,48 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "迈向跨界融合的“大文学”时代",
-      "url": "http://www.xinhuanet.com/book/20260120/d3fa6fd5f93048fc88a2d3be4ef48224/c.html",
-      "source": "新华网",
-      "time": "1月20日",
-      "category": "other"
-    },
-    {
-      "title": "《中原文学》主编李辉:破圈不破底,风依旧滚烫|顶端文学名刊访谈",
-      "url": "https://baijiahao.baidu.com/s?id=1862517996245963491&wfr=spider&for=pc",
-      "source": "顶端新闻",
-      "time": "4月15日",
-      "category": "other"
-    },
-    {
-      "title": "孙甘露:流量不可控,做好自己的事",
-      "url": "https://baijiahao.baidu.com/s?id=1862673679189430997&wfr=spider&for=pc",
-      "source": "潮新闻客户端",
-      "time": "4月17日",
-      "category": "other"
-    },
-    {
-      "title": "特别策划 | 如何捍卫文字的“底线”?",
-      "url": "https://www.jiemian.com/article/14294626.html",
-      "source": "界面新闻",
-      "time": "4月22日",
-      "category": "other"
-    },
-    {
-      "title": "2025年度“中国人文学术十大热点”发布",
-      "url": "https://baijiahao.baidu.com/s?id=1864699811170864207&wfr=spider&for=pc",
-      "source": "中国新闻网",
-      "time": "5月9日",
-      "category": "voice"
-    },
-    {
-      "title": "2025年度“中国人文学术十大热点”正式发布",
-      "url": "https://baijiahao.baidu.com/s?id=1864768892164544944&wfr=spider&for=pc",
-      "source": "中国青年网",
-      "time": "5月10日",
-      "category": "voice"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
