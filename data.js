@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-05-23 23:53",
+  "update_time": "2026-05-24 00:46",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -34,20 +34,6 @@ window.LIT_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
-      "category": "activity"
-    },
-    {
-      "title": "《芝镇说》获“刘知侠长篇小说奖”",
-      "url": "https://paper.dzwww.com/ncdz/content/20260521/Articel02004MT.htm",
-      "source": "大众日报数字报",
-      "time": "前天",
-      "category": "activity"
-    },
-    {
-      "title": "《芝镇说》获“刘知侠长篇小说奖",
-      "url": "http://www.sd.xinhuanet.com/20260521/99288cd565ca45b8aa461c551361c5f7/c.html",
-      "source": "新华网山东频道",
-      "time": "前天11:23",
       "category": "activity"
     }
   ]
