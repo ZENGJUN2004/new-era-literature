@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-05-24 06:41",
+  "update_time": "2026-05-24 07:45",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -35,6 +35,13 @@ window.LIT_DATA = {
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
+    },
+    {
+      "title": "前沿生物:多元化布局渐入收获期",
+      "url": "http://baijiahao.baidu.com/s?id=1865959524425311502&wfr=spider&for=pc",
+      "source": "澎湃新闻客户端",
+      "time": "昨天14:25",
+      "category": "other"
     }
   ]
 };
