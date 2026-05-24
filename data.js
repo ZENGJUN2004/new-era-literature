@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-05-25 04:01",
+  "update_time": "2026-05-25 05:43",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,10 +23,10 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "山东省发布新版抗菌药物分级管理目录2026年5月起施行",
-      "url": "http://news.10jqka.com.cn/20260512/c676619814.shtml",
+      "title": "随州市公布2026年职业技能等级认定机构服务指导目录",
+      "url": "http://news.10jqka.com.cn/20260513/c676651107.shtml",
       "source": "同花顺财经",
-      "time": "5月12日",
+      "time": "5月13日",
       "category": "activity"
     },
     {
