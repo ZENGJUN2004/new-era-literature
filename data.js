@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-05-24 19:57",
+  "update_time": "2026-05-24 21:05",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -34,6 +34,13 @@ window.LIT_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
+      "category": "activity"
+    },
+    {
+      "title": "一周文化讲座|我们应该如何告别_北京_小说集_生活",
+      "url": "https://cul.sohu.com/a/1026006208_260616",
+      "source": "搜狐网",
+      "time": "前天11:11",
       "category": "activity"
     },
     {
