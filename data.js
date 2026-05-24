@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-05-24 23:53",
+  "update_time": "2026-05-25 00:49",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -30,18 +30,18 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
+      "title": "前沿生物:多元化布局渐入收获期",
+      "url": "http://baijiahao.baidu.com/s?id=1865959524425311502&wfr=spider&for=pc",
+      "source": "澎湃新闻客户端",
+      "time": "前天14:25",
+      "category": "other"
+    },
+    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
-    },
-    {
-      "title": "前沿生物:多元化布局渐入收获期",
-      "url": "http://baijiahao.baidu.com/s?id=1865959524425311502&wfr=spider&for=pc",
-      "source": "澎湃新闻客户端",
-      "time": "昨天14:25",
-      "category": "other"
     }
   ]
 };
