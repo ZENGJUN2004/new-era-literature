@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-05-25 15:00",
+  "update_time": "2026-05-25 19:10",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,20 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "随州市公布2026年职业技能等级认定机构服务指导目录",
+      "url": "http://news.10jqka.com.cn/20260513/c676651107.shtml",
+      "source": "同花顺财经",
+      "time": "5月13日",
+      "category": "activity"
+    },
+    {
+      "title": "前沿生物:多元化布局渐入收获期",
+      "url": "http://baijiahao.baidu.com/s?id=1865959524425311502&wfr=spider&for=pc",
+      "source": "澎湃新闻客户端",
+      "time": "前天14:25",
+      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
