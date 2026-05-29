@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-05-29 06:25",
+  "update_time": "2026-05-29 08:00",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -27,6 +27,13 @@ window.LIT_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
+      "category": "activity"
+    },
+    {
+      "title": "刘知侠长篇小说奖打造青岛新名片",
+      "url": "https://paper.dzwww.com/dzrb/content/20260527/Articel10002MT.htm",
+      "source": "大众日报数字报",
+      "time": "前天",
       "category": "activity"
     }
   ]
