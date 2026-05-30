@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-05-31 00:54",
+  "update_time": "2026-05-31 01:55",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,20 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "2026年文学上新:长篇扩容、非虚构升温、技术语境探人心",
-      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1047392&sid=300",
-      "source": "上观",
-      "time": "1月6日",
-      "category": "voice"
-    },
-    {
-      "title": "“Z世代文学,向何处”,《十月》创作分享会尝试作答",
-      "url": "https://baijiahao.baidu.com/s?id=1859897163056459211&wfr=spider&for=pc",
-      "source": "北京日报客户端",
-      "time": "3月17日",
-      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
