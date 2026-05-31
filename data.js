@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-06-01 06:46",
+  "update_time": "2026-06-01 07:55",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,20 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "【第一奇书笔记】李敬泽:怎么说话,何以沉默",
+      "url": "http://www.myzaker.com/article/69784a261bc8e08222000016",
+      "source": "ZAKER资讯",
+      "time": "1月27日",
+      "category": "other"
+    },
+    {
+      "title": "【专访齐泽克(上)】末日正在靠近,但没人相信它会发生",
+      "url": "https://m.jiemian.com/article/3337688_toutiao.html",
+      "source": "界面新闻",
+      "time": "",
+      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
