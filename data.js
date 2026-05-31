@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-05-31 14:45",
+  "update_time": "2026-05-31 17:40",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,25 +23,11 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "2026年文学上新:长篇扩容、非虚构升温、技术语境探人心",
-      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1047392&sid=300",
-      "source": "上观",
-      "time": "1月6日",
+      "title": "【思想界】彼得·汉德克获诺奖惹争议:文学性能够用政治和道德衡量...",
+      "url": "https://m.jiemian.com/article/3573232.html",
+      "source": "界面新闻",
+      "time": "",
       "category": "voice"
-    },
-    {
-      "title": "“Z世代文学,向何处”,《十月》创作分享会尝试作答",
-      "url": "https://baijiahao.baidu.com/s?id=1859897163056459211&wfr=spider&for=pc",
-      "source": "北京日报客户端",
-      "time": "3月17日",
-      "category": "other"
-    },
-    {
-      "title": "许子东:今年读过最意外的书,来自一位中国企业家",
-      "url": "https://baijiahao.baidu.com/s?id=1866517760913867169&wfr=spider&for=pc",
-      "source": "新周刊",
-      "time": "前天16:01",
-      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
