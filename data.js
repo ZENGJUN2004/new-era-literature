@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-06-03 06:54",
+  "update_time": "2026-06-03 08:23",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -27,6 +27,20 @@ window.LIT_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
+      "category": "activity"
+    },
+    {
+      "title": "视频丨中俄博览会500多款新品首发美食专区人气旺",
+      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1114485",
+      "source": "上观",
+      "time": "5月19日",
+      "category": "activity"
+    },
+    {
+      "title": "杭州首发十条“吴越文化之旅”线路,配套解说词让文化遗产走进烟火...",
+      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1116211&sid=200",
+      "source": "上观",
+      "time": "5月22日",
       "category": "activity"
     }
   ]
