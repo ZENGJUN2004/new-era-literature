@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-06-05 03:11",
+  "update_time": "2026-06-05 05:22",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,20 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "周观天下丨日韩首脑会谈,矛盾依然突出",
+      "url": "https://sichuan.scol.com.cn/ggxw/202601/83190684.html",
+      "source": "四川在线",
+      "time": "1月17日",
+      "category": "other"
+    },
+    {
+      "title": "解析世界乱局下的中国抉择,“悦见人文”走进上应大",
+      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1088469",
+      "source": "上观",
+      "time": "3月29日",
+      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
