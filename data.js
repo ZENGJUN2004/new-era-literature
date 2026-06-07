@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-06-07 19:41",
+  "update_time": "2026-06-07 21:16",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -28,6 +28,13 @@ window.LIT_DATA = {
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
+    },
+    {
+      "title": "光明网_新闻视野、文化视角、思想深度、理论高度",
+      "url": "https://www.gmw.cn/?ci25b=70739",
+      "source": "光明网",
+      "time": "",
+      "category": "meeting"
     }
   ]
 };
