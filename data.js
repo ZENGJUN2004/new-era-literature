@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-06-09 00:42",
+  "update_time": "2026-06-09 03:13",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,10 +23,10 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "牢记习近平总书记教导,争做建设“祖国大厦”的“小红砖”",
-      "url": "https://news.k618.cn/special/2026etj/ztdk/202605/t20260526_20031713.html",
-      "source": "未来网",
-      "time": "5月26日",
+      "title": "《收获》文学榜揭晓,榜单映射中国文坛迎来“丰年”",
+      "url": "https://baijiahao.baidu.com/s?id=1856184355598057672&wfr=spider&for=pc",
+      "source": "新华网",
+      "time": "2月4日",
       "category": "other"
     },
     {
