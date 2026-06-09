@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-06-09 13:59",
+  "update_time": "2026-06-09 17:35",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,18 +23,25 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "牢记习近平总书记教导,争做建设“祖国大厦”的“小红砖”",
-      "url": "https://news.k618.cn/special/2026etj/ztdk/202605/t20260526_20031713.html",
-      "source": "未来网",
-      "time": "5月26日",
-      "category": "other"
-    },
-    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
+    },
+    {
+      "title": "刘一达新作《宅隐》在京发布: 用京味儿语言讲好老城故事",
+      "url": "https://cul.sohu.com/a/1033829683_374156",
+      "source": "搜狐网",
+      "time": "昨天16:56",
+      "category": "other"
+    },
+    {
+      "title": "《梦起英歌》入选“2026年中国好书”青少年专榜",
+      "url": "https://stock.10jqka.com.cn/20260608/c677283530.shtml",
+      "source": "同花顺",
+      "time": "昨天10:50",
+      "category": "other"
     }
   ]
 };
