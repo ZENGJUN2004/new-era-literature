@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-06-10 14:56",
+  "update_time": "2026-06-10 18:47",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -28,6 +28,13 @@ window.LIT_DATA = {
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
+    },
+    {
+      "title": "《梦起英歌》入选“2026年中国好书”青少年专榜",
+      "url": "https://stock.10jqka.com.cn/20260608/c677283530.shtml",
+      "source": "同花顺",
+      "time": "前天10:50",
+      "category": "other"
     }
   ]
 };
