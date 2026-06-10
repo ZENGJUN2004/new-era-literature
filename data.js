@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-06-10 18:47",
+  "update_time": "2026-06-10 22:15",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -28,6 +28,13 @@ window.LIT_DATA = {
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
+    },
+    {
+      "title": "刘一达新作《宅隐》在京发布: 用京味儿语言讲好老城故事",
+      "url": "https://cul.sohu.com/a/1033829683_374156",
+      "source": "搜狐网",
+      "time": "前天16:56",
+      "category": "other"
     },
     {
       "title": "《梦起英歌》入选“2026年中国好书”青少年专榜",
