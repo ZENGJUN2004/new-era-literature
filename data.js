@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-06-13 13:13",
+  "update_time": "2026-06-13 16:44",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,18 +23,18 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "2026-2029年国企改革方案已下发 宇树科技IPO今日上会",
-      "url": "https://stock.10jqka.com.cn/20260601/c677106008.shtml",
-      "source": "同花顺",
-      "time": "6月1日",
-      "category": "other"
-    },
-    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
+    },
+    {
+      "title": "一周文化讲座|这个需求做不了",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33359024",
+      "source": "澎湃新闻",
+      "time": "昨天11:05",
+      "category": "meeting"
     }
   ]
 };
