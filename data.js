@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-06-13 23:24",
+  "update_time": "2026-06-14 01:07",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -33,7 +33,7 @@ window.LIT_DATA = {
       "title": "一周文化讲座|这个需求做不了",
       "url": "https://www.thepaper.cn/newsDetail_forward_33359024",
       "source": "澎湃新闻",
-      "time": "昨天11:05",
+      "time": "前天11:05",
       "category": "meeting"
     }
   ]
