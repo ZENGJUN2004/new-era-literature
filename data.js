@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-06-17 06:13",
+  "update_time": "2026-06-17 08:07",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,20 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "苏童毕飞宇吴真全勇先,2025收获文学榜揭晓,榜首作家这样说",
+      "url": "http://baijiahao.baidu.com/s?id=1856104193950555898&wfr=spider&for=pc",
+      "source": "上观新闻",
+      "time": "2月3日",
+      "category": "other"
+    },
+    {
+      "title": "《收获》文学榜揭晓,榜单映射中国文坛迎来“丰年”",
+      "url": "https://www.news.cn/politics/20260204/87438f63cae0416ba7ab64906791eccb/c.html",
+      "source": "新华网",
+      "time": "2月4日",
+      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
