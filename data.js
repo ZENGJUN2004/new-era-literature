@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-06-17 18:27",
+  "update_time": "2026-06-17 22:22",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -27,13 +27,6 @@ window.LIT_DATA = {
       "url": "http://news.10jqka.com.cn/20260615/c677480743.shtml",
       "source": "同花顺财经",
       "time": "前天22:11",
-      "category": "activity"
-    },
-    {
-      "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
-      "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
-      "source": "澎湃新闻客户端",
-      "time": "",
       "category": "activity"
     },
     {
