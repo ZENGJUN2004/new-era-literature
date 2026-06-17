@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-06-17 22:22",
+  "update_time": "2026-06-18 01:42",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,13 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "广西发布首批软件产品与信息技术服务方案目录",
-      "url": "http://news.10jqka.com.cn/20260615/c677480743.shtml",
-      "source": "同花顺财经",
-      "time": "前天22:11",
-      "category": "activity"
     },
     {
       "title": "老藤长篇小说《自愈者》在京首发在“AI迷宫”中寻找心灵坐标",
