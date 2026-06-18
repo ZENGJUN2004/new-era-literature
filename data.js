@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-06-18 22:40",
+  "update_time": "2026-06-19 01:53",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,13 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "戴思杰暌违十年推出中文小说《唐卡画师》 同名电影改编筹备中",
-      "url": "https://stock.10jqka.com.cn/20260616/c677507678.shtml",
-      "source": "同花顺",
-      "time": "前天18:35",
-      "category": "activity"
     },
     {
       "title": "老藤长篇小说《自愈者》在京首发在“AI迷宫”中寻找心灵坐标",
