@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-06-19 08:18",
+  "update_time": "2026-06-19 14:06",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -27,6 +27,13 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1853940665722016960&wfr=spider&for=pc",
       "source": "红网",
       "time": "1月10日",
+      "category": "activity"
+    },
+    {
+      "title": "长篇小说《不虚此生》亮相2026北京国际图书博览会",
+      "url": "http://ent.people.com.cn/n1/2026/0618/c1012-40743414.html",
+      "source": "人民网",
+      "time": "昨天18:16",
       "category": "activity"
     }
   ]
