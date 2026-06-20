@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-06-20 23:28",
+  "update_time": "2026-06-21 01:13",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,13 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "长篇小说《不虚此生》亮相2026北京国际图书博览会",
-      "url": "https://baijiahao.baidu.com/s?id=1868331624877623984&wfr=spider&for=pc",
-      "source": "人民资讯",
-      "time": "前天18:16",
-      "category": "activity"
     },
     {
       "title": "老藤长篇小说《自愈者》在京首发在“AI迷宫”中寻找心灵坐标",
