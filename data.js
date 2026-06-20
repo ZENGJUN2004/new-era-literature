@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-06-21 05:01",
+  "update_time": "2026-06-21 06:56",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,13 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "【思想界】彼得·汉德克获诺奖惹争议:文学性能够用政治和道德衡量...",
+      "url": "https://m.jiemian.com/article/3573232.html",
+      "source": "界面新闻",
+      "time": "",
+      "category": "voice"
     },
     {
       "title": "老藤长篇小说《自愈者》在京首发在“AI迷宫”中寻找心灵坐标",
