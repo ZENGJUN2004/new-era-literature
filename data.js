@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-06-21 23:44",
+  "update_time": "2026-06-22 01:16",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -33,7 +33,7 @@ window.LIT_DATA = {
       "title": "用小说书写对教育的切肤反思——长篇小说《不虚此生》新书首发",
       "url": "https://baijiahao.baidu.com/s?id=1868499726431053187&wfr=spider&for=pc",
       "source": "济南时报",
-      "time": "昨天15:15",
+      "time": "前天15:15",
       "category": "activity"
     }
   ]
