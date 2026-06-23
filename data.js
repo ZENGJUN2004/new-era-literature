@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-06-23 21:34",
+  "update_time": "2026-06-24 00:19",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -27,13 +27,6 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1853940665722016960&wfr=spider&for=pc",
       "source": "红网",
       "time": "1月10日",
-      "category": "activity"
-    },
-    {
-      "title": "长篇小说《呼吸》新书首发暨版权输出签约仪式举行",
-      "url": "https://baijiahao.baidu.com/s?id=1868595230425875918&wfr=spider&for=pc",
-      "source": "中国新闻网",
-      "time": "前天16:39",
       "category": "activity"
     }
   ]
