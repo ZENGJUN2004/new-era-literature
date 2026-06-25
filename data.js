@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-06-25 23:36",
+  "update_time": "2026-06-26 02:00",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -33,7 +33,7 @@ window.LIT_DATA = {
       "title": "郑锦杭长篇小说《不虚此生》首发:深耕教育 观照人心",
       "url": "https://baijiahao.baidu.com/s?id=1868864450824369546&wfr=spider&for=pc",
       "source": "中国教育报",
-      "time": "昨天16:00",
+      "time": "前天16:00",
       "category": "activity"
     }
   ]
