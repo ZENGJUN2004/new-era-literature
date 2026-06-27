@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-06-27 13:49",
+  "update_time": "2026-06-27 16:24",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,18 +23,18 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "十部作品里的女性故事,汇聚成一支温良智慧的火把",
-      "url": "http://baijiahao.baidu.com/s?id=1726726766072973629&wfr=spider&for=pc",
-      "source": "澎湃新闻客户端",
-      "time": "",
+      "title": "苏童毕飞宇吴真全勇先,2025收获文学榜揭晓,榜首作家这样说",
+      "url": "http://baijiahao.baidu.com/s?id=1856104193950555898&wfr=spider&for=pc",
+      "source": "上观新闻",
+      "time": "2月3日",
       "category": "other"
     },
     {
-      "title": "女性写作浮出历史地表之后:当代中国文学应当如何书写拉姆们?",
-      "url": "https://www.jiemian.com/article/5128818_toutiao.html",
-      "source": "界面新闻",
-      "time": "",
-      "category": "voice"
+      "title": "《收获》文学榜揭晓,榜单映射中国文坛迎来“丰年”",
+      "url": "https://www.news.cn/politics/20260204/87438f63cae0416ba7ab64906791eccb/c.html",
+      "source": "新华网",
+      "time": "2月4日",
+      "category": "other"
     },
     {
       "title": "老藤长篇小说《自愈者》在京首发在“AI迷宫”中寻找心灵坐标",
