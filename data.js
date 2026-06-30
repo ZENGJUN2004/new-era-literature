@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-06-30 21:01",
+  "update_time": "2026-07-01 00:14",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,17 +23,17 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
+      "title": "54 个药品通过商保创新药目录初审,创新药再迎政策支撑!",
+      "url": "http://www.myzaker.com/article/6a42255f8e9f095fb34f8abe",
+      "source": "ZAKER资讯",
+      "time": "前天15:55",
+      "category": "activity"
+    },
+    {
       "title": "老藤长篇小说《自愈者》在京首发在“AI迷宫”中寻找心灵坐标",
       "url": "https://baijiahao.baidu.com/s?id=1853940665722016960&wfr=spider&for=pc",
       "source": "红网",
       "time": "1月10日",
-      "category": "activity"
-    },
-    {
-      "title": "54 个药品通过商保创新药目录初审,创新药再迎政策支撑!",
-      "url": "http://www.myzaker.com/article/6a42255f8e9f095fb34f8abe",
-      "source": "ZAKER资讯",
-      "time": "昨天15:55",
       "category": "activity"
     }
   ]
