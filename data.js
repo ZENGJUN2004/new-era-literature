@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-07-02 23:03",
+  "update_time": "2026-07-03 01:24",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,17 +23,17 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
+      "title": "盾安环境两款产品入选《2026 热泵行业年会绿色节能热泵产品目录》",
+      "url": "http://news.10jqka.com.cn/20260701/c677871527.shtml",
+      "source": "同花顺财经",
+      "time": "前天17:23",
+      "category": "activity"
+    },
+    {
       "title": "老藤长篇小说《自愈者》在京首发在“AI迷宫”中寻找心灵坐标",
       "url": "https://baijiahao.baidu.com/s?id=1853940665722016960&wfr=spider&for=pc",
       "source": "红网",
       "time": "1月10日",
-      "category": "activity"
-    },
-    {
-      "title": "盾安环境两款产品入选《2026 热泵行业年会绿色节能热泵产品目录》",
-      "url": "http://news.10jqka.com.cn/20260701/c677871527.shtml",
-      "source": "同花顺财经",
-      "time": "昨天17:23",
       "category": "activity"
     }
   ]
