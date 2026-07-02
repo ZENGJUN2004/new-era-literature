@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-07-02 11:33",
+  "update_time": "2026-07-02 14:59",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -27,6 +27,13 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1853940665722016960&wfr=spider&for=pc",
       "source": "红网",
       "time": "1月10日",
+      "category": "activity"
+    },
+    {
+      "title": "盾安环境两款产品入选《2026 热泵行业年会绿色节能热泵产品目录》",
+      "url": "http://news.10jqka.com.cn/20260701/c677871527.shtml",
+      "source": "同花顺财经",
+      "time": "昨天17:23",
       "category": "activity"
     }
   ]
