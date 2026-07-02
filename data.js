@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-07-02 17:58",
+  "update_time": "2026-07-02 20:06",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -28,6 +28,13 @@ window.LIT_DATA = {
       "source": "红网",
       "time": "1月10日",
       "category": "activity"
+    },
+    {
+      "title": "六月热播最高分剧TOP10! 《莫离》第4,《云秀行》3.8分垫底,冠军是...",
+      "url": "https://yule.sohu.com/a/1044307278_99913067",
+      "source": "搜狐娱乐",
+      "time": "昨天17:28",
+      "category": "other"
     },
     {
       "title": "盾安环境两款产品入选《2026 热泵行业年会绿色节能热泵产品目录》",
