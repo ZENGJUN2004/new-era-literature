@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-07-03 21:30",
+  "update_time": "2026-07-03 23:47",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,11 +23,25 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "《小说评论》年度论坛:聚焦“现象级文本与文学史书写”",
-      "url": "http://baijiahao.baidu.com/s?id=1751357796338047975&wfr=spider&for=pc",
-      "source": "澎湃新闻客户端",
-      "time": "",
-      "category": "activity"
+      "title": "收获文学榜在上海揭晓!苏童《好天气》领衔长篇榜首",
+      "url": "http://baijiahao.baidu.com/s?id=1856101673487226555&wfr=spider&for=pc",
+      "source": "上观新闻",
+      "time": "2月3日",
+      "category": "other"
+    },
+    {
+      "title": "苏童毕飞宇吴真全勇先,2025收获文学榜揭晓,榜首作家这样说",
+      "url": "http://baijiahao.baidu.com/s?id=1856104193950555898&wfr=spider&for=pc",
+      "source": "上观新闻",
+      "time": "2月3日",
+      "category": "other"
+    },
+    {
+      "title": "《收获》文学榜揭晓,榜单映射中国文坛迎来“丰年”",
+      "url": "https://www.news.cn/politics/20260204/87438f63cae0416ba7ab64906791eccb/c.html",
+      "source": "新华网",
+      "time": "2月4日",
+      "category": "other"
     },
     {
       "title": "盾安环境两款产品入选《2026 热泵行业年会绿色节能热泵产品目录》",
