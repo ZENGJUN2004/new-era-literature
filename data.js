@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-07-04 23:55",
+  "update_time": "2026-07-05 00:50",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,6 +23,13 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
+      "title": "任见《牯岭秘纪-李德立传》(欧版)第三章 清凉荒山 012",
+      "url": "https://cul.sohu.com/a/1044529736_643334",
+      "source": "搜狐网",
+      "time": "前天05:20",
+      "category": "other"
+    },
+    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
@@ -42,13 +49,6 @@ window.LIT_DATA = {
       "source": "红网",
       "time": "1月10日",
       "category": "activity"
-    },
-    {
-      "title": "任见《牯岭秘纪-李德立传》(欧版)第三章 清凉荒山 012",
-      "url": "https://cul.sohu.com/a/1044529736_643334",
-      "source": "搜狐网",
-      "time": "昨天05:20",
-      "category": "other"
     }
   ]
 };
