@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-07-05 23:59",
+  "update_time": "2026-07-06 01:06",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -42,13 +42,6 @@ window.LIT_DATA = {
       "source": "新华网",
       "time": "2月4日",
       "category": "other"
-    },
-    {
-      "title": "《收获长篇小说2026夏卷》:三部名家新作抢先读|新书",
-      "url": "https://baijiahao.baidu.com/s?id=1869679308074987804&wfr=spider&for=pc",
-      "source": "济南时报",
-      "time": "前天14:54",
-      "category": "activity"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
