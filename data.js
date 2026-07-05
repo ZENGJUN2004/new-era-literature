@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-07-05 13:53",
+  "update_time": "2026-07-05 16:37",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,27 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "青年立场与时代眼光:重识文学性与文学价值",
-      "url": "http://baijiahao.baidu.com/s?id=1864514659496662642&wfr=spider&for=pc",
-      "source": "上观新闻",
-      "time": "5月7日",
-      "category": "other"
-    },
-    {
-      "title": "孙惠芬创作研讨会在大连举办",
-      "url": "https://baijiahao.baidu.com/s?id=1869687736638240291&wfr=spider&for=pc",
-      "source": "大观新闻",
-      "time": "前天15:03",
-      "category": "meeting"
-    },
-    {
-      "title": "“Z世代文学,向何处”,《十月》创作分享会尝试作答",
-      "url": "https://baijiahao.baidu.com/s?id=1859897163056459211&wfr=spider&for=pc",
-      "source": "北京日报客户端",
-      "time": "3月17日",
-      "category": "other"
     },
     {
       "title": "任见《牯岭秘纪-李德立传》(欧版)第三章 清凉荒山 012",
