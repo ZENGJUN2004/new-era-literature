@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-07-08 02:53",
+  "update_time": "2026-07-08 04:44",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -27,13 +27,6 @@ window.LIT_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
-      "category": "activity"
-    },
-    {
-      "title": "现实主义长篇小说《呼吸》在京首发",
-      "url": "http://www.xinhuanet.com/politics/20260621/796fa78c25d14b0a99a347d38d29689f/c.html",
-      "source": "新华网",
-      "time": "6月21日",
       "category": "activity"
     },
     {
