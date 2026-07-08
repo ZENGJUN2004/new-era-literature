@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-07-08 23:06",
+  "update_time": "2026-07-09 01:16",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -34,20 +34,6 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1853940665722016960&wfr=spider&for=pc",
       "source": "红网",
       "time": "1月10日",
-      "category": "activity"
-    },
-    {
-      "title": "再一次把老家请进文字,祁智长篇儿童小说《我们兄弟》在江苏书展首发",
-      "url": "https://baijiahao.baidu.com/s?id=1869945028176085222&wfr=spider&for=pc",
-      "source": "扬子晚报",
-      "time": "前天13:44",
-      "category": "activity"
-    },
-    {
-      "title": "法治文学结硕果!干警长篇小说《雏菊》首发研讨会在漳县法院召开",
-      "url": "https://baijiahao.baidu.com/s?id=1869935057554337175&wfr=spider&for=pc",
-      "source": "每日甘肃",
-      "time": "前天10:16",
       "category": "activity"
     }
   ]
