@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-07-10 21:52",
+  "update_time": "2026-07-11 00:12",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,13 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "呼和浩特发布补贴性职业技能与创业培训机构及工种目录",
-      "url": "http://news.10jqka.com.cn/20260708/c678034343.shtml",
-      "source": "同花顺财经",
-      "time": "前天14:55",
-      "category": "activity"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
