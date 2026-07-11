@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-07-11 23:43",
+  "update_time": "2026-07-12 00:40",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,6 +23,20 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
+      "title": "2026 版基药目录落地,AH 医药爆发!规模最大医疗 ETF 冲高 4%!港股...",
+      "url": "https://www.myzaker.com/article/6a50655b8e9f097df3540860",
+      "source": "ZAKER资讯",
+      "time": "前天11:16",
+      "category": "activity"
+    },
+    {
+      "title": "荣昌生物狂涨近4%!创新药重磅利好:4款入选国家基药目录!科创创新...",
+      "url": "https://baijiahao.baidu.com/s?id=1870294361548921389&wfr=spider&for=pc",
+      "source": "新浪财经",
+      "time": "前天10:30",
+      "category": "activity"
+    },
+    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
@@ -34,20 +48,6 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1853940665722016960&wfr=spider&for=pc",
       "source": "红网",
       "time": "1月10日",
-      "category": "activity"
-    },
-    {
-      "title": "2026 版基药目录落地,AH 医药爆发!规模最大医疗 ETF 冲高 4%!港股...",
-      "url": "https://www.myzaker.com/article/6a50655b8e9f097df3540860",
-      "source": "ZAKER资讯",
-      "time": "昨天11:16",
-      "category": "activity"
-    },
-    {
-      "title": "荣昌生物狂涨近4%!创新药重磅利好:4款入选国家基药目录!科创创新...",
-      "url": "https://baijiahao.baidu.com/s?id=1870294361548921389&wfr=spider&for=pc",
-      "source": "新浪财经",
-      "time": "昨天10:30",
       "category": "activity"
     }
   ]
