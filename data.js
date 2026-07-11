@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-07-12 05:37",
+  "update_time": "2026-07-12 06:35",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,13 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "“Z世代文学,向何处”,《十月》创作分享会尝试作答",
-      "url": "https://baijiahao.baidu.com/s?id=1859897163056459211&wfr=spider&for=pc",
-      "source": "北京日报客户端",
-      "time": "3月17日",
-      "category": "other"
     },
     {
       "title": "2026 版基药目录落地,AH 医药爆发!规模最大医疗 ETF 冲高 4%!港股...",
