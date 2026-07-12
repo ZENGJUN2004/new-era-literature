@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-07-12 23:47",
+  "update_time": "2026-07-13 00:42",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,24 +23,10 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "让工友爱上我的课⑪丨在建设世界一流铁路企业中放飞青春梦想",
-      "url": "https://www.cehome.com/news/20260710/387327.shtml",
-      "source": "铁甲网",
-      "time": "前天20:08",
-      "category": "other"
-    },
-    {
-      "title": "2026 版基药目录落地,AH 医药爆发!规模最大医疗 ETF 冲高 4%!港股...",
-      "url": "https://www.myzaker.com/article/6a50655b8e9f097df3540860",
-      "source": "ZAKER资讯",
-      "time": "前天11:16",
-      "category": "activity"
-    },
-    {
-      "title": "荣昌生物狂涨近4%!创新药重磅利好:4款入选国家基药目录!科创创新...",
-      "url": "https://baijiahao.baidu.com/s?id=1870294361548921389&wfr=spider&for=pc",
-      "source": "新浪财经",
-      "time": "前天10:30",
+      "title": "...安环境两款产品入选《2026 热泵行业年会绿色节能热泵产品目录》",
+      "url": "https://bao.hvacr.cn/202607_2118835.html",
+      "source": "制冷快报",
+      "time": "7月2日",
       "category": "activity"
     },
     {
