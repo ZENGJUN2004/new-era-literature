@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-07-12 09:24",
+  "update_time": "2026-07-12 13:14",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,13 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "让工友爱上我的课⑪丨在建设世界一流铁路企业中放飞青春梦想",
+      "url": "https://www.cehome.com/news/20260710/387327.shtml",
+      "source": "铁甲网",
+      "time": "前天20:08",
+      "category": "other"
     },
     {
       "title": "2026 版基药目录落地,AH 医药爆发!规模最大医疗 ETF 冲高 4%!港股...",
