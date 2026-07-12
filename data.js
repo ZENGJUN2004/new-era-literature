@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-07-12 17:41",
+  "update_time": "2026-07-12 19:03",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,27 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "德阳:政企村三方座谈 赋能粉条产业转型升级—中国新闻网·四川新闻",
-      "url": "https://www.sc.chinanews.com.cn/lyxw/2026-07-10/246437.html",
-      "source": "中国新闻网",
-      "time": "前天16:00",
-      "category": "other"
-    },
-    {
-      "title": "一周文化讲座|昆仑石刻的发现与祛疑",
-      "url": "https://baijiahao.baidu.com/s?id=1870295463100713572&wfr=spider&for=pc",
-      "source": "澎湃新闻",
-      "time": "前天11:04",
-      "category": "meeting"
-    },
-    {
-      "title": "艺术电影如何为普通人“立传” | 《大地尘烟》南京方所沙龙",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33545689",
-      "source": "澎湃新闻",
-      "time": "前天12:04",
-      "category": "other"
     },
     {
       "title": "让工友爱上我的课⑪丨在建设世界一流铁路企业中放飞青春梦想",
