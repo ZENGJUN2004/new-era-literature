@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-07-14 05:42",
+  "update_time": "2026-07-14 06:43",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -48,6 +48,13 @@ window.LIT_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
+      "category": "activity"
+    },
+    {
+      "title": "作家郑欣长篇小说《徒骇河》出版发行",
+      "url": "https://baijiahao.baidu.com/s?id=1865715912751628362&wfr=spider&for=pc",
+      "source": "天眼新闻",
+      "time": "5月20日",
       "category": "activity"
     },
     {
