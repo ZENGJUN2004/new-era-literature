@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-07-13 09:25",
+  "update_time": "2026-07-13 13:22",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,6 +23,13 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
+      "title": "君实生物13亿合作落地,百济神州3期临床报喜,科创创新药ETF汇添富...",
+      "url": "https://www.jiemian.com/article/14688545.html",
+      "source": "界面新闻",
+      "time": "7月2日",
+      "category": "other"
+    },
+    {
       "title": "...安环境两款产品入选《2026 热泵行业年会绿色节能热泵产品目录》",
       "url": "https://bao.hvacr.cn/202607_2118835.html",
       "source": "制冷快报",
@@ -34,6 +41,13 @@ window.LIT_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
+      "category": "activity"
+    },
+    {
+      "title": "现实主义长篇小说《呼吸》在京首发",
+      "url": "http://www.xinhuanet.com/politics/20260621/796fa78c25d14b0a99a347d38d29689f/c.html",
+      "source": "新华网",
+      "time": "6月21日",
       "category": "activity"
     },
     {
