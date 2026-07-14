@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-07-14 07:41",
+  "update_time": "2026-07-14 09:14",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,13 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "君实生物13亿合作落地,百济神州3期临床报喜,科创创新药ETF汇添富...",
-      "url": "https://www.jiemian.com/article/14688545.html",
-      "source": "界面新闻",
-      "time": "7月2日",
-      "category": "other"
     },
     {
       "title": "创新驱动,低碳引领|盾安环境精彩亮相 2026 热泵行业年会",
@@ -70,6 +63,13 @@ window.LIT_DATA = {
       "source": "红网",
       "time": "1月10日",
       "category": "activity"
+    },
+    {
+      "title": "中国ADC里程碑!翰森制药小细胞肺癌三期临床重大突破!欧林生物Ⅲ期...",
+      "url": "https://finance.eastmoney.com/a/202607133803644644.html",
+      "source": "东方财富网",
+      "time": "昨天10:36",
+      "category": "other"
     }
   ]
 };
