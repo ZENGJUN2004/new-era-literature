@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-07-14 23:14",
+  "update_time": "2026-07-15 01:00",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -27,6 +27,13 @@ window.LIT_DATA = {
       "url": "https://bao.hvacr.cn/202607_2118862.html",
       "source": "制冷快报",
       "time": "7月3日",
+      "category": "other"
+    },
+    {
+      "title": "中国ADC里程碑!翰森制药小细胞肺癌三期临床重大突破!欧林生物Ⅲ期...",
+      "url": "https://finance.eastmoney.com/a/202607133803644644.html",
+      "source": "东方财富网",
+      "time": "前天10:36",
       "category": "other"
     },
     {
@@ -63,13 +70,6 @@ window.LIT_DATA = {
       "source": "红网",
       "time": "1月10日",
       "category": "activity"
-    },
-    {
-      "title": "中国ADC里程碑!翰森制药小细胞肺癌三期临床重大突破!欧林生物Ⅲ期...",
-      "url": "https://finance.eastmoney.com/a/202607133803644644.html",
-      "source": "东方财富网",
-      "time": "昨天10:36",
-      "category": "other"
     }
   ]
 };
