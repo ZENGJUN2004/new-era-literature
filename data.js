@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-07-15 12:38",
+  "update_time": "2026-07-15 15:05",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -28,20 +28,6 @@ window.LIT_DATA = {
       "source": "制冷快报",
       "time": "7月3日",
       "category": "other"
-    },
-    {
-      "title": "中国ADC里程碑!翰森制药小细胞肺癌三期临床重大突破!欧林生物Ⅲ期...",
-      "url": "https://finance.eastmoney.com/a/202607133803644644.html",
-      "source": "东方财富网",
-      "time": "前天10:36",
-      "category": "other"
-    },
-    {
-      "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
-      "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
-      "source": "澎湃新闻客户端",
-      "time": "",
-      "category": "activity"
     },
     {
       "title": "作家郑欣长篇小说《徒骇河》出版发行",
