@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-07-15 23:16",
+  "update_time": "2026-07-16 01:02",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -28,6 +28,20 @@ window.LIT_DATA = {
       "source": "制冷快报",
       "time": "7月3日",
       "category": "other"
+    },
+    {
+      "title": "作家郑欣长篇小说《徒骇河》出版发行",
+      "url": "https://baijiahao.baidu.com/s?id=1865715912751628362&wfr=spider&for=pc",
+      "source": "天眼新闻",
+      "time": "5月20日",
+      "category": "activity"
+    },
+    {
+      "title": "现实主义长篇小说《呼吸》在京首发",
+      "url": "http://www.xinhuanet.com/politics/20260621/796fa78c25d14b0a99a347d38d29689f/c.html",
+      "source": "新华网",
+      "time": "6月21日",
+      "category": "activity"
     }
   ]
 };
