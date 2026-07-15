@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-07-15 15:05",
+  "update_time": "2026-07-15 17:47",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -41,13 +41,6 @@ window.LIT_DATA = {
       "url": "http://www.xinhuanet.com/politics/20260621/796fa78c25d14b0a99a347d38d29689f/c.html",
       "source": "新华网",
       "time": "6月21日",
-      "category": "activity"
-    },
-    {
-      "title": "老藤长篇小说《自愈者》在京首发在“AI迷宫”中寻找心灵坐标",
-      "url": "https://baijiahao.baidu.com/s?id=1853940665722016960&wfr=spider&for=pc",
-      "source": "红网",
-      "time": "1月10日",
       "category": "activity"
     }
   ]
