@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-07-15 09:11",
+  "update_time": "2026-07-15 12:38",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -30,11 +30,11 @@ window.LIT_DATA = {
       "category": "other"
     },
     {
-      "title": "...安环境两款产品入选《2026 热泵行业年会绿色节能热泵产品目录》",
-      "url": "https://bao.hvacr.cn/202607_2118835.html",
-      "source": "制冷快报",
-      "time": "7月2日",
-      "category": "activity"
+      "title": "中国ADC里程碑!翰森制药小细胞肺癌三期临床重大突破!欧林生物Ⅲ期...",
+      "url": "https://finance.eastmoney.com/a/202607133803644644.html",
+      "source": "东方财富网",
+      "time": "前天10:36",
+      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
