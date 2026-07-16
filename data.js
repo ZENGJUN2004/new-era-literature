@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-07-16 21:14",
+  "update_time": "2026-07-16 23:24",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,11 +23,18 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "豆瓣8.0+!高分人物传记,一书读罢头飞雪",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33007780",
-      "source": "澎湃新闻",
-      "time": "4月21日",
-      "category": "other"
+      "title": "《小说评论》年度论坛:聚焦“现象级文本与文学史书写”",
+      "url": "http://baijiahao.baidu.com/s?id=1751357796338047975&wfr=spider&for=pc",
+      "source": "澎湃新闻客户端",
+      "time": "",
+      "category": "activity"
+    },
+    {
+      "title": "热搜十二次,何以无人书写?——关于“丘文亮现象”的文化反思",
+      "url": "https://cul.sohu.com/a/1024339152_120601209",
+      "source": "搜狐网",
+      "time": "5月18日",
+      "category": "voice"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
@@ -69,13 +76,6 @@ window.LIT_DATA = {
       "url": "http://www.thepaper.cn/newsDetail_forward_31405883",
       "source": "澎湃新闻",
       "time": "",
-      "category": "activity"
-    },
-    {
-      "title": "书香喀什・新书发布暨现场签售活动举行",
-      "url": "http://baijiahao.baidu.com/s?id=1863459232450526300&wfr=spider&for=pc",
-      "source": "澎湃新闻客户端",
-      "time": "4月25日",
       "category": "activity"
     },
     {
