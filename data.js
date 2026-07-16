@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-07-16 09:20",
+  "update_time": "2026-07-16 12:48",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,13 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "创新驱动,低碳引领|盾安环境精彩亮相 2026 热泵行业年会",
-      "url": "https://bao.hvacr.cn/202607_2118862.html",
-      "source": "制冷快报",
-      "time": "7月3日",
-      "category": "other"
     },
     {
       "title": "作家郑欣长篇小说《徒骇河》出版发行",
