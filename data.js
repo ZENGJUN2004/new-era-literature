@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-07-17 02:06",
+  "update_time": "2026-07-17 03:54",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -27,6 +27,13 @@ window.LIT_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
+      "category": "activity"
+    },
+    {
+      "title": "「期刊推荐」长安街读书会第20260303期干部学习核心期刊目录",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32793858",
+      "source": "澎湃新闻",
+      "time": "3月19日",
       "category": "activity"
     },
     {
