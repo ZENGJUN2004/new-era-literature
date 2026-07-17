@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-07-17 12:51",
+  "update_time": "2026-07-17 15:08",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,17 +23,17 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
-      "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
+      "title": "《小说评论》年度论坛:聚焦“现象级文本与文学史书写”",
+      "url": "http://baijiahao.baidu.com/s?id=1751357796338047975&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
     },
     {
-      "title": "「期刊推荐」长安街读书会第20260303期干部学习核心期刊目录",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32793858",
-      "source": "澎湃新闻",
-      "time": "3月19日",
+      "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
+      "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
+      "source": "澎湃新闻客户端",
+      "time": "",
       "category": "activity"
     },
     {
