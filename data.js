@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-07-18 02:50",
+  "update_time": "2026-07-18 03:57",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,17 +23,17 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
+      "title": "动静听新闻丨上半年我国GDP同比增长4.7%丨《遵义三日》获报告文学...",
+      "url": "https://baijiahao.baidu.com/s?id=1870824166991330401&wfr=spider&for=pc",
+      "source": "动静新闻",
+      "time": "前天06:59",
+      "category": "other"
+    },
+    {
       "title": "全场好评!京都动画新作《二十世纪电气目录》于AX试映",
       "url": "https://www.ali213.net/news/html/2026-7/1023527.html",
       "source": "游侠网",
       "time": "前天13:37",
-      "category": "activity"
-    },
-    {
-      "title": "熊生庆、丰一畛两位贵州青年作家中篇小说亮相《收获》2026年第4期",
-      "url": "https://baijiahao.baidu.com/s?id=1870837377519617291&wfr=spider&for=pc",
-      "source": "动静新闻",
-      "time": "前天10:16",
       "category": "activity"
     },
     {
