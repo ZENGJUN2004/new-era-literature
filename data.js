@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-07-17 07:46",
+  "update_time": "2026-07-17 09:24",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -77,6 +77,20 @@ window.LIT_DATA = {
       "source": "新华网重庆频道",
       "time": "4月29日",
       "category": "other"
+    },
+    {
+      "title": "全场好评!京都动画新作《二十世纪电气目录》于AX试映",
+      "url": "https://www.ali213.net/news/html/2026-7/1023527.html",
+      "source": "游侠网",
+      "time": "昨天13:37",
+      "category": "activity"
+    },
+    {
+      "title": "熊生庆、丰一畛两位贵州青年作家中篇小说亮相《收获》2026年第4期",
+      "url": "https://baijiahao.baidu.com/s?id=1870837377519617291&wfr=spider&for=pc",
+      "source": "动静新闻",
+      "time": "昨天10:16",
+      "category": "activity"
     }
   ]
 };
