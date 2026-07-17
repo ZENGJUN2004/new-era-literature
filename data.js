@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-07-18 00:07",
+  "update_time": "2026-07-18 01:56",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -44,24 +44,10 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "「期刊推荐」长安街读书会第20260303期干部学习核心期刊目录",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32793858",
-      "source": "澎湃新闻",
-      "time": "3月19日",
-      "category": "activity"
-    },
-    {
-      "title": "《光荣亭》新书发布活动在福建上杭举行",
-      "url": "http://www.mzyfz.com/html/2203/2026-01-12/content-1669350.html",
-      "source": "民主与法制网",
-      "time": "1月12日",
-      "category": "activity"
-    },
-    {
-      "title": "长篇纪实文学《烽火》新书发布暨座谈会在德州举行",
-      "url": "https://baijiahao.baidu.com/s?id=1854984906459423165&wfr=spider&for=pc",
-      "source": "大众日报",
-      "time": "1月22日",
+      "title": "寻找AI迷宫中的心灵坐标,老藤长篇小说《自愈者》新书发布会在京举行",
+      "url": "https://baijiahao.baidu.com/s?id=1853935548042845532&wfr=spider&for=pc",
+      "source": "潇湘晨报",
+      "time": "1月10日",
       "category": "activity"
     },
     {
@@ -72,10 +58,17 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "直播丨“作家天团”空降开课!《大作家的小作文》新书发布会,速来...",
-      "url": "http://www.thepaper.cn/newsDetail_forward_31405883",
-      "source": "澎湃新闻",
-      "time": "",
+      "title": "新加坡著名慈善家、作家卓顺发《太阳出来了,露水不见了》新书发布",
+      "url": "https://baijiahao.baidu.com/s?id=1854366953074514692&wfr=spider&for=pc",
+      "source": "曲靖珠江网",
+      "time": "1月15日",
+      "category": "activity"
+    },
+    {
+      "title": "聚焦边疆书写 张者《天边》新书发布",
+      "url": "https://baijiahao.baidu.com/s?id=1862343135717648529&wfr=spider&for=pc",
+      "source": "中国新闻网",
+      "time": "4月13日",
       "category": "activity"
     },
     {
@@ -91,6 +84,20 @@ window.LIT_DATA = {
       "source": "新华网重庆频道",
       "time": "4月29日",
       "category": "other"
+    },
+    {
+      "title": "青年作家徐鹏新作《未央·蜀道残阳》在永川发布",
+      "url": "https://baijiahao.baidu.com/s?id=1863771851573387062&wfr=spider&for=pc",
+      "source": "金台资讯",
+      "time": "4月29日",
+      "category": "other"
+    },
+    {
+      "title": "作家邱华栋《敦煌变》新书发布会纪实",
+      "url": "https://baijiahao.baidu.com/s?id=1863401191001013265&wfr=spider&for=pc",
+      "source": "青瞳视角",
+      "time": "4月25日",
+      "category": "activity"
     }
   ]
 };
