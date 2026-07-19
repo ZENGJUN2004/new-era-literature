@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-07-20 01:47",
+  "update_time": "2026-07-20 02:45",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -55,6 +55,13 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1862343135717648529&wfr=spider&for=pc",
       "source": "中国新闻网",
       "time": "4月13日",
+      "category": "activity"
+    },
+    {
+      "title": "《郭永怀传》新书发布,“千里山海书香威海”全民阅读活动周启幕",
+      "url": "https://baijiahao.baidu.com/s?id=1862883593361097132&wfr=spider&for=pc",
+      "source": "齐鲁壹点",
+      "time": "4月19日",
       "category": "activity"
     },
     {
