@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-07-21 05:57",
+  "update_time": "2026-07-21 06:48",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,20 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "周观天下丨日韩首脑会谈,矛盾依然突出",
-      "url": "https://baijiahao.baidu.com/s?id=1854548357478113896&wfr=spider&for=pc",
-      "source": "川观新闻",
-      "time": "1月17日",
-      "category": "other"
-    },
-    {
-      "title": "观察者网·观学院直播厅【思想者说】第21期:从中俄美三国元首同日...",
-      "url": "https://www.guancha.cn/huangjing/2026_02_12_806901_1.shtml",
-      "source": "观察者网",
-      "time": "2月12日",
-      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
