@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-07-20 21:43",
+  "update_time": "2026-07-20 23:43",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -45,8 +45,8 @@ window.LIT_DATA = {
     },
     {
       "title": "新加坡著名慈善家、作家卓顺发《太阳出来了,露水不见了》新书发布",
-      "url": "https://cul.sohu.com/a/976352196_121205984",
-      "source": "搜狐网",
+      "url": "https://baijiahao.baidu.com/s?id=1854366953074514692&wfr=spider&for=pc",
+      "source": "曲靖珠江网",
       "time": "1月15日",
       "category": "activity"
     },
