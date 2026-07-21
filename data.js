@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-07-21 09:21",
+  "update_time": "2026-07-21 12:56",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -90,6 +90,13 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1863401191001013265&wfr=spider&for=pc",
       "source": "青瞳视角",
       "time": "4月25日",
+      "category": "activity"
+    },
+    {
+      "title": "真正的成长是接纳不完美,姚进军长篇小说《踩着影子长大》温情首发",
+      "url": "https://baijiahao.baidu.com/s?id=1871193488186330360&wfr=spider&for=pc",
+      "source": "潇湘晨报",
+      "time": "昨天08:59",
       "category": "activity"
     }
   ]
