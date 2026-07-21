@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-07-22 02:07",
+  "update_time": "2026-07-22 04:11",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -27,13 +27,6 @@ window.LIT_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
-      "category": "activity"
-    },
-    {
-      "title": "寻找AI迷宫中的心灵坐标,老藤长篇小说《自愈者》新书发布会在京举行",
-      "url": "https://baijiahao.baidu.com/s?id=1853935548042845532&wfr=spider&for=pc",
-      "source": "潇湘晨报",
-      "time": "1月10日",
       "category": "activity"
     },
     {
@@ -90,6 +83,13 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1863401191001013265&wfr=spider&for=pc",
       "source": "青瞳视角",
       "time": "4月25日",
+      "category": "activity"
+    },
+    {
+      "title": "重庆永川本土作家徐鹏举行《长乐·才子登科》新书发布会",
+      "url": "https://baijiahao.baidu.com/s?id=1869129372224058948&wfr=spider&for=pc",
+      "source": "上游新闻",
+      "time": "6月27日",
       "category": "activity"
     },
     {
