@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-07-22 12:56",
+  "update_time": "2026-07-22 15:29",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -48,6 +48,13 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1854366953074514692&wfr=spider&for=pc",
       "source": "曲靖珠江网",
       "time": "1月15日",
+      "category": "activity"
+    },
+    {
+      "title": "聚焦边疆书写 张者《天边》新书发布",
+      "url": "https://baijiahao.baidu.com/s?id=1862343135717648529&wfr=spider&for=pc",
+      "source": "中国新闻网",
+      "time": "4月13日",
       "category": "activity"
     },
     {
