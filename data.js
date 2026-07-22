@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-07-22 07:46",
+  "update_time": "2026-07-22 09:20",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -104,6 +104,13 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1871193488186330360&wfr=spider&for=pc",
       "source": "潇湘晨报",
       "time": "前天08:59",
+      "category": "activity"
+    },
+    {
+      "title": "熔铸古典意趣与当代经验,艾伟长篇小说《春歌》在北京首发",
+      "url": "https://baijiahao.baidu.com/s?id=1871236791034115960&wfr=spider&for=pc",
+      "source": "钱江晚报",
+      "time": "前天20:24",
       "category": "activity"
     }
   ]
