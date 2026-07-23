@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-07-23 20:19",
+  "update_time": "2026-07-23 22:59",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -30,13 +30,6 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "寻找AI迷宫中的心灵坐标,老藤长篇小说《自愈者》新书发布会在京举行",
-      "url": "https://baijiahao.baidu.com/s?id=1853935548042845532&wfr=spider&for=pc",
-      "source": "潇湘晨报",
-      "time": "1月10日",
-      "category": "activity"
-    },
-    {
       "title": "《自愈者》新书在京发布作家老藤探讨AI时代的心灵救赎之路",
       "url": "https://baijiahao.baidu.com/s?id=1854293051586245393&wfr=spider&for=pc",
       "source": "央广网",
@@ -48,6 +41,13 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1854366953074514692&wfr=spider&for=pc",
       "source": "曲靖珠江网",
       "time": "1月15日",
+      "category": "activity"
+    },
+    {
+      "title": "聚焦边疆书写 张者《天边》新书发布",
+      "url": "https://baijiahao.baidu.com/s?id=1862343135717648529&wfr=spider&for=pc",
+      "source": "中国新闻网",
+      "time": "4月13日",
       "category": "activity"
     },
     {
