@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-07-25 23:54",
+  "update_time": "2026-07-26 00:43",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -93,25 +93,25 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "老藤长篇小说《自愈者》在京首发在“AI迷宫”中寻找心灵坐标",
-      "url": "https://baijiahao.baidu.com/s?id=1853940665722016960&wfr=spider&for=pc",
-      "source": "红网",
-      "time": "1月10日",
-      "category": "activity"
-    },
-    {
       "title": "晴隆:《村庄无小事》新书发布交流活动在三宝儿童图书馆举行",
       "url": "https://baijiahao.baidu.com/s?id=1871566086964938773&wfr=spider&for=pc",
       "source": "动静新闻",
-      "time": "昨天11:31",
+      "time": "前天11:31",
       "category": "activity"
     },
     {
       "title": "一周文化讲座|我们为何还未遇见外星文明?",
       "url": "https://baijiahao.baidu.com/s?id=1871563602946176959&wfr=spider&for=pc",
       "source": "澎湃新闻",
-      "time": "昨天11:01",
+      "time": "前天11:01",
       "category": "meeting"
+    },
+    {
+      "title": "老藤长篇小说《自愈者》在京首发在“AI迷宫”中寻找心灵坐标",
+      "url": "https://baijiahao.baidu.com/s?id=1853940665722016960&wfr=spider&for=pc",
+      "source": "红网",
+      "time": "1月10日",
+      "category": "activity"
     }
   ]
 };
