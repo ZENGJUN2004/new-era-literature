@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-07-25 09:24",
+  "update_time": "2026-07-25 12:54",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -27,13 +27,6 @@ window.LIT_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
-      "category": "activity"
-    },
-    {
-      "title": "新加坡著名慈善家、作家卓顺发《太阳出来了,露水不见了》新书发布",
-      "url": "https://baijiahao.baidu.com/s?id=1854366953074514692&wfr=spider&for=pc",
-      "source": "曲靖珠江网",
-      "time": "1月15日",
       "category": "activity"
     },
     {
@@ -105,6 +98,20 @@ window.LIT_DATA = {
       "source": "红网",
       "time": "1月10日",
       "category": "activity"
+    },
+    {
+      "title": "晴隆:《村庄无小事》新书发布交流活动在三宝儿童图书馆举行",
+      "url": "https://baijiahao.baidu.com/s?id=1871566086964938773&wfr=spider&for=pc",
+      "source": "动静新闻",
+      "time": "昨天11:31",
+      "category": "activity"
+    },
+    {
+      "title": "一周文化讲座|我们为何还未遇见外星文明?",
+      "url": "https://baijiahao.baidu.com/s?id=1871563602946176959&wfr=spider&for=pc",
+      "source": "澎湃新闻",
+      "time": "昨天11:01",
+      "category": "meeting"
     }
   ]
 };
