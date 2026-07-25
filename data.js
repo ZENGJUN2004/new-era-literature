@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-07-26 04:03",
+  "update_time": "2026-07-26 05:42",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,13 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
+      "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
+      "source": "澎湃新闻客户端",
+      "time": "",
+      "category": "activity"
     },
     {
       "title": "山乡巨变中的文学守望:《太阳照在滹沱河上》新书发布会在正定塔元...",
