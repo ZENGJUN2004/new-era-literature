@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-07-26 22:22",
+  "update_time": "2026-07-26 23:53",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -27,6 +27,13 @@ window.LIT_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
+      "category": "activity"
+    },
+    {
+      "title": "《郭永怀传》新书发布,“千里山海书香威海”全民阅读活动周启幕",
+      "url": "https://baijiahao.baidu.com/s?id=1862883593361097132&wfr=spider&for=pc",
+      "source": "齐鲁壹点",
+      "time": "4月19日",
       "category": "activity"
     },
     {
@@ -104,13 +111,6 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1871655928518036912&wfr=spider&for=pc",
       "source": "钱江晚报",
       "time": "昨天11:27",
-      "category": "activity"
-    },
-    {
-      "title": "曹文轩在第四届接力杯新书发布会呼吁:年轻作家要有“短篇意识”",
-      "url": "https://baijiahao.baidu.com/s?id=1871665144938351391&wfr=spider&for=pc",
-      "source": "封面新闻",
-      "time": "昨天13:55",
       "category": "activity"
     }
   ]
