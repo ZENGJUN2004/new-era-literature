@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-07-26 18:27",
+  "update_time": "2026-07-26 19:53",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -93,17 +93,17 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "第四届接力杯曹文轩儿童小说奖新书发布暨作家对谈在全国书博会举行",
-      "url": "https://baijiahao.baidu.com/s?id=1871655928518036912&wfr=spider&for=pc",
-      "source": "钱江晚报",
-      "time": "昨天11:27",
-      "category": "activity"
-    },
-    {
       "title": "第四届接力杯曹文轩儿童小说奖新书发布暨作家对谈在杭举行",
       "url": "https://baijiahao.baidu.com/s?id=1871683520804917732&wfr=spider&for=pc",
       "source": "浙江日报",
       "time": "昨天18:48",
+      "category": "activity"
+    },
+    {
+      "title": "第四届接力杯曹文轩儿童小说奖新书发布暨作家对谈在全国书博会举行",
+      "url": "https://baijiahao.baidu.com/s?id=1871655928518036912&wfr=spider&for=pc",
+      "source": "钱江晚报",
+      "time": "昨天11:27",
       "category": "activity"
     },
     {
