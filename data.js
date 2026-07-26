@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-07-26 07:48",
+  "update_time": "2026-07-26 09:27",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -27,34 +27,6 @@ window.LIT_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
-      "category": "activity"
-    },
-    {
-      "title": "新加坡著名慈善家、作家卓顺发《太阳出来了,露水不见了》新书发布",
-      "url": "https://baijiahao.baidu.com/s?id=1854366953074514692&wfr=spider&for=pc",
-      "source": "曲靖珠江网",
-      "time": "1月15日",
-      "category": "activity"
-    },
-    {
-      "title": "山乡巨变中的文学守望:《太阳照在滹沱河上》新书发布会在正定塔元...",
-      "url": "https://baijiahao.baidu.com/s?id=1863822847994328712&wfr=spider&for=pc",
-      "source": "河北青年报",
-      "time": "4月30日",
-      "category": "activity"
-    },
-    {
-      "title": "聚焦边疆书写 张者《天边》新书发布",
-      "url": "https://baijiahao.baidu.com/s?id=1862343135717648529&wfr=spider&for=pc",
-      "source": "中国新闻网",
-      "time": "4月13日",
-      "category": "activity"
-    },
-    {
-      "title": "《郭永怀传》新书发布,“千里山海书香威海”全民阅读活动周启幕",
-      "url": "https://baijiahao.baidu.com/s?id=1862883593361097132&wfr=spider&for=pc",
-      "source": "齐鲁壹点",
-      "time": "4月19日",
       "category": "activity"
     },
     {
@@ -111,6 +83,34 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1853940665722016960&wfr=spider&for=pc",
       "source": "红网",
       "time": "1月10日",
+      "category": "activity"
+    },
+    {
+      "title": "第四届接力杯曹文轩儿童小说奖新书发布为读者提供安放情绪的精神...",
+      "url": "https://www.myzaker.com/article/6a647f8c8e9f0919e650249d",
+      "source": "ZAKER资讯",
+      "time": "昨天17:04",
+      "category": "activity"
+    },
+    {
+      "title": "第四届接力杯曹文轩儿童小说奖新书发布暨作家对谈在杭举行",
+      "url": "https://baijiahao.baidu.com/s?id=1871683520804917732&wfr=spider&for=pc",
+      "source": "浙江日报",
+      "time": "昨天18:48",
+      "category": "activity"
+    },
+    {
+      "title": "第四届接力杯曹文轩儿童小说奖新书发布暨作家对谈在全国书博会举行",
+      "url": "https://baijiahao.baidu.com/s?id=1871655928518036912&wfr=spider&for=pc",
+      "source": "钱江晚报",
+      "time": "昨天11:27",
+      "category": "activity"
+    },
+    {
+      "title": "曹文轩在第四届接力杯新书发布会呼吁:年轻作家要有“短篇意识”",
+      "url": "https://baijiahao.baidu.com/s?id=1871665144938351391&wfr=spider&for=pc",
+      "source": "封面新闻",
+      "time": "昨天13:55",
       "category": "activity"
     }
   ]
