@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-07-26 23:53",
+  "update_time": "2026-07-27 00:43",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -72,45 +72,31 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "晴隆:《村庄无小事》新书发布交流活动在三宝儿童图书馆举行",
-      "url": "https://baijiahao.baidu.com/s?id=1871566086964938773&wfr=spider&for=pc",
-      "source": "动静新闻",
-      "time": "前天11:31",
-      "category": "activity"
-    },
-    {
-      "title": "一周文化讲座|我们为何还未遇见外星文明?",
-      "url": "https://baijiahao.baidu.com/s?id=1871563602946176959&wfr=spider&for=pc",
-      "source": "澎湃新闻",
-      "time": "前天11:01",
-      "category": "meeting"
-    },
-    {
-      "title": "老藤长篇小说《自愈者》在京首发在“AI迷宫”中寻找心灵坐标",
-      "url": "https://baijiahao.baidu.com/s?id=1853940665722016960&wfr=spider&for=pc",
-      "source": "红网",
-      "time": "1月10日",
-      "category": "activity"
-    },
-    {
       "title": "第四届接力杯曹文轩儿童小说奖新书发布为读者提供安放情绪的精神...",
       "url": "https://www.myzaker.com/article/6a647f8c8e9f0919e650249d",
       "source": "ZAKER资讯",
-      "time": "昨天17:04",
+      "time": "前天17:04",
       "category": "activity"
     },
     {
       "title": "第四届接力杯曹文轩儿童小说奖新书发布暨作家对谈在杭举行",
       "url": "https://baijiahao.baidu.com/s?id=1871683520804917732&wfr=spider&for=pc",
       "source": "浙江日报",
-      "time": "昨天18:48",
+      "time": "前天18:48",
       "category": "activity"
     },
     {
       "title": "第四届接力杯曹文轩儿童小说奖新书发布暨作家对谈在全国书博会举行",
       "url": "https://baijiahao.baidu.com/s?id=1871655928518036912&wfr=spider&for=pc",
       "source": "钱江晚报",
-      "time": "昨天11:27",
+      "time": "前天11:27",
+      "category": "activity"
+    },
+    {
+      "title": "老藤长篇小说《自愈者》在京首发在“AI迷宫”中寻找心灵坐标",
+      "url": "https://baijiahao.baidu.com/s?id=1853940665722016960&wfr=spider&for=pc",
+      "source": "红网",
+      "time": "1月10日",
       "category": "activity"
     }
   ]
