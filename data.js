@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-07-27 17:23",
+  "update_time": "2026-07-27 20:48",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,13 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "《暗河》新书发布会举行,苏菲·玛索获金木棉奖杯与荣誉国际作家证...",
-      "url": "https://news.dayoo.com/gzrbrmt/202603/28/170636_54941568.htm",
-      "source": "大洋网",
-      "time": "3月28日",
-      "category": "activity"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
