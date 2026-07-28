@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-07-28 18:20",
+  "update_time": "2026-07-28 20:29",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -20,34 +20,6 @@ window.LIT_DATA = {
       "url": "https://scholar.baidu.com/scholar?q=当代文学&sc_ylo=2024&sort=sc_time",
       "source": "CNKI",
       "time": "实时",
-      "category": "meeting"
-    },
-    {
-      "title": "文学批评为何变“素描”?",
-      "url": "http://baijiahao.baidu.com/s?id=1859444213714245687&wfr=spider&for=pc",
-      "source": "上观新闻",
-      "time": "3月12日",
-      "category": "meeting"
-    },
-    {
-      "title": "真善美的三重奏:文学批评的时代使命|新批评",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32417549",
-      "source": "澎湃新闻",
-      "time": "1月20日",
-      "category": "meeting"
-    },
-    {
-      "title": "文艺批评·新书选读 | 韩松刚:《批评的抵达》",
-      "url": "https://cul.sohu.com/a/1015993578_121124790",
-      "source": "搜狐网",
-      "time": "4月29日",
-      "category": "activity"
-    },
-    {
-      "title": "在流量时代,文学批评如何“抵达”人心?",
-      "url": "https://baijiahao.baidu.com/s?id=1865876878495342673&wfr=spider&for=pc",
-      "source": "济南时报",
-      "time": "5月22日",
       "category": "meeting"
     },
     {
