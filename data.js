@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-07-28 07:53",
+  "update_time": "2026-07-28 09:19",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -62,6 +62,13 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1868331656322285113&wfr=spider&for=pc",
       "source": "人民资讯",
       "time": "6月18日",
+      "category": "activity"
+    },
+    {
+      "title": "第四届接力杯曹文轩儿童小说奖新书发布为读者提供安放情绪的精神...",
+      "url": "https://www.myzaker.com/article/6a647f8c8e9f0919e650249d",
+      "source": "ZAKER资讯",
+      "time": "前天07:53",
       "category": "activity"
     },
     {
