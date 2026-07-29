@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-07-29 23:03",
+  "update_time": "2026-07-30 01:02",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -62,13 +62,6 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1868331656322285113&wfr=spider&for=pc",
       "source": "人民资讯",
       "time": "6月18日",
-      "category": "activity"
-    },
-    {
-      "title": "为祁连记传,书写山河史诗,邱华栋作品《祁连山传》新书发布",
-      "url": "https://baijiahao.baidu.com/s?id=1871868452947784810&wfr=spider&for=pc",
-      "source": "扬子晚报",
-      "time": "前天19:19",
       "category": "activity"
     },
     {
