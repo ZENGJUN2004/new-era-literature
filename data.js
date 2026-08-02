@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-02 20:53",
+  "update_time": "2026-08-02 22:21",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -62,6 +62,13 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1863401191001013265&wfr=spider&for=pc",
       "source": "青瞳视角",
       "time": "4月25日",
+      "category": "activity"
+    },
+    {
+      "title": "《平居日札》新书发布暨王充闾作品研讨会举办",
+      "url": "https://baijiahao.baidu.com/s?id=1868331656322285113&wfr=spider&for=pc",
+      "source": "人民资讯",
+      "time": "6月18日",
       "category": "activity"
     },
     {
