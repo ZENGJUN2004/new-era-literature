@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-04 12:52",
+  "update_time": "2026-08-04 15:29",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -30,13 +30,6 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "聚焦边疆书写 张者《天边》新书发布",
-      "url": "https://baijiahao.baidu.com/s?id=1862343135717648529&wfr=spider&for=pc",
-      "source": "中国新闻网",
-      "time": "4月13日",
-      "category": "activity"
-    },
-    {
       "title": "书香喀什・新书发布暨现场签售活动举行",
       "url": "http://baijiahao.baidu.com/s?id=1863459232450526300&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
@@ -58,10 +51,24 @@ window.LIT_DATA = {
       "category": "other"
     },
     {
+      "title": "青年作家徐鹏新作《未央·蜀道残阳》在永川发布",
+      "url": "https://baijiahao.baidu.com/s?id=1863771851573387062&wfr=spider&for=pc",
+      "source": "金台资讯",
+      "time": "4月29日",
+      "category": "other"
+    },
+    {
       "title": "作家邱华栋《敦煌变》新书发布会纪实",
       "url": "https://baijiahao.baidu.com/s?id=1863401191001013265&wfr=spider&for=pc",
       "source": "青瞳视角",
       "time": "4月25日",
+      "category": "activity"
+    },
+    {
+      "title": "《平居日札》新书发布暨王充闾作品研讨会举办",
+      "url": "https://baijiahao.baidu.com/s?id=1868331656322285113&wfr=spider&for=pc",
+      "source": "人民资讯",
+      "time": "6月18日",
       "category": "activity"
     },
     {
@@ -90,6 +97,13 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1854825795286531236&wfr=spider&for=pc",
       "source": "齐鲁壹点",
       "time": "1月20日",
+      "category": "activity"
+    },
+    {
+      "title": "长篇科幻小说《拯救蓝水星》首发",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-03/8611229.shtml",
+      "source": "中国新闻网",
+      "time": "昨天12:28",
       "category": "activity"
     }
   ]
