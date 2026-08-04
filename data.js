@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-04 23:14",
+  "update_time": "2026-08-05 01:27",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -72,6 +72,27 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
+      "title": "第四届接力杯曹文轩儿童小说奖新书发布暨作家对谈在杭举行",
+      "url": "https://baijiahao.baidu.com/s?id=1871683673744035341&wfr=spider&for=pc",
+      "source": "潮新闻客户端",
+      "time": "7月25日",
+      "category": "activity"
+    },
+    {
+      "title": "第四届接力杯曹文轩儿童小说奖新书发布暨作家对谈在全国书博会举行",
+      "url": "https://baijiahao.baidu.com/s?id=1871655928518036912&wfr=spider&for=pc",
+      "source": "钱江晚报",
+      "time": "7月25日",
+      "category": "activity"
+    },
+    {
+      "title": "曹文轩在第四届接力杯新书发布会呼吁:年轻作家要有“短篇意识”",
+      "url": "https://baijiahao.baidu.com/s?id=1871665144938351391&wfr=spider&for=pc",
+      "source": "封面新闻",
+      "time": "7月25日",
+      "category": "activity"
+    },
+    {
       "title": "冉学东长篇小说《上寨》首发仪式暨作品讨论会在西安举行",
       "url": "https://baijiahao.baidu.com/s?id=1855993505774569048&wfr=spider&for=pc",
       "source": "三秦都市报",
@@ -103,7 +124,7 @@ window.LIT_DATA = {
       "title": "长篇科幻小说《拯救蓝水星》首发",
       "url": "https://www.chinanews.com.cn/cul/2026/08-03/8611229.shtml",
       "source": "中国新闻网",
-      "time": "昨天12:28",
+      "time": "前天12:28",
       "category": "activity"
     }
   ]
