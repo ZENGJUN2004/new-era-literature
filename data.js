@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-06 01:16",
+  "update_time": "2026-08-06 03:10",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -66,8 +66,8 @@ window.LIT_DATA = {
     },
     {
       "title": "第四届接力杯曹文轩儿童小说奖新书发布暨作家对谈在杭举行",
-      "url": "https://baijiahao.baidu.com/s?id=1871683673744035341&wfr=spider&for=pc",
-      "source": "潮新闻客户端",
+      "url": "https://baijiahao.baidu.com/s?id=1871683520804917732&wfr=spider&for=pc",
+      "source": "浙江日报",
       "time": "7月25日",
       "category": "activity"
     },
