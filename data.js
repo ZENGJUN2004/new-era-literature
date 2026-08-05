@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-05 23:06",
+  "update_time": "2026-08-06 01:16",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -111,13 +111,6 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1854825795286531236&wfr=spider&for=pc",
       "source": "齐鲁壹点",
       "time": "1月20日",
-      "category": "activity"
-    },
-    {
-      "title": "长篇科幻小说《拯救蓝水星》首发",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-03/8611229.shtml",
-      "source": "中国新闻网",
-      "time": "前天12:28",
       "category": "activity"
     }
   ]
