@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-06 23:04",
+  "update_time": "2026-08-07 07:46",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -76,13 +76,6 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1871665144938351391&wfr=spider&for=pc",
       "source": "封面新闻",
       "time": "7月25日",
-      "category": "activity"
-    },
-    {
-      "title": "《大田歌谣》新书发布暨研讨会在京举行",
-      "url": "https://baijiahao.baidu.com/s?id=1872592113238838298&wfr=spider&for=pc",
-      "source": "人民资讯",
-      "time": "前天19:00",
       "category": "activity"
     },
     {
