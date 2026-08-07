@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-07 17:48",
+  "update_time": "2026-08-07 18:40",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,10 +23,10 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "《收获》文学榜揭晓,榜单映射中国文坛迎来“丰年”",
-      "url": "https://baijiahao.baidu.com/s?id=1856184355598057672&wfr=spider&for=pc",
-      "source": "新华网",
-      "time": "2月4日",
+      "title": "豆瓣8.0+!高分人物传记,一书读罢头飞雪",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33007780",
+      "source": "澎湃新闻",
+      "time": "4月21日",
       "category": "other"
     },
     {
