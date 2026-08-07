@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-07 18:40",
+  "update_time": "2026-08-07 19:36",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,13 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "豆瓣8.0+!高分人物传记,一书读罢头飞雪",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33007780",
-      "source": "澎湃新闻",
-      "time": "4月21日",
-      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
