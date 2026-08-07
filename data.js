@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-07 16:04",
+  "update_time": "2026-08-07 17:48",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,90 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "燕赵书香,钱塘绽放丨河北出版传媒集团这份精品书单等您品鉴",
-      "url": "https://baijiahao.baidu.com/s?id=1871556630746665255&wfr=spider&for=pc",
-      "source": "河北青年报",
-      "time": "7月24日",
-      "category": "activity"
-    },
-    {
-      "title": "批评深描与游历之眼",
-      "url": "https://epaper.gmw.cn/zhdsb/html/content/202603/11/content_8748.html",
-      "source": "光明数字报",
-      "time": "3月11日",
-      "category": "meeting"
-    },
-    {
-      "title": "文艺批评·新书选读|宫立《中国现代文学史诀微》导言、后记及书评",
-      "url": "https://cul.sohu.com/a/1006593663_121124790",
-      "source": "搜狐网",
-      "time": "4月8日",
-      "category": "activity"
-    },
-    {
-      "title": "文艺批评·新书选读 | 韩松刚:《批评的抵达》",
-      "url": "https://cul.sohu.com/a/1015993578_121124790",
-      "source": "搜狐网",
-      "time": "4月29日",
-      "category": "activity"
-    },
-    {
-      "title": "真善美的三重奏:文学批评的时代使命|新批评",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32417549",
-      "source": "澎湃新闻",
-      "time": "1月20日",
-      "category": "meeting"
-    },
-    {
-      "title": "文学批评的“正典”与“副典”,如何重拾利器锋芒?",
-      "url": "https://baijiahao.baidu.com/s?id=1859444206926581017&wfr=spider&for=pc",
-      "source": "上观新闻",
-      "time": "3月12日",
-      "category": "meeting"
-    },
-    {
-      "title": "文学批评为何变“素描”?",
-      "url": "http://baijiahao.baidu.com/s?id=1859444213714245687&wfr=spider&for=pc",
-      "source": "上观新闻",
-      "time": "3月12日",
-      "category": "meeting"
-    },
-    {
-      "title": "在流量时代,文学批评如何“抵达”人心?",
-      "url": "https://baijiahao.baidu.com/s?id=1865876878495342673&wfr=spider&for=pc",
-      "source": "济南时报",
-      "time": "5月22日",
-      "category": "meeting"
-    },
-    {
-      "title": "豆瓣8.0+!高分人物传记,一书读罢头飞雪",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33007780",
-      "source": "澎湃新闻",
-      "time": "4月21日",
-      "category": "other"
-    },
-    {
-      "title": "央视热播、奥斯卡提名!这12部高分影视原著,承包你的夏日书单丨...",
-      "url": "https://cul.sohu.com/a/1051765790_121106832",
-      "source": "搜狐网",
-      "time": "",
-      "category": "other"
-    },
-    {
-      "title": "甘图云塾丨央视热播、奥斯卡提名!这12部高分影视原著,承包你的...",
-      "url": "https://yule.sohu.com/a/1059167225_121106869",
-      "source": "搜狐娱乐",
-      "time": "前天17:43",
-      "category": "other"
-    },
-    {
-      "title": "万人评分8.5的奇葩神作!哲学还能这么写?!",
-      "url": "https://baijiahao.baidu.com/s?id=1872698737039490057&wfr=spider&for=pc",
-      "source": "新浪财经",
-      "time": "前天23:44",
-      "category": "other"
     },
     {
       "title": "《收获》文学榜揭晓,榜单映射中国文坛迎来“丰年”",
@@ -163,6 +79,20 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
+      "title": "聚焦个体命运与历史纵深 抗战题材长篇小说《地啸》首发",
+      "url": "https://baijiahao.baidu.com/s?id=1853803167951408475&wfr=spider&for=pc",
+      "source": "齐鲁壹点",
+      "time": "1月9日",
+      "category": "activity"
+    },
+    {
+      "title": "老藤长篇小说《自愈者》在京首发在“AI迷宫”中寻找心灵坐标",
+      "url": "https://baijiahao.baidu.com/s?id=1853940665722016960&wfr=spider&for=pc",
+      "source": "红网",
+      "time": "1月10日",
+      "category": "activity"
+    },
+    {
       "title": "抵达辽阔远方的多声部抗战叙事——长篇小说《地啸》首发实录",
       "url": "https://baijiahao.baidu.com/s?id=1854825795286531236&wfr=spider&for=pc",
       "source": "齐鲁壹点",
@@ -189,27 +119,6 @@ window.LIT_DATA = {
       "source": "扬子晚报",
       "time": "7月6日",
       "category": "activity"
-    },
-    {
-      "title": "书评丨陈建辉:在地·共情·文心",
-      "url": "https://baijiahao.baidu.com/s?id=1872846049569463468&wfr=spider&for=pc",
-      "source": "红网",
-      "time": "1小时前",
-      "category": "other"
-    },
-    {
-      "title": "长篇科幻小说《拯救蓝水星》发布",
-      "url": "https://baijiahao.baidu.com/s?id=1872834109191332145&wfr=spider&for=pc",
-      "source": "新浪财经",
-      "time": "4小时前",
-      "category": "activity"
-    },
-    {
-      "title": "成年后想自学数学?5本书从入门到精通!",
-      "url": "https://baijiahao.baidu.com/s?id=1872790177240537180&wfr=spider&for=pc",
-      "source": "新浪财经",
-      "time": "昨天23:58",
-      "category": "other"
     },
     {
       "title": "“新时代辽宁文学之星”新书发布会在沈举办",
