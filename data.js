@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-08 23:17",
+  "update_time": "2026-08-09 00:17",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -69,20 +69,6 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1871665144938351391&wfr=spider&for=pc",
       "source": "封面新闻",
       "time": "7月25日",
-      "category": "activity"
-    },
-    {
-      "title": "“新时代辽宁文学之星”新书发布会在沈举办",
-      "url": "https://baijiahao.baidu.com/s?id=1872717973189476790&wfr=spider&for=pc",
-      "source": "新浪财经",
-      "time": "前天04:50",
-      "category": "activity"
-    },
-    {
-      "title": "...墨白年谱》出版——“中原作家群年谱丛书”新书发布暨研讨会...",
-      "url": "https://cul.sohu.com/a/1059589477_121124705",
-      "source": "搜狐网",
-      "time": "前天16:48",
       "category": "activity"
     },
     {
