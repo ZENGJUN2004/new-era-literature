@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-08 12:02",
+  "update_time": "2026-08-08 13:34",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,62 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "2025豆瓣年度读书榜单电子书合集来啦,56本佳作收藏起来慢慢看",
-      "url": "https://cul.sohu.com/a/972558994_121106908",
-      "source": "搜狐网",
-      "time": "1月5日",
-      "category": "other"
-    },
-    {
-      "title": "京东图书×光明网2025年度百大好书榜单出炉 凝聚全民共识推动品质...",
-      "url": "https://baijiahao.baidu.com/s?id=1853546967375762198&wfr=spider&for=pc",
-      "source": "北青网",
-      "time": "1月6日",
-      "category": "other"
-    },
-    {
-      "title": "“2025书业年度致敬”榜单背后:看他们如何在变革中寻找新航向",
-      "url": "https://baijiahao.baidu.com/s?id=1853625465351146398&wfr=spider&for=pc",
-      "source": "红网",
-      "time": "1月7日",
-      "category": "other"
-    },
-    {
-      "title": "赵德发长篇小说《大海风》入选中国当代文学研究会年度榜单(2025)",
-      "url": "https://baijiahao.baidu.com/s?id=1853465599041956599&wfr=spider&for=pc",
-      "source": "闪电新闻",
-      "time": "1月5日",
-      "category": "activity"
-    },
-    {
-      "title": "长篇小说《大海风》入选中国当代文学研究会年度榜单作者赵德发...",
-      "url": "https://baijiahao.baidu.com/s?id=1853815024647126329&wfr=spider&for=pc",
-      "source": "闪电新闻",
-      "time": "1月9日",
-      "category": "activity"
-    },
-    {
-      "title": "2025豆瓣年度榜单:从经典到先锋,这10部作品是时代的精神注脚",
-      "url": "https://cul.sohu.com/a/976892771_121123844",
-      "source": "搜狐网",
-      "time": "1月16日",
-      "category": "other"
-    },
-    {
-      "title": "中国当代文学研究会年度榜单(2025)发布",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32317986",
-      "source": "澎湃新闻",
-      "time": "1月5日",
-      "category": "other"
-    },
-    {
-      "title": "中国当代文学研究会年度榜单发布",
-      "url": "https://baijiahao.baidu.com/s?id=1855942095675059485&wfr=spider&for=pc",
-      "source": "新浪财经",
-      "time": "2月2日",
-      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
@@ -114,13 +58,6 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "《平居日札》新书发布暨王充闾作品研讨会举办",
-      "url": "https://baijiahao.baidu.com/s?id=1868331656322285113&wfr=spider&for=pc",
-      "source": "人民资讯",
-      "time": "6月18日",
-      "category": "activity"
-    },
-    {
       "title": "第四届接力杯曹文轩儿童小说奖新书发布暨作家对谈在杭举行",
       "url": "https://baijiahao.baidu.com/s?id=1871683520804917732&wfr=spider&for=pc",
       "source": "浙江日报",
@@ -135,10 +72,17 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "曹文轩在第四届接力杯新书发布会呼吁:年轻作家要有“短篇意识”",
-      "url": "https://baijiahao.baidu.com/s?id=1871665144938351391&wfr=spider&for=pc",
-      "source": "封面新闻",
-      "time": "7月25日",
+      "title": "“新时代辽宁文学之星”新书发布会在沈举办",
+      "url": "https://baijiahao.baidu.com/s?id=1872717973189476790&wfr=spider&for=pc",
+      "source": "新浪财经",
+      "time": "前天04:50",
+      "category": "activity"
+    },
+    {
+      "title": "...墨白年谱》出版——“中原作家群年谱丛书”新书发布暨研讨会...",
+      "url": "https://cul.sohu.com/a/1059589477_121124705",
+      "source": "搜狐网",
+      "time": "前天16:48",
       "category": "activity"
     },
     {
