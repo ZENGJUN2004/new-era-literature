@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-08 07:23",
+  "update_time": "2026-08-08 08:43",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -28,6 +28,13 @@ window.LIT_DATA = {
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
+    },
+    {
+      "title": "青年作家徐鹏新作《未央·蜀道残阳》在重庆永川发布",
+      "url": "http://www.cq.xinhuanet.com/20260429/47022f852e3d4ac5a7f184dfcf56d340/c.html",
+      "source": "新华网重庆频道",
+      "time": "4月29日",
+      "category": "other"
     },
     {
       "title": "青年作家徐鹏新作《未央·蜀道残阳》在永川发布",
@@ -61,13 +68,6 @@ window.LIT_DATA = {
       "title": "第四届接力杯曹文轩儿童小说奖新书发布暨作家对谈在全国书博会举行",
       "url": "https://baijiahao.baidu.com/s?id=1871655928518036912&wfr=spider&for=pc",
       "source": "钱江晚报",
-      "time": "7月25日",
-      "category": "activity"
-    },
-    {
-      "title": "曹文轩在第四届接力杯新书发布会呼吁:年轻作家要有“短篇意识”",
-      "url": "https://baijiahao.baidu.com/s?id=1871665144938351391&wfr=spider&for=pc",
-      "source": "封面新闻",
       "time": "7月25日",
       "category": "activity"
     },
