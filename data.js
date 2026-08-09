@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-09 17:27",
+  "update_time": "2026-08-09 18:21",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -107,6 +107,13 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
+      "title": "冉学东长篇小说《上寨》首发仪式暨作品讨论会在西安举行",
+      "url": "https://baijiahao.baidu.com/s?id=1855993505774569048&wfr=spider&for=pc",
+      "source": "三秦都市报",
+      "time": "2月2日",
+      "category": "activity"
+    },
+    {
       "title": "聚焦个体命运与历史纵深 抗战题材长篇小说《地啸》首发",
       "url": "https://baijiahao.baidu.com/s?id=1853803167951408475&wfr=spider&for=pc",
       "source": "齐鲁壹点",
@@ -132,6 +139,13 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1862171110712203201&wfr=spider&for=pc",
       "source": "潇湘晨报",
       "time": "4月11日",
+      "category": "activity"
+    },
+    {
+      "title": "首届“刘知侠长篇小说奖”颁奖典礼暨《青岛市中青年作家文库...",
+      "url": "https://baijiahao.baidu.com/s?id=1865704053349245673&wfr=spider&for=pc",
+      "source": "半岛都市报",
+      "time": "5月20日",
       "category": "activity"
     },
     {
