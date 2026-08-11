@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-11 16:01",
+  "update_time": "2026-08-11 17:48",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,13 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "《暗河》新书发布会举行,苏菲·玛索获金木棉奖杯与荣誉国际作家证...",
+      "url": "https://news.dayoo.com/gzrbrmt/202603/28/170636_54941568.htm",
+      "source": "大洋网",
+      "time": "3月28日",
+      "category": "activity"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
@@ -51,6 +58,13 @@ window.LIT_DATA = {
       "category": "other"
     },
     {
+      "title": "青年作家徐鹏新作《未央·蜀道残阳》在永川发布",
+      "url": "https://baijiahao.baidu.com/s?id=1863771851573387062&wfr=spider&for=pc",
+      "source": "金台资讯",
+      "time": "4月29日",
+      "category": "other"
+    },
+    {
       "title": "作家邱华栋《敦煌变》新书发布会纪实",
       "url": "https://baijiahao.baidu.com/s?id=1863401191001013265&wfr=spider&for=pc",
       "source": "青瞳视角",
@@ -66,8 +80,8 @@ window.LIT_DATA = {
     },
     {
       "title": "第四届接力杯曹文轩儿童小说奖新书发布暨作家对谈在杭举行",
-      "url": "https://baijiahao.baidu.com/s?id=1871683673744035341&wfr=spider&for=pc",
-      "source": "潮新闻客户端",
+      "url": "https://baijiahao.baidu.com/s?id=1871683520804917732&wfr=spider&for=pc",
+      "source": "浙江日报",
       "time": "7月25日",
       "category": "activity"
     },
@@ -83,13 +97,6 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1871665144938351391&wfr=spider&for=pc",
       "source": "封面新闻",
       "time": "7月25日",
-      "category": "activity"
-    },
-    {
-      "title": "冉学东长篇小说《上寨》首发仪式暨作品讨论会在西安举行",
-      "url": "https://baijiahao.baidu.com/s?id=1855993505774569048&wfr=spider&for=pc",
-      "source": "三秦都市报",
-      "time": "2月2日",
       "category": "activity"
     },
     {
@@ -111,13 +118,6 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1854825795286531236&wfr=spider&for=pc",
       "source": "齐鲁壹点",
       "time": "1月20日",
-      "category": "activity"
-    },
-    {
-      "title": "把家乡长辈抗战故事写成书,长篇小说《长城1933》长沙首发",
-      "url": "https://baijiahao.baidu.com/s?id=1862171110712203201&wfr=spider&for=pc",
-      "source": "潇湘晨报",
-      "time": "4月11日",
       "category": "activity"
     },
     {
