@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-11 22:10",
+  "update_time": "2026-08-11 23:47",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,13 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "《暗河》新书发布会举行,苏菲·玛索获金木棉奖杯与荣誉国际作家证...",
-      "url": "https://news.dayoo.com/gzrbrmt/202603/28/170636_54941568.htm",
-      "source": "大洋网",
-      "time": "3月28日",
-      "category": "activity"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
@@ -55,6 +48,20 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1863401191001013265&wfr=spider&for=pc",
       "source": "青瞳视角",
       "time": "4月25日",
+      "category": "activity"
+    },
+    {
+      "title": "《平居日札》新书发布暨王充闾作品研讨会举办",
+      "url": "https://baijiahao.baidu.com/s?id=1868331656322285113&wfr=spider&for=pc",
+      "source": "人民资讯",
+      "time": "6月18日",
+      "category": "activity"
+    },
+    {
+      "title": "第四届接力杯曹文轩儿童小说奖新书发布暨作家对谈在杭举行",
+      "url": "https://baijiahao.baidu.com/s?id=1871683520804917732&wfr=spider&for=pc",
+      "source": "浙江日报",
+      "time": "7月25日",
       "category": "activity"
     },
     {
