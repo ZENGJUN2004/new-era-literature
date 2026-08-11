@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-11 19:36",
+  "update_time": "2026-08-11 20:37",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -30,20 +30,6 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "聚焦边疆书写 张者《天边》新书发布",
-      "url": "https://baijiahao.baidu.com/s?id=1862343135717648529&wfr=spider&for=pc",
-      "source": "中国新闻网",
-      "time": "4月13日",
-      "category": "activity"
-    },
-    {
-      "title": "书香喀什・新书发布暨现场签售活动举行",
-      "url": "http://baijiahao.baidu.com/s?id=1863459232450526300&wfr=spider&for=pc",
-      "source": "澎湃新闻客户端",
-      "time": "4月25日",
-      "category": "activity"
-    },
-    {
       "title": "青年作家徐鹏新作《未央·蜀道残阳》在重庆永川发布",
       "url": "http://www.cq.xinhuanet.com/20260429/47022f852e3d4ac5a7f184dfcf56d340/c.html",
       "source": "新华网重庆频道",
@@ -65,20 +51,6 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "《平居日札》新书发布暨王充闾作品研讨会举办",
-      "url": "https://baijiahao.baidu.com/s?id=1868331656322285113&wfr=spider&for=pc",
-      "source": "人民资讯",
-      "time": "6月18日",
-      "category": "activity"
-    },
-    {
-      "title": "第四届接力杯曹文轩儿童小说奖新书发布暨作家对谈在杭举行",
-      "url": "https://baijiahao.baidu.com/s?id=1871683520804917732&wfr=spider&for=pc",
-      "source": "浙江日报",
-      "time": "7月25日",
-      "category": "activity"
-    },
-    {
       "title": "第四届接力杯曹文轩儿童小说奖新书发布暨作家对谈在全国书博会举行",
       "url": "https://baijiahao.baidu.com/s?id=1871655928518036912&wfr=spider&for=pc",
       "source": "钱江晚报",
@@ -90,13 +62,6 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1871665144938351391&wfr=spider&for=pc",
       "source": "封面新闻",
       "time": "7月25日",
-      "category": "activity"
-    },
-    {
-      "title": "冉学东长篇小说《上寨》首发仪式暨作品讨论会在西安举行",
-      "url": "https://baijiahao.baidu.com/s?id=1855993505774569048&wfr=spider&for=pc",
-      "source": "三秦都市报",
-      "time": "2月2日",
       "category": "activity"
     },
     {
