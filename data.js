@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-11 17:48",
+  "update_time": "2026-08-11 18:40",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,13 +23,6 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "《暗河》新书发布会举行,苏菲·玛索获金木棉奖杯与荣誉国际作家证...",
-      "url": "https://news.dayoo.com/gzrbrmt/202603/28/170636_54941568.htm",
-      "source": "大洋网",
-      "time": "3月28日",
-      "category": "activity"
-    },
-    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
@@ -37,17 +30,17 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
+      "title": "聚焦边疆书写 张者《天边》新书发布",
+      "url": "https://baijiahao.baidu.com/s?id=1862343135717648529&wfr=spider&for=pc",
+      "source": "中国新闻网",
+      "time": "4月13日",
+      "category": "activity"
+    },
+    {
       "title": "书香喀什・新书发布暨现场签售活动举行",
       "url": "http://baijiahao.baidu.com/s?id=1863459232450526300&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "4月25日",
-      "category": "activity"
-    },
-    {
-      "title": "山乡巨变中的文学守望:《太阳照在滹沱河上》新书发布会在正定塔元...",
-      "url": "https://baijiahao.baidu.com/s?id=1863822847994328712&wfr=spider&for=pc",
-      "source": "河北青年报",
-      "time": "4月30日",
       "category": "activity"
     },
     {
@@ -100,6 +93,13 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
+      "title": "冉学东长篇小说《上寨》首发仪式暨作品讨论会在西安举行",
+      "url": "https://baijiahao.baidu.com/s?id=1855993505774569048&wfr=spider&for=pc",
+      "source": "三秦都市报",
+      "time": "2月2日",
+      "category": "activity"
+    },
+    {
       "title": "聚焦个体命运与历史纵深 抗战题材长篇小说《地啸》首发",
       "url": "https://baijiahao.baidu.com/s?id=1853803167951408475&wfr=spider&for=pc",
       "source": "齐鲁壹点",
@@ -132,6 +132,13 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1868337403425152313&wfr=spider&for=pc",
       "source": "中国新闻网",
       "time": "6月18日",
+      "category": "activity"
+    },
+    {
+      "title": "长篇小说《不虚此生》在京首发聚焦教育现实与女性精神成长",
+      "url": "http://www.xinhuanet.com/politics/20260619/50825e3ba9534491bf9c2ba5460739b3/c.html",
+      "source": "新华网",
+      "time": "6月19日",
       "category": "activity"
     },
     {
