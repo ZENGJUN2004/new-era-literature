@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-12 15:04",
+  "update_time": "2026-08-12 16:58",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,55 +23,6 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "“2025书业年度致敬”榜单背后:看他们如何在变革中寻找新航向",
-      "url": "https://baijiahao.baidu.com/s?id=1853625465351146398&wfr=spider&for=pc",
-      "source": "红网",
-      "time": "1月7日",
-      "category": "other"
-    },
-    {
-      "title": "2025年,北大社这些书登上了各家年度榜单!",
-      "url": "https://cul.sohu.com/a/979767919_232629",
-      "source": "搜狐网",
-      "time": "1月25日",
-      "category": "other"
-    },
-    {
-      "title": "《收获》文学榜揭晓,榜单映射中国文坛迎来“丰年”",
-      "url": "https://www.news.cn/politics/20260204/87438f63cae0416ba7ab64906791eccb/c.html",
-      "source": "新华网",
-      "time": "2月4日",
-      "category": "other"
-    },
-    {
-      "title": "馆员荐书|2025豆瓣年度榜单:从经典到先锋,这10部作品是时代的精神...",
-      "url": "https://cul.sohu.com/a/976428009_121106991",
-      "source": "搜狐网",
-      "time": "1月15日",
-      "category": "other"
-    },
-    {
-      "title": "长篇小说《大海风》入选中国当代文学研究会年度榜单作者赵德发...",
-      "url": "https://baijiahao.baidu.com/s?id=1853815024647126329&wfr=spider&for=pc",
-      "source": "闪电新闻",
-      "time": "1月9日",
-      "category": "activity"
-    },
-    {
-      "title": "中国当代文学研究会年度榜单(2025)发布",
-      "url": "https://www.thepaper.cn/newsDetail_forward_32317986",
-      "source": "澎湃新闻",
-      "time": "1月5日",
-      "category": "other"
-    },
-    {
-      "title": "中国当代文学研究会年度榜单发布",
-      "url": "https://baijiahao.baidu.com/s?id=1855942095675059485&wfr=spider&for=pc",
-      "source": "新浪财经",
-      "time": "2月2日",
-      "category": "other"
-    },
-    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
@@ -79,10 +30,10 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "书香喀什・新书发布暨现场签售活动举行",
-      "url": "http://baijiahao.baidu.com/s?id=1863459232450526300&wfr=spider&for=pc",
-      "source": "澎湃新闻客户端",
-      "time": "4月25日",
+      "title": "山乡巨变中的文学守望:《太阳照在滹沱河上》新书发布会在正定塔元...",
+      "url": "https://baijiahao.baidu.com/s?id=1863822847994328712&wfr=spider&for=pc",
+      "source": "河北青年报",
+      "time": "4月30日",
       "category": "activity"
     },
     {
