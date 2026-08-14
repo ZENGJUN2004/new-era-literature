@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-14 20:36",
+  "update_time": "2026-08-14 22:07",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -104,6 +104,20 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1853940665722016960&wfr=spider&for=pc",
       "source": "红网",
       "time": "1月10日",
+      "category": "activity"
+    },
+    {
+      "title": "抵达辽阔远方的多声部抗战叙事——长篇小说《地啸》首发实录",
+      "url": "https://baijiahao.baidu.com/s?id=1854825795286531236&wfr=spider&for=pc",
+      "source": "齐鲁壹点",
+      "time": "1月20日",
+      "category": "activity"
+    },
+    {
+      "title": "首届“刘知侠长篇小说奖”颁奖典礼暨《青岛市中青年作家文库...",
+      "url": "https://baijiahao.baidu.com/s?id=1865704053349245673&wfr=spider&for=pc",
+      "source": "半岛都市报",
+      "time": "5月20日",
       "category": "activity"
     },
     {
