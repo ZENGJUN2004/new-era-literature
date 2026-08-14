@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-14 18:46",
+  "update_time": "2026-08-14 19:35",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -37,6 +37,13 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
+      "title": "聚焦边疆书写 张者《天边》新书发布",
+      "url": "https://baijiahao.baidu.com/s?id=1862343135717648529&wfr=spider&for=pc",
+      "source": "中国新闻网",
+      "time": "4月13日",
+      "category": "activity"
+    },
+    {
       "title": "书香喀什・新书发布暨现场签售活动举行",
       "url": "http://baijiahao.baidu.com/s?id=1863459232450526300&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
@@ -44,23 +51,9 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "山乡巨变中的文学守望:《太阳照在滹沱河上》新书发布会在正定塔元...",
-      "url": "https://baijiahao.baidu.com/s?id=1863822847994328712&wfr=spider&for=pc",
-      "source": "河北青年报",
-      "time": "4月30日",
-      "category": "activity"
-    },
-    {
       "title": "青年作家徐鹏新作《未央·蜀道残阳》在重庆永川发布",
       "url": "http://www.cq.xinhuanet.com/20260429/47022f852e3d4ac5a7f184dfcf56d340/c.html",
       "source": "新华网重庆频道",
-      "time": "4月29日",
-      "category": "other"
-    },
-    {
-      "title": "青年作家徐鹏新作《未央·蜀道残阳》在永川发布",
-      "url": "https://baijiahao.baidu.com/s?id=1863771851573387062&wfr=spider&for=pc",
-      "source": "金台资讯",
       "time": "4月29日",
       "category": "other"
     },
@@ -72,10 +65,10 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "《平居日札》新书发布暨王充闾作品研讨会举办",
-      "url": "https://baijiahao.baidu.com/s?id=1868331656322285113&wfr=spider&for=pc",
-      "source": "人民资讯",
-      "time": "6月18日",
+      "title": "第四届接力杯曹文轩儿童小说奖新书发布暨作家对谈在杭举行",
+      "url": "https://baijiahao.baidu.com/s?id=1871683520804917732&wfr=spider&for=pc",
+      "source": "浙江日报",
+      "time": "7月25日",
       "category": "activity"
     },
     {
@@ -118,13 +111,6 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1854825795286531236&wfr=spider&for=pc",
       "source": "齐鲁壹点",
       "time": "1月20日",
-      "category": "activity"
-    },
-    {
-      "title": "首届“刘知侠长篇小说奖”颁奖典礼暨《青岛市中青年作家文库...",
-      "url": "https://baijiahao.baidu.com/s?id=1865704053349245673&wfr=spider&for=pc",
-      "source": "半岛都市报",
-      "time": "5月20日",
       "category": "activity"
     },
     {
