@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-15 08:32",
+  "update_time": "2026-08-15 10:06",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,111 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "中国科幻产业走向“生态出海”",
+      "url": "https://baijiahao.baidu.com/s?id=1861855033203367752&wfr=spider&for=pc",
+      "source": "环球网",
+      "time": "4月8日",
+      "category": "voice"
+    },
+    {
+      "title": "贾樟柯、梁鸿谈非虚构写作和纪录电影",
+      "url": "http://baijiahao.baidu.com/s?id=1717824461237591660&wfr=spider&for=pc",
+      "source": "澎湃新闻客户端",
+      "time": "",
+      "category": "voice"
+    },
+    {
+      "title": "张辛欣:中国非虚构写作写法太单一,还美其名曰比照《纽约客》",
+      "url": "https://m.jiemian.com/article/795624.html",
+      "source": "界面新闻",
+      "time": "",
+      "category": "voice"
+    },
+    {
+      "title": "拔出萝卜带出泥?莫言没想到,贾浅浅翻车后,女儿管笑笑也被牵连",
+      "url": "https://yule.sohu.com/a/1051442675_122747234",
+      "source": "搜狐娱乐",
+      "time": "7月17日",
+      "category": "other"
+    },
+    {
+      "title": "贾浅浅从“屎尿体”诗歌争议,到论文涉嫌抄袭被举报,你怎么看?",
+      "url": "https://cul.sohu.com/a/1009038215_100215423",
+      "source": "搜狐网",
+      "time": "4月13日",
+      "category": "voice"
+    },
+    {
+      "title": "饱受争议的文坛大姐大,如今没了声音了",
+      "url": "https://cul.sohu.com/a/1013905136_121351884",
+      "source": "搜狐网",
+      "time": "4月24日",
+      "category": "voice"
+    },
+    {
+      "title": "郝景芳AI创作争议,本质是知情权引发的信任危机|实习生选拔赛",
+      "url": "https://baijiahao.baidu.com/s?id=1868405602213173548&wfr=spider&for=pc",
+      "source": "新京报",
+      "time": "6月19日",
+      "category": "voice"
+    },
+    {
+      "title": "诺贝尔文学奖得主托尔卡丘克“AI写作”言论引争议",
+      "url": "https://baijiahao.baidu.com/s?id=1866154520298998977&wfr=spider&for=pc",
+      "source": "济南时报",
+      "time": "5月25日",
+      "category": "voice"
+    },
+    {
+      "title": "雨果奖作家AI创作争议,文学创作应有AI透明标尺",
+      "url": "https://baijiahao.baidu.com/s?id=1868499124171297462&wfr=spider&for=pc",
+      "source": "红网",
+      "time": "6月20日",
+      "category": "voice"
+    },
+    {
+      "title": "2025年度“中国人文学术十大热点”发布 多维度勾勒中国人文学术图景",
+      "url": "https://www.sd.chinanews.com.cn/2/2026/0509/101698.html",
+      "source": "中国新闻网",
+      "time": "5月9日",
+      "category": "voice"
+    },
+    {
+      "title": "2025年度中国人文学术十大热点发布",
+      "url": "https://news.youth.cn/gn/202605/t20260512_16654345.htm",
+      "source": "中国青年网",
+      "time": "5月12日",
+      "category": "voice"
+    },
+    {
+      "title": "马上评|名人举报名人,厘清事实最关键",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33513181",
+      "source": "澎湃新闻",
+      "time": "7月3日",
+      "category": "other"
+    },
+    {
+      "title": "八十岁的笔会,为何屡屡受高考命题青睐?",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33552917",
+      "source": "澎湃新闻",
+      "time": "7月13日",
+      "category": "other"
+    },
+    {
+      "title": "解读“传统”,重温茅盾文学奖设立初衷|纪念茅盾130周年诞辰",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32560543",
+      "source": "澎湃新闻",
+      "time": "2月11日",
+      "category": "other"
+    },
+    {
+      "title": "对话中国作家协会副主席、茅盾文学奖得主张炜:儿童文学是“更大...",
+      "url": "https://baijiahao.baidu.com/s?id=1869014615582323233&wfr=spider&for=pc",
+      "source": "潮新闻客户端",
+      "time": "6月26日",
+      "category": "other"
     },
     {
       "title": "人民文学出版社致歉:已启动对《经典常谈》的修订工作",
@@ -93,10 +198,24 @@ window.LIT_DATA = {
       "category": "other"
     },
     {
+      "title": "《十月》杂志举办青年作家创作分享会",
+      "url": "https://baijiahao.baidu.com/s?id=1860050202536776799&wfr=spider&for=pc",
+      "source": "人民网",
+      "time": "3月19日",
+      "category": "other"
+    },
+    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
+      "category": "activity"
+    },
+    {
+      "title": "新加坡著名慈善家、作家卓顺发《太阳出来了,露水不见了》新书发布",
+      "url": "https://baijiahao.baidu.com/s?id=1854366953074514692&wfr=spider&for=pc",
+      "source": "曲靖珠江网",
+      "time": "1月15日",
       "category": "activity"
     },
     {
@@ -111,13 +230,6 @@ window.LIT_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1863459232450526300&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "4月25日",
-      "category": "activity"
-    },
-    {
-      "title": "山乡巨变中的文学守望:《太阳照在滹沱河上》新书发布会在正定塔元...",
-      "url": "https://baijiahao.baidu.com/s?id=1863822847994328712&wfr=spider&for=pc",
-      "source": "河北青年报",
-      "time": "4月30日",
       "category": "activity"
     },
     {
