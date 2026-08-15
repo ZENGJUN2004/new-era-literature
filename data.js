@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-15 10:06",
+  "update_time": "2026-08-15 11:28",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -44,13 +44,6 @@ window.LIT_DATA = {
       "category": "voice"
     },
     {
-      "title": "拔出萝卜带出泥?莫言没想到,贾浅浅翻车后,女儿管笑笑也被牵连",
-      "url": "https://yule.sohu.com/a/1051442675_122747234",
-      "source": "搜狐娱乐",
-      "time": "7月17日",
-      "category": "other"
-    },
-    {
       "title": "贾浅浅从“屎尿体”诗歌争议,到论文涉嫌抄袭被举报,你怎么看?",
       "url": "https://cul.sohu.com/a/1009038215_100215423",
       "source": "搜狐网",
@@ -72,11 +65,25 @@ window.LIT_DATA = {
       "category": "voice"
     },
     {
+      "title": "【思想界】彼得·汉德克获诺奖惹争议:文学性能够用政治和道德衡量...",
+      "url": "https://m.jiemian.com/article/3573232.html",
+      "source": "界面新闻",
+      "time": "",
+      "category": "voice"
+    },
+    {
       "title": "诺贝尔文学奖得主托尔卡丘克“AI写作”言论引争议",
       "url": "https://baijiahao.baidu.com/s?id=1866154520298998977&wfr=spider&for=pc",
       "source": "济南时报",
       "time": "5月25日",
       "category": "voice"
+    },
+    {
+      "title": "获奖小说疑似AI代笔?文学界的AI写作争议愈演愈烈",
+      "url": "https://www.bjnews.com.cn/detail/1779845085169910.html",
+      "source": "新京报网",
+      "time": "5月27日",
+      "category": "activity"
     },
     {
       "title": "雨果奖作家AI创作争议,文学创作应有AI透明标尺",
@@ -86,32 +93,11 @@ window.LIT_DATA = {
       "category": "voice"
     },
     {
-      "title": "2025年度“中国人文学术十大热点”发布 多维度勾勒中国人文学术图景",
-      "url": "https://www.sd.chinanews.com.cn/2/2026/0509/101698.html",
-      "source": "中国新闻网",
-      "time": "5月9日",
-      "category": "voice"
-    },
-    {
-      "title": "2025年度中国人文学术十大热点发布",
-      "url": "https://news.youth.cn/gn/202605/t20260512_16654345.htm",
-      "source": "中国青年网",
-      "time": "5月12日",
-      "category": "voice"
-    },
-    {
-      "title": "马上评|名人举报名人,厘清事实最关键",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33513181",
+      "title": "...相似,艾伦·金斯堡百年诞辰,约恩·福瑟新作预告|7月世界文学热点",
+      "url": "https://m.thepaper.cn/newsDetail_forward_33764248",
       "source": "澎湃新闻",
-      "time": "7月3日",
-      "category": "other"
-    },
-    {
-      "title": "八十岁的笔会,为何屡屡受高考命题青睐?",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33552917",
-      "source": "澎湃新闻",
-      "time": "7月13日",
-      "category": "other"
+      "time": "前天15:34",
+      "category": "voice"
     },
     {
       "title": "解读“传统”,重温茅盾文学奖设立初衷|纪念茅盾130周年诞辰",
