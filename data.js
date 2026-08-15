@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-15 17:15",
+  "update_time": "2026-08-15 18:10",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -30,10 +30,17 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "聚焦边疆书写 张者《天边》新书发布",
-      "url": "https://baijiahao.baidu.com/s?id=1862343135717648529&wfr=spider&for=pc",
-      "source": "中国新闻网",
-      "time": "4月13日",
+      "title": "关仁山《太阳照在滹沱河上》新书发布会在正定举行",
+      "url": "https://cul.sohu.com/a/1020080228_122014422",
+      "source": "搜狐网",
+      "time": "5月9日",
+      "category": "activity"
+    },
+    {
+      "title": "新加坡著名慈善家、作家卓顺发《太阳出来了,露水不见了》新书发布",
+      "url": "https://baijiahao.baidu.com/s?id=1854366953074514692&wfr=spider&for=pc",
+      "source": "曲靖珠江网",
+      "time": "1月15日",
       "category": "activity"
     },
     {
@@ -41,13 +48,6 @@ window.LIT_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1863459232450526300&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "4月25日",
-      "category": "activity"
-    },
-    {
-      "title": "山乡巨变中的文学守望:《太阳照在滹沱河上》新书发布会在正定塔元...",
-      "url": "https://baijiahao.baidu.com/s?id=1863822847994328712&wfr=spider&for=pc",
-      "source": "河北青年报",
-      "time": "4月30日",
       "category": "activity"
     },
     {
@@ -73,8 +73,8 @@ window.LIT_DATA = {
     },
     {
       "title": "第四届接力杯曹文轩儿童小说奖新书发布暨作家对谈在杭举行",
-      "url": "https://baijiahao.baidu.com/s?id=1871683520804917732&wfr=spider&for=pc",
-      "source": "浙江日报",
+      "url": "https://baijiahao.baidu.com/s?id=1871683673744035341&wfr=spider&for=pc",
+      "source": "潮新闻客户端",
       "time": "7月25日",
       "category": "activity"
     },
@@ -82,13 +82,6 @@ window.LIT_DATA = {
       "title": "第四届接力杯曹文轩儿童小说奖新书发布暨作家对谈在全国书博会举行",
       "url": "https://baijiahao.baidu.com/s?id=1871655928518036912&wfr=spider&for=pc",
       "source": "钱江晚报",
-      "time": "7月25日",
-      "category": "activity"
-    },
-    {
-      "title": "曹文轩在第四届接力杯新书发布会呼吁:年轻作家要有“短篇意识”",
-      "url": "https://baijiahao.baidu.com/s?id=1871665144938351391&wfr=spider&for=pc",
-      "source": "封面新闻",
       "time": "7月25日",
       "category": "activity"
     },
