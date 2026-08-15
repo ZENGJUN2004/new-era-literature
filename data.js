@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-15 23:09",
+  "update_time": "2026-08-16 00:10",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -44,6 +44,13 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
+      "title": "《平居日札》新书发布暨王充闾作品研讨会举办",
+      "url": "https://baijiahao.baidu.com/s?id=1868331656322285113&wfr=spider&for=pc",
+      "source": "人民资讯",
+      "time": "6月18日",
+      "category": "activity"
+    },
+    {
       "title": "青年作家徐鹏新作《未央·蜀道残阳》在重庆永川发布",
       "url": "http://www.cq.xinhuanet.com/20260429/47022f852e3d4ac5a7f184dfcf56d340/c.html",
       "source": "新华网重庆频道",
@@ -65,13 +72,6 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "《平居日札》新书发布暨王充闾作品研讨会举办",
-      "url": "https://baijiahao.baidu.com/s?id=1868331656322285113&wfr=spider&for=pc",
-      "source": "人民资讯",
-      "time": "6月18日",
-      "category": "activity"
-    },
-    {
       "title": "第四届接力杯曹文轩儿童小说奖新书发布暨作家对谈在杭举行",
       "url": "https://baijiahao.baidu.com/s?id=1871683520804917732&wfr=spider&for=pc",
       "source": "浙江日报",
@@ -83,6 +83,13 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1871655928518036912&wfr=spider&for=pc",
       "source": "钱江晚报",
       "time": "7月25日",
+      "category": "activity"
+    },
+    {
+      "title": "史笔通心——《平居日札》新书发布暨王充闾作品研讨会在沈阳成功...",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33783689",
+      "source": "澎湃新闻",
+      "time": "前天16:35",
       "category": "activity"
     },
     {
@@ -139,13 +146,6 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1869945028176085222&wfr=spider&for=pc",
       "source": "扬子晚报",
       "time": "7月6日",
-      "category": "activity"
-    },
-    {
-      "title": "史笔通心——《平居日札》新书发布暨王充闾作品研讨会在沈阳成功...",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33783689",
-      "source": "澎湃新闻",
-      "time": "昨天16:35",
       "category": "activity"
     }
   ]
