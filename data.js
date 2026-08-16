@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-16 15:21",
+  "update_time": "2026-08-16 16:14",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -44,13 +44,6 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "史笔通心——《平居日札》新书发布暨王充闾作品研讨会在沈阳成功...",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33783689",
-      "source": "澎湃新闻",
-      "time": "",
-      "category": "activity"
-    },
-    {
       "title": "《平居日札》新书发布暨王充闾作品研讨会举办",
       "url": "https://baijiahao.baidu.com/s?id=1868331656322285113&wfr=spider&for=pc",
       "source": "人民资讯",
@@ -90,6 +83,13 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1871655928518036912&wfr=spider&for=pc",
       "source": "钱江晚报",
       "time": "7月25日",
+      "category": "activity"
+    },
+    {
+      "title": "史笔通心——《平居日札》新书发布暨王充闾作品研讨会在沈阳成功...",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33783689",
+      "source": "澎湃新闻",
+      "time": "前天16:35",
       "category": "activity"
     },
     {
