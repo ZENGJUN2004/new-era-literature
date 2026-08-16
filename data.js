@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-16 14:19",
+  "update_time": "2026-08-16 15:21",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -27,13 +27,6 @@ window.LIT_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
-      "category": "activity"
-    },
-    {
-      "title": "老藤长篇小说《自愈者》新书发布会举办",
-      "url": "https://baijiahao.baidu.com/s?id=1854092227377307964&wfr=spider&for=pc",
-      "source": "工人日报",
-      "time": "1月12日",
       "category": "activity"
     },
     {
@@ -68,6 +61,13 @@ window.LIT_DATA = {
       "title": "青年作家徐鹏新作《未央·蜀道残阳》在重庆永川发布",
       "url": "http://www.cq.xinhuanet.com/20260429/47022f852e3d4ac5a7f184dfcf56d340/c.html",
       "source": "新华网重庆频道",
+      "time": "4月29日",
+      "category": "other"
+    },
+    {
+      "title": "青年作家徐鹏新作《未央·蜀道残阳》在永川发布",
+      "url": "https://baijiahao.baidu.com/s?id=1863771851573387062&wfr=spider&for=pc",
+      "source": "金台资讯",
       "time": "4月29日",
       "category": "other"
     },
