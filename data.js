@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-16 18:11",
+  "update_time": "2026-08-16 19:10",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -30,6 +30,13 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
+      "title": "关仁山《太阳照在滹沱河上》新书发布会在正定举行",
+      "url": "https://cul.sohu.com/a/1020080228_122014422",
+      "source": "搜狐网",
+      "time": "5月9日",
+      "category": "activity"
+    },
+    {
       "title": "新加坡著名慈善家、作家卓顺发《太阳出来了,露水不见了》新书发布",
       "url": "https://baijiahao.baidu.com/s?id=1854366953074514692&wfr=spider&for=pc",
       "source": "曲靖珠江网",
@@ -41,13 +48,6 @@ window.LIT_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1863459232450526300&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "4月25日",
-      "category": "activity"
-    },
-    {
-      "title": "《平居日札》新书发布暨王充闾作品研讨会举办",
-      "url": "https://baijiahao.baidu.com/s?id=1868331656322285113&wfr=spider&for=pc",
-      "source": "人民资讯",
-      "time": "6月18日",
       "category": "activity"
     },
     {
