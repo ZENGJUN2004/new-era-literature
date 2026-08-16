@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-16 07:10",
+  "update_time": "2026-08-16 08:33",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -34,6 +34,13 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1854092227377307964&wfr=spider&for=pc",
       "source": "工人日报",
       "time": "1月12日",
+      "category": "activity"
+    },
+    {
+      "title": "关仁山《太阳照在滹沱河上》新书发布会在正定举行",
+      "url": "https://cul.sohu.com/a/1020080228_122014422",
+      "source": "搜狐网",
+      "time": "5月9日",
       "category": "activity"
     },
     {
