@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-17 23:14",
+  "update_time": "2026-08-18 00:13",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -93,6 +93,13 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
+      "title": "“内蒙古文学重点作品创作工程”新书发布",
+      "url": "https://baijiahao.baidu.com/s?id=1873639070575612635&wfr=spider&for=pc",
+      "source": "金台资讯",
+      "time": "前天07:37",
+      "category": "activity"
+    },
+    {
       "title": "冉学东长篇小说《上寨》首发仪式暨作品讨论会在西安举行",
       "url": "https://baijiahao.baidu.com/s?id=1855993505774569048&wfr=spider&for=pc",
       "source": "三秦都市报",
@@ -146,13 +153,6 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1869945028176085222&wfr=spider&for=pc",
       "source": "扬子晚报",
       "time": "7月6日",
-      "category": "activity"
-    },
-    {
-      "title": "“内蒙古文学重点作品创作工程”新书发布",
-      "url": "https://baijiahao.baidu.com/s?id=1873639070575612635&wfr=spider&for=pc",
-      "source": "金台资讯",
-      "time": "昨天07:37",
       "category": "activity"
     }
   ]
