@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-17 18:20",
+  "update_time": "2026-08-17 19:14",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -30,13 +30,6 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "新加坡著名慈善家、作家卓顺发《太阳出来了,露水不见了》新书发布",
-      "url": "https://baijiahao.baidu.com/s?id=1854366953074514692&wfr=spider&for=pc",
-      "source": "曲靖珠江网",
-      "time": "1月15日",
-      "category": "activity"
-    },
-    {
       "title": "书香喀什・新书发布暨现场签售活动举行",
       "url": "http://baijiahao.baidu.com/s?id=1863459232450526300&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
@@ -51,6 +44,13 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
+      "title": "史笔通心——《平居日札》新书发布暨王充闾作品研讨会在沈阳成功...",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33783689",
+      "source": "澎湃新闻",
+      "time": "",
+      "category": "activity"
+    },
+    {
       "title": "《平居日札》新书发布暨王充闾作品研讨会举办",
       "url": "https://baijiahao.baidu.com/s?id=1868331656322285113&wfr=spider&for=pc",
       "source": "人民资讯",
@@ -61,6 +61,13 @@ window.LIT_DATA = {
       "title": "青年作家徐鹏新作《未央·蜀道残阳》在重庆永川发布",
       "url": "http://www.cq.xinhuanet.com/20260429/47022f852e3d4ac5a7f184dfcf56d340/c.html",
       "source": "新华网重庆频道",
+      "time": "4月29日",
+      "category": "other"
+    },
+    {
+      "title": "青年作家徐鹏新作《未央·蜀道残阳》在永川发布",
+      "url": "https://baijiahao.baidu.com/s?id=1863771851573387062&wfr=spider&for=pc",
+      "source": "金台资讯",
       "time": "4月29日",
       "category": "other"
     },
@@ -139,6 +146,13 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1869945028176085222&wfr=spider&for=pc",
       "source": "扬子晚报",
       "time": "7月6日",
+      "category": "activity"
+    },
+    {
+      "title": "“内蒙古文学重点作品创作工程”新书发布",
+      "url": "https://baijiahao.baidu.com/s?id=1873639070575612635&wfr=spider&for=pc",
+      "source": "金台资讯",
+      "time": "昨天07:37",
       "category": "activity"
     }
   ]
