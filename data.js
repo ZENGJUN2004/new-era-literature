@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-18 19:14",
+  "update_time": "2026-08-18 20:19",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -20,6 +20,48 @@ window.LIT_DATA = {
       "url": "https://scholar.baidu.com/scholar?q=当代文学&sc_ylo=2024&sort=sc_time",
       "source": "CNKI",
       "time": "实时",
+      "category": "meeting"
+    },
+    {
+      "title": "有好的文本作品,才有更好的文学批评存在",
+      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1080414",
+      "source": "上观",
+      "time": "3月12日",
+      "category": "meeting"
+    },
+    {
+      "title": "《大家》主编周明全:文学不应有那么多标签|顶端文学名刊访谈",
+      "url": "https://cul.sohu.com/a/1019418013_121434717",
+      "source": "搜狐网",
+      "time": "5月7日",
+      "category": "other"
+    },
+    {
+      "title": "文艺批评·新书选读 | 韩松刚:《批评的抵达》",
+      "url": "https://cul.sohu.com/a/1015993578_121124790",
+      "source": "搜狐网",
+      "time": "4月29日",
+      "category": "activity"
+    },
+    {
+      "title": "在流量时代,文学批评如何“抵达”人心?",
+      "url": "https://baijiahao.baidu.com/s?id=1865876878495342673&wfr=spider&for=pc",
+      "source": "济南时报",
+      "time": "5月22日",
+      "category": "meeting"
+    },
+    {
+      "title": "文艺批评·鲁奖访谈|杨辉:以“通三统”融贯古今,做“历史的中间物...",
+      "url": "https://cul.sohu.com/a/1063460781_121124790",
+      "source": "搜狐网",
+      "time": "前天09:00",
+      "category": "meeting"
+    },
+    {
+      "title": "铺路·立论·传薪——束沛德对中国当代儿童文学事业的贡献",
+      "url": "https://baijiahao.baidu.com/s?id=1872195068812614968&wfr=spider&for=pc",
+      "source": "光明网",
+      "time": "7月31日",
       "category": "meeting"
     },
     {
