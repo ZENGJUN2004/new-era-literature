@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-18 21:34",
+  "update_time": "2026-08-18 22:21",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -65,13 +65,6 @@ window.LIT_DATA = {
       "category": "other"
     },
     {
-      "title": "青年作家徐鹏新作《未央·蜀道残阳》在永川发布",
-      "url": "https://baijiahao.baidu.com/s?id=1863771851573387062&wfr=spider&for=pc",
-      "source": "金台资讯",
-      "time": "4月29日",
-      "category": "other"
-    },
-    {
       "title": "作家邱华栋《敦煌变》新书发布会纪实",
       "url": "https://baijiahao.baidu.com/s?id=1863401191001013265&wfr=spider&for=pc",
       "source": "青瞳视角",
@@ -90,13 +83,6 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1871655928518036912&wfr=spider&for=pc",
       "source": "钱江晚报",
       "time": "7月25日",
-      "category": "activity"
-    },
-    {
-      "title": "“内蒙古文学重点作品创作工程”新书发布",
-      "url": "https://baijiahao.baidu.com/s?id=1873639070575612635&wfr=spider&for=pc",
-      "source": "金台资讯",
-      "time": "前天07:37",
       "category": "activity"
     },
     {
@@ -153,6 +139,13 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1869945028176085222&wfr=spider&for=pc",
       "source": "扬子晚报",
       "time": "7月6日",
+      "category": "activity"
+    },
+    {
+      "title": "《于敏和氢弹》新书发布",
+      "url": "https://baijiahao.baidu.com/s?id=1873729907427440760&wfr=spider&for=pc",
+      "source": "新浪财经",
+      "time": "昨天08:54",
       "category": "activity"
     }
   ]
