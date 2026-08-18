@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-18 23:19",
+  "update_time": "2026-08-19 00:17",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -86,6 +86,13 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
+      "title": "《于敏和氢弹》新书发布",
+      "url": "https://baijiahao.baidu.com/s?id=1873729907427440760&wfr=spider&for=pc",
+      "source": "新浪财经",
+      "time": "前天08:54",
+      "category": "activity"
+    },
+    {
       "title": "冉学东长篇小说《上寨》首发仪式暨作品讨论会在西安举行",
       "url": "https://baijiahao.baidu.com/s?id=1855993505774569048&wfr=spider&for=pc",
       "source": "三秦都市报",
@@ -139,13 +146,6 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1869945028176085222&wfr=spider&for=pc",
       "source": "扬子晚报",
       "time": "7月6日",
-      "category": "activity"
-    },
-    {
-      "title": "《于敏和氢弹》新书发布",
-      "url": "https://baijiahao.baidu.com/s?id=1873729907427440760&wfr=spider&for=pc",
-      "source": "新浪财经",
-      "time": "昨天08:54",
       "category": "activity"
     }
   ]
