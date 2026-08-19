@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-19 13:19",
+  "update_time": "2026-08-19 14:22",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,13 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "新研股份:公司玉米收获机为农机板块核心产品",
+      "url": "https://stock.10jqka.com.cn/20260817/c679023167.shtml",
+      "source": "同花顺",
+      "time": "前天20:52",
+      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
@@ -48,6 +55,13 @@ window.LIT_DATA = {
       "url": "https://www.thepaper.cn/newsDetail_forward_33783689",
       "source": "澎湃新闻",
       "time": "",
+      "category": "activity"
+    },
+    {
+      "title": "《平居日札》新书发布暨王充闾作品研讨会举办",
+      "url": "https://baijiahao.baidu.com/s?id=1868331656322285113&wfr=spider&for=pc",
+      "source": "人民资讯",
+      "time": "6月18日",
       "category": "activity"
     },
     {
