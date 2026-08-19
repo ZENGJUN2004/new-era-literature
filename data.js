@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-19 23:19",
+  "update_time": "2026-08-20 00:17",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -69,20 +69,6 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1872592113238838298&wfr=spider&for=pc",
       "source": "人民资讯",
       "time": "8月4日",
-      "category": "activity"
-    },
-    {
-      "title": "胡荣胜诗集《行走云上》新书发布暨分享会在兴义辞林书店举行",
-      "url": "https://baijiahao.baidu.com/s?id=1873774734590944676&wfr=spider&for=pc",
-      "source": "动静新闻",
-      "time": "前天19:35",
-      "category": "activity"
-    },
-    {
-      "title": "《于敏和氢弹》新书发布",
-      "url": "https://baijiahao.baidu.com/s?id=1873729907427440760&wfr=spider&for=pc",
-      "source": "新浪财经",
-      "time": "前天08:54",
       "category": "activity"
     },
     {
