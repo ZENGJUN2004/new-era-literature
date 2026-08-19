@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-20 04:13",
+  "update_time": "2026-08-20 05:15",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,13 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "《十月》杂志举办青年作家创作分享会",
-      "url": "https://baijiahao.baidu.com/s?id=1860050202536776799&wfr=spider&for=pc",
-      "source": "人民网",
-      "time": "3月19日",
-      "category": "other"
     },
     {
       "title": "书香喀什・新书发布暨现场签售活动举行",
