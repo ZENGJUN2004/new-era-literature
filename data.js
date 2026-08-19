@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-19 19:14",
+  "update_time": "2026-08-19 20:19",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,13 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
-      "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
-      "source": "澎湃新闻客户端",
-      "time": "",
-      "category": "activity"
     },
     {
       "title": "书香喀什・新书发布暨现场签售活动举行",
@@ -90,13 +83,6 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1873729907427440760&wfr=spider&for=pc",
       "source": "新浪财经",
       "time": "前天08:54",
-      "category": "activity"
-    },
-    {
-      "title": "冉学东长篇小说《上寨》首发仪式暨作品讨论会在西安举行",
-      "url": "https://baijiahao.baidu.com/s?id=1855993505774569048&wfr=spider&for=pc",
-      "source": "三秦都市报",
-      "time": "2月2日",
       "category": "activity"
     },
     {
