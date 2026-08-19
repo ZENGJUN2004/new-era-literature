@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-20 03:17",
+  "update_time": "2026-08-20 04:13",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,10 +23,24 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "新加坡著名慈善家、作家卓顺发《太阳出来了,露水不见了》新书发布",
-      "url": "https://baijiahao.baidu.com/s?id=1854366953074514692&wfr=spider&for=pc",
-      "source": "曲靖珠江网",
-      "time": "1月15日",
+      "title": "《十月》杂志举办青年作家创作分享会",
+      "url": "https://baijiahao.baidu.com/s?id=1860050202536776799&wfr=spider&for=pc",
+      "source": "人民网",
+      "time": "3月19日",
+      "category": "other"
+    },
+    {
+      "title": "书香喀什・新书发布暨现场签售活动举行",
+      "url": "http://baijiahao.baidu.com/s?id=1863459232450526300&wfr=spider&for=pc",
+      "source": "澎湃新闻客户端",
+      "time": "4月25日",
+      "category": "activity"
+    },
+    {
+      "title": "山乡巨变中的文学守望:《太阳照在滹沱河上》新书发布会在正定塔元...",
+      "url": "https://baijiahao.baidu.com/s?id=1863822847994328712&wfr=spider&for=pc",
+      "source": "河北青年报",
+      "time": "4月30日",
       "category": "activity"
     },
     {
