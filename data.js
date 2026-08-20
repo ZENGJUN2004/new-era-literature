@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-20 15:31",
+  "update_time": "2026-08-20 16:23",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,48 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "文学双周记|22家刊物答原创之问,邓紫棋入选银河奖引热议",
+      "url": "https://baijiahao.baidu.com/s?id=1853442602393722283&wfr=spider&for=pc",
+      "source": "澎湃新闻",
+      "time": "1月5日",
+      "category": "other"
+    },
+    {
+      "title": "赵德发长篇小说《大海风》入选中国当代文学研究会年度榜单(2025)",
+      "url": "https://baijiahao.baidu.com/s?id=1853465599041956599&wfr=spider&for=pc",
+      "source": "闪电新闻",
+      "time": "1月5日",
+      "category": "activity"
+    },
+    {
+      "title": "长篇小说《大海风》入选中国当代文学研究会年度榜单 作者赵德发...",
+      "url": "https://baijiahao.baidu.com/s?id=1853815024647126329&wfr=spider&for=pc",
+      "source": "闪电新闻",
+      "time": "1月9日",
+      "category": "activity"
+    },
+    {
+      "title": "中国当代文学研究会年度榜单(2025)发布",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32320691",
+      "source": "澎湃新闻",
+      "time": "1月5日",
+      "category": "other"
+    },
+    {
+      "title": "中国当代文学研究会年度榜单发布",
+      "url": "https://baijiahao.baidu.com/s?id=1855942095675059485&wfr=spider&for=pc",
+      "source": "新浪财经",
+      "time": "2月2日",
+      "category": "other"
+    },
+    {
+      "title": "中国当代文学研究会第二十四届学术年会暨会员代表大会在河北师范...",
+      "url": "https://www.heb.chinanews.com.cn/ylxc/20260628459078.shtml",
+      "source": "中国新闻网",
+      "time": "6月28日",
+      "category": "other"
     },
     {
       "title": "山乡巨变中的文学守望:《太阳照在滹沱河上》新书发布会在正定塔元...",
