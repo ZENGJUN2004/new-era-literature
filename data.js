@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-21 16:25",
+  "update_time": "2026-08-21 17:23",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,13 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "中国科幻产业走向“生态出海”",
-      "url": "https://baijiahao.baidu.com/s?id=1861855033203367752&wfr=spider&for=pc",
-      "source": "环球网",
-      "time": "4月8日",
-      "category": "voice"
     },
     {
       "title": "史笔通心——《平居日札》新书发布暨王充闾作品研讨会在沈阳成功...",
