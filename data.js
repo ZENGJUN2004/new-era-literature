@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-22 13:16",
+  "update_time": "2026-08-22 14:19",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,27 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "八十岁的笔会,为何屡屡受高考命题青睐?",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33552917",
+      "source": "澎湃新闻",
+      "time": "7月13日",
+      "category": "other"
+    },
+    {
+      "title": "文学的“代际与新生”,上海国际文学周诠释文学的传承",
+      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1158687",
+      "source": "上观",
+      "time": "8月11日",
+      "category": "other"
+    },
+    {
+      "title": "2026上海国际文学周今晚开启,中外作家畅谈“代际与新生”",
+      "url": "https://baijiahao.baidu.com/s?id=1873232252268932084&wfr=spider&for=pc",
+      "source": "澎湃新闻",
+      "time": "8月11日",
+      "category": "other"
     },
     {
       "title": "书香喀什・新书发布暨现场签售活动举行",
