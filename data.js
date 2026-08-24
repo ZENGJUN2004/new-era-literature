@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-24 12:34",
+  "update_time": "2026-08-24 13:28",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,24 +23,66 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "《小说评论》年度论坛:聚焦“现象级文本与文学史书写”",
-      "url": "http://baijiahao.baidu.com/s?id=1751357796338047975&wfr=spider&for=pc",
-      "source": "澎湃新闻客户端",
-      "time": "",
+      "title": "有好的文本作品,才有更好的文学批评存在",
+      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1080414",
+      "source": "上观",
+      "time": "3月12日",
+      "category": "meeting"
+    },
+    {
+      "title": "《大家》主编周明全:文学不应有那么多标签|顶端文学名刊访谈",
+      "url": "https://cul.sohu.com/a/1019418013_121434717",
+      "source": "搜狐网",
+      "time": "5月7日",
+      "category": "other"
+    },
+    {
+      "title": "文艺批评·新书选读 | 韩松刚:《批评的抵达》",
+      "url": "https://cul.sohu.com/a/1015993578_121124790",
+      "source": "搜狐网",
+      "time": "4月29日",
       "category": "activity"
     },
     {
-      "title": "新加坡著名慈善家、作家卓顺发《太阳出来了,露水不见了》新书发布",
-      "url": "https://baijiahao.baidu.com/s?id=1854366953074514692&wfr=spider&for=pc",
-      "source": "曲靖珠江网",
-      "time": "1月15日",
-      "category": "activity"
+      "title": "在流量时代,文学批评如何“抵达”人心?",
+      "url": "https://baijiahao.baidu.com/s?id=1865876878495342673&wfr=spider&for=pc",
+      "source": "济南时报",
+      "time": "5月22日",
+      "category": "meeting"
+    },
+    {
+      "title": "铺路·立论·传薪——束沛德对中国当代儿童文学事业的贡献",
+      "url": "https://baijiahao.baidu.com/s?id=1872195068812614968&wfr=spider&for=pc",
+      "source": "光明网",
+      "time": "7月31日",
+      "category": "meeting"
+    },
+    {
+      "title": "解读“传统”,重温茅盾文学奖设立初衷|纪念茅盾130周年诞辰",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32560543",
+      "source": "澎湃新闻",
+      "time": "2月11日",
+      "category": "other"
+    },
+    {
+      "title": "对话中国作家协会副主席、茅盾文学奖得主张炜:儿童文学是“更大...",
+      "url": "https://baijiahao.baidu.com/s?id=1869014615582323233&wfr=spider&for=pc",
+      "source": "潮新闻客户端",
+      "time": "6月26日",
+      "category": "other"
     },
     {
       "title": "书香喀什・新书发布暨现场签售活动举行",
       "url": "http://baijiahao.baidu.com/s?id=1863459232450526300&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "4月25日",
+      "category": "activity"
+    },
+    {
+      "title": "山乡巨变中的文学守望:《太阳照在滹沱河上》新书发布会在正定塔元...",
+      "url": "https://baijiahao.baidu.com/s?id=1863822847994328712&wfr=spider&for=pc",
+      "source": "河北青年报",
+      "time": "4月30日",
       "category": "activity"
     },
     {
