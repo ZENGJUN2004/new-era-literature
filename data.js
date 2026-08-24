@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-25 04:16",
+  "update_time": "2026-08-25 05:17",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,34 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "作家范稳接受《环球时报》专访:丈量民族成长,用文学搭起“青云梯”",
-      "url": "https://baijiahao.baidu.com/s?id=1872824485121163226&wfr=spider&for=pc",
-      "source": "环球时报",
-      "time": "8月7日",
-      "category": "other"
-    },
-    {
-      "title": "文学的“代际与新生”,上海国际文学周诠释文学的传承",
-      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1158687",
-      "source": "上观",
-      "time": "8月11日",
-      "category": "other"
-    },
-    {
-      "title": "2026上海国际文学周今晚开启,中外作家畅谈“代际与新生”",
-      "url": "https://baijiahao.baidu.com/s?id=1873232252268932084&wfr=spider&for=pc",
-      "source": "澎湃新闻",
-      "time": "8月11日",
-      "category": "other"
-    },
-    {
-      "title": "多国作家上海国际文学周畅谈文学的“代际与新生”",
-      "url": "https://baijiahao.baidu.com/s?id=1873278840020009104&wfr=spider&for=pc",
-      "source": "中国新闻网",
-      "time": "8月12日",
-      "category": "other"
     },
     {
       "title": "直播丨“作家天团”空降开课!《大作家的小作文》新书发布会,速来...",
