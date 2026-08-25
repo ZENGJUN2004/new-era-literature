@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-25 18:20",
+  "update_time": "2026-08-25 19:16",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -44,16 +44,16 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
+      "title": "《平居日札》新书发布暨王充闾作品研讨会举办",
+      "url": "https://baijiahao.baidu.com/s?id=1868331656322285113&wfr=spider&for=pc",
+      "source": "人民资讯",
+      "time": "6月18日",
+      "category": "activity"
+    },
+    {
       "title": "青年作家徐鹏新作《未央·蜀道残阳》在重庆永川发布",
       "url": "http://www.cq.xinhuanet.com/20260429/47022f852e3d4ac5a7f184dfcf56d340/c.html",
       "source": "新华网重庆频道",
-      "time": "4月29日",
-      "category": "other"
-    },
-    {
-      "title": "青年作家徐鹏新作《未央·蜀道残阳》在永川发布",
-      "url": "https://baijiahao.baidu.com/s?id=1863771851573387062&wfr=spider&for=pc",
-      "source": "金台资讯",
       "time": "4月29日",
       "category": "other"
     },
@@ -118,6 +118,13 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1869945028176085222&wfr=spider&for=pc",
       "source": "扬子晚报",
       "time": "7月6日",
+      "category": "activity"
+    },
+    {
+      "title": "...乡韵文脉续新章——郑子田散文集《我的家乡》新书发布会成功举办",
+      "url": "https://baijiahao.baidu.com/s?id=1874375631745549875&wfr=spider&for=pc",
+      "source": "济南日报",
+      "time": "昨天11:56",
       "category": "activity"
     }
   ]
