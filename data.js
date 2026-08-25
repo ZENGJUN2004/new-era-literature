@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-25 23:31",
+  "update_time": "2026-08-26 00:22",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -72,6 +72,13 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
+      "title": "...乡韵文脉续新章——郑子田散文集《我的家乡》新书发布会成功举办",
+      "url": "https://baijiahao.baidu.com/s?id=1874375631745549875&wfr=spider&for=pc",
+      "source": "济南日报",
+      "time": "前天11:56",
+      "category": "activity"
+    },
+    {
       "title": "聚焦个体命运与历史纵深 抗战题材长篇小说《地啸》首发",
       "url": "https://baijiahao.baidu.com/s?id=1853803167951408475&wfr=spider&for=pc",
       "source": "齐鲁壹点",
@@ -111,13 +118,6 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1869945028176085222&wfr=spider&for=pc",
       "source": "扬子晚报",
       "time": "7月6日",
-      "category": "activity"
-    },
-    {
-      "title": "...乡韵文脉续新章——郑子田散文集《我的家乡》新书发布会成功举办",
-      "url": "https://baijiahao.baidu.com/s?id=1874375631745549875&wfr=spider&for=pc",
-      "source": "济南日报",
-      "time": "昨天11:56",
       "category": "activity"
     }
   ]
