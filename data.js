@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-25 16:27",
+  "update_time": "2026-08-25 17:23",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,13 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "《暗河》新书发布会举行,苏菲·玛索获金木棉奖杯与荣誉国际作家证...",
-      "url": "https://news.dayoo.com/gzrbrmt/202603/28/170636_54941568.htm",
-      "source": "大洋网",
-      "time": "3月28日",
-      "category": "activity"
     },
     {
       "title": "新加坡著名慈善家、作家卓顺发《太阳出来了,露水不见了》新书发布",
