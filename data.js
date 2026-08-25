@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-25 20:22",
+  "update_time": "2026-08-25 21:39",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -83,13 +83,6 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1853940665722016960&wfr=spider&for=pc",
       "source": "红网",
       "time": "1月10日",
-      "category": "activity"
-    },
-    {
-      "title": "抵达辽阔远方的多声部抗战叙事——长篇小说《地啸》首发实录",
-      "url": "https://baijiahao.baidu.com/s?id=1854825795286531236&wfr=spider&for=pc",
-      "source": "齐鲁壹点",
-      "time": "1月20日",
       "category": "activity"
     },
     {
