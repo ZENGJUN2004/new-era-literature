@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-25 13:22",
+  "update_time": "2026-08-25 14:23",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -20,6 +20,13 @@ window.LIT_DATA = {
       "url": "https://scholar.baidu.com/scholar?q=当代文学&sc_ylo=2024&sort=sc_time",
       "source": "CNKI",
       "time": "实时",
+      "category": "meeting"
+    },
+    {
+      "title": "“《文心雕龙》与中国文艺批评自主知识体系建设”研讨会综述",
+      "url": "https://baijiahao.baidu.com/s?id=1868592587447250007&wfr=spider&for=pc",
+      "source": "齐鲁壹点",
+      "time": "6月21日",
       "category": "meeting"
     },
     {
