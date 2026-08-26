@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-26 12:28",
+  "update_time": "2026-08-26 13:22",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,60 +23,11 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "人民文学出版社致歉“《经典常谈》存在编校质量问题”:已启动修订...",
-      "url": "https://baijiahao.baidu.com/s?id=1853646130152297071&wfr=spider&for=pc",
-      "source": "北京商报",
-      "time": "1月7日",
+      "title": "新加坡著名慈善家、作家卓顺发《太阳出来了,露水不见了》新书发布",
+      "url": "https://baijiahao.baidu.com/s?id=1854366953074514692&wfr=spider&for=pc",
+      "source": "曲靖珠江网",
+      "time": "1月15日",
       "category": "activity"
-    },
-    {
-      "title": "《人民文学》“人民阅卷”活动在赣州举行",
-      "url": "https://www.jx.chinanews.com.cn/news/2026/0127/124244.html",
-      "source": "中国新闻网",
-      "time": "1月27日",
-      "category": "other"
-    },
-    {
-      "title": "经典与新大众文艺共舞:文学出版国家队的数字时代答卷",
-      "url": "https://www.chinatoday.com.cn/zw2018/ly_4982/202604/t20260423_800435901.html",
-      "source": "今日中国",
-      "time": "4月23日",
-      "category": "activity"
-    },
-    {
-      "title": "人民文学出版社推出《经典常谈(全新校订版)》",
-      "url": "https://baijiahao.baidu.com/s?id=1856101088686185340&wfr=spider&for=pc",
-      "source": "北京日报客户端",
-      "time": "2月3日",
-      "category": "activity"
-    },
-    {
-      "title": "《人民文学》葡文版首刊正式发行",
-      "url": "http://hm.people.com.cn/n1/2026/0210/c42272-40663233.html",
-      "source": "人民网",
-      "time": "2月10日",
-      "category": "other"
-    },
-    {
-      "title": "文学双周记|《呼啸山庄》《蝇王》《纯真博物馆》改编齐亮相",
-      "url": "https://baijiahao.baidu.com/s?id=1857249405029297946&wfr=spider&for=pc",
-      "source": "澎湃新闻",
-      "time": "2月16日",
-      "category": "other"
-    },
-    {
-      "title": "大咖来了!茅盾文学奖得主、《人民文学》主编徐则臣“镜湖夜话”开讲",
-      "url": "https://baijiahao.baidu.com/s?id=1864974778412194118&wfr=spider&for=pc",
-      "source": "扬子晚报",
-      "time": "5月12日",
-      "category": "other"
-    },
-    {
-      "title": "澳门文总助力《人民文学》葡文版首刊发行",
-      "url": "https://baijiahao.baidu.com/s?id=1856709252075079119&wfr=spider&for=pc",
-      "source": "中国新闻网",
-      "time": "2月10日",
-      "category": "other"
     },
     {
       "title": "书香喀什・新书发布暨现场签售活动举行",
@@ -103,13 +54,6 @@ window.LIT_DATA = {
       "title": "青年作家徐鹏新作《未央·蜀道残阳》在重庆永川发布",
       "url": "http://www.cq.xinhuanet.com/20260429/47022f852e3d4ac5a7f184dfcf56d340/c.html",
       "source": "新华网重庆频道",
-      "time": "4月29日",
-      "category": "other"
-    },
-    {
-      "title": "青年作家徐鹏新作《未央·蜀道残阳》在永川发布",
-      "url": "https://baijiahao.baidu.com/s?id=1863771851573387062&wfr=spider&for=pc",
-      "source": "金台资讯",
       "time": "4月29日",
       "category": "other"
     },
