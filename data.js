@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-27 21:14",
+  "update_time": "2026-08-28 07:18",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,11 +23,11 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "《十月》杂志举办青年作家创作分享会",
-      "url": "https://baijiahao.baidu.com/s?id=1860050202536776799&wfr=spider&for=pc",
-      "source": "人民网",
-      "time": "3月19日",
-      "category": "other"
+      "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
+      "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
+      "source": "澎湃新闻客户端",
+      "time": "",
+      "category": "activity"
     },
     {
       "title": "聚焦边疆书写 张者《天边》新书发布",
@@ -86,10 +86,17 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "聚焦个体命运与历史纵深 抗战题材长篇小说《地啸》首发",
-      "url": "https://baijiahao.baidu.com/s?id=1853803167951408475&wfr=spider&for=pc",
-      "source": "齐鲁壹点",
-      "time": "1月9日",
+      "title": "胡荣胜诗集《行走云上》新书发布暨分享会在兴义辞林书店举行",
+      "url": "https://baijiahao.baidu.com/s?id=1873774734590944676&wfr=spider&for=pc",
+      "source": "动静新闻",
+      "time": "8月17日",
+      "category": "activity"
+    },
+    {
+      "title": "冉学东长篇小说《上寨》首发仪式暨作品讨论会在西安举行",
+      "url": "https://baijiahao.baidu.com/s?id=1855993505774569048&wfr=spider&for=pc",
+      "source": "三秦都市报",
+      "time": "2月2日",
       "category": "activity"
     },
     {
@@ -97,6 +104,20 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1853940665722016960&wfr=spider&for=pc",
       "source": "红网",
       "time": "1月10日",
+      "category": "activity"
+    },
+    {
+      "title": "抵达辽阔远方的多声部抗战叙事——长篇小说《地啸》首发实录",
+      "url": "https://baijiahao.baidu.com/s?id=1854825795286531236&wfr=spider&for=pc",
+      "source": "齐鲁壹点",
+      "time": "1月20日",
+      "category": "activity"
+    },
+    {
+      "title": "把家乡长辈抗战故事写成书,长篇小说《长城1933》长沙首发",
+      "url": "https://baijiahao.baidu.com/s?id=1862171110712203201&wfr=spider&for=pc",
+      "source": "潇湘晨报",
+      "time": "4月11日",
       "category": "activity"
     },
     {
