@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-28 15:21",
+  "update_time": "2026-08-29 03:42",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,13 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "「书目推荐」长安街读书会第20260804干部学习书目博览",
+      "url": "https://www.bjnews.com.cn/detail/1787830222019121.html",
+      "source": "新京报网",
+      "time": "前天20:08",
+      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
