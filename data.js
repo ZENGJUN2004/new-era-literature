@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-29 17:29",
+  "update_time": "2026-08-29 22:45",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,13 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "奥赛康上半年实现营业收入8.71亿元 创新药管线步入收获期",
-      "url": "https://baijiahao.baidu.com/s?id=1874684020708379541&wfr=spider&for=pc",
-      "source": "证券日报",
-      "time": "前天21:40",
-      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
@@ -147,13 +140,6 @@ window.LIT_DATA = {
       "source": "扬子晚报",
       "time": "7月6日",
       "category": "activity"
-    },
-    {
-      "title": "「书目推荐」长安街读书会第20260804干部学习书目博览",
-      "url": "http://baijiahao.baidu.com/s?id=1874728767387943836&wfr=spider&for=pc",
-      "source": "上观新闻",
-      "time": "昨天09:19",
-      "category": "other"
     }
   ]
 };
