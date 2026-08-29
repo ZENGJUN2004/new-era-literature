@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-29 22:45",
+  "update_time": "2026-08-30 01:58",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,10 +23,24 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
+      "title": "「书目推荐」长安街读书会第20260804干部学习书目博览",
+      "url": "http://baijiahao.baidu.com/s?id=1874728767387943836&wfr=spider&for=pc",
+      "source": "上观新闻",
+      "time": "前天09:19",
+      "category": "other"
+    },
+    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
+      "category": "activity"
+    },
+    {
+      "title": "新加坡著名慈善家、作家卓顺发《太阳出来了,露水不见了》新书发布",
+      "url": "https://baijiahao.baidu.com/s?id=1854366953074514692&wfr=spider&for=pc",
+      "source": "曲靖珠江网",
+      "time": "1月15日",
       "category": "activity"
     },
     {
@@ -41,13 +55,6 @@ window.LIT_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1863459232450526300&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "4月25日",
-      "category": "activity"
-    },
-    {
-      "title": "山乡巨变中的文学守望:《太阳照在滹沱河上》新书发布会在正定塔元...",
-      "url": "https://baijiahao.baidu.com/s?id=1863822847994328712&wfr=spider&for=pc",
-      "source": "河北青年报",
-      "time": "4月30日",
       "category": "activity"
     },
     {
