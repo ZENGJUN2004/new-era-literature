@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-08-31 08:00",
+  "update_time": "2026-08-31 11:49",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,10 +23,38 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
+      "title": "香港议员怒批欧美:由“爱泼斯坦”们统治之国,没资格对中国指手画脚",
+      "url": "https://www.guancha.cn/politics/2026_03_22_810979.shtml",
+      "source": "观察者网",
+      "time": "3月22日",
+      "category": "other"
+    },
+    {
+      "title": "李敬泽:我们怀抱春风,赠予世界",
+      "url": "https://baijiahao.baidu.com/s?id=1863580213634107458&wfr=spider&for=pc",
+      "source": "钱江晚报",
+      "time": "4月27日",
+      "category": "other"
+    },
+    {
+      "title": "学者观点|李稻葵点赞宁波模式:白领蓝领同等待遇",
+      "url": "https://baijiahao.baidu.com/s?id=1869977482891133408&wfr=spider&for=pc",
+      "source": "新浪财经",
+      "time": "7月6日",
+      "category": "other"
+    },
+    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
+      "category": "activity"
+    },
+    {
+      "title": "新加坡著名慈善家、作家卓顺发《太阳出来了,露水不见了》新书发布",
+      "url": "https://baijiahao.baidu.com/s?id=1854366953074514692&wfr=spider&for=pc",
+      "source": "曲靖珠江网",
+      "time": "1月15日",
       "category": "activity"
     },
     {
@@ -41,13 +69,6 @@ window.LIT_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1863459232450526300&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "4月25日",
-      "category": "activity"
-    },
-    {
-      "title": "山乡巨变中的文学守望:《太阳照在滹沱河上》新书发布会在正定塔元...",
-      "url": "https://baijiahao.baidu.com/s?id=1863822847994328712&wfr=spider&for=pc",
-      "source": "河北青年报",
-      "time": "4月30日",
       "category": "activity"
     },
     {
