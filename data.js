@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-09-01 20:11",
+  "update_time": "2026-09-02 01:02",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,13 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "【新刊速递】| 《啄木鸟》2024年第2期目录",
+      "url": "https://bao.hvacr.cn/ArTicle/details/anan/97623261.shtml",
+      "source": "制冷快报",
+      "time": "前天09:53",
+      "category": "activity"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
@@ -100,13 +107,6 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "冉学东长篇小说《上寨》首发仪式暨作品讨论会在西安举行",
-      "url": "https://baijiahao.baidu.com/s?id=1855993505774569048&wfr=spider&for=pc",
-      "source": "三秦都市报",
-      "time": "2月2日",
-      "category": "activity"
-    },
-    {
       "title": "抵达辽阔远方的多声部抗战叙事——长篇小说《地啸》首发实录",
       "url": "https://baijiahao.baidu.com/s?id=1854825795286531236&wfr=spider&for=pc",
       "source": "齐鲁壹点",
@@ -146,13 +146,6 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1869945028176085222&wfr=spider&for=pc",
       "source": "扬子晚报",
       "time": "7月6日",
-      "category": "activity"
-    },
-    {
-      "title": "【新刊速递】| 《啄木鸟》2024年第2期目录",
-      "url": "https://bao.hvacr.cn/ArTicle/details/anan/97623261.shtml",
-      "source": "制冷快报",
-      "time": "昨天09:53",
       "category": "activity"
     }
   ]
