@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-09-01 09:30",
+  "update_time": "2026-09-01 14:54",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -111,6 +111,13 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1854825795286531236&wfr=spider&for=pc",
       "source": "齐鲁壹点",
       "time": "1月20日",
+      "category": "activity"
+    },
+    {
+      "title": "把家乡长辈抗战故事写成书,长篇小说《长城1933》长沙首发",
+      "url": "https://baijiahao.baidu.com/s?id=1862171110712203201&wfr=spider&for=pc",
+      "source": "潇湘晨报",
+      "time": "4月11日",
       "category": "activity"
     },
     {
