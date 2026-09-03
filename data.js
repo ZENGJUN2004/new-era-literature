@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-09-04 02:57",
+  "update_time": "2026-09-04 05:32",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,27 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "蔡崇达非虚构写作访谈录:人是最了不起的艺术品",
+      "url": "https://36kr.com/p/1723320942593",
+      "source": "36kr",
+      "time": "",
+      "category": "voice"
+    },
+    {
+      "title": "贾樟柯、梁鸿谈非虚构写作和纪录电影",
+      "url": "http://baijiahao.baidu.com/s?id=1717824461237591660&wfr=spider&for=pc",
+      "source": "澎湃新闻客户端",
+      "time": "",
+      "category": "voice"
+    },
+    {
+      "title": "张辛欣:中国非虚构写作写法太单一,还美其名曰比照《纽约客》",
+      "url": "https://m.jiemian.com/article/795624.html",
+      "source": "界面新闻",
+      "time": "",
+      "category": "voice"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
