@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-09-03 19:49",
+  "update_time": "2026-09-03 23:22",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,10 +23,24 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
+      "title": "“拍断大腿”!午后直线拉升,20CM涨停",
+      "url": "https://baijiahao.baidu.com/s?id=1875120318881594523&wfr=spider&for=pc",
+      "source": "极目新闻",
+      "time": "前天17:11",
+      "category": "other"
+    },
+    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
+      "category": "activity"
+    },
+    {
+      "title": "孔德林新书发布暨作品分享会在七星关区举行",
+      "url": "https://baijiahao.baidu.com/s?id=1862968999751818915&wfr=spider&for=pc",
+      "source": "天眼新闻",
+      "time": "4月20日",
       "category": "activity"
     },
     {
@@ -41,13 +55,6 @@ window.LIT_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1863459232450526300&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "4月25日",
-      "category": "activity"
-    },
-    {
-      "title": "山乡巨变中的文学守望:《太阳照在滹沱河上》新书发布会在正定塔元...",
-      "url": "https://baijiahao.baidu.com/s?id=1863822847994328712&wfr=spider&for=pc",
-      "source": "河北青年报",
-      "time": "4月30日",
       "category": "activity"
     },
     {
