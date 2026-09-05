@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-09-05 14:25",
+  "update_time": "2026-09-05 18:59",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -30,13 +30,6 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "老藤长篇小说《自愈者》新书发布会举办",
-      "url": "https://baijiahao.baidu.com/s?id=1854092227377307964&wfr=spider&for=pc",
-      "source": "工人日报",
-      "time": "1月12日",
-      "category": "activity"
-    },
-    {
       "title": "聚焦边疆书写 张者《天边》新书发布",
       "url": "https://baijiahao.baidu.com/s?id=1862343135717648529&wfr=spider&for=pc",
       "source": "中国新闻网",
@@ -55,6 +48,13 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1863822847994328712&wfr=spider&for=pc",
       "source": "河北青年报",
       "time": "4月30日",
+      "category": "activity"
+    },
+    {
+      "title": "《平居日札》新书发布暨王充闾作品研讨会举办",
+      "url": "https://baijiahao.baidu.com/s?id=1868331656322285113&wfr=spider&for=pc",
+      "source": "人民资讯",
+      "time": "6月18日",
       "category": "activity"
     },
     {
