@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-09-07 18:53",
+  "update_time": "2026-09-08 00:10",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -93,13 +93,6 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "老藤长篇小说《自愈者》在京首发在“AI迷宫”中寻找心灵坐标",
-      "url": "https://baijiahao.baidu.com/s?id=1853940665722016960&wfr=spider&for=pc",
-      "source": "红网",
-      "time": "1月10日",
-      "category": "activity"
-    },
-    {
       "title": "聚焦个体命运与历史纵深 抗战题材长篇小说《地啸》首发",
       "url": "https://baijiahao.baidu.com/s?id=1853803167951408475&wfr=spider&for=pc",
       "source": "齐鲁壹点",
@@ -107,10 +100,24 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
+      "title": "老藤长篇小说《自愈者》在京首发在“AI迷宫”中寻找心灵坐标",
+      "url": "https://baijiahao.baidu.com/s?id=1853940665722016960&wfr=spider&for=pc",
+      "source": "红网",
+      "time": "1月10日",
+      "category": "activity"
+    },
+    {
       "title": "抵达辽阔远方的多声部抗战叙事——长篇小说《地啸》首发实录",
       "url": "https://baijiahao.baidu.com/s?id=1854825795286531236&wfr=spider&for=pc",
       "source": "齐鲁壹点",
       "time": "1月20日",
+      "category": "activity"
+    },
+    {
+      "title": "把家乡长辈抗战故事写成书,长篇小说《长城1933》长沙首发",
+      "url": "https://baijiahao.baidu.com/s?id=1862171110712203201&wfr=spider&for=pc",
+      "source": "潇湘晨报",
+      "time": "4月11日",
       "category": "activity"
     },
     {
