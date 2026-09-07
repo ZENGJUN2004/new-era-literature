@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-09-07 13:23",
+  "update_time": "2026-09-07 18:53",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -100,31 +100,17 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
+      "title": "聚焦个体命运与历史纵深 抗战题材长篇小说《地啸》首发",
+      "url": "https://baijiahao.baidu.com/s?id=1853803167951408475&wfr=spider&for=pc",
+      "source": "齐鲁壹点",
+      "time": "1月9日",
+      "category": "activity"
+    },
+    {
       "title": "抵达辽阔远方的多声部抗战叙事——长篇小说《地啸》首发实录",
       "url": "https://baijiahao.baidu.com/s?id=1854825795286531236&wfr=spider&for=pc",
       "source": "齐鲁壹点",
       "time": "1月20日",
-      "category": "activity"
-    },
-    {
-      "title": "把家乡长辈抗战故事写成书,长篇小说《长城1933》长沙首发",
-      "url": "https://baijiahao.baidu.com/s?id=1862171110712203201&wfr=spider&for=pc",
-      "source": "潇湘晨报",
-      "time": "4月11日",
-      "category": "activity"
-    },
-    {
-      "title": "首届“刘知侠长篇小说奖”颁奖典礼暨《青岛市中青年作家文库...",
-      "url": "https://baijiahao.baidu.com/s?id=1865704053349245673&wfr=spider&for=pc",
-      "source": "半岛都市报",
-      "time": "5月20日",
-      "category": "activity"
-    },
-    {
-      "title": "长篇儿童小说《拾光乐队》在南京首发,作者杨娟分享幕后创作故事",
-      "url": "https://baijiahao.baidu.com/s?id=1869318336398988623&wfr=spider&for=pc",
-      "source": "扬子晚报",
-      "time": "6月29日",
       "category": "activity"
     },
     {
