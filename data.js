@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-09-08 14:39",
+  "update_time": "2026-09-08 19:50",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -139,6 +139,13 @@ window.LIT_DATA = {
       "url": "http://www.xinhuanet.com/politics/20260619/50825e3ba9534491bf9c2ba5460739b3/c.html",
       "source": "新华网",
       "time": "6月19日",
+      "category": "activity"
+    },
+    {
+      "title": "...的深圳故事,挖掘开放包容的特区精神长篇小说《第十维》新书首发",
+      "url": "https://baijiahao.baidu.com/s?id=1875630818185143709&wfr=spider&for=pc",
+      "source": "深圳特区报",
+      "time": "昨天08:02",
       "category": "activity"
     }
   ]
