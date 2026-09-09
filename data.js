@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-09-09 22:52",
+  "update_time": "2026-09-10 02:06",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -121,17 +121,17 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
+      "title": "首届“刘知侠长篇小说奖”颁奖典礼暨《青岛市中青年作家文库...",
+      "url": "https://baijiahao.baidu.com/s?id=1865704053349245673&wfr=spider&for=pc",
+      "source": "半岛都市报",
+      "time": "5月20日",
+      "category": "activity"
+    },
+    {
       "title": "再一次把老家请进文字,祁智长篇儿童小说《我们兄弟》在江苏书展首发",
       "url": "https://baijiahao.baidu.com/s?id=1869945028176085222&wfr=spider&for=pc",
       "source": "扬子晚报",
       "time": "7月6日",
-      "category": "activity"
-    },
-    {
-      "title": "聚焦普通人蜕变成长长篇小说《不虚此生》首发",
-      "url": "https://baijiahao.baidu.com/s?id=1868337403425152313&wfr=spider&for=pc",
-      "source": "中国新闻网",
-      "time": "6月18日",
       "category": "activity"
     },
     {
@@ -142,10 +142,10 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "...的深圳故事,挖掘开放包容的特区精神长篇小说《第十维》新书首发",
-      "url": "https://baijiahao.baidu.com/s?id=1875630818185143709&wfr=spider&for=pc",
-      "source": "深圳特区报",
-      "time": "前天08:02",
+      "title": "聚焦普通人蜕变成长长篇小说《不虚此生》首发",
+      "url": "https://baijiahao.baidu.com/s?id=1868337403425152313&wfr=spider&for=pc",
+      "source": "中国新闻网",
+      "time": "6月18日",
       "category": "activity"
     }
   ]
