@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-09-09 13:28",
+  "update_time": "2026-09-09 18:15",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,10 +23,10 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "《十月》杂志举办青年作家创作分享会",
-      "url": "https://baijiahao.baidu.com/s?id=1860050202536776799&wfr=spider&for=pc",
-      "source": "人民网",
-      "time": "3月19日",
+      "title": "季羡林感慨“发一篇如登龙门”!这份学报,凭什么被誉为“文科学报...",
+      "url": "https://baijiahao.baidu.com/s?id=1863612877154346381&wfr=spider&for=pc",
+      "source": "新华社",
+      "time": "4月27日",
       "category": "other"
     },
     {
@@ -48,6 +48,13 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1862343135717648529&wfr=spider&for=pc",
       "source": "中国新闻网",
       "time": "4月13日",
+      "category": "activity"
+    },
+    {
+      "title": "山乡巨变中的文学守望:《太阳照在滹沱河上》新书发布会在正定塔元...",
+      "url": "https://baijiahao.baidu.com/s?id=1863822847994328712&wfr=spider&for=pc",
+      "source": "河北青年报",
+      "time": "4月30日",
       "category": "activity"
     },
     {
