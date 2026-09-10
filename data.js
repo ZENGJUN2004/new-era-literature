@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-09-10 14:45",
+  "update_time": "2026-09-10 19:56",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,31 +23,17 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "文艺批评·访谈|孙先科 X 杨希帅:文本·作者·世界——孙先科教授...",
-      "url": "https://cul.sohu.com/a/998036736_121124790",
-      "source": "搜狐网",
-      "time": "3月18日",
-      "category": "meeting"
-    },
-    {
-      "title": "《大家》主编周明全:文学不应有那么多标签|顶端文学名刊访谈",
-      "url": "https://cul.sohu.com/a/1019418013_121434717",
-      "source": "搜狐网",
-      "time": "5月7日",
-      "category": "other"
-    },
-    {
-      "title": "在流量时代,文学批评如何“抵达”人心?",
-      "url": "https://baijiahao.baidu.com/s?id=1865876878495342673&wfr=spider&for=pc",
-      "source": "济南时报",
-      "time": "5月22日",
-      "category": "meeting"
-    },
-    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
+      "category": "activity"
+    },
+    {
+      "title": "新加坡著名慈善家、作家卓顺发《太阳出来了,露水不见了》新书发布",
+      "url": "https://baijiahao.baidu.com/s?id=1854366953074514692&wfr=spider&for=pc",
+      "source": "曲靖珠江网",
+      "time": "1月15日",
       "category": "activity"
     },
     {
