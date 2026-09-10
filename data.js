@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-09-11 02:46",
+  "update_time": "2026-09-11 05:17",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,27 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "收获文学榜在上海揭晓!苏童《好天气》领衔长篇榜首",
+      "url": "http://baijiahao.baidu.com/s?id=1856101673487226555&wfr=spider&for=pc",
+      "source": "上观新闻",
+      "time": "2月3日",
+      "category": "other"
+    },
+    {
+      "title": "苏童毕飞宇吴真全勇先,2025收获文学榜揭晓,榜首作家这样说",
+      "url": "http://baijiahao.baidu.com/s?id=1856104193950555898&wfr=spider&for=pc",
+      "source": "上观新闻",
+      "time": "2月3日",
+      "category": "other"
+    },
+    {
+      "title": "《收获》文学榜揭晓,榜单映射中国文坛迎来“丰年”",
+      "url": "https://www.news.cn/politics/20260204/87438f63cae0416ba7ab64906791eccb/c.html",
+      "source": "新华网",
+      "time": "2月4日",
+      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
@@ -51,10 +72,17 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "《平居日札》新书发布暨王充闾作品研讨会举办",
-      "url": "https://baijiahao.baidu.com/s?id=1868331656322285113&wfr=spider&for=pc",
-      "source": "人民资讯",
-      "time": "6月18日",
+      "title": "山乡巨变中的文学守望:《太阳照在滹沱河上》新书发布会在正定塔元...",
+      "url": "https://baijiahao.baidu.com/s?id=1863822847994328712&wfr=spider&for=pc",
+      "source": "河北青年报",
+      "time": "4月30日",
+      "category": "activity"
+    },
+    {
+      "title": "《所有的心碎与欢娱》新书发布研讨会在上海举办",
+      "url": "https://cul.sohu.com/a/1025655999_121119385",
+      "source": "搜狐网",
+      "time": "5月21日",
       "category": "activity"
     },
     {
@@ -83,13 +111,6 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1871655928518036912&wfr=spider&for=pc",
       "source": "钱江晚报",
       "time": "7月25日",
-      "category": "activity"
-    },
-    {
-      "title": "《于敏和氢弹》新书发布",
-      "url": "https://baijiahao.baidu.com/s?id=1873729907427440760&wfr=spider&for=pc",
-      "source": "新浪财经",
-      "time": "8月17日",
       "category": "activity"
     },
     {
