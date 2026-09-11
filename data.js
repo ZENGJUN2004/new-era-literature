@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-09-11 23:23",
+  "update_time": "2026-09-12 02:50",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,13 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "博看期刊丨此刻,生活有了新的“灵感”!",
-      "url": "https://cul.sohu.com/a/1073936505_121106902",
-      "source": "搜狐网",
-      "time": "前天19:00",
-      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
@@ -121,6 +114,13 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
+      "title": "再一次把老家请进文字,祁智长篇儿童小说《我们兄弟》在江苏书展首发",
+      "url": "https://baijiahao.baidu.com/s?id=1869945028176085222&wfr=spider&for=pc",
+      "source": "扬子晚报",
+      "time": "7月6日",
+      "category": "activity"
+    },
+    {
       "title": "把家乡长辈抗战故事写成书,长篇小说《长城1933》长沙首发",
       "url": "https://baijiahao.baidu.com/s?id=1862171110712203201&wfr=spider&for=pc",
       "source": "潇湘晨报",
@@ -132,13 +132,6 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1865704053349245673&wfr=spider&for=pc",
       "source": "半岛都市报",
       "time": "5月20日",
-      "category": "activity"
-    },
-    {
-      "title": "再一次把老家请进文字,祁智长篇儿童小说《我们兄弟》在江苏书展首发",
-      "url": "https://baijiahao.baidu.com/s?id=1869945028176085222&wfr=spider&for=pc",
-      "source": "扬子晚报",
-      "time": "7月6日",
       "category": "activity"
     },
     {
