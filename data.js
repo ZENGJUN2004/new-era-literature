@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-09-11 07:30",
+  "update_time": "2026-09-11 09:46",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,24 +23,192 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "收获文学榜在上海揭晓!苏童《好天气》领衔长篇榜首",
-      "url": "http://baijiahao.baidu.com/s?id=1856101673487226555&wfr=spider&for=pc",
-      "source": "上观新闻",
-      "time": "2月3日",
+      "title": "中国科幻产业走向“生态出海”",
+      "url": "https://baijiahao.baidu.com/s?id=1861855033203367752&wfr=spider&for=pc",
+      "source": "环球网",
+      "time": "4月8日",
+      "category": "voice"
+    },
+    {
+      "title": "蔡崇达非虚构写作访谈录:人是最了不起的艺术品",
+      "url": "https://36kr.com/p/1723320942593",
+      "source": "36kr",
+      "time": "",
+      "category": "voice"
+    },
+    {
+      "title": "贾樟柯、梁鸿谈非虚构写作和纪录电影",
+      "url": "http://baijiahao.baidu.com/s?id=1717824461237591660&wfr=spider&for=pc",
+      "source": "澎湃新闻客户端",
+      "time": "",
+      "category": "voice"
+    },
+    {
+      "title": "张辛欣:中国非虚构写作写法太单一,还美其名曰比照《纽约客》",
+      "url": "https://m.jiemian.com/article/795624.html",
+      "source": "界面新闻",
+      "time": "",
+      "category": "voice"
+    },
+    {
+      "title": "拔出萝卜带出泥?莫言没想到,贾浅浅翻车后,女儿管笑笑也被牵连",
+      "url": "https://yule.sohu.com/a/1051442675_122747234",
+      "source": "搜狐娱乐",
+      "time": "7月17日",
       "category": "other"
     },
     {
-      "title": "苏童毕飞宇吴真全勇先,2025收获文学榜揭晓,榜首作家这样说",
-      "url": "http://baijiahao.baidu.com/s?id=1856104193950555898&wfr=spider&for=pc",
-      "source": "上观新闻",
-      "time": "2月3日",
+      "title": "贾浅浅从“屎尿体”诗歌争议,到论文涉嫌抄袭被举报,你怎么看?",
+      "url": "https://cul.sohu.com/a/1009038215_100215423",
+      "source": "搜狐网",
+      "time": "4月13日",
+      "category": "voice"
+    },
+    {
+      "title": "饱受争议的文坛大姐大,如今没了声音了",
+      "url": "https://cul.sohu.com/a/1013905136_121351884",
+      "source": "搜狐网",
+      "time": "4月24日",
+      "category": "voice"
+    },
+    {
+      "title": "郝景芳AI创作争议,本质是知情权引发的信任危机|实习生选拔赛",
+      "url": "https://baijiahao.baidu.com/s?id=1868405602213173548&wfr=spider&for=pc",
+      "source": "新京报",
+      "time": "6月19日",
+      "category": "voice"
+    },
+    {
+      "title": "诺贝尔文学奖得主托尔卡丘克“AI写作”言论引争议",
+      "url": "https://baijiahao.baidu.com/s?id=1866154520298998977&wfr=spider&for=pc",
+      "source": "济南时报",
+      "time": "5月25日",
+      "category": "voice"
+    },
+    {
+      "title": "雨果奖作家AI创作争议,文学创作应有AI透明标尺",
+      "url": "https://baijiahao.baidu.com/s?id=1868499124171297462&wfr=spider&for=pc",
+      "source": "红网",
+      "time": "6月20日",
+      "category": "voice"
+    },
+    {
+      "title": "浮夸腰封渐散 口碑才是流量底色",
+      "url": "https://baijiahao.baidu.com/s?id=1868832604201302647&wfr=spider&for=pc",
+      "source": "青瞳视角",
+      "time": "6月24日",
       "category": "other"
     },
     {
-      "title": "《收获》文学榜揭晓,榜单映射中国文坛迎来“丰年”",
-      "url": "https://www.news.cn/politics/20260204/87438f63cae0416ba7ab64906791eccb/c.html",
-      "source": "新华网",
-      "time": "2月4日",
+      "title": "八十岁的笔会,为何屡屡受高考命题青睐?",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33552917",
+      "source": "澎湃新闻",
+      "time": "7月13日",
+      "category": "other"
+    },
+    {
+      "title": "全网热议的“鉴抄”风波背后,文学期刊编辑想说的话",
+      "url": "https://www.lifeweek.com.cn/h5/article/detail.do?artId=270900",
+      "source": "三联生活周刊",
+      "time": "",
+      "category": "other"
+    },
+    {
+      "title": "中国文学",
+      "url": "https://www.thepaper.cn/tag/272445",
+      "source": "澎湃新闻",
+      "time": "",
+      "category": "other"
+    },
+    {
+      "title": "话题阅读量突破3.5亿,鲁迅文学奖之夜,这台盛典让全网记住“文学的...",
+      "url": "https://m.thepaper.cn/newsDetail_forward_33985657",
+      "source": "澎湃新闻",
+      "time": "8月31日",
+      "category": "other"
+    },
+    {
+      "title": "解读“传统”,重温茅盾文学奖设立初衷|纪念茅盾130周年诞辰",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32560543",
+      "source": "澎湃新闻",
+      "time": "2月11日",
+      "category": "other"
+    },
+    {
+      "title": "对话中国作家协会副主席、茅盾文学奖得主张炜:儿童文学是“更大...",
+      "url": "https://baijiahao.baidu.com/s?id=1869014615582323233&wfr=spider&for=pc",
+      "source": "潮新闻客户端",
+      "time": "6月26日",
+      "category": "other"
+    },
+    {
+      "title": "赵德发长篇小说《大海风》入选中国当代文学研究会年度榜单(2025)",
+      "url": "https://baijiahao.baidu.com/s?id=1853465599041956599&wfr=spider&for=pc",
+      "source": "闪电新闻",
+      "time": "1月5日",
+      "category": "activity"
+    },
+    {
+      "title": "人民文学出版社致歉“《经典常谈》存在编校质量问题”:已启动修订...",
+      "url": "https://baijiahao.baidu.com/s?id=1853646130152297071&wfr=spider&for=pc",
+      "source": "北京商报",
+      "time": "1月7日",
+      "category": "activity"
+    },
+    {
+      "title": "《人民文学》“人民阅卷”活动在赣州举行",
+      "url": "https://www.jx.chinanews.com.cn/news/2026/0127/124244.html",
+      "source": "中国新闻网",
+      "time": "1月27日",
+      "category": "other"
+    },
+    {
+      "title": "经典与新大众文艺共舞:文学出版国家队的数字时代答卷",
+      "url": "https://www.chinatoday.com.cn/zw2018/ly_4982/202604/t20260423_800435901.html",
+      "source": "今日中国",
+      "time": "4月23日",
+      "category": "activity"
+    },
+    {
+      "title": "人民文学出版社推出《经典常谈(全新校订版)》",
+      "url": "https://baijiahao.baidu.com/s?id=1856101088686185340&wfr=spider&for=pc",
+      "source": "北京日报客户端",
+      "time": "2月3日",
+      "category": "activity"
+    },
+    {
+      "title": "《人民文学》葡文版首刊正式发行",
+      "url": "http://hm.people.com.cn/n1/2026/0210/c42272-40663233.html",
+      "source": "人民网",
+      "time": "2月10日",
+      "category": "other"
+    },
+    {
+      "title": "澳门文总助力《人民文学》葡文版首刊发行",
+      "url": "https://baijiahao.baidu.com/s?id=1856709252075079119&wfr=spider&for=pc",
+      "source": "中国新闻网",
+      "time": "2月10日",
+      "category": "other"
+    },
+    {
+      "title": "文学双周记|《呼啸山庄》《蝇王》《纯真博物馆》改编齐亮相",
+      "url": "https://baijiahao.baidu.com/s?id=1857249405029297946&wfr=spider&for=pc",
+      "source": "澎湃新闻",
+      "time": "2月16日",
+      "category": "other"
+    },
+    {
+      "title": "大咖来了!茅盾文学奖得主、《人民文学》主编徐则臣“镜湖夜话”开讲",
+      "url": "https://baijiahao.baidu.com/s?id=1864974778412194118&wfr=spider&for=pc",
+      "source": "扬子晚报",
+      "time": "5月12日",
+      "category": "other"
+    },
+    {
+      "title": "《十月》杂志举办青年作家创作分享会",
+      "url": "https://baijiahao.baidu.com/s?id=1860050202536776799&wfr=spider&for=pc",
+      "source": "人民网",
+      "time": "3月19日",
       "category": "other"
     },
     {
@@ -48,13 +216,6 @@ window.LIT_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
-      "category": "activity"
-    },
-    {
-      "title": "新加坡著名慈善家、作家卓顺发《太阳出来了,露水不见了》新书发布",
-      "url": "https://baijiahao.baidu.com/s?id=1854366953074514692&wfr=spider&for=pc",
-      "source": "曲靖珠江网",
-      "time": "1月15日",
       "category": "activity"
     },
     {
@@ -83,6 +244,13 @@ window.LIT_DATA = {
       "url": "https://cul.sohu.com/a/1025655999_121119385",
       "source": "搜狐网",
       "time": "5月21日",
+      "category": "activity"
+    },
+    {
+      "title": "《平居日札》新书发布暨王充闾作品研讨会举办",
+      "url": "https://baijiahao.baidu.com/s?id=1868331656322285113&wfr=spider&for=pc",
+      "source": "人民资讯",
+      "time": "6月18日",
       "category": "activity"
     },
     {
