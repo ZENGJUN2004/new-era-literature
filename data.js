@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-09-12 14:38",
+  "update_time": "2026-09-12 19:21",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -30,6 +30,13 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
+      "title": "新加坡著名慈善家、作家卓顺发《太阳出来了,露水不见了》新书发布",
+      "url": "https://baijiahao.baidu.com/s?id=1854366953074514692&wfr=spider&for=pc",
+      "source": "曲靖珠江网",
+      "time": "1月15日",
+      "category": "activity"
+    },
+    {
       "title": "聚焦边疆书写 张者《天边》新书发布",
       "url": "https://baijiahao.baidu.com/s?id=1862343135717648529&wfr=spider&for=pc",
       "source": "中国新闻网",
@@ -55,13 +62,6 @@ window.LIT_DATA = {
       "url": "https://cul.sohu.com/a/1025655999_121119385",
       "source": "搜狐网",
       "time": "5月21日",
-      "category": "activity"
-    },
-    {
-      "title": "《平居日札》新书发布暨王充闾作品研讨会举办",
-      "url": "https://baijiahao.baidu.com/s?id=1868331656322285113&wfr=spider&for=pc",
-      "source": "人民资讯",
-      "time": "6月18日",
       "category": "activity"
     },
     {
