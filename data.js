@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-09-13 14:53",
+  "update_time": "2026-09-13 20:24",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -41,13 +41,6 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1862343135717648529&wfr=spider&for=pc",
       "source": "中国新闻网",
       "time": "4月13日",
-      "category": "activity"
-    },
-    {
-      "title": "书香喀什・新书发布暨现场签售活动举行",
-      "url": "http://baijiahao.baidu.com/s?id=1863459232450526300&wfr=spider&for=pc",
-      "source": "澎湃新闻客户端",
-      "time": "4月25日",
       "category": "activity"
     },
     {
