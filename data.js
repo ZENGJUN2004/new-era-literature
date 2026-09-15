@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-09-15 14:52",
+  "update_time": "2026-09-15 20:19",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -30,17 +30,17 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "老藤长篇小说《自愈者》新书发布会举办",
-      "url": "https://baijiahao.baidu.com/s?id=1854092227377307964&wfr=spider&for=pc",
-      "source": "工人日报",
-      "time": "1月12日",
-      "category": "activity"
-    },
-    {
       "title": "长篇纪实文学《烽火》新书发布暨座谈会在德州举行",
       "url": "https://baijiahao.baidu.com/s?id=1854984906459423165&wfr=spider&for=pc",
       "source": "大众日报",
       "time": "1月22日",
+      "category": "activity"
+    },
+    {
+      "title": "新加坡著名慈善家、作家卓顺发《太阳出来了,露水不见了》新书发布",
+      "url": "https://baijiahao.baidu.com/s?id=1854366953074514692&wfr=spider&for=pc",
+      "source": "曲靖珠江网",
+      "time": "1月15日",
       "category": "activity"
     },
     {
