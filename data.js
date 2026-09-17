@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-09-17 16:03",
+  "update_time": "2026-09-17 21:52",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,48 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "八十岁的笔会,为何屡屡受高考命题青睐?",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33552917",
-      "source": "澎湃新闻",
-      "time": "7月13日",
-      "category": "other"
-    },
-    {
-      "title": "中国文学",
-      "url": "https://www.thepaper.cn/tag/272445",
-      "source": "澎湃新闻",
-      "time": "",
-      "category": "other"
-    },
-    {
-      "title": "澎湃新闻",
-      "url": "https://m.thepaper.cn/tag/32403",
-      "source": "澎湃新闻",
-      "time": "8月25日",
-      "category": "other"
-    },
-    {
-      "title": "从鲁迅小道到文学之路,跟着鲁迅文学奖游走上海虹口",
-      "url": "https://m.yicai.com/news/103339876.html",
-      "source": "第一财经",
-      "time": "8月30日",
-      "category": "other"
-    },
-    {
-      "title": "守边界,赴无限:在粤港澳大湾区文学周里读懂新时代“大文学”",
-      "url": "https://cul.sohu.com/a/1070500216_120046696",
-      "source": "搜狐网",
-      "time": "9月1日",
-      "category": "other"
-    },
-    {
-      "title": "聚焦大湾区丨粤港澳大湾区文学周举办 探讨文学创新发展",
-      "url": "http://www.gd.xinhuanet.com/20260902/4e3d6aa674ea4c3eb5086883e805ad92/c.html",
-      "source": "新华网",
-      "time": "9月2日",
-      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
