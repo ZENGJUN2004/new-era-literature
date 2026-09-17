@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-09-17 21:52",
+  "update_time": "2026-09-18 01:48",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -86,52 +86,31 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "聚焦个体命运与历史纵深 抗战题材长篇小说《地啸》首发",
-      "url": "https://baijiahao.baidu.com/s?id=1853803167951408475&wfr=spider&for=pc",
-      "source": "齐鲁壹点",
-      "time": "1月9日",
-      "category": "activity"
-    },
-    {
-      "title": "老藤长篇小说《自愈者》在京首发在“AI迷宫”中寻找心灵坐标",
-      "url": "https://baijiahao.baidu.com/s?id=1853940665722016960&wfr=spider&for=pc",
-      "source": "红网",
+      "title": "每一寸土地都充满生机,“新时代山乡巨变创作计划”长篇小说《种粮...",
+      "url": "https://cul.sohu.com/a/974531640_394566",
+      "source": "搜狐网",
       "time": "1月10日",
       "category": "activity"
     },
     {
-      "title": "抵达辽阔远方的多声部抗战叙事——长篇小说《地啸》首发实录",
-      "url": "https://baijiahao.baidu.com/s?id=1854825795286531236&wfr=spider&for=pc",
-      "source": "齐鲁壹点",
-      "time": "1月20日",
+      "title": "冉学东长篇小说《上寨》首发仪式暨作品讨论会在西安举行",
+      "url": "https://baijiahao.baidu.com/s?id=1855993505774569048&wfr=spider&for=pc",
+      "source": "三秦都市报",
+      "time": "2月2日",
       "category": "activity"
     },
     {
-      "title": "再一次把老家请进文字,祁智长篇儿童小说《我们兄弟》在江苏书展首发",
-      "url": "https://baijiahao.baidu.com/s?id=1869945028176085222&wfr=spider&for=pc",
-      "source": "扬子晚报",
-      "time": "7月6日",
+      "title": "长篇小说《不虚此生》在京首发聚焦教育现实与女性精神成长",
+      "url": "http://www.xinhuanet.com/politics/20260619/50825e3ba9534491bf9c2ba5460739b3/c.html",
+      "source": "新华网",
+      "time": "6月19日",
       "category": "activity"
     },
     {
-      "title": "把家乡长辈抗战故事写成书,长篇小说《长城1933》长沙首发",
-      "url": "https://baijiahao.baidu.com/s?id=1862171110712203201&wfr=spider&for=pc",
-      "source": "潇湘晨报",
-      "time": "4月11日",
-      "category": "activity"
-    },
-    {
-      "title": "首届“刘知侠长篇小说奖”颁奖典礼暨《青岛市中青年作家文库...",
-      "url": "https://baijiahao.baidu.com/s?id=1865704053349245673&wfr=spider&for=pc",
-      "source": "半岛都市报",
-      "time": "5月20日",
-      "category": "activity"
-    },
-    {
-      "title": "聚焦普通人蜕变成长长篇小说《不虚此生》首发",
-      "url": "https://baijiahao.baidu.com/s?id=1868337403425152313&wfr=spider&for=pc",
-      "source": "中国新闻网",
-      "time": "6月18日",
+      "title": "现实主义长篇小说《呼吸》在京首发",
+      "url": "http://www.xinhuanet.com/politics/20260621/796fa78c25d14b0a99a347d38d29689f/c.html",
+      "source": "新华网",
+      "time": "6月21日",
       "category": "activity"
     }
   ]
