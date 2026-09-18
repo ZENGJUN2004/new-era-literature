@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-09-18 23:31",
+  "update_time": "2026-09-19 02:42",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -111,6 +111,13 @@ window.LIT_DATA = {
       "url": "http://www.xinhuanet.com/politics/20260621/796fa78c25d14b0a99a347d38d29689f/c.html",
       "source": "新华网",
       "time": "6月21日",
+      "category": "activity"
+    },
+    {
+      "title": "作家殷寻首部女性科幻悬疑长篇小说《的猫》首发",
+      "url": "https://www.gd.chinanews.com.cn/2026/2026-09-17/449653.shtml",
+      "source": "中国新闻网",
+      "time": "前天12:20",
       "category": "activity"
     }
   ]
