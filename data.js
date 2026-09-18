@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-09-19 02:42",
+  "update_time": "2026-09-19 05:20",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -37,20 +37,6 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "关仁山《太阳照在滹沱河上》新书发布会在正定举行",
-      "url": "https://cul.sohu.com/a/1020080228_122014422",
-      "source": "搜狐网",
-      "time": "5月9日",
-      "category": "activity"
-    },
-    {
-      "title": "《自愈者》新书在京发布作家老藤探讨AI时代的心灵救赎之路",
-      "url": "https://baijiahao.baidu.com/s?id=1854293051586245393&wfr=spider&for=pc",
-      "source": "央广网",
-      "time": "1月14日",
-      "category": "activity"
-    },
-    {
       "title": "孔德林新书发布暨作品分享会在七星关区举行",
       "url": "https://baijiahao.baidu.com/s?id=1862968999751818915&wfr=spider&for=pc",
       "source": "天眼新闻",
@@ -63,6 +49,20 @@ window.LIT_DATA = {
       "source": "金台资讯",
       "time": "4月29日",
       "category": "other"
+    },
+    {
+      "title": "【诗画北戴河】《风从海上来》新书发布会在北戴河区举行",
+      "url": "http://baijiahao.baidu.com/s?id=1864780140515000897&wfr=spider&for=pc",
+      "source": "澎湃新闻客户端",
+      "time": "5月10日",
+      "category": "activity"
+    },
+    {
+      "title": "《平居日札》新书发布暨王充闾作品研讨会举办",
+      "url": "https://baijiahao.baidu.com/s?id=1868331656322285113&wfr=spider&for=pc",
+      "source": "人民资讯",
+      "time": "6月18日",
+      "category": "activity"
     },
     {
       "title": "青年作家徐鹏新作《未央·蜀道残阳》在重庆永川发布",
