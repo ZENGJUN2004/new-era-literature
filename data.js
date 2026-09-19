@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-09-20 01:36",
+  "update_time": "2026-09-20 03:42",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,13 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
-      "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
-      "source": "澎湃新闻客户端",
-      "time": "",
-      "category": "activity"
     },
     {
       "title": "长篇纪实文学《烽火》新书发布暨座谈会在德州举行",
@@ -93,10 +86,17 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "长篇小说《不虚此生》在京首发聚焦教育现实与女性精神成长",
-      "url": "http://www.xinhuanet.com/politics/20260619/50825e3ba9534491bf9c2ba5460739b3/c.html",
-      "source": "新华网",
-      "time": "6月19日",
+      "title": "聚焦个体命运与历史纵深 抗战题材长篇小说《地啸》首发",
+      "url": "https://baijiahao.baidu.com/s?id=1853803167951408475&wfr=spider&for=pc",
+      "source": "齐鲁壹点",
+      "time": "1月9日",
+      "category": "activity"
+    },
+    {
+      "title": "抵达辽阔远方的多声部抗战叙事——长篇小说《地啸》首发实录",
+      "url": "https://baijiahao.baidu.com/s?id=1854825795286531236&wfr=spider&for=pc",
+      "source": "齐鲁壹点",
+      "time": "1月20日",
       "category": "activity"
     },
     {
