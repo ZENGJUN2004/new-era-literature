@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-09-19 14:51",
+  "update_time": "2026-09-19 19:41",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -56,13 +56,6 @@ window.LIT_DATA = {
       "source": "金台资讯",
       "time": "4月29日",
       "category": "other"
-    },
-    {
-      "title": "《平居日札》新书发布暨王充闾作品研讨会举办",
-      "url": "https://baijiahao.baidu.com/s?id=1868331656322285113&wfr=spider&for=pc",
-      "source": "人民资讯",
-      "time": "6月18日",
-      "category": "activity"
     },
     {
       "title": "青年作家徐鹏新作《未央·蜀道残阳》在重庆永川发布",
