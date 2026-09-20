@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-09-20 20:42",
+  "update_time": "2026-09-21 00:35",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -27,6 +27,13 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1854984906459423165&wfr=spider&for=pc",
       "source": "大众日报",
       "time": "1月22日",
+      "category": "activity"
+    },
+    {
+      "title": "《自愈者》新书在京发布作家老藤探讨AI时代的心灵救赎之路",
+      "url": "https://baijiahao.baidu.com/s?id=1854293051586245393&wfr=spider&for=pc",
+      "source": "央广网",
+      "time": "1月14日",
       "category": "activity"
     },
     {
@@ -72,6 +79,13 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
+      "title": "从野生球场到湘超之巅,永州作家为草根逆袭立传《永冲锋》新书发布...",
+      "url": "https://baijiahao.baidu.com/s?id=1876732629301280341&wfr=spider&for=pc",
+      "source": "湖南日报",
+      "time": "前天11:41",
+      "category": "activity"
+    },
+    {
       "title": "每一寸土地都充满生机,“新时代山乡巨变创作计划”长篇小说《种粮...",
       "url": "https://cul.sohu.com/a/974531640_394566",
       "source": "搜狐网",
@@ -104,27 +118,6 @@ window.LIT_DATA = {
       "url": "http://www.xinhuanet.com/politics/20260621/796fa78c25d14b0a99a347d38d29689f/c.html",
       "source": "新华网",
       "time": "6月21日",
-      "category": "activity"
-    },
-    {
-      "title": "长篇小说《师者》在铜梁首发",
-      "url": "https://baijiahao.baidu.com/s?id=1876664932049361846&wfr=spider&for=pc",
-      "source": "金台资讯",
-      "time": "前天18:03",
-      "category": "activity"
-    },
-    {
-      "title": "在读|如此温软,如此辽阔,如此有力——读周华诚新作《棉花与云朵》",
-      "url": "https://baijiahao.baidu.com/s?id=1876747147842300160&wfr=spider&for=pc",
-      "source": "新浪财经",
-      "time": "昨天16:12",
-      "category": "other"
-    },
-    {
-      "title": "从野生球场到湘超之巅,永州作家为草根逆袭立传《永冲锋》新书发布...",
-      "url": "https://baijiahao.baidu.com/s?id=1876732629301280341&wfr=spider&for=pc",
-      "source": "湖南日报",
-      "time": "昨天11:41",
       "category": "activity"
     }
   ]
