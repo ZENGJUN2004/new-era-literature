@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-09-21 03:09",
+  "update_time": "2026-09-21 06:00",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,24 +23,10 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "长篇纪实文学《烽火》新书发布暨座谈会在德州举行",
-      "url": "https://baijiahao.baidu.com/s?id=1854984906459423165&wfr=spider&for=pc",
-      "source": "大众日报",
-      "time": "1月22日",
-      "category": "activity"
-    },
-    {
       "title": "《自愈者》新书在京发布作家老藤探讨AI时代的心灵救赎之路",
       "url": "https://baijiahao.baidu.com/s?id=1854293051586245393&wfr=spider&for=pc",
       "source": "央广网",
       "time": "1月14日",
-      "category": "activity"
-    },
-    {
-      "title": "孔德林新书发布暨作品分享会在七星关区举行",
-      "url": "https://baijiahao.baidu.com/s?id=1862968999751818915&wfr=spider&for=pc",
-      "source": "天眼新闻",
-      "time": "4月20日",
       "category": "activity"
     },
     {
@@ -49,6 +35,13 @@ window.LIT_DATA = {
       "source": "金台资讯",
       "time": "4月29日",
       "category": "other"
+    },
+    {
+      "title": "《所有的心碎与欢娱》新书发布研讨会在上海举办",
+      "url": "https://cul.sohu.com/a/1025655999_121119385",
+      "source": "搜狐网",
+      "time": "5月21日",
+      "category": "activity"
     },
     {
       "title": "青年作家徐鹏新作《未央·蜀道残阳》在重庆永川发布",
@@ -65,10 +58,24 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
+      "title": "第四届接力杯曹文轩儿童小说奖新书发布暨作家对谈在杭举行",
+      "url": "https://baijiahao.baidu.com/s?id=1871683673744035341&wfr=spider&for=pc",
+      "source": "潮新闻客户端",
+      "time": "7月25日",
+      "category": "activity"
+    },
+    {
       "title": "第四届接力杯曹文轩儿童小说奖新书发布暨作家对谈在全国书博会举行",
       "url": "https://baijiahao.baidu.com/s?id=1871655928518036912&wfr=spider&for=pc",
       "source": "钱江晚报",
       "time": "7月25日",
+      "category": "activity"
+    },
+    {
+      "title": "书香润文明,四时品江南!上海书展新书发布会火热报名中",
+      "url": "http://baijiahao.baidu.com/s?id=1872507201548064191&wfr=spider&for=pc",
+      "source": "上观新闻",
+      "time": "8月3日",
       "category": "activity"
     },
     {
