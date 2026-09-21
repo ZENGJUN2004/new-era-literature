@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-09-21 22:39",
+  "update_time": "2026-09-22 03:49",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,6 +23,13 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
+      "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
+      "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
+      "source": "澎湃新闻客户端",
+      "time": "",
+      "category": "activity"
+    },
+    {
       "title": "《所有的心碎与欢娱》新书发布研讨会在上海举办",
       "url": "https://cul.sohu.com/a/1025655999_121119385",
       "source": "搜狐网",
@@ -37,17 +44,17 @@ window.LIT_DATA = {
       "category": "other"
     },
     {
-      "title": "作家邱华栋《敦煌变》新书发布会纪实",
-      "url": "https://baijiahao.baidu.com/s?id=1863401191001013265&wfr=spider&for=pc",
-      "source": "青瞳视角",
-      "time": "4月25日",
-      "category": "activity"
-    },
-    {
       "title": "第四届接力杯曹文轩儿童小说奖新书发布暨作家对谈在杭举行",
       "url": "https://baijiahao.baidu.com/s?id=1871683673744035341&wfr=spider&for=pc",
       "source": "潮新闻客户端",
       "time": "7月25日",
+      "category": "activity"
+    },
+    {
+      "title": "作家邱华栋《敦煌变》新书发布会纪实",
+      "url": "https://baijiahao.baidu.com/s?id=1863401191001013265&wfr=spider&for=pc",
+      "source": "青瞳视角",
+      "time": "4月25日",
       "category": "activity"
     },
     {
@@ -65,10 +72,17 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "从野生球场到湘超之巅,永州作家为草根逆袭立传《永冲锋》新书发布...",
-      "url": "https://baijiahao.baidu.com/s?id=1876732629301280341&wfr=spider&for=pc",
-      "source": "湖南日报",
-      "time": "前天11:41",
+      "title": "勇攀湘超之巅的历程:《永冲锋》新书发布会在长沙举行",
+      "url": "https://baijiahao.baidu.com/s?id=1876842068075557866&wfr=spider&for=pc",
+      "source": "长沙晚报掌上长沙",
+      "time": "前天17:21",
+      "category": "activity"
+    },
+    {
+      "title": "号外!号外!会理陈新颜新书发布会来了",
+      "url": "https://cul.sohu.com/a/1078476231_713495",
+      "source": "搜狐网",
+      "time": "前天10:21",
       "category": "activity"
     },
     {
@@ -104,20 +118,6 @@ window.LIT_DATA = {
       "url": "http://www.xinhuanet.com/politics/20260621/796fa78c25d14b0a99a347d38d29689f/c.html",
       "source": "新华网",
       "time": "6月21日",
-      "category": "activity"
-    },
-    {
-      "title": "勇攀湘超之巅的历程:《永冲锋》新书发布会在长沙举行",
-      "url": "https://baijiahao.baidu.com/s?id=1876842068075557866&wfr=spider&for=pc",
-      "source": "长沙晚报掌上长沙",
-      "time": "昨天17:21",
-      "category": "activity"
-    },
-    {
-      "title": "号外!号外!会理陈新颜新书发布会来了",
-      "url": "https://cul.sohu.com/a/1078476231_713495",
-      "source": "搜狐网",
-      "time": "昨天10:21",
       "category": "activity"
     }
   ]
