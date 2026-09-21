@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-09-22 03:49",
+  "update_time": "2026-09-22 06:55",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -86,31 +86,31 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "每一寸土地都充满生机,“新时代山乡巨变创作计划”长篇小说《种粮...",
-      "url": "https://cul.sohu.com/a/974531640_394566",
-      "source": "搜狐网",
-      "time": "1月10日",
+      "title": "长篇儿童小说《拾光乐队》在南京首发,作者杨娟分享幕后创作故事",
+      "url": "https://baijiahao.baidu.com/s?id=1869318336398988623&wfr=spider&for=pc",
+      "source": "扬子晚报",
+      "time": "6月29日",
       "category": "activity"
     },
     {
-      "title": "冉学东长篇小说《上寨》首发仪式暨作品讨论会在西安举行",
-      "url": "https://baijiahao.baidu.com/s?id=1855993505774569048&wfr=spider&for=pc",
-      "source": "三秦都市报",
-      "time": "2月2日",
+      "title": "长篇小说《呼吸》新书首发暨版权输出签约仪式举行",
+      "url": "https://www.chinanews.com.cn/cul/2026/06-21/10644583.shtml",
+      "source": "中国新闻网",
+      "time": "6月21日",
       "category": "activity"
     },
     {
-      "title": "聚焦个体命运与历史纵深 抗战题材长篇小说《地啸》首发",
-      "url": "https://baijiahao.baidu.com/s?id=1853803167951408475&wfr=spider&for=pc",
-      "source": "齐鲁壹点",
-      "time": "1月9日",
+      "title": "聚焦普通人蜕变成长长篇小说《不虚此生》首发",
+      "url": "https://baijiahao.baidu.com/s?id=1868337403425152313&wfr=spider&for=pc",
+      "source": "中国新闻网",
+      "time": "6月18日",
       "category": "activity"
     },
     {
-      "title": "抵达辽阔远方的多声部抗战叙事——长篇小说《地啸》首发实录",
-      "url": "https://baijiahao.baidu.com/s?id=1854825795286531236&wfr=spider&for=pc",
-      "source": "齐鲁壹点",
-      "time": "1月20日",
+      "title": "长篇小说《不虚此生》在京首发聚焦教育现实与女性精神成长",
+      "url": "http://www.xinhuanet.com/politics/20260619/50825e3ba9534491bf9c2ba5460739b3/c.html",
+      "source": "新华网",
+      "time": "6月19日",
       "category": "activity"
     },
     {
