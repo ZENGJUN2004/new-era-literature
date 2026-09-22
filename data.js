@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-09-22 20:16",
+  "update_time": "2026-09-23 01:25",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,13 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "破除语言壁垒,2025年度世界一流科技期刊目录研究报告在沪发布",
+      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1175672&sid=300",
+      "source": "上观",
+      "time": "9月12日",
+      "category": "activity"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
@@ -69,20 +76,6 @@ window.LIT_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1872507201548064191&wfr=spider&for=pc",
       "source": "上观新闻",
       "time": "8月3日",
-      "category": "activity"
-    },
-    {
-      "title": "勇攀湘超之巅的历程:《永冲锋》新书发布会在长沙举行",
-      "url": "https://baijiahao.baidu.com/s?id=1876842068075557866&wfr=spider&for=pc",
-      "source": "长沙晚报掌上长沙",
-      "time": "前天17:21",
-      "category": "activity"
-    },
-    {
-      "title": "号外!号外!会理陈新颜新书发布会来了",
-      "url": "https://cul.sohu.com/a/1078476231_713495",
-      "source": "搜狐网",
-      "time": "前天10:21",
       "category": "activity"
     },
     {
