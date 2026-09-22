@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-09-22 09:20",
+  "update_time": "2026-09-22 14:58",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,13 +23,6 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "《十月》杂志举办青年作家创作分享会",
-      "url": "https://baijiahao.baidu.com/s?id=1860050202536776799&wfr=spider&for=pc",
-      "source": "人民网",
-      "time": "3月19日",
-      "category": "other"
-    },
-    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
@@ -37,18 +30,18 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
+      "title": "青年作家徐鹏新作《未央·蜀道残阳》在永川发布",
+      "url": "https://baijiahao.baidu.com/s?id=1863771851573387062&wfr=spider&for=pc",
+      "source": "金台资讯",
+      "time": "4月29日",
+      "category": "other"
+    },
+    {
       "title": "《所有的心碎与欢娱》新书发布研讨会在上海举办",
       "url": "https://cul.sohu.com/a/1025655999_121119385",
       "source": "搜狐网",
       "time": "5月21日",
       "category": "activity"
-    },
-    {
-      "title": "青年作家徐鹏新作《未央·蜀道残阳》在重庆永川发布",
-      "url": "http://www.cq.xinhuanet.com/20260429/47022f852e3d4ac5a7f184dfcf56d340/c.html",
-      "source": "新华网重庆频道",
-      "time": "4月29日",
-      "category": "other"
     },
     {
       "title": "第四届接力杯曹文轩儿童小说奖新书发布暨作家对谈在杭举行",
