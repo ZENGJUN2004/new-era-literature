@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-09-23 21:56",
+  "update_time": "2026-09-24 02:02",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -30,13 +30,6 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "青年作家徐鹏新作《未央·蜀道残阳》在永川发布",
-      "url": "https://baijiahao.baidu.com/s?id=1863771851573387062&wfr=spider&for=pc",
-      "source": "金台资讯",
-      "time": "4月29日",
-      "category": "other"
-    },
-    {
       "title": "青年作家徐鹏新作《未央·蜀道残阳》在重庆永川发布",
       "url": "http://www.cq.xinhuanet.com/20260429/47022f852e3d4ac5a7f184dfcf56d340/c.html",
       "source": "新华网重庆频道",
@@ -65,10 +58,10 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "《永冲锋》新书发布会在长沙举行",
-      "url": "https://baijiahao.baidu.com/s?id=1876938360237687341&wfr=spider&for=pc",
-      "source": "红网",
-      "time": "前天17:45",
+      "title": "从“告花子球场”到湘超冠军——《永冲锋》新书发布会在长沙举行",
+      "url": "https://baijiahao.baidu.com/s?id=1876999261403653028&wfr=spider&for=pc",
+      "source": "今日永州",
+      "time": "前天10:58",
       "category": "activity"
     },
     {
@@ -104,13 +97,6 @@ window.LIT_DATA = {
       "url": "http://www.xinhuanet.com/politics/20260621/796fa78c25d14b0a99a347d38d29689f/c.html",
       "source": "新华网",
       "time": "6月21日",
-      "category": "activity"
-    },
-    {
-      "title": "从“告花子球场”到湘超冠军——《永冲锋》新书发布会在长沙举行",
-      "url": "https://baijiahao.baidu.com/s?id=1876999261403653028&wfr=spider&for=pc",
-      "source": "今日永州",
-      "time": "昨天10:58",
       "category": "activity"
     }
   ]
