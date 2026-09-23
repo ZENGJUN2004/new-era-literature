@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-09-23 16:02",
+  "update_time": "2026-09-23 21:56",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -62,6 +62,13 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1871655928518036912&wfr=spider&for=pc",
       "source": "钱江晚报",
       "time": "7月25日",
+      "category": "activity"
+    },
+    {
+      "title": "《永冲锋》新书发布会在长沙举行",
+      "url": "https://baijiahao.baidu.com/s?id=1876938360237687341&wfr=spider&for=pc",
+      "source": "红网",
+      "time": "前天17:45",
       "category": "activity"
     },
     {
