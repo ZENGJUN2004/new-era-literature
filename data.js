@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-09-24 18:39",
+  "update_time": "2026-09-24 23:35",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -28,13 +28,6 @@ window.LIT_DATA = {
       "source": "澎湃新闻客户端",
       "time": "",
       "category": "activity"
-    },
-    {
-      "title": "青年作家徐鹏新作《未央·蜀道残阳》在永川发布",
-      "url": "https://baijiahao.baidu.com/s?id=1863771851573387062&wfr=spider&for=pc",
-      "source": "金台资讯",
-      "time": "4月29日",
-      "category": "other"
     },
     {
       "title": "青年作家徐鹏新作《未央·蜀道残阳》在重庆永川发布",
@@ -69,6 +62,13 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1876999261403653028&wfr=spider&for=pc",
       "source": "今日永州",
       "time": "前天10:58",
+      "category": "activity"
+    },
+    {
+      "title": "作家贾飞新书《屏山漫笔》发布,收录80余篇散文佳作",
+      "url": "https://baijiahao.baidu.com/s?id=1877030215978784180&wfr=spider&for=pc",
+      "source": "封面新闻",
+      "time": "前天19:11",
       "category": "activity"
     },
     {
