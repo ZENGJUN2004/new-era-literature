@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-09-24 23:35",
+  "update_time": "2026-09-25 03:34",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -55,20 +55,6 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1871655928518036912&wfr=spider&for=pc",
       "source": "钱江晚报",
       "time": "7月25日",
-      "category": "activity"
-    },
-    {
-      "title": "从“告花子球场”到湘超冠军——《永冲锋》新书发布会在长沙举行",
-      "url": "https://baijiahao.baidu.com/s?id=1876999261403653028&wfr=spider&for=pc",
-      "source": "今日永州",
-      "time": "前天10:58",
-      "category": "activity"
-    },
-    {
-      "title": "作家贾飞新书《屏山漫笔》发布,收录80余篇散文佳作",
-      "url": "https://baijiahao.baidu.com/s?id=1877030215978784180&wfr=spider&for=pc",
-      "source": "封面新闻",
-      "time": "前天19:11",
       "category": "activity"
     },
     {
