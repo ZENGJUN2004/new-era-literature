@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-09-24 05:53",
+  "update_time": "2026-09-24 08:05",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,13 +21,6 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
-    },
-    {
-      "title": "《十月》杂志举办青年作家创作分享会",
-      "url": "https://baijiahao.baidu.com/s?id=1860050202536776799&wfr=spider&for=pc",
-      "source": "人民网",
-      "time": "3月19日",
-      "category": "other"
     },
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
@@ -72,24 +65,10 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "长篇儿童小说《拾光乐队》在南京首发,作者杨娟分享幕后创作故事",
-      "url": "https://baijiahao.baidu.com/s?id=1869318336398988623&wfr=spider&for=pc",
-      "source": "扬子晚报",
-      "time": "6月29日",
-      "category": "activity"
-    },
-    {
       "title": "长篇小说《呼吸》新书首发暨版权输出签约仪式举行",
       "url": "https://www.chinanews.com.cn/cul/2026/06-21/10644583.shtml",
       "source": "中国新闻网",
       "time": "6月21日",
-      "category": "activity"
-    },
-    {
-      "title": "聚焦普通人蜕变成长长篇小说《不虚此生》首发",
-      "url": "https://baijiahao.baidu.com/s?id=1868337403425152313&wfr=spider&for=pc",
-      "source": "中国新闻网",
-      "time": "6月18日",
       "category": "activity"
     },
     {
