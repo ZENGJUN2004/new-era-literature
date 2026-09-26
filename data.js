@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-09-26 09:01",
+  "update_time": "2026-09-26 14:46",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -27,6 +27,13 @@ window.LIT_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
+      "category": "activity"
+    },
+    {
+      "title": "《所有的心碎与欢娱》新书发布研讨会在上海举办",
+      "url": "https://cul.sohu.com/a/1025655999_121119385",
+      "source": "搜狐网",
+      "time": "5月21日",
       "category": "activity"
     },
     {
