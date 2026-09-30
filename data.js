@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-10-01 03:42",
+  "update_time": "2026-10-01 07:17",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,76 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
+      "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
+      "source": "澎湃新闻客户端",
+      "time": "",
+      "category": "activity"
+    },
+    {
+      "title": "《自愈者》新书在京发布作家老藤探讨AI时代的心灵救赎之路",
+      "url": "https://baijiahao.baidu.com/s?id=1854293051586245393&wfr=spider&for=pc",
+      "source": "央广网",
+      "time": "1月14日",
+      "category": "activity"
+    },
+    {
+      "title": "青年作家徐鹏新作《未央·蜀道残阳》在重庆永川发布",
+      "url": "http://www.cq.xinhuanet.com/20260429/47022f852e3d4ac5a7f184dfcf56d340/c.html",
+      "source": "新华网重庆频道",
+      "time": "4月29日",
+      "category": "other"
+    },
+    {
+      "title": "第四届接力杯曹文轩儿童小说奖新书发布暨作家对谈在杭举行",
+      "url": "https://baijiahao.baidu.com/s?id=1871683673744035341&wfr=spider&for=pc",
+      "source": "潮新闻客户端",
+      "time": "7月25日",
+      "category": "activity"
+    },
+    {
+      "title": "作家邱华栋《敦煌变》新书发布会纪实",
+      "url": "https://baijiahao.baidu.com/s?id=1863401191001013265&wfr=spider&for=pc",
+      "source": "青瞳视角",
+      "time": "4月25日",
+      "category": "activity"
+    },
+    {
+      "title": "第四届接力杯曹文轩儿童小说奖新书发布暨作家对谈在全国书博会举行",
+      "url": "https://baijiahao.baidu.com/s?id=1871655928518036912&wfr=spider&for=pc",
+      "source": "钱江晚报",
+      "time": "7月25日",
+      "category": "activity"
+    },
+    {
+      "title": "勇攀湘超之巅的历程:《永冲锋》新书发布会在长沙举行",
+      "url": "https://cul.sohu.com/a/1078637807_392415",
+      "source": "搜狐网",
+      "time": "9月20日",
+      "category": "activity"
+    },
+    {
+      "title": "长篇小说《呼吸》新书首发暨版权输出签约仪式举行",
+      "url": "https://www.chinanews.com.cn/cul/2026/06-21/10644583.shtml",
+      "source": "中国新闻网",
+      "time": "6月21日",
+      "category": "activity"
+    },
+    {
+      "title": "长篇小说《不虚此生》在京首发聚焦教育现实与女性精神成长",
+      "url": "http://www.xinhuanet.com/politics/20260619/50825e3ba9534491bf9c2ba5460739b3/c.html",
+      "source": "新华网",
+      "time": "6月19日",
+      "category": "activity"
+    },
+    {
+      "title": "现实主义长篇小说《呼吸》在京首发",
+      "url": "http://www.xinhuanet.com/politics/20260621/796fa78c25d14b0a99a347d38d29689f/c.html",
+      "source": "新华网",
+      "time": "6月21日",
+      "category": "activity"
     }
   ]
 };
