@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-10-03 03:37",
+  "update_time": "2026-10-03 07:23",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -35,13 +35,6 @@ window.LIT_DATA = {
       "source": "央广网",
       "time": "1月14日",
       "category": "activity"
-    },
-    {
-      "title": "青年作家徐鹏新作《未央·蜀道残阳》在永川发布",
-      "url": "https://baijiahao.baidu.com/s?id=1863771851573387062&wfr=spider&for=pc",
-      "source": "金台资讯",
-      "time": "4月29日",
-      "category": "other"
     },
     {
       "title": "青年作家徐鹏新作《未央·蜀道残阳》在重庆永川发布",
