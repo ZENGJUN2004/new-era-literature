@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-10-02 22:15",
+  "update_time": "2026-10-03 03:37",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -119,13 +119,6 @@ window.LIT_DATA = {
       "source": "新华网",
       "time": "6月21日",
       "category": "activity"
-    },
-    {
-      "title": "一间书房的辽阔:范用留下的书与人",
-      "url": "https://baijiahao.baidu.com/s?id=1877811174691506415&wfr=spider&for=pc",
-      "source": "澎湃新闻",
-      "time": "昨天10:03",
-      "category": "other"
     }
   ]
 };
