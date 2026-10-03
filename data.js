@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-10-03 07:23",
+  "update_time": "2026-10-03 10:37",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,6 +23,146 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
+      "title": "中国科幻产业走向“生态出海”",
+      "url": "https://baijiahao.baidu.com/s?id=1861855033203367752&wfr=spider&for=pc",
+      "source": "环球网",
+      "time": "4月8日",
+      "category": "voice"
+    },
+    {
+      "title": "张辛欣:中国非虚构写作写法太单一,还美其名曰比照《纽约客》",
+      "url": "https://m.jiemian.com/article/795624.html",
+      "source": "界面新闻",
+      "time": "",
+      "category": "voice"
+    },
+    {
+      "title": "贾樟柯、梁鸿谈非虚构写作和纪录电影",
+      "url": "http://baijiahao.baidu.com/s?id=1717824461237591660&wfr=spider&for=pc",
+      "source": "澎湃新闻客户端",
+      "time": "",
+      "category": "voice"
+    },
+    {
+      "title": "拔出萝卜带出泥?莫言没想到,贾浅浅翻车后,女儿管笑笑也被牵连",
+      "url": "https://yule.sohu.com/a/1051442675_122747234",
+      "source": "搜狐娱乐",
+      "time": "7月17日",
+      "category": "other"
+    },
+    {
+      "title": "贾浅浅从“屎尿体”诗歌争议,到论文涉嫌抄袭被举报,你怎么看?",
+      "url": "https://cul.sohu.com/a/1009038215_100215423",
+      "source": "搜狐网",
+      "time": "4月13日",
+      "category": "voice"
+    },
+    {
+      "title": "郝景芳AI创作争议,本质是知情权引发的信任危机|实习生选拔赛",
+      "url": "https://baijiahao.baidu.com/s?id=1868409944552798209&wfr=spider&for=pc",
+      "source": "新京报评论",
+      "time": "6月19日",
+      "category": "voice"
+    },
+    {
+      "title": "诺贝尔文学奖得主托尔卡丘克“AI写作”言论引争议",
+      "url": "https://baijiahao.baidu.com/s?id=1866154520298998977&wfr=spider&for=pc",
+      "source": "济南时报",
+      "time": "5月25日",
+      "category": "voice"
+    },
+    {
+      "title": "中国文学",
+      "url": "https://www.thepaper.cn/tag/272445",
+      "source": "澎湃新闻",
+      "time": "",
+      "category": "other"
+    },
+    {
+      "title": "活动·资讯|上海文学影视戏剧创投沙龙集中推介19部跨媒介潜力佳作",
+      "url": "https://cul.sohu.com/a/1076805484_121119368",
+      "source": "搜狐网",
+      "time": "9月16日",
+      "category": "other"
+    },
+    {
+      "title": "上海文学IP破圈成绩斐然 创投沙龙推介19部跨媒介潜力佳作",
+      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1177646&sid=300",
+      "source": "上观",
+      "time": "9月15日",
+      "category": "other"
+    },
+    {
+      "title": "解读“传统”,重温茅盾文学奖设立初衷|纪念茅盾130周年诞辰",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32560543",
+      "source": "澎湃新闻",
+      "time": "2月11日",
+      "category": "other"
+    },
+    {
+      "title": "对话中国作家协会副主席、茅盾文学奖得主张炜:儿童文学是“更大...",
+      "url": "https://baijiahao.baidu.com/s?id=1869014615582323233&wfr=spider&for=pc",
+      "source": "潮新闻客户端",
+      "time": "6月26日",
+      "category": "other"
+    },
+    {
+      "title": "人民文学出版社致歉“《经典常谈》存在编校质量问题”:已启动修订...",
+      "url": "https://baijiahao.baidu.com/s?id=1853646130152297071&wfr=spider&for=pc",
+      "source": "北京商报",
+      "time": "1月7日",
+      "category": "activity"
+    },
+    {
+      "title": "人民文学出版社就《经典常谈》被指存在编校质量问题致歉",
+      "url": "https://baijiahao.baidu.com/s?id=1853648459518141682&wfr=spider&for=pc",
+      "source": "正观新闻",
+      "time": "1月7日",
+      "category": "activity"
+    },
+    {
+      "title": "《人民文学》“人民阅卷”活动在赣州举行",
+      "url": "https://www.jx.chinanews.com.cn/news/2026/0127/124244.html",
+      "source": "中国新闻网",
+      "time": "1月27日",
+      "category": "other"
+    },
+    {
+      "title": "经典与新大众文艺共舞:文学出版国家队的数字时代答卷",
+      "url": "https://www.chinatoday.com.cn/zw2018/ly_4982/202604/t20260423_800435901.html",
+      "source": "今日中国",
+      "time": "4月23日",
+      "category": "activity"
+    },
+    {
+      "title": "《人民文学》葡文版首刊正式发行",
+      "url": "http://hm.people.com.cn/n1/2026/0210/c42272-40663233.html",
+      "source": "人民网",
+      "time": "2月10日",
+      "category": "other"
+    },
+    {
+      "title": "澳门文总助力《人民文学》葡文版首刊发行",
+      "url": "https://baijiahao.baidu.com/s?id=1856709252075079119&wfr=spider&for=pc",
+      "source": "中国新闻网",
+      "time": "2月10日",
+      "category": "other"
+    },
+    {
+      "title": "大咖来了!茅盾文学奖得主、《人民文学》主编徐则臣“镜湖夜话”开讲",
+      "url": "https://baijiahao.baidu.com/s?id=1864974778412194118&wfr=spider&for=pc",
+      "source": "扬子晚报",
+      "time": "5月12日",
+      "category": "other"
+    },
+    {
+      "title": "《十月》杂志举办青年作家创作分享会",
+      "url": "https://baijiahao.baidu.com/s?id=1860050202536776799&wfr=spider&for=pc",
+      "source": "人民网",
+      "time": "3月19日",
+      "category": "other"
+    },
+    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
@@ -35,6 +175,13 @@ window.LIT_DATA = {
       "source": "央广网",
       "time": "1月14日",
       "category": "activity"
+    },
+    {
+      "title": "青年作家徐鹏新作《未央·蜀道残阳》在永川发布",
+      "url": "https://baijiahao.baidu.com/s?id=1863771851573387062&wfr=spider&for=pc",
+      "source": "金台资讯",
+      "time": "4月29日",
+      "category": "other"
     },
     {
       "title": "青年作家徐鹏新作《未央·蜀道残阳》在重庆永川发布",
