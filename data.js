@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-10-04 20:55",
+  "update_time": "2026-10-05 01:10",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -20,13 +20,6 @@ window.LIT_DATA = {
       "url": "https://scholar.baidu.com/scholar?q=当代文学&sc_ylo=2024&sort=sc_time",
       "source": "CNKI",
       "time": "实时",
-      "category": "meeting"
-    },
-    {
-      "title": "在流量时代,文学批评如何“抵达”人心?",
-      "url": "https://baijiahao.baidu.com/s?id=1865876878495342673&wfr=spider&for=pc",
-      "source": "济南时报",
-      "time": "5月22日",
       "category": "meeting"
     },
     {
