@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-10-04 14:30",
+  "update_time": "2026-10-04 20:55",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -20,6 +20,13 @@ window.LIT_DATA = {
       "url": "https://scholar.baidu.com/scholar?q=当代文学&sc_ylo=2024&sort=sc_time",
       "source": "CNKI",
       "time": "实时",
+      "category": "meeting"
+    },
+    {
+      "title": "在流量时代,文学批评如何“抵达”人心?",
+      "url": "https://baijiahao.baidu.com/s?id=1865876878495342673&wfr=spider&for=pc",
+      "source": "济南时报",
+      "time": "5月22日",
       "category": "meeting"
     },
     {
@@ -111,6 +118,13 @@ window.LIT_DATA = {
       "url": "https://www.chinanews.com.cn/cul/2026/06-21/10644583.shtml",
       "source": "中国新闻网",
       "time": "6月21日",
+      "category": "activity"
+    },
+    {
+      "title": "熔铸古典意趣与当代经验,艾伟长篇小说《春歌》在北京首发",
+      "url": "https://baijiahao.baidu.com/s?id=1871236791034115960&wfr=spider&for=pc",
+      "source": "钱江晚报",
+      "time": "7月20日",
       "category": "activity"
     },
     {
