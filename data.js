@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-10-05 17:43",
+  "update_time": "2026-10-06 02:55",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -30,25 +30,11 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "《飓风回家了》新书发布无障碍版本启动",
-      "url": "https://cul.sohu.com/a/976864292_120578424",
-      "source": "搜狐网",
-      "time": "1月16日",
+      "title": "山乡巨变中的文学守望:《太阳照在滹沱河上》新书发布会在正定塔元...",
+      "url": "https://baijiahao.baidu.com/s?id=1863822847994328712&wfr=spider&for=pc",
+      "source": "河北青年报",
+      "time": "4月30日",
       "category": "activity"
-    },
-    {
-      "title": "《自愈者》新书在京发布作家老藤探讨AI时代的心灵救赎之路",
-      "url": "https://baijiahao.baidu.com/s?id=1854293051586245393&wfr=spider&for=pc",
-      "source": "央广网",
-      "time": "1月14日",
-      "category": "activity"
-    },
-    {
-      "title": "青年作家徐鹏新作《未央·蜀道残阳》在永川发布",
-      "url": "https://baijiahao.baidu.com/s?id=1863771851573387062&wfr=spider&for=pc",
-      "source": "金台资讯",
-      "time": "4月29日",
-      "category": "other"
     },
     {
       "title": "《所有的心碎与欢娱》新书发布研讨会在上海举办",
@@ -58,9 +44,30 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
+      "title": "《平居日札》新书发布暨王充闾作品研讨会举办",
+      "url": "https://baijiahao.baidu.com/s?id=1868331656322285113&wfr=spider&for=pc",
+      "source": "人民资讯",
+      "time": "6月18日",
+      "category": "activity"
+    },
+    {
+      "title": "书香润文明,四时品江南!上海书展新书发布会火热报名中",
+      "url": "http://baijiahao.baidu.com/s?id=1872507201548064191&wfr=spider&for=pc",
+      "source": "上观新闻",
+      "time": "8月3日",
+      "category": "activity"
+    },
+    {
       "title": "青年作家徐鹏新作《未央·蜀道残阳》在重庆永川发布",
       "url": "http://www.cq.xinhuanet.com/20260429/47022f852e3d4ac5a7f184dfcf56d340/c.html",
       "source": "新华网重庆频道",
+      "time": "4月29日",
+      "category": "other"
+    },
+    {
+      "title": "青年作家徐鹏新作《未央·蜀道残阳》在永川发布",
+      "url": "https://baijiahao.baidu.com/s?id=1863771851573387062&wfr=spider&for=pc",
+      "source": "金台资讯",
       "time": "4月29日",
       "category": "other"
     },
