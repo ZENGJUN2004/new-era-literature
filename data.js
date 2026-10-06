@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-10-06 14:58",
+  "update_time": "2026-10-06 21:51",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -104,6 +104,20 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1862171110712203201&wfr=spider&for=pc",
       "source": "潇湘晨报",
       "time": "4月11日",
+      "category": "activity"
+    },
+    {
+      "title": "文耀岛城、薪火相传!首届刘知侠长篇小说奖颁奖,《青岛市中青年...",
+      "url": "https://baijiahao.baidu.com/s?id=1865698674387227669&wfr=spider&for=pc",
+      "source": "大众日报",
+      "time": "5月20日",
+      "category": "activity"
+    },
+    {
+      "title": "首届“刘知侠长篇小说奖”颁奖典礼暨《青岛市中青年作家文库...",
+      "url": "https://baijiahao.baidu.com/s?id=1865704053349245673&wfr=spider&for=pc",
+      "source": "半岛都市报",
+      "time": "5月20日",
       "category": "activity"
     },
     {
