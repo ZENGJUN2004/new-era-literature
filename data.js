@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-10-07 17:46",
+  "update_time": "2026-10-08 01:04",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -25,14 +25,14 @@ window.LIT_DATA = {
     {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
-      "source": "澎湃新闻客户端",
+      "source": "百家号",
       "time": "",
       "category": "activity"
     },
     {
       "title": "山乡巨变中的文学守望:《太阳照在滹沱河上》新书发布会在正定塔元...",
       "url": "https://baijiahao.baidu.com/s?id=1863822847994328712&wfr=spider&for=pc",
-      "source": "河北青年报",
+      "source": "百家号",
       "time": "4月30日",
       "category": "activity"
     },
@@ -46,14 +46,14 @@ window.LIT_DATA = {
     {
       "title": "《平居日札》新书发布暨王充闾作品研讨会举办",
       "url": "https://baijiahao.baidu.com/s?id=1868331656322285113&wfr=spider&for=pc",
-      "source": "人民资讯",
+      "source": "百家号",
       "time": "6月18日",
       "category": "activity"
     },
     {
       "title": "书香润文明,四时品江南!上海书展新书发布会火热报名中",
       "url": "http://baijiahao.baidu.com/s?id=1872507201548064191&wfr=spider&for=pc",
-      "source": "上观新闻",
+      "source": "百家号",
       "time": "8月3日",
       "category": "activity"
     },
@@ -67,56 +67,56 @@ window.LIT_DATA = {
     {
       "title": "青年作家徐鹏新作《未央·蜀道残阳》在永川发布",
       "url": "https://baijiahao.baidu.com/s?id=1863771851573387062&wfr=spider&for=pc",
-      "source": "金台资讯",
+      "source": "百家号",
       "time": "4月29日",
       "category": "other"
     },
     {
       "title": "第四届接力杯曹文轩儿童小说奖新书发布暨作家对谈在杭举行",
       "url": "https://baijiahao.baidu.com/s?id=1871683673744035341&wfr=spider&for=pc",
-      "source": "潮新闻客户端",
+      "source": "百家号",
       "time": "7月25日",
       "category": "activity"
     },
     {
       "title": "作家邱华栋《敦煌变》新书发布会纪实",
       "url": "https://baijiahao.baidu.com/s?id=1863401191001013265&wfr=spider&for=pc",
-      "source": "青瞳视角",
+      "source": "百家号",
       "time": "4月25日",
       "category": "activity"
     },
     {
       "title": "第四届接力杯曹文轩儿童小说奖新书发布暨作家对谈在全国书博会举行",
       "url": "https://baijiahao.baidu.com/s?id=1871655928518036912&wfr=spider&for=pc",
-      "source": "钱江晚报",
+      "source": "百家号",
       "time": "7月25日",
       "category": "activity"
     },
     {
       "title": "老藤长篇小说《自愈者》在京首发在“AI迷宫”中寻找心灵坐标",
       "url": "https://baijiahao.baidu.com/s?id=1853940665722016960&wfr=spider&for=pc",
-      "source": "红网",
+      "source": "百家号",
       "time": "1月10日",
       "category": "activity"
     },
     {
       "title": "把家乡长辈抗战故事写成书,长篇小说《长城1933》长沙首发",
       "url": "https://baijiahao.baidu.com/s?id=1862171110712203201&wfr=spider&for=pc",
-      "source": "潇湘晨报",
+      "source": "百家号",
       "time": "4月11日",
       "category": "activity"
     },
     {
       "title": "文耀岛城、薪火相传!首届刘知侠长篇小说奖颁奖,《青岛市中青年...",
       "url": "https://baijiahao.baidu.com/s?id=1865698674387227669&wfr=spider&for=pc",
-      "source": "大众日报",
+      "source": "百家号",
       "time": "5月20日",
       "category": "activity"
     },
     {
       "title": "首届“刘知侠长篇小说奖”颁奖典礼暨《青岛市中青年作家文库...",
       "url": "https://baijiahao.baidu.com/s?id=1865704053349245673&wfr=spider&for=pc",
-      "source": "半岛都市报",
+      "source": "百家号",
       "time": "5月20日",
       "category": "activity"
     },
@@ -130,14 +130,14 @@ window.LIT_DATA = {
     {
       "title": "熔铸古典意趣与当代经验,艾伟长篇小说《春歌》在北京首发",
       "url": "https://baijiahao.baidu.com/s?id=1871236791034115960&wfr=spider&for=pc",
-      "source": "钱江晚报",
+      "source": "百家号",
       "time": "7月20日",
       "category": "activity"
     },
     {
       "title": "聚焦普通人蜕变成长长篇小说《不虚此生》首发",
       "url": "https://baijiahao.baidu.com/s?id=1868337403425152313&wfr=spider&for=pc",
-      "source": "中国新闻网",
+      "source": "百家号",
       "time": "6月18日",
       "category": "activity"
     },
