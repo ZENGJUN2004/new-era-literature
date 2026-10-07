@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-10-08 01:04",
+  "update_time": "2026-10-08 06:22",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,6 +23,13 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
+      "title": "《十月》杂志举办青年作家创作分享会",
+      "url": "https://paper.people.com.cn/rmrbhwb/pc/content/202603/19/content_30146007.html",
+      "source": "人民网",
+      "time": "3月19日",
+      "category": "other"
+    },
+    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "百家号",
@@ -30,11 +37,18 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
-      "title": "山乡巨变中的文学守望:《太阳照在滹沱河上》新书发布会在正定塔元...",
-      "url": "https://baijiahao.baidu.com/s?id=1863822847994328712&wfr=spider&for=pc",
+      "title": "书香喀什・新书发布暨现场签售活动举行",
+      "url": "http://baijiahao.baidu.com/s?id=1863459232450526300&wfr=spider&for=pc",
       "source": "百家号",
-      "time": "4月30日",
+      "time": "4月25日",
       "category": "activity"
+    },
+    {
+      "title": "青年作家徐鹏新作《未央·蜀道残阳》在永川发布",
+      "url": "https://baijiahao.baidu.com/s?id=1863771851573387062&wfr=spider&for=pc",
+      "source": "百家号",
+      "time": "4月29日",
+      "category": "other"
     },
     {
       "title": "《所有的心碎与欢娱》新书发布研讨会在上海举办",
@@ -61,13 +75,6 @@ window.LIT_DATA = {
       "title": "青年作家徐鹏新作《未央·蜀道残阳》在重庆永川发布",
       "url": "http://www.cq.xinhuanet.com/20260429/47022f852e3d4ac5a7f184dfcf56d340/c.html",
       "source": "新华网重庆频道",
-      "time": "4月29日",
-      "category": "other"
-    },
-    {
-      "title": "青年作家徐鹏新作《未央·蜀道残阳》在永川发布",
-      "url": "https://baijiahao.baidu.com/s?id=1863771851573387062&wfr=spider&for=pc",
-      "source": "百家号",
       "time": "4月29日",
       "category": "other"
     },
