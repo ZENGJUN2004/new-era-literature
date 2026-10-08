@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-10-08 06:22",
+  "update_time": "2026-10-08 10:21",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,202 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "中国科幻产业走向“生态出海”",
+      "url": "https://baijiahao.baidu.com/s?id=1861855033203367752&wfr=spider&for=pc",
+      "source": "百家号",
+      "time": "4月8日",
+      "category": "voice"
+    },
+    {
+      "title": "张辛欣:中国非虚构写作写法太单一,还美其名曰比照《纽约客》",
+      "url": "https://m.jiemian.com/article/795624.html",
+      "source": "界面新闻",
+      "time": "",
+      "category": "voice"
+    },
+    {
+      "title": "贾樟柯、梁鸿谈非虚构写作和纪录电影",
+      "url": "http://baijiahao.baidu.com/s?id=1717824461237591660&wfr=spider&for=pc",
+      "source": "百家号",
+      "time": "",
+      "category": "voice"
+    },
+    {
+      "title": "郝景芳AI创作争议,本质是知情权引发的信任危机|实习生选拔赛",
+      "url": "https://baijiahao.baidu.com/s?id=1868409944552798209&wfr=spider&for=pc",
+      "source": "百家号",
+      "time": "6月19日",
+      "category": "voice"
+    },
+    {
+      "title": "诺贝尔文学奖得主托尔卡丘克“AI写作”言论引争议",
+      "url": "https://baijiahao.baidu.com/s?id=1866154520298998977&wfr=spider&for=pc",
+      "source": "百家号",
+      "time": "5月25日",
+      "category": "voice"
+    },
+    {
+      "title": "“萧红和她的文学世界”主题研讨会在京举行,探讨萧红文学当代性",
+      "url": "https://www.bjnews.com.cn/detail/1786698101169410.html",
+      "source": "新京报网",
+      "time": "8月14日",
+      "category": "meeting"
+    },
+    {
+      "title": "上海文学IP破圈成绩斐然 创投沙龙推介19部跨媒介潜力佳作",
+      "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1177646&sid=300",
+      "source": "上观",
+      "time": "9月15日",
+      "category": "other"
+    },
+    {
+      "title": "《文学遗产》先唐文学研究高峰论坛在西北师范大学召开",
+      "url": "https://www.gscn.com.cn/province/system/2026/09/17/013557683.shtml",
+      "source": "中国甘肃网",
+      "time": "9月17日",
+      "category": "meeting"
+    },
+    {
+      "title": "一个西班牙记者眼中的中国文学(四海友声)",
+      "url": "https://world.people.com.cn/n1/2026/0918/c1002-40800803.html",
+      "source": "人民网",
+      "time": "9月18日",
+      "category": "other"
+    },
+    {
+      "title": "文学_澎湃新闻-The Paper",
+      "url": "https://m.thepaper.cn/tag/32403",
+      "source": "澎湃新闻",
+      "time": "",
+      "category": "other"
+    },
+    {
+      "title": "鲁迅文学奖揭晓,凡人微光“能见度”走高",
+      "url": "https://baijiahao.baidu.com/s?id=1870840207807363695&wfr=spider&for=pc",
+      "source": "百家号",
+      "time": "7月16日",
+      "category": "other"
+    },
+    {
+      "title": "鲁迅文学奖释放新信号:凡人微光“能见度”走高",
+      "url": "https://baijiahao.baidu.com/s?id=1870865425762582954&wfr=spider&for=pc",
+      "source": "百家号",
+      "time": "7月16日",
+      "category": "other"
+    },
+    {
+      "title": "对话鲁迅文学奖新晋得主罗伟章:写作是日常河流,获奖是一道瀑布",
+      "url": "https://baijiahao.baidu.com/s?id=1870875787357313691&wfr=spider&for=pc",
+      "source": "百家号",
+      "time": "7月16日",
+      "category": "other"
+    },
+    {
+      "title": "专访鲁迅文学奖得主——四川作家罗伟章:读能让人“生长”的书,写...",
+      "url": "https://baijiahao.baidu.com/s?id=1870903976593208402&wfr=spider&for=pc",
+      "source": "百家号",
+      "time": "7月16日",
+      "category": "other"
+    },
+    {
+      "title": "第九届鲁迅文学奖揭晓",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33592272",
+      "source": "澎湃新闻",
+      "time": "7月17日",
+      "category": "other"
+    },
+    {
+      "title": "来朵云书院",
+      "url": "https://baijiahao.baidu.com/s?id=1874567660177169007&wfr=spider&for=pc",
+      "source": "百家号",
+      "time": "8月26日",
+      "category": "other"
+    },
+    {
+      "title": "35道炬火,汇聚辽阔新声|“2026中国文学盛典·鲁迅文学奖之夜”举行",
+      "url": "https://baijiahao.baidu.com/s?id=1874776838281015581&wfr=spider&for=pc",
+      "source": "百家号",
+      "time": "8月28日",
+      "category": "other"
+    },
+    {
+      "title": "“鲁迅文学奖之夜”在上海“盛放” 让文学抵达读者 以文学回答...",
+      "url": "https://www.shanghai.gov.cn/nw4411/20260829/980ab4857ecd48af9c9060f6e61670f3.html",
+      "source": "上海市人民政府",
+      "time": "8月29日",
+      "category": "other"
+    },
+    {
+      "title": "文心映山河 笔墨润人间",
+      "url": "https://baijiahao.baidu.com/s?id=1875272936385940185&wfr=spider&for=pc",
+      "source": "百家号",
+      "time": "9月3日",
+      "category": "other"
+    },
+    {
+      "title": "解读“传统”,重温茅盾文学奖设立初衷|纪念茅盾130周年诞辰",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32560543",
+      "source": "澎湃新闻",
+      "time": "2月11日",
+      "category": "other"
+    },
+    {
+      "title": "对话中国作家协会副主席、茅盾文学奖得主张炜:儿童文学是“更大...",
+      "url": "https://baijiahao.baidu.com/s?id=1869014615582323233&wfr=spider&for=pc",
+      "source": "百家号",
+      "time": "6月26日",
+      "category": "other"
+    },
+    {
+      "title": "人民文学出版社致歉“《经典常谈》存在编校质量问题”:已启动修订...",
+      "url": "https://baijiahao.baidu.com/s?id=1853646130152297071&wfr=spider&for=pc",
+      "source": "百家号",
+      "time": "1月7日",
+      "category": "activity"
+    },
+    {
+      "title": "人民文学出版社就《经典常谈》被指存在编校质量问题致歉",
+      "url": "https://baijiahao.baidu.com/s?id=1853648459518141682&wfr=spider&for=pc",
+      "source": "百家号",
+      "time": "1月7日",
+      "category": "activity"
+    },
+    {
+      "title": "《人民文学》“人民阅卷”活动在赣州举行",
+      "url": "https://www.jx.chinanews.com.cn/news/2026/0127/124244.html",
+      "source": "中国新闻网",
+      "time": "1月27日",
+      "category": "other"
+    },
+    {
+      "title": "经典与新大众文艺共舞:文学出版国家队的数字时代答卷",
+      "url": "https://www.chinatoday.com.cn/zw2018/ly_4982/202604/t20260423_800435901.html",
+      "source": "今日中国",
+      "time": "4月23日",
+      "category": "activity"
+    },
+    {
+      "title": "《人民文学》葡文版首刊正式发行",
+      "url": "http://hm.people.com.cn/n1/2026/0210/c42272-40663233.html",
+      "source": "人民网",
+      "time": "2月10日",
+      "category": "other"
+    },
+    {
+      "title": "澳门文总助力《人民文学》葡文版首刊发行",
+      "url": "https://baijiahao.baidu.com/s?id=1856709252075079119&wfr=spider&for=pc",
+      "source": "百家号",
+      "time": "2月10日",
+      "category": "other"
+    },
+    {
+      "title": "大咖来了!茅盾文学奖得主、《人民文学》主编徐则臣“镜湖夜话”开讲",
+      "url": "https://baijiahao.baidu.com/s?id=1864974778412194118&wfr=spider&for=pc",
+      "source": "百家号",
+      "time": "5月12日",
+      "category": "other"
     },
     {
       "title": "《十月》杂志举办青年作家创作分享会",
