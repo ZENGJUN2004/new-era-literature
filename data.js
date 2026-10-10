@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-10-10 05:23",
+  "update_time": "2026-10-10 09:22",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -30,6 +30,13 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
+      "title": "《自愈者》新书在京发布作家老藤探讨AI时代的心灵救赎之路",
+      "url": "https://baijiahao.baidu.com/s?id=1854293051586245393&wfr=spider&for=pc",
+      "source": "央广网",
+      "time": "1月14日",
+      "category": "activity"
+    },
+    {
       "title": "书香喀什・新书发布暨现场签售活动举行",
       "url": "http://baijiahao.baidu.com/s?id=1863459232450526300&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
@@ -48,13 +55,6 @@ window.LIT_DATA = {
       "url": "https://cul.sohu.com/a/1025655999_121119385",
       "source": "搜狐网",
       "time": "5月21日",
-      "category": "activity"
-    },
-    {
-      "title": "《平居日札》新书发布暨王充闾作品研讨会举办",
-      "url": "https://baijiahao.baidu.com/s?id=1868331656322285113&wfr=spider&for=pc",
-      "source": "人民资讯",
-      "time": "6月18日",
       "category": "activity"
     },
     {
