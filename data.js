@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-10-10 22:02",
+  "update_time": "2026-10-11 03:01",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -107,17 +107,17 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
+      "title": "文耀岛城、薪火相传!首届刘知侠长篇小说奖颁奖,《青岛市中青年...",
+      "url": "https://qiye.chinadaily.com.cn/a/202605/21/WS6a0eca86a310942cc49ad933.html",
+      "source": "中国日报网",
+      "time": "5月21日",
+      "category": "activity"
+    },
+    {
       "title": "首届“刘知侠长篇小说奖”颁奖典礼暨《青岛市中青年作家文库...",
       "url": "https://baijiahao.baidu.com/s?id=1865704053349245673&wfr=spider&for=pc",
       "source": "半岛都市报",
       "time": "5月20日",
-      "category": "activity"
-    },
-    {
-      "title": "长篇小说《呼吸》新书首发暨版权输出签约仪式举行",
-      "url": "https://www.chinanews.com.cn/cul/2026/06-21/10644583.shtml",
-      "source": "中国新闻网",
-      "time": "6月21日",
       "category": "activity"
     },
     {
