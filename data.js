@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-10-12 07:19",
+  "update_time": "2026-10-12 10:57",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,6 +23,258 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
+      "title": "中国科幻产业走向“生态出海”",
+      "url": "https://baijiahao.baidu.com/s?id=1861855033203367752&wfr=spider&for=pc",
+      "source": "环球网",
+      "time": "4月8日",
+      "category": "voice"
+    },
+    {
+      "title": "张辛欣:中国非虚构写作写法太单一,还美其名曰比照《纽约客》",
+      "url": "https://m.jiemian.com/article/795624.html",
+      "source": "界面新闻",
+      "time": "",
+      "category": "voice"
+    },
+    {
+      "title": "贾樟柯、梁鸿谈非虚构写作和纪录电影",
+      "url": "http://baijiahao.baidu.com/s?id=1717824461237591660&wfr=spider&for=pc",
+      "source": "澎湃新闻客户端",
+      "time": "",
+      "category": "voice"
+    },
+    {
+      "title": "媒体:贾浅浅不应再沉默 文坛特权与学术伦理争议",
+      "url": "https://news.china.com/socialgd/10000169/20260405/49388404.html",
+      "source": "中华网·新闻",
+      "time": "4月5日",
+      "category": "voice"
+    },
+    {
+      "title": "郝景芳AI创作争议,本质是知情权引发的信任危机|实习生选拔赛",
+      "url": "https://baijiahao.baidu.com/s?id=1868409944552798209&wfr=spider&for=pc",
+      "source": "新京报评论",
+      "time": "6月19日",
+      "category": "voice"
+    },
+    {
+      "title": "【思想界】彼得·汉德克获诺奖惹争议:文学性能够用政治和道德衡量...",
+      "url": "https://m.jiemian.com/article/3573232.html",
+      "source": "界面新闻",
+      "time": "",
+      "category": "voice"
+    },
+    {
+      "title": "诺贝尔文学奖得主托尔卡丘克“AI写作”言论引争议",
+      "url": "https://baijiahao.baidu.com/s?id=1866154520298998977&wfr=spider&for=pc",
+      "source": "济南时报",
+      "time": "5月25日",
+      "category": "voice"
+    },
+    {
+      "title": "获奖小说疑似AI代笔?文学界的AI写作争议愈演愈烈",
+      "url": "https://www.bjnews.com.cn/detail/1779845085169910.html",
+      "source": "新京报网",
+      "time": "5月27日",
+      "category": "activity"
+    },
+    {
+      "title": "摒弃套路营销 回归阅读本真:浮夸腰封渐散 口碑才是流量底色",
+      "url": "https://baijiahao.baidu.com/s?id=1868811342902605379&wfr=spider&for=pc",
+      "source": "千龙网",
+      "time": "6月24日",
+      "category": "other"
+    },
+    {
+      "title": "八十岁的笔会,为何屡屡受高考命题青睐?",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33552917",
+      "source": "澎湃新闻",
+      "time": "7月13日",
+      "category": "other"
+    },
+    {
+      "title": "2026上海国际文学周今晚开启,中外作家畅谈“代际与新生”",
+      "url": "https://baijiahao.baidu.com/s?id=1873232252268932084&wfr=spider&for=pc",
+      "source": "澎湃新闻",
+      "time": "8月11日",
+      "category": "other"
+    },
+    {
+      "title": "“萧红和她的文学世界”主题研讨会在京举行,探讨萧红文学当代性",
+      "url": "https://www.bjnews.com.cn/detail/1786698101169410.html",
+      "source": "新京报网",
+      "time": "8月14日",
+      "category": "meeting"
+    },
+    {
+      "title": "文学为何能穿越时间,让不同世代的读者发生连接 | 上海国际文学周...",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33779145",
+      "source": "澎湃新闻",
+      "time": "8月15日",
+      "category": "other"
+    },
+    {
+      "title": "中国文学",
+      "url": "https://www.thepaper.cn/tag/272445",
+      "source": "澎湃新闻",
+      "time": "",
+      "category": "other"
+    },
+    {
+      "title": "文学_澎湃新闻-The Paper",
+      "url": "https://m.thepaper.cn/tag/32403",
+      "source": "澎湃新闻",
+      "time": "",
+      "category": "other"
+    },
+    {
+      "title": "专访鲁迅文学奖得主——四川作家罗伟章:读能让人“生长”的书,写...",
+      "url": "https://baijiahao.baidu.com/s?id=1870903976593208402&wfr=spider&for=pc",
+      "source": "四川发布",
+      "time": "7月16日",
+      "category": "other"
+    },
+    {
+      "title": "第九届鲁迅文学奖揭晓",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33592272",
+      "source": "澎湃新闻",
+      "time": "7月17日",
+      "category": "other"
+    },
+    {
+      "title": "来朵云书院",
+      "url": "https://baijiahao.baidu.com/s?id=1874567660177169007&wfr=spider&for=pc",
+      "source": "新浪财经",
+      "time": "8月26日",
+      "category": "other"
+    },
+    {
+      "title": "35道炬火,汇聚辽阔新声|“2026中国文学盛典·鲁迅文学奖之夜”举行",
+      "url": "https://baijiahao.baidu.com/s?id=1874776838281015581&wfr=spider&for=pc",
+      "source": "文汇报",
+      "time": "8月28日",
+      "category": "other"
+    },
+    {
+      "title": "35部鲁迅文学奖获奖作品,见证2026中国文学盛典",
+      "url": "https://baijiahao.baidu.com/s?id=1874775764269000253&wfr=spider&for=pc",
+      "source": "青瞳视角",
+      "time": "8月28日",
+      "category": "other"
+    },
+    {
+      "title": "“鲁迅文学奖之夜”在上海“盛放” 让文学抵达读者 以文学回答...",
+      "url": "https://www.shanghai.gov.cn/nw4411/20260829/980ab4857ecd48af9c9060f6e61670f3.html",
+      "source": "上海市人民政府",
+      "time": "8月29日",
+      "category": "other"
+    },
+    {
+      "title": "“2026中国文学盛典·鲁迅文学奖之夜”在沪举行,35部获奖作品呈现...",
+      "url": "https://baijiahao.baidu.com/s?id=1874944629034660843&wfr=spider&for=pc",
+      "source": "青瞳视角",
+      "time": "8月30日",
+      "category": "other"
+    },
+    {
+      "title": "35部作品获颁第九届鲁迅文学奖",
+      "url": "https://baijiahao.baidu.com/s?id=1874991567189386702&wfr=spider&for=pc",
+      "source": "青瞳视角",
+      "time": "8月31日",
+      "category": "other"
+    },
+    {
+      "title": "文心映山河 笔墨润人间",
+      "url": "https://baijiahao.baidu.com/s?id=1875272936385940185&wfr=spider&for=pc",
+      "source": "光明网",
+      "time": "9月3日",
+      "category": "other"
+    },
+    {
+      "title": "解读“传统”,重温茅盾文学奖设立初衷|纪念茅盾130周年诞辰",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32560543",
+      "source": "澎湃新闻",
+      "time": "2月11日",
+      "category": "other"
+    },
+    {
+      "title": "对话中国作家协会副主席、茅盾文学奖得主张炜:儿童文学是“更大...",
+      "url": "https://baijiahao.baidu.com/s?id=1869014615582323233&wfr=spider&for=pc",
+      "source": "潮新闻客户端",
+      "time": "6月26日",
+      "category": "other"
+    },
+    {
+      "title": "大咖来了!茅盾文学奖得主、《人民文学》主编徐则臣“镜湖夜话”开讲",
+      "url": "https://baijiahao.baidu.com/s?id=1864974778412194118&wfr=spider&for=pc",
+      "source": "扬子晚报",
+      "time": "5月12日",
+      "category": "other"
+    },
+    {
+      "title": "《人民文学》追回稿酬并批评作者,因小说《秋宵梦觉》300字雷同...",
+      "url": "https://cul.sohu.com/a/1086069097_122066679",
+      "source": "搜狐网",
+      "time": "前天18:48",
+      "category": "activity"
+    },
+    {
+      "title": "《人民文学》致歉:《秋宵梦觉》约300字与井上靖《旅路》雷同,已...",
+      "url": "https://cul.sohu.com/a/1086097305_122387568",
+      "source": "搜狐网",
+      "time": "前天20:20",
+      "category": "other"
+    },
+    {
+      "title": "《人民文学》致歉:《秋宵梦觉》被指与井上靖《旅路》相似,约300字...",
+      "url": "https://cul.sohu.com/a/1086102026_122387568",
+      "source": "搜狐网",
+      "time": "前天21:11",
+      "category": "other"
+    },
+    {
+      "title": "《人民文学》紧急致歉!300字雷同引爆文坛地震,《秋宵梦觉》作者被...",
+      "url": "https://cul.sohu.com/a/1086068764_122066679",
+      "source": "搜狐网",
+      "time": "前天18:39",
+      "category": "other"
+    },
+    {
+      "title": "《人民文学》致歉:追回稿酬,严肃批评作者",
+      "url": "https://news.dayoo.com/society/202610/10/140000_55011518.htm",
+      "source": "大洋网",
+      "time": "前天18:58",
+      "category": "meeting"
+    },
+    {
+      "title": "90后作家小说段落被指与外国作品雷同,《人民文学》:追回稿酬...",
+      "url": "https://baijiahao.baidu.com/s?id=1878647816960085781&wfr=spider&for=pc",
+      "source": "澎湃新闻",
+      "time": "前天15:41",
+      "category": "activity"
+    },
+    {
+      "title": "《人民文学》杂志社致歉",
+      "url": "https://baijiahao.baidu.com/s?id=1878664576605995964&wfr=spider&for=pc",
+      "source": "新京报官微",
+      "time": "前天19:55",
+      "category": "other"
+    },
+    {
+      "title": "麦家、刘亮程、老藤等成为第四届“十月签约作家”",
+      "url": "https://epaper.gmw.cn/zhdsb/html/content/202609/30/content_26899.html",
+      "source": "光明数字报",
+      "time": "9月30日",
+      "category": "other"
+    },
+    {
+      "title": "《十月》杂志举办青年作家创作分享会",
+      "url": "https://paper.people.com.cn/rmrbhwb/pc/content/202603/19/content_30146007.html",
+      "source": "人民网",
+      "time": "3月19日",
+      "category": "other"
+    },
+    {
       "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
@@ -30,17 +282,17 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
+      "title": "《飓风回家了》新书发布无障碍版本启动",
+      "url": "https://cul.sohu.com/a/976864292_120578424",
+      "source": "搜狐网",
+      "time": "1月16日",
+      "category": "activity"
+    },
+    {
       "title": "《自愈者》新书在京发布作家老藤探讨AI时代的心灵救赎之路",
       "url": "https://baijiahao.baidu.com/s?id=1854293051586245393&wfr=spider&for=pc",
       "source": "央广网",
       "time": "1月14日",
-      "category": "activity"
-    },
-    {
-      "title": "书香喀什・新书发布暨现场签售活动举行",
-      "url": "http://baijiahao.baidu.com/s?id=1863459232450526300&wfr=spider&for=pc",
-      "source": "澎湃新闻客户端",
-      "time": "4月25日",
       "category": "activity"
     },
     {
@@ -55,13 +307,6 @@ window.LIT_DATA = {
       "url": "https://cul.sohu.com/a/1025655999_121119385",
       "source": "搜狐网",
       "time": "5月21日",
-      "category": "activity"
-    },
-    {
-      "title": "书香润文明,四时品江南!上海书展新书发布会火热报名中",
-      "url": "http://baijiahao.baidu.com/s?id=1872507201548064191&wfr=spider&for=pc",
-      "source": "上观新闻",
-      "time": "8月3日",
       "category": "activity"
     },
     {
@@ -147,6 +392,13 @@ window.LIT_DATA = {
       "source": "新华网",
       "time": "6月21日",
       "category": "activity"
+    },
+    {
+      "title": "...十月《集邮博览》和《集邮》杂志欣赏 封面均是长征胜利90周年",
+      "url": "https://cul.sohu.com/a/1086249339_121123743",
+      "source": "搜狐网",
+      "time": "昨天09:25",
+      "category": "other"
     }
   ]
 };
