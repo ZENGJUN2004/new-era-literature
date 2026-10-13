@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-10-13 16:38",
+  "update_time": "2026-10-14 00:33",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -27,13 +27,6 @@ window.LIT_DATA = {
       "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
       "source": "澎湃新闻客户端",
       "time": "",
-      "category": "activity"
-    },
-    {
-      "title": "《飓风回家了》新书发布无障碍版本启动",
-      "url": "https://cul.sohu.com/a/976864292_120578424",
-      "source": "搜狐网",
-      "time": "1月16日",
       "category": "activity"
     },
     {
@@ -83,6 +76,13 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1871655928518036912&wfr=spider&for=pc",
       "source": "钱江晚报",
       "time": "7月25日",
+      "category": "activity"
+    },
+    {
+      "title": "上海文艺社新书发布,看看老牌文学杂志和作家带来哪些文学作品",
+      "url": "https://baijiahao.baidu.com/s?id=1878852881784100383&wfr=spider&for=pc",
+      "source": "新闻晨报",
+      "time": "前天22:02",
       "category": "activity"
     },
     {
