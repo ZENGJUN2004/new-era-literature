@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-10-16 14:32",
+  "update_time": "2026-10-16 19:59",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,13 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
+      "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
+      "source": "澎湃新闻客户端",
+      "time": "",
+      "category": "activity"
     },
     {
       "title": "《自愈者》新书在京发布作家老藤探讨AI时代的心灵救赎之路",
@@ -69,6 +76,62 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1871655928518036912&wfr=spider&for=pc",
       "source": "钱江晚报",
       "time": "7月25日",
+      "category": "activity"
+    },
+    {
+      "title": "老藤长篇小说《自愈者》在京首发在“AI迷宫”中寻找心灵坐标",
+      "url": "https://baijiahao.baidu.com/s?id=1853940665722016960&wfr=spider&for=pc",
+      "source": "红网",
+      "time": "1月10日",
+      "category": "activity"
+    },
+    {
+      "title": "把家乡长辈抗战故事写成书,长篇小说《长城1933》长沙首发",
+      "url": "https://baijiahao.baidu.com/s?id=1862171110712203201&wfr=spider&for=pc",
+      "source": "潇湘晨报",
+      "time": "4月11日",
+      "category": "activity"
+    },
+    {
+      "title": "首届“刘知侠长篇小说奖”颁奖典礼暨《青岛市中青年作家文库...",
+      "url": "https://baijiahao.baidu.com/s?id=1865704053349245673&wfr=spider&for=pc",
+      "source": "半岛都市报",
+      "time": "5月20日",
+      "category": "activity"
+    },
+    {
+      "title": "长篇小说《呼吸》新书首发暨版权输出签约仪式举行",
+      "url": "https://www.chinanews.com.cn/cul/2026/06-21/10644583.shtml",
+      "source": "中国新闻网",
+      "time": "6月21日",
+      "category": "activity"
+    },
+    {
+      "title": "熔铸古典意趣与当代经验,艾伟长篇小说《春歌》在北京首发",
+      "url": "https://baijiahao.baidu.com/s?id=1871236791034115960&wfr=spider&for=pc",
+      "source": "钱江晚报",
+      "time": "7月20日",
+      "category": "activity"
+    },
+    {
+      "title": "聚焦普通人蜕变成长长篇小说《不虚此生》首发",
+      "url": "https://baijiahao.baidu.com/s?id=1868337403425152313&wfr=spider&for=pc",
+      "source": "中国新闻网",
+      "time": "6月18日",
+      "category": "activity"
+    },
+    {
+      "title": "长篇小说《不虚此生》在京首发聚焦教育现实与女性精神成长",
+      "url": "http://www.xinhuanet.com/politics/20260619/50825e3ba9534491bf9c2ba5460739b3/c.html",
+      "source": "新华网",
+      "time": "6月19日",
+      "category": "activity"
+    },
+    {
+      "title": "现实主义长篇小说《呼吸》在京首发",
+      "url": "http://www.xinhuanet.com/politics/20260621/796fa78c25d14b0a99a347d38d29689f/c.html",
+      "source": "新华网",
+      "time": "6月21日",
       "category": "activity"
     }
   ]
