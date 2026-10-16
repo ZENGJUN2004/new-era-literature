@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-10-16 19:59",
+  "update_time": "2026-10-17 00:00",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -30,18 +30,18 @@ window.LIT_DATA = {
       "category": "activity"
     },
     {
+      "title": "《飓风回家了》新书发布无障碍版本启动",
+      "url": "https://cul.sohu.com/a/976864292_120578424",
+      "source": "搜狐网",
+      "time": "1月16日",
+      "category": "activity"
+    },
+    {
       "title": "《自愈者》新书在京发布作家老藤探讨AI时代的心灵救赎之路",
       "url": "https://baijiahao.baidu.com/s?id=1854293051586245393&wfr=spider&for=pc",
       "source": "央广网",
       "time": "1月14日",
       "category": "activity"
-    },
-    {
-      "title": "青年作家徐鹏新作《未央·蜀道残阳》在重庆永川发布",
-      "url": "http://www.cq.xinhuanet.com/20260429/47022f852e3d4ac5a7f184dfcf56d340/c.html",
-      "source": "新华网重庆频道",
-      "time": "4月29日",
-      "category": "other"
     },
     {
       "title": "青年作家徐鹏新作《未央·蜀道残阳》在永川发布",
