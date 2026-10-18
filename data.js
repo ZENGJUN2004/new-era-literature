@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-10-18 19:50",
+  "update_time": "2026-10-18 23:00",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -23,14 +23,7 @@ window.LIT_DATA = {
       "category": "meeting"
     },
     {
-      "title": "C刊目录 | CSSCI来源期刊目录(2021-2022)",
-      "url": "http://baijiahao.baidu.com/s?id=1708225667557630537&wfr=spider&for=pc",
-      "source": "澎湃新闻客户端",
-      "time": "",
-      "category": "activity"
-    },
-    {
-      "title": "《自愈者》新书在京发布作家老藤探讨AI时代的心灵救赎之路",
+      "title": "《自愈者》新书在京发布 作家老藤探讨AI时代的心灵救赎之路",
       "url": "https://baijiahao.baidu.com/s?id=1854293051586245393&wfr=spider&for=pc",
       "source": "央广网",
       "time": "1月14日",
