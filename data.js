@@ -1,5 +1,5 @@
 window.LIT_DATA = {
-  "update_time": "2026-10-19 07:55",
+  "update_time": "2026-10-19 10:06",
   "news": [
     {
       "title": "👉【微信深度】搜索“文学批评”公众号最新文章",
@@ -21,6 +21,62 @@ window.LIT_DATA = {
       "source": "CNKI",
       "time": "实时",
       "category": "meeting"
+    },
+    {
+      "title": "中国科幻产业走向“生态出海”",
+      "url": "https://baijiahao.baidu.com/s?id=1861855033203367752&wfr=spider&for=pc",
+      "source": "环球网",
+      "time": "4月8日",
+      "category": "voice"
+    },
+    {
+      "title": "媒体:贾浅浅不应再沉默 文坛特权与学术伦理争议",
+      "url": "https://news.china.com/socialgd/10000169/20260405/49388404.html",
+      "source": "中华网·新闻",
+      "time": "4月5日",
+      "category": "voice"
+    },
+    {
+      "title": "郝景芳AI创作争议,本质是知情权引发的信任危机|实习生选拔赛",
+      "url": "https://baijiahao.baidu.com/s?id=1868409944552798209&wfr=spider&for=pc",
+      "source": "新京报评论",
+      "time": "6月19日",
+      "category": "voice"
+    },
+    {
+      "title": "诺贝尔文学奖得主托尔卡丘克“AI写作”言论引争议",
+      "url": "https://baijiahao.baidu.com/s?id=1866154520298998977&wfr=spider&for=pc",
+      "source": "济南时报",
+      "time": "5月25日",
+      "category": "voice"
+    },
+    {
+      "title": "解读“传统”,重温茅盾文学奖设立初衷|纪念茅盾130周年诞辰",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32560543",
+      "source": "澎湃新闻",
+      "time": "2月11日",
+      "category": "other"
+    },
+    {
+      "title": "对话中国作家协会副主席、茅盾文学奖得主张炜:儿童文学是“更大...",
+      "url": "https://baijiahao.baidu.com/s?id=1869014615582323233&wfr=spider&for=pc",
+      "source": "潮新闻客户端",
+      "time": "6月26日",
+      "category": "other"
+    },
+    {
+      "title": "澳门文总助力《人民文学》葡文版首刊发行",
+      "url": "https://baijiahao.baidu.com/s?id=1856709252075079119&wfr=spider&for=pc",
+      "source": "中国新闻网",
+      "time": "2月10日",
+      "category": "other"
+    },
+    {
+      "title": "大咖来了!茅盾文学奖得主、《人民文学》主编徐则臣“镜湖夜话”开讲",
+      "url": "https://baijiahao.baidu.com/s?id=1864974778412194118&wfr=spider&for=pc",
+      "source": "扬子晚报",
+      "time": "5月12日",
+      "category": "other"
     },
     {
       "title": "青年作家徐鹏新作《未央·蜀道残阳》在永川发布",
@@ -62,62 +118,6 @@ window.LIT_DATA = {
       "url": "https://baijiahao.baidu.com/s?id=1871655928518036912&wfr=spider&for=pc",
       "source": "钱江晚报",
       "time": "7月25日",
-      "category": "activity"
-    },
-    {
-      "title": "老藤长篇小说《自愈者》在京首发在“AI迷宫”中寻找心灵坐标",
-      "url": "https://baijiahao.baidu.com/s?id=1853940665722016960&wfr=spider&for=pc",
-      "source": "红网",
-      "time": "1月10日",
-      "category": "activity"
-    },
-    {
-      "title": "把家乡长辈抗战故事写成书,长篇小说《长城1933》长沙首发",
-      "url": "https://baijiahao.baidu.com/s?id=1862171110712203201&wfr=spider&for=pc",
-      "source": "潇湘晨报",
-      "time": "4月11日",
-      "category": "activity"
-    },
-    {
-      "title": "首届“刘知侠长篇小说奖”颁奖典礼暨《青岛市中青年作家文库...",
-      "url": "https://baijiahao.baidu.com/s?id=1865704053349245673&wfr=spider&for=pc",
-      "source": "半岛都市报",
-      "time": "5月20日",
-      "category": "activity"
-    },
-    {
-      "title": "长篇小说《呼吸》新书首发暨版权输出签约仪式举行",
-      "url": "https://www.chinanews.com.cn/cul/2026/06-21/10644583.shtml",
-      "source": "中国新闻网",
-      "time": "6月21日",
-      "category": "activity"
-    },
-    {
-      "title": "熔铸古典意趣与当代经验,艾伟长篇小说《春歌》在北京首发",
-      "url": "https://baijiahao.baidu.com/s?id=1871236791034115960&wfr=spider&for=pc",
-      "source": "钱江晚报",
-      "time": "7月20日",
-      "category": "activity"
-    },
-    {
-      "title": "聚焦普通人蜕变成长长篇小说《不虚此生》首发",
-      "url": "https://baijiahao.baidu.com/s?id=1868337403425152313&wfr=spider&for=pc",
-      "source": "中国新闻网",
-      "time": "6月18日",
-      "category": "activity"
-    },
-    {
-      "title": "长篇小说《不虚此生》在京首发聚焦教育现实与女性精神成长",
-      "url": "http://www.xinhuanet.com/politics/20260619/50825e3ba9534491bf9c2ba5460739b3/c.html",
-      "source": "新华网",
-      "time": "6月19日",
-      "category": "activity"
-    },
-    {
-      "title": "现实主义长篇小说《呼吸》在京首发",
-      "url": "http://www.xinhuanet.com/politics/20260621/796fa78c25d14b0a99a347d38d29689f/c.html",
-      "source": "新华网",
-      "time": "6月21日",
       "category": "activity"
     }
   ]
